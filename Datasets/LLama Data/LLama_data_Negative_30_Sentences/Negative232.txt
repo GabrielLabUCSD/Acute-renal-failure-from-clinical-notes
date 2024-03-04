@@ -1,0 +1,51 @@
+Patient Summary:
+
+* Patient Name: [Insert name here]
+* Age: [Insert age here]
+* Gender: [Insert gender here]
+* Medical History:
+	+ Hypertension
+	+ Diabetes mellitus
+	+ Hyperlipidemia
+	+ History of smoking
+	+ Obesity (BMI 35)
+	+ Sleep apnea
+	+ History of non-small cell lung cancer (stage II)
+	+ History of chronic obstructive pulmonary disease (COPD)
+	+ History of gastroesophageal reflux disease (GERD)
+	+ History of neuropathic pain
+	+ History of osteoarthritis in both knees
+* Current Medications:
+	+ Lisinopril 40mg daily
+	+ Metformin 1000mg twice daily
+	+ Atorvastatin 20mg daily
+	+ Oxycodone 10mg every 4-6 hours as needed for pain
+	+ Aspirin 81mg daily
+	+ Alprazolam 0.5mg daily
+	+ Gabapentin 300mg three times daily
+	+ Celecoxib 200mg twice daily
+* Allergies:
+	+ Penicillin
+	+ Sulfa drugs
+* Social History:
+	+ Married with two adult children
+	+ Currently working as an accountant
+	+ Living in a two-story house with no wheelchair accessibility
+	+ No history of alcohol or substance abuse
+* Family History:
+	+ Mother died of breast cancer at age 65
+	+ Father died of myocardial infarction at age 70
+	+ One sibling with history of colon cancer
+* Reason for Surgery:
+	+ Elective total knee replacement
+* Postoperative Course:
+	+ Uneventful surgery and anesthesia
+	+ Moved to the surgical floor on postoperative day 1
+	+ Ambulated with assistance on day 1 and 2
+	+ Gradually reduced pain medication over first week
+	+ Discharged home on postoperative day 8 with home health care for wound care and physical therapy
+	+ Follow-up appointment in 2 weeks
+* Complications:
+	+ None
+
+Note: This patient summary is a fictional example and does not represent any real patient.

@@ -1,0 +1,48 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He has been smoking for the past 40 years.
+4. He has a history of coronary artery disease and had a myocardial infarction 10 years ago.
+5. He has been experiencing worsening left knee pain for the past year.
+6. He was diagnosed with severe osteoarthritis of the left knee.
+7. He tried conservative management, including physical therapy and medications, but had limited relief.
+8. He decided to undergo a total knee replacement surgery.
+9. He had a History of chronic kidney disease stage 3.
+10. His baseline creatinine level was 1.5 mg/dL.
+11. His blood urea nitrogen (BUN) level was 25 mg/dL.
+12. He had a GFR of 50 mL/min/1.73m2.
+13. He had a left ventricular ejection fraction of 50%.
+14. He had a history of atrial fibrillation and takes warfarin for stroke prophylaxis.
+15. He has no history of previous abdominal surgeries.
+16. He has a history of chronic obstructive pulmonary disease (COPD) and uses an inhaler as needed.
+17. He has a history of gastroesophageal reflux disease (GERD) and takes lansoprazole daily.
+18. He denies any recent sick contacts or travel.
+19. He has no known allergies.
+20. He is currently taking aspirin, lansoprazole, atorvastatin, metoprolol, and warfarin.
+21. He denies any recent changes in his medications.
+22. He reports compliance with his medications.
+23. He had no issues with anesthesia in the past.
+24. He has a history of nausea and vomiting after anesthesia.
+25. He has no history of bleeding disorders.
+26. His family history is unremarkable.
+27. He has no history of previous surgical complications.
+28. He has a history of anxiety and depression.
+29. He takes sertraline daily for depression.
+30. He denies any suicidal thoughts or feelings.
+
+Complications:
+
+1. Acute renal failure (ARF) developed after surgery.
+2. He had a significant increase in creatinine level and BUN.
+3. His urine output decreased significantly.
+4. He had symptoms of hydration, including nausea and vomiting.
+5. He required fluid and electrolyte management.
+6. He was transferred to the intensive care unit for close monitoring.
+7. His renal function recovered slowly over time.
+8. He required hemodialysis for a brief period.
+9. His creatinine level returned to baseline after 2 weeks.
+10. His GFR improved to 70 mL/min/1.73m2.
+11. He had a uneventful recovery after discharge.
+
+This patient summary provides a comprehensive overview of the patient's medical history, including his chronic conditions, medications, surgical history, and complications. It also highlights his risk factors for acute renal failure, such as chronic kidney disease, hypertension, and advanced age. The summary also describes the patient's symptoms, diagnosis, and treatment plan, including his recovery and follow-up care. This information is essential for healthcare providers to provide appropriate and informed care for the patient.

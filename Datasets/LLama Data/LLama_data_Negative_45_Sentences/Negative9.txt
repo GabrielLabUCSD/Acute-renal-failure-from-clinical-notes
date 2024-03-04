@@ -1,0 +1,75 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications.
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Diabetes mellitus
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Sleep apnea
+* History of non- peque emphysema
+* History of chronic lower back pain
+* History of right knee osteoarthritis
+* History of left shoulder rotator cuff tear
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Herniatorraphy at age 50
+* Right knee arthroscopy at age 60
+* Left shoulder arthroscopy at age 62
+
+Current Medications:
+
+* Lisinopril 20mg daily
+* Metformin 1000mg twice daily
+* Atorvastatin 20mg daily
+* Oxycodone 5mg-325mg every 4-6 hours as needed for pain
+* Aspirin 81mg daily
+* Alprazolam 0.5mg daily
+* Ibuprofen 800mg every 6 hours as needed for pain
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Lab Results:
+
+* WBC: 12,000 cells/mm3
+* Hemoglobin: 14.2 g/dL
+* Platelet Count: 200,000 cells/mm3
+* BUN: 25 mg/dL
+* Creatinine: 1.5 mg/dL
+* glucose: 180 mg/dL
+* Cholesterol: 220 mg/dL
+* Triglycerides: 150 mg/dL
+* INR: 1.2
+
+Vital Signs:
+
+* Blood Pressure: 150/90 mmHg
+* Pulse: 80 beats per minute
+* Respiratory Rate: 16 breaths per minute
+* Temperature: 98.6 degrees Fahrenheit
+* Oxygen Saturation: 95% on room air
+
+Postoperative Course:
+
+* Patient had a successful surgery and was taken to the recovery room in stable condition.
+* Patient experienced some postoperative pain, nausea, and vomiting, which were managed with medication.
+* Patient was monitored closely for any signs of complications and was transferred to the surgical ward after 24 hours.
+* Patient was able to tolerate a regular diet and ambulate without assistance.
+* Patient was discharged from the hospital on postoperative day 3.
+
+Complications:
+
+* None
+
+This patient summary provides a comprehensive overview of the patient's medical history, postoperative course, and potential complications. It highlights the patient's chronic medical conditions, previous surgeries, and current medications, which can help inform the anesthesia plan and postoperative care. Additionally, the absence of acute renal failure as a complication suggests that the patient did not experience any significant kidney damage during the surgery.

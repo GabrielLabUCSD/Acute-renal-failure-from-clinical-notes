@@ -1,0 +1,62 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 55
+Sex: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus (type 2)
+* History of coronary artery disease
+* History of heart failure
+* History of chronic obstructive pulmonary disease (COPD)
+
+Medications:
+
+* Lisinopril 20mg daily
+* Atorvastatin 20mg daily
+* Metformin 1000mg daily
+* Glipizide 10mg daily
+* Aspirin 81mg daily
+* Oxygen therapy as needed
+
+Operative History:
+
+* Cholecystectomy (laparoscopic) 10 years ago
+* Hysterectomy (abdominal) 15 years ago
+
+Current Symptoms:
+
+* Abdominal pain
+* Distension
+* Nausea
+* Vomiting
+
+Planned Surgery:
+
+* Laparoscopic Roux-en-Y gastric bypass
+
+Expected Postoperative Course:
+
+* Patient will be monitored in the intensive care unit (ICU) for the first 24 hours after surgery
+* Patient will have a nasogastric tube and urinary catheter in place
+* Patient will receive IV fluids and pain medication as needed
+* Patient will be encouraged to ambulate and perform deep breathing exercises to prevent respiratory complications
+* Patient will have a drain in place to monitor for any bleeding or leakage
+* Patient will have a follow-up appointment with the surgeon within 7-10 days after surgery
+
+Potential Complications:
+
+* Wound infection
+* Bleeding
+* Leakage
+* Injury to surrounding organs
+* Pulmonary embolism
+* Pneumonia
+* Sepsis
+* Delirium
+
+I hope this summary helps! Please note that this is just a sample and the specifics of the patient's medical history and postoperative course may vary.

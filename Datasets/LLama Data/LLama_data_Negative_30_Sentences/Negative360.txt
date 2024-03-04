@@ -1,0 +1,53 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and bilateral knee pain. He has been diagnosed with degenerative disc disease and osteoarthritis. The patient has tried conservative management, including physical therapy and pain medication, but has not found sufficient relief. He is now considering surgical intervention.
+
+The patient has a history of hypertension and hyperlipidemia, and he is currently taking medication to manage these conditions. He has no known allergies to medications.
+
+The patient has a history of smoking, but he quit 5 years ago. He drinks alcohol occasionally.
+
+The patient has no history of previous surgical procedures.
+
+The patient's family medical history is significant for his mother having a history of breast cancer.
+
+The patient's social history reveals that he works as a construction worker and has a high-risk job.
+
+The patient's review of systems reveals no significant findings other than his back and knee pain.
+
+The patient's physical examination reveals limited mobility in his back and knees, with tenderness to palpation over the affected areas. His neurological examination is normal.
+
+The patient's imaging studies, including X-rays and MRIs, show evidence of degenerative disc disease and osteoarthritis.
+
+The patient's laboratory tests, including complete blood count and electrolyte panel, are within normal limits.
+
+The patient's electrocardiogram (ECG) shows no evidence of cardiac disease.
+
+The patient's respiratory function test shows mild restriction.
+
+The patient's anesthesia assessment reveals that he is a high-risk candidate for surgery due to his medical history and occupation.
+
+The patient's surgical plan includes a total knee replacement and lumbar fusion.
+
+The patient's postoperative course is significant for his development of a wound infection, which was treated with antibiotics.
+
+The patient's pain management plan includes patient-controlled analgesia (PCA) and physical therapy.
+
+The patient's mobilization plan includes early ambulation and range of motion exercises.
+
+The patient's follow-up plan includes regularly scheduled appointments with his surgeon and primary care physician.
+
+Complications:
+
+The patient developed a wound infection, which was treated with antibiotics.
+
+The patient also developed urinary retention, which was managed with a urinary catheter.
+
+The patient experienced some nausea and vomiting postoperatively, which was managed with antiemetics.
+
+The patient had a prolonged ileus, which resolved with conservative management.
+
+The patient had a minor bleeding episode, which was managed with local pressure.
+
+The patient developed a seroma at the surgical site, which resolved with conservative management.
+
+Overall, the patient's postoperative course was complicated, but he made a full recovery and was able to return to work after 6 weeks.

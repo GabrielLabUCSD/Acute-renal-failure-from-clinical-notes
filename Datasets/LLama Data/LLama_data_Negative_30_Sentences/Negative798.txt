@@ -1,0 +1,41 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Chief Complaint: The patient presents with persistent knee pain and swelling for the past year, worsening over the past month.
+
+Medical History: The patient has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus.
+
+Surgical History: The patient has a history of cholecystectomy and hernia repair.
+
+Medications: The patient is currently taking aspirin, lisinopril, atorvastatin, and metformin.
+
+Allergies: The patient has a known allergy to penicillin.
+
+Family History: The patient's father died of a myocardial infarction at the age of 55.
+
+Social History: The patient is a former smoker, quitting 5 years ago. He consumes moderate amounts of alcohol.
+
+Review of Systems: The patient reports intermittent knee pain and swelling, worsening over the past month. The pain is described as a sharp ache. The patient also reports some limitation in mobility.
+
+Physical Examination: On examination, the patient's vital signs are normal. The patient's knee is swollen and tender to palpation. There is no erythema or warmth.
+
+Imaging Studies: The patient has had an MRI of the knee, which shows a large osteochondral defect in the patellar groove.
+
+Laboratory Tests: The patient's blood work shows a slightly elevated ESR and CRP.
+
+Diagnosis: The patient is diagnosed with osteoarthritis of the knee.
+
+Treatment Plan: The patient is scheduled for a knee arthroscopy and chondroplasty.
+
+Postoperative Course: The patient has an uneventful postoperative course. He experiences some discomfort and pain, which is managed with pain medication. The patient is advised to keep his knee elevated and to follow a rehabilitation program to improve mobility and strength.
+
+Complications: The patient does not experience any major complications. However, he does report some mild numbness in the anterior aspect of his knee, which resolves within a few weeks.
+
+Follow-up: The patient follows up with his surgeon at 2 weeks, 6 weeks, and 12 weeks postoperatively. At 12 weeks, the patient reports significant improvement in his knee pain and mobility. The patient is advised to continue with his rehabilitation program and to follow up with his primary care physician for ongoing management of his medical conditions.
+
+Assistant: Here's the summary in 30 sentences. Let me know if you have any questions or need further clarification.

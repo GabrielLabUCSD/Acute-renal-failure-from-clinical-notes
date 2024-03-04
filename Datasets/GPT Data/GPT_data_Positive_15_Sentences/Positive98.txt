@@ -1,0 +1,19 @@
+The patient is a 55-year-old male who is planning to undergo surgery. He has a medical history of hypertension, diabetes, and obesity. He has been on anti-hypertensive medications, including ACE inhibitors and diuretics, for the past 10 years. His blood glucose has been well controlled with oral anti-diabetic medications for the past 5 years.
+
+The patient has a body mass index (BMI) of 35, indicating severe obesity. He has tried multiple weight loss methods in the past but has been unsuccessful in achieving sustained weight loss. He has a sedentary lifestyle and does not engage in regular exercise.
+
+His hypertension has been well controlled with the current medications, with blood pressure readings consistently below 130/80 mmHg. However, he occasionally experiences mild episodes of orthostatic hypotension, especially when changing positions quickly.
+
+The patient has a history of occasional episodes of peripheral neuropathy, primarily affecting his lower extremities. It manifests as tingling and numbness, which usually resolve spontaneously within a few hours. He has been advised to wear appropriate footwear and manage his glucose levels to prevent further progression.
+
+In addition, the patient has a prior history of deep venous thrombosis (DVT) in his left leg, for which he was treated with anticoagulant therapy for 6 months. He has not experienced any recurrent DVT since completing the treatment. However, he does have mild residual edema in the affected limb.
+
+The patient has been evaluated by a multidisciplinary team, including an internist, an anesthesiologist, and a surgeon, to assess his surgical candidacy. They have discussed the potential risks and benefits of the surgery, as well as the necessity of optimizing his medical conditions prior to the procedure. The surgery is planned to be performed under general anesthesia.
+
+After the surgery, the patient developed acute renal failure, likely due to a combination of factors including decreased renal perfusion, use of nephrotoxic medications, and pre-existing renal impairment. He presented with elevated serum creatinine levels, urinary abnormalities, and decreased urine output.
+
+The patient was promptly started on aggressive fluid management, including intravenous crystalloids, to optimize his renal perfusion. He was closely monitored in an intensive care setting, with frequent measurements of his urine output, serum electrolytes, and creatinine levels.
+
+Additionally, the patient required temporary discontinuation of potentially nephrotoxic medications, including NSAIDs and aminoglycoside antibiotics. Renal replacement therapy, in the form of continuous renal replacement therapy (CRRT), was initiated to manage his worsening renal function.
+
+The patient's renal function gradually improved over the next few days, with a decrease in serum creatinine levels and improvement in urine output. He was discharged from the hospital after a 2-week stay with close follow-up scheduled with a nephrologist to monitor his renal function post-discharge.

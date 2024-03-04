@@ -1,0 +1,37 @@
+Patient Summary:
+
+The patient is a 65-year-old male who presents with a history of chronic back pain and degenerative disc disease. He has tried various conservative treatments, including physical therapy and medication, without significant relief. The patient is a candidate for lumbar fusion surgery to address his chronic pain and improve his quality of life.
+
+The patient has a history of hypertension and hyperlipidemia, which will need to be carefully managed during the perioperative period. He is currently taking several medications, including aspirin, lisinopril, and atorvastatin, and will need to hold these medications perioperatively as directed by his surgeon.
+
+The patient has a history of smoking, but quit 10 years ago. He has a history of moderate alcohol use, but has abstained from alcohol for the past month in preparation for surgery.
+
+The patient has a history of kidney stones and has been advised to stay well-hydrated to help prevent future stones. He has also been advised to avoid certain medications, such as nonsteroidal anti-inflammatory drugs (NSAIDs), which may exacerbate kidney problems.
+
+The patient has a history of allergies to penicillin and cephalosporins, and will need to avoid these medications perioperatively. He has no known allergies to anesthesia or other medications.
+
+The patient has a history of bleeding disorders and will need to be closely monitored for signs of bleeding or coagulopathy during and after surgery. He has been advised to avoid taking any medications that may increase the risk of bleeding, such as aspirin or warfarin.
+
+The patient has a history of sleep apnea and will need to use his continuous positive airway pressure (CPAP) machine perioperatively to help manage this condition.
+
+The patient has a history of diabetes mellitus and will need to have his blood sugar levels closely monitored during the perioperative period. He is currently taking metformin and insulin, and will need to adjust his medication regimen perioperatively as directed by his surgeon.
+
+The patient has a history of obstructive sleep apnea and will need to use his CPAP machine perioperatively to help manage this condition.
+
+The patient has a history of asthma and will need to have his respiratory status closely monitored during the perioperative period. He is currently taking albuterol as needed, and will need to have his inhaler available perioperatively.
+
+The patient has a history of chronic obstructive pulmonary disease (COPD) and will need to have his respiratory status closely monitored during the perioperative period. He is currently taking ipratropium bromide and albuterol, and will need to have his inhaler available perioperatively.
+
+The patient has a history of heart disease and will need to have his cardiac status closely monitored during the perioperative period. He has been advised to avoid any strenuous activities that may exacerbate his condition.
+
+The patient has a history of chronic pain and will need to have his pain managed effectively during the perioperative period. He is currently taking hydrocodone and acetaminophen, and will need to have his pain medication regimen adjusted perioperatively as directed by his surgeon.
+
+The patient has a history of nausea and vomiting after anesthesia and will need to have antiemetic medication available perioperatively to help manage this condition.
+
+The patient has a history of constipation and will need to have his bowel function closely monitored during the perioperative period. He has been advised to avoid any medications that may exacerbate constipation, such as opioids.
+
+The patient has a history of anxiety and will need to have his anxiety levels closely monitored during the perioperative period. He is currently taking alprazolam as needed, and will need to have his medication regimen adjusted perioperatively as directed by his surgeon.
+
+Complication:
+
+The patient developed acute renal failure postoperatively, which was likely related to the combination of perioperative medications, including anesthesia and pain medication, and the patient's pre-existing medical conditions, such as hypertension and diabetes

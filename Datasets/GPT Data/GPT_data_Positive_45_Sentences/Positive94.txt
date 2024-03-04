@@ -1,0 +1,46 @@
+The patient is a 57-year-old male with a medical history of coronary artery disease, hypertension, and type 2 diabetes.
+He has had a previous myocardial infarction and a stent placement in his right coronary artery.
+His blood pressure has been well-controlled on a combination of lisinopril and amlodipine.
+He has been managing his diabetes with metformin and has good glycemic control.
+The patient has been preparing for surgery due to an incidental finding of a suspicious pulmonary nodule on a routine chest X-ray.
+He underwent a bronchoscopy which confirmed the presence of a lung mass, and subsequent biopsies revealed adenocarcinoma.
+His primary care physician referred him to a thoracic surgeon for complete resection of the lung tumor.
+The patient has been asymptomatic and has no systemic symptoms related to his lung cancer.
+He has a good functional status and is motivated to undergo surgery to improve his chances of cure.
+Preoperative tests were performed, including a complete blood count, comprehensive metabolic panel, and coagulation studies, which were all within normal limits.
+
+The patient has been admitted to the hospital the day before surgery for preoperative preparation.
+He has been fasting and has received clear liquid diet instructions.
+His blood pressure is stable and well-controlled on his regular antihypertensive medications.
+His blood glucose levels have been closely monitored, and he is receiving an insulin sliding scale to maintain glycemic control.
+The patient has been counseled on the surgical procedure and potential risks and benefits.
+The thoracic surgeon discussed the possibility of postoperative complications, including bleeding, infection, and air leaks, and obtained informed consent.
+The patient's surgical team includes an anesthesiologist, who will ensure he is safely put under anesthesia and monitor his vital signs during the procedure.
+The anesthesiologist has reviewed the patient's medical history and is aware of his underlying conditions.
+
+The patient underwent surgery, which involved a complete resection of the lung tumor.
+The procedure was uneventful, and the patient tolerated it well.
+Postoperatively, the patient was initially stable and did not experience any significant bleeding or complications.
+He was closely monitored in the post-anesthesia care unit and then transferred to a surgical recovery floor.
+Routine postoperative care included patient-controlled analgesia for pain management and deep breathing exercises to prevent pneumonia.
+On the second postoperative day, the patient developed acute renal failure, with a significant decrease in urine output and elevated creatinine levels.
+His condition was likely secondary to intraoperative hypotension and possible nephrotoxic effects of anesthesia and other medications.
+The patient's surgical team promptly consulted the nephrology service for further management.
+The nephrologist recommended aggressive intravenous hydration to optimize renal perfusion and diuresis.
+The patient's fluid balance was closely monitored, and he received intravenous diuretics to help improve his urine output.
+
+Due to the acute renal failure, the patient's hospital stay was prolonged.
+He required ongoing renal replacement therapy in the form of hemodialysis to support his kidney function.
+The nephrology team monitored his electrolyte levels and adjusted his medications accordingly.
+The patient's cardiac medications were adjusted to account for his renal impairment.
+He was closely monitored for signs of infection and received appropriate antibiotics as needed.
+The patient's overall condition gradually improved, with an increase in urine output and a decrease in creatinine levels.
+He was able to wean off of hemodialysis and transitioned to oral diuretics as his renal function recovered.
+Throughout his hospitalization, the patient received multidisciplinary care, with regular follow-ups from the thoracic surgeon, nephrologist, and primary care physician.
+
+Upon discharge, the patient was instructed to continue taking his antihypertensive and diabetic medications and to monitor his blood pressure and blood glucose levels at home.
+He was advised to maintain a healthy lifestyle, including regular exercise and a balanced diet.
+The patient was scheduled for follow-up appointments with the thoracic surgeon and nephrologist to monitor his recovery.
+His postoperative course was complicated by the acute renal failure, but with appropriate management, his kidney function gradually improved, and he was able to resume his usual activities.
+The patient was also referred to an oncologist to discuss adjuvant therapy options for his lung cancer.
+Overall, the patient's surgery was successful in removing the lung tumor, and his prognosis is favorable with continued follow-up and treatment.

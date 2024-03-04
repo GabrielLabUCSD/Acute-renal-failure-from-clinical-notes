@@ -1,0 +1,21 @@
+Patient Summary:
+
+The patient is a [age]-year-old male who presents for elective [procedure] surgery. He has a history of [medical condition 1], [medical condition 2], and [medical condition 3]. The patient has been taking [medication 1], [medication 2], and [medication 3] for these conditions.
+
+The patient's surgical history includes a [previous surgery 1] and a [previous surgery 2]. The patient experienced [complication 1] and [complication 2] following the previous surgeries.
+
+The patient's current symptoms include [symptom 1], [symptom 2], and [symptom 3]. The patient has been experiencing these symptoms for [duration] and they have been gradually worsening over time.
+
+The patient has a strong family history of [medical condition 4] and [medical condition 5]. The patient's mother and father both passed away from [medical condition 6] and [medical condition 7], respectively.
+
+The patient is a current smoker and has a history of alcohol abuse. The patient has a BMI of [BMI] and has been trying to lose weight for several years.
+
+The patient's social history includes a supportive family network, with a spouse and two adult children. The patient is a retired [profession] and is currently enjoying traveling and spending time with family.
+
+The patient's postoperative course has been uneventful. The patient experienced some mild discomfort and nausea in the first 24 hours, but this was well managed with pain medication and antiemetics. The patient was able to tolerate a regular diet by the third postoperative day and was discharged home without any complications.
+
+Following discharge, the patient experienced some mild fatigue and muscle weakness, but this improved gradually over the course of a week. The patient was able to resume their normal activities, including traveling and light exercise, within two weeks of surgery.
+
+The patient had a follow-up appointment with their surgeon six weeks after surgery, at which time the incision site was noted to be healing well and the patient was experiencing minimal discomfort. The patient was advised to continue with light exercise and gradually increase their activity level over time.
+
+Overall, the patient had a successful surgery and postoperative course, without any significant complications. The patient is expected to make a full recovery and resume their normal activities within a few weeks.

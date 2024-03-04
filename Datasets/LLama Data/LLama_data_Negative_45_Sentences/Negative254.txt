@@ -1,0 +1,21 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a history of [medical condition] and is planning to undergo [type of surgery]. The patient has a history of [other medical conditions], including [condition 1], [condition 2], and [condition 3]. The patient has been taking [medication 1], [medication 2], and [medication 3] for their conditions.
+
+The patient has a history of previous surgeries, including [previous surgery 1], [previous surgery 2], and [previous surgery 3]. The patient had a complicated postoperative course after [previous surgery 1], experiencing [complication 1] and [complication 2].
+
+The patient's family history is significant for [family medical history]. The patient's social history includes [smoking], [alcohol use], and [recreational drug use]. The patient's review of systems is positive for [sys1], [sys2], and [sys3].
+
+On physical examination, the patient's vital signs are stable. The patient has [finding 1], [finding 2], and [finding 3] on examination. The patient's laboratory results show [lab 1], [lab 2], and [lab 3].
+
+The patient is at risk for [risk 1], [risk 2], and [risk 3] during surgery. The patient's surgical plan includes [surgical plan 1], [surgical plan 2], and [surgical plan 3]. The patient will be monitored closely for [monitoring 1], [monitoring 2], and [monitoring 3] during surgery.
+
+Postoperatively, the patient will be managed with [postoperative plan 1], [postoperative plan 2], and [postoperative plan 3]. The patient will be monitored closely for [complication 1], [complication 2], and [complication 3].
+
+The patient will be discharged home with [discharge plan 1], [discharge plan 2], and [discharge plan 3]. The patient will follow up with [follow-up plan 1], [follow-up plan 2], and [follow-up plan 3].
+
+Additional Information:
+
+The patient has a history of [additional information 1]. The patient's [additional information 2] is significant. The patient has been advised to [advice 1], [advice 2], and [advice 3] to optimize their health before surgery.
+
+In conclusion, the patient's surgical and postoperative plan will be managed closely to minimize the risks and optimize the outcomes. The patient will be closely monitored and their progress closely followed to ensure a successful outcome.

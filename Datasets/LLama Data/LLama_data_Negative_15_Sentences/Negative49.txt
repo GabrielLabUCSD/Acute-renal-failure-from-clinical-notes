@@ -1,0 +1,94 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Age: 55
+
+Gender: Male
+
+Chief Complaint: Chronic lower back pain
+
+Medical History:
+
+* History of smoking
+* Hypertension
+* Hyperlipidemia
+* Obesity
+* Diabetes mellitus
+* Sleep apnea
+* History of contralateral Total Knee Arthroplasty (TKA) 10 years ago
+
+Surgical History:
+
+* TKA 10 years ago
+* Cholecystectomy 5 years ago
+* Inguinal hernia repair 2 years ago
+
+Current Medications:
+
+* Oxycodone for pain management
+* Amlodipine for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes mellitus
+* CPAP for sleep apnea
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Family History:
+
+* Father had coronary artery disease
+* Mother had hypertension
+
+Social History:
+
+* Retired
+* Lives alone
+* Has a support system of friends and family
+* Denies any recent travel or exposure to illness
+
+Review of Systems:
+
+* Denies any recent changes in bowel or bladder habits
+* Denies any recent unintentional weight loss
+* Denies any recent fevers or chills
+
+Physical Exam:
+
+* Blood pressure: 150/90 mmHg
+* Heart rate: 85 bpm
+* Respiratory rate: 16 breaths/min
+* Oxygen saturation: 95% on room air
+* Temperature: 98.6°F (37°C)
+* Body mass index (BMI): 35 kg/m2
+* No signs of acute distress
+
+Lab Results:
+
+* complete blood count (CBC) within normal limits
+* Electrolyte panel within normal limits
+* Lipid profile within normal limits
+* Urinalysis within normal limits
+* Blood culture negative
+
+Imaging Studies:
+
+* X-ray of the spine shows degenerative changes
+* Magnetic resonance imaging (MRI) of the spine shows a small herniated disc
+
+Plan:
+
+* The patient will undergo a lumbar fusion surgery
+* Postoperative course will include pain management with narcotics and physical therapy
+* Patient will be admitted to the hospital for 3-5 days for observation and pain management
+
+Complications:
+
+* Postoperative nausea and vomiting
+* Surgical site infection
+* Urinary retention
+* Respiratory depression
+
+Note: This is just a sample patient summary, and the specific details may vary depending on the actual patient and their medical history.

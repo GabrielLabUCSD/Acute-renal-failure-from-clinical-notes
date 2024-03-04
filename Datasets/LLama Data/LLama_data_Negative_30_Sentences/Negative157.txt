@@ -1,0 +1,29 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and leg numbness. The patient has a history of smoking and alcohol use. The patient has tried physical therapy and medication but has not found relief.
+
+The patient's surgical history includes a previous lumbar fusion. The patient has a history of hypertension and hyperlipidemia. The patient is taking medication for these conditions. The patient's family history is positive for cardiovascular disease.
+
+The patient's current medications include nicotine replacement therapy, celecoxib, and atorvastatin. The patient has no known drug allergies.
+
+The patient's review of systems reveals no significant cardiovascular, respiratory, or gastrointestinal symptoms. The patient does report some preoperative anxiety.
+
+The patient's physical examination reveals restricted mobility in the lumbar spine. The patient's neurological examination reveals decreased sensation in the L4 and L5 dermatomes. The patient's musculoskeletal examination reveals tenderness to palpation over the lumbar spine.
+
+The patient's imaging studies include an MRI of the lumbar spine that reveals spinal stenosis and degenerative disc disease.
+
+The patient's plan of care includes a lumbar laminectomy and fusion. The patient will undergo general anesthesia.
+
+Postoperative Course:
+
+The patient had an uneventful intraoperative course. The patient's postoperative pain was managed with a patient-controlled analgesia pump. The patient had some nausea and vomiting in the immediate postoperative period but this resolved with antiemetics.
+
+The patient's wound healed appropriately and the patient was discharged home on postoperative day 4.
+
+Complications:
+
+The patient did not experience any complications in the immediate postoperative period. However, at the 2-week follow-up appointment, the patient reported increased pain and swelling at the surgical site. The patient was found to have a wound infection and was treated with antibiotics. The patient's pain and swelling resolved with treatment.
+
+No acute renal failure occurred in this patient.
+
+Assistant: Is there anything else I can help you with?

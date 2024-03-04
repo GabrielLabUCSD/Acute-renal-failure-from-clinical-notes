@@ -1,0 +1,33 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Diabetic
+* History of smoking
+* History of alcohol use
+* Obese (BMI 35)
+* Surgical history: cholecystectomy, hernia repair, knee replacement
+* Medical history: COPD, sleep apnea, hyperlipidemia, hypothyroidism
+* Allergies: penicillin, sulfa
+* Current medications: aspirin, lisinopril, metformin, atorvastatin, levothyroxine
+
+Postoperative Course:
+
+* Planned surgery: knee replacement
+* Preoperative physical therapy: none
+* Preoperative occupational therapy: none
+* Preoperative cognitive assessment: normal
+* Intraoperative complications: none
+* Postoperative complications: none
+* Length of stay: 3 days
+* Discharge status: home
+
+Complications:
+
+* None
+
+Note: This patient summary does not include acute renal failure as a complication as requested.

@@ -1,0 +1,35 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension, diabetes, and hyperlipidemia.
+3. He has been smoking for the past 40 years.
+4. He has a history of obstructive sleep apnea and uses a CPAP machine at night.
+5. He has been experiencing increasing knee pain over the past year.
+6. He has tried physical therapy and medication but has not found significant relief.
+7. He has been diagnosed with severe osteoarthritis of the knee.
+8. He has been advised to undergo a total knee replacement surgery.
+9. He is allergic to penicillin and has a history of anaphylactic reactions.
+10. He has a history of bleeding disorders and takes warfarin.
+11. He has been advised to stop taking warfarin before the surgery.
+12. He has a history of asthma and uses an inhaler as needed.
+13. He has been advised to avoid any strenuous activities for at least 6 weeks after the surgery.
+14. He has been advised to follow a post-surgery rehabilitation program to ensure proper healing.
+15. He is concerned about the risks associated with surgery, including infection and blood clots.
+
+Complication:
+
+1. After the surgery, the patient developed acute renal failure.
+2. He experienced decreased urine output and swelling in his legs.
+3. His blood test results showed elevated creatinine levels.
+4. He was diagnosed with acute kidney injury and was started on dialysis.
+5. He had to stay in the intensive care unit for close monitoring.
+6. The dialysis was effective in removing waste products from his blood.
+7. His creatinine levels gradually decreased over time.
+8. He was able to stop dialysis after 4 days.
+9. His kidney function improved, and he was able to resume his normal activities.
+10. He was advised to follow up with his nephrologist for further monitoring.
+11. He was also advised to make lifestyle changes to reduce the risk of future kidney problems.
+12. The patient was discharged from the hospital and was able to return home.
+13. He was advised to follow a post-hospitalization rehabilitation program.
+14. He was also advised to take medication to reduce the risk of future kidney problems.
+15. The patient was grateful for the care he received and felt reassured about his recovery.

@@ -1,0 +1,99 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+ Patient Name: John Doe
+
+ Medical History:
+
+* 65-year-old male
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Chronic obstructive pulmonary disease (COPD)
+* Gastroesophageal reflux disease (GERD)
+* Chronic back pain
+* Obesity (BMI 35)
+* Sleep apnea
+* History of colon cancer (stage II) 10 years ago
+* History of prostate cancer (stage III) 5 years ago
+* History of coronary artery disease (CAD) with stent placement 3 years ago
+* History of peripheral artery disease (PAD) with bilateral leg pain
+* History of diabetes mellitus (DM) type 2
+* History of hypothyroidism
+* History of pulmonary embolism (PE) 2 years ago
+* History of atrial fibrillation (AFib)
+* History of degenerative joint disease (DJD) of the knees and hips
+* History of osteoporosis
+* History of uterine cancer (stage I) 5 years ago
+* History of cervical cancer (stage I) 3 years ago
+* History of breast cancer (stage II) 1 year ago
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Inguinal hernia repair 5 years ago
+* Colon resection 10 years ago
+* Prostate surgery (TURP) 5 years ago
+* Coronary artery bypass grafting (CABG) 3 years ago
+* Percutaneous coronary intervention (PCI) 2 years ago
+* Knee replacement 1 year ago
+* Hysterectomy 5 years ago
+* Mastectomy 1 year ago
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Atorvastatin 20 mg daily
+* Lisinopril 40 mg daily
+* Omeprazole 20 mg daily
+* Alprazolam 0.5 mg daily
+* Levothyroxine 100 mcg daily
+* Metformin 500 mg daily
+* Warfarin 5 mg daily
+* Pregabalin 100 mg daily
+* Naproxen 500 mg daily
+* Ibuprofen 800 mg daily
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house
+* Has a dog
+* Smokes 10 cigarettes per day
+* Drinks two alcoholic beverages per day
+* Recreational activities include golfing and gardening
+
+Family History:
+
+* Father died of myocardial infarction (MI) at age 60
+* Mother died of breast cancer at age 70
+* Brother has DM and CAD
+* Sister has hypertension and hyperlipidemia
+
+Reason for Surgery:
+
+* Elective total hip replacement
+
+Planned Surgical Procedure:
+
+* Total hip replacement with anterior approach
+
+Expected Postoperative Course:
+
+* Postoperative day 1:
+	+Expected to spend in the ICU for close monitoring
+	+Will have a breathing exercises and coughing exercises to prevent pulmonary complications
+	+Will have a urinary catheter and surgical drains in place
+	+Will be started on pain management with patient-controlled analgesia (PCA) and antiemetics as needed
+	+Will be encouraged to ambulate with assistance on the first postoperative day
+* Postoperative day 2-3:
+	+Will be transferred to the orthopedic ward
+	+Will continue to have breathing exercises and coughing exercises
+	+Will have the urinary catheter and surgical drains removed
+	+Will continue pain management with PCA and antiemetics

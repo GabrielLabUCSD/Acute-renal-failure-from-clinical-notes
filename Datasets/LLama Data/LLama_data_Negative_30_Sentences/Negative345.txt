@@ -1,0 +1,86 @@
+Sure, here is a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Chief Complaint: Abdominal pain and distension
+
+History of Present Illness: 55-year-old male with a history of chronic abdominal pain and distension, worsening over the past year.
+
+Past Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* Chronic kidney disease (Stage III)
+* History of smoking (20 pack-years)
+* History of alcohol use (more than 2 drinks per day)
+
+Surgical History:
+
+* Cholecystectomy (20 years ago)
+* Hysterectomy (15 years ago)
+* Knee arthroscopy (10 years ago)
+
+Medications:
+
+* Lisinopril
+* Atorvastatin
+* Metformin
+* Omeprazole
+* Ibuprofen
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother died of colon cancer at age 65
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies recent travel or exposure to illness
+
+Review of Systems:
+
+* Denies fever, chills, or night sweats
+* Reports intermittent nausea and vomiting
+* Denies changes in urination or bowel habits
+* Reports mild headaches
+
+Physical Exam:
+
+* Blood pressure: 150/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F (37°C)
+* Abdomen: tender to palpation, guarding, and rebound tenderness present
+
+Diagnostic Tests:
+
+* Complete blood count: within normal limits
+* Electrolyte panel: within normal limits
+* Lipase: 250 U/L (normal < 100 U/L)
+* Amylase: 150 U/L (normal < 100 U/L)
+* Urinalysis: within normal limits
+* CT scan of abdomen and pelvis: showing diffusely circumferential thickening of the distal ascending colon, suspicious for cancer
+
+Plan:
+
+* Colonoscopy with biopsy
+* Sigmoidoscopy
+* Laparoscopic surgery for possible colon cancer
+* Postoperative course:
+	+ Proton pump inhibitor for stress ulcer prophylaxis
+	+ Pain management with opioids and nonsteroidal anti-inflammatory drugs
+	+ Early mobilization and ambulation
+	+ Monitoring for signs of surgical site infection, bleeding, or other complications
+
+Complications:
+
+* None noted in the postoperative course
+
+This patient summary provides a comprehensive overview of the patient's medical history, surgical history, medications, allergies, family history, social history, review of systems, physical exam, diagnostic tests, and plan for management. It also describes the patient's postoperative course and potential complications to be monitored for.

@@ -1,0 +1,73 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history and postoperative course:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 55-year-old male
+* Hypertensive
+* Hyperlipidemic
+* History of smoking
+* History of alcohol use disorder
+* Obese (BMI 35)
+* Sleep apnea
+* Chronic low back pain
+* Previous history of colon cancer (stage II)
+* Previous history of bronchitis
+* Previous history of pneumonia
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy for symptomatic gallstones
+* Previous abdominal surgery (appendectomy)
+
+Medications:
+
+* Aspirin 81 mg PO daily
+* Atorvastatin 20 mg PO daily
+* Amlodipine 5 mg PO daily
+* Oxycodone 5 mg PO every 4-6 hours as needed for pain
+* Alprazolam 0.5 mg PO every 8 hours as needed for anxiety
+
+Allergies:
+
+* Penicillin
+
+Lab Results:
+
+* WBC count: 12,000 cells/mm3
+* Hemoglobin: 14 g/dL
+* Platelet count: 200,000 cells/mm3
+* BUN: 18 mg/dL
+* Creatinine: 1.2 mg/dL
+* AST: 40 IU/L
+* ALT: 50 IU/L
+* Alkaline phosphatase: 120 IU/L
+* Total bilirubin: 1.0 mg/dL
+* Direct bilirubin: 0.5 mg/dL
+* Prothrombin time: 12 seconds
+* Partial thromboplastin time: 30 seconds
+* INR: 1.2
+* Urinalysis: trace protein, trace blood, and 1+ bacteria
+
+Imaging Results:
+
+* Chest X-ray: bibasilar atelectasis
+* CT scan of the abdomen and pelvis: gallstones with no evidence of cholecystitis or biliary obstruction
+
+Postoperative Course:
+
+* Patient underwent laparoscopic cholecystectomy and had an uneventful postoperative course
+* Postoperative day 1: patient had some discomfort and nausea, but was able to tolerate oral pain medication and liquids
+* Postoperative day 2: patient was able to eat solid foods and ambulate without assistance
+* Postoperative day 3: patient was discharged home with a prescription for oral pain medication and instructions for wound care
+
+Complications:
+
+* None
+
+Follow-Up:
+
+* Patient followed up with the surgeon 1 week after discharge and reported minimal pain and no complications
+* Patient was advised to avoid heavy lifting and bending for 2 weeks and to continue taking oral pain medication as needed
+* Patient was also advised to follow up with primary care physician for routine postoperative follow-up and to monitor chronic medical conditions.

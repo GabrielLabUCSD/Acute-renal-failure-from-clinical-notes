@@ -1,0 +1,40 @@
+Patient Summary:
+
+1. The patient is a 55-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He has been experiencing worsening left knee pain for the past year.
+4. The pain is described as a 7/10 and is located in the medial aspect of the knee.
+5. The patient has a history of smoking, with apack-year history of 20.
+6. He has a history of heavy alcohol use, with a daily intake of 4-5 drinks.
+7. He has a history of poorly controlled diabetes mellitus.
+8. His current medications include metformin, lisinopril, atorvastatin, and oxycodone.
+9. The patient has a history of previous knee surgery, including a meniscectomy and chondroplasty.
+10. He has a history of previous cardiovascular disease, including a myocardial infarction.
+11. He has a history of chronic obstructive pulmonary disease (COPD).
+12. The patient has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine.
+13. He has a history of anxiety and depression.
+14. The patient has a history of gastroesophageal reflux disease (GERD).
+15. He has a history of chronic kidney disease, with a baseline creatinine of 1.8 mg/dL.
+16. His family history is significant for cardiovascular disease.
+17. The patient has a history of allergies to penicillin and sulfa medications.
+18. He has a history of bleeding disorders, including a history of deep venous thrombosis (DVT).
+19. The patient has a history of neuropathy, including numbness and tingling in his hands and feet.
+20. He has a history of mild cognitive impairment.
+21. The patient has a history of falls, with a recent fall occurring one month ago.
+22. He has a history of urinary retention and has been using a foley catheter intermittently.
+23. The patient has a history of migraines.
+24. He has a history of hyperlipidemia and has been taking atorvastatin for several years.
+25. The patient has a history of hyperparathyroidism and has been taking calcium carbonate supplements.
+26. He has a history of chronic back pain and has been using hydrocodone for pain management.
+27. The patient has a history of chronic obstructive sleep apnea and has been using a CPAP machine.
+28. He has a history of chronic fatigue syndrome.
+29. The patient has a history of fibromyalgia.
+30. He is scheduled to undergo a total knee replacement surgery in the near future.
+
+Complications:
+
+1. Acute renal failure: The patient developed acute renal failure post-operatively, with a peak serum creatinine of 4.5 mg/dL.
+2. Sepsis: The patient developed sepsis post-operatively, with a fever of 38.5°C and a positive blood culture.
+3. Respiratory failure: The patient developed respiratory failure post-operatively, requiring intubation and mechanical ventilation.
+4. Cardiac arrest: The patient experienced cardiac arrest post-operatively, with a brief period of asystole.
+5. Postoperative pneumonia: The patient developed pneumonia post-operatively, with fever, tachypnea, and bilateral crackles on lung examination.

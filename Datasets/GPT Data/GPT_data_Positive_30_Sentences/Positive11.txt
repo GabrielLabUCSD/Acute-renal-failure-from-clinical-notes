@@ -1,0 +1,35 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who is planning to have surgery. They have a history of [medical conditions], which include [medical condition 1], [medical condition 2], and [medical condition 3]. Their surgeries in the past include [surgery 1], [surgery 2], and [surgery 3].
+
+The patient's current medications include [medication 1], [medication 2], and [medication 3]. They have allergies to [allergy 1] and [allergy 2], which includes [reaction]. They do not smoke, but have a history of alcohol consumption.
+
+In terms of their medical conditions, they have been managing [medical condition 1] with [treatment], which has been moderately successful. Their [medical condition 2] has been stable with periodic check-ups and medication adjustments. They underwent [surgery 1] to address [issue] with successful outcomes. The patient is currently taking [medication] to manage their [medical condition 3].
+
+During a previous surgery ([surgery 2]), the patient experienced [complication], which was managed promptly and effectively. It is important to note this complication for the upcoming surgery to ensure appropriate precautions are taken.
+
+The patient's vital signs are currently stable, with blood pressure measuring [measurement], heart rate at [measurement], and respiratory rate at [measurement]. Their body mass index (BMI) is [BMI]. They do not have any cardiac issues and their electrocardiogram (ECG) shows no abnormalities.
+
+Lab tests have been conducted and results indicate [results]. Their complete blood count (CBC) shows [results], and their renal function test (RFT) results demonstrate [results]. It is important to note that their creatinine levels are slightly elevated, indicating potential kidney dysfunction.
+
+The patient has consented to the surgery and has been informed about the risks and benefits. They have received preoperative instructions, including fasting guidelines and cessation of certain medications. The anesthesia team has been updated about the patient's medical history and current medications.
+
+Emergency contact information has been obtained in case of any post-surgical complications. The patient has been informed about potential post-operative pain management options, including the use of analgesics.
+
+After the surgery, the patient developed acute renal failure, with significant increases in their creatinine levels. Appropriate interventions, including fluid management, were initiated to address this complication. The patient's urine output is being closely monitored to ensure appropriate kidney function.
+
+The multidisciplinary team, including nephrologists and surgeons, is closely monitoring the patient's condition. They are receiving renal replacement therapy, which includes dialysis, to support kidney function and assist in the recovery process.
+
+The patient's pain management plan has been adjusted to account for their renal failure and avoid medications that may further compromise kidney function. Close monitoring of their vital signs, fluid balance, and laboratory results is essential to ensure the patient's stability and recovery.
+
+The patient's family has been informed about the post-operative complications and ongoing management. They are actively involved in decision-making and supporting the patient through this challenging period.
+
+The surgical wound is being closely monitored to ensure proper healing and prevent infection. Antibiotics have been prescribed to minimize the risk of any potential infections.
+
+The patient's progress is being documented regularly, and any changes in their condition or treatment plan are noted and addressed promptly. The healthcare team remains in close communication to provide optimal care for the patient.
+
+Regular follow-up appointments and laboratory tests have been scheduled to monitor the patient's kidney function, wound healing, and overall recovery. Adjustments to their treatment plan will be made as necessary based on these results.
+
+The patient is receiving emotional support from the healthcare team to cope with the stress and anxiety associated with their medical condition and the post-operative complications. Counseling services have been made available if needed.
+
+Overall, despite the patient's history of medical conditions and the acute renal failure complication after surgery, the healthcare team is committed to providing comprehensive care to ensure the patient's successful recovery and improved quality of life.

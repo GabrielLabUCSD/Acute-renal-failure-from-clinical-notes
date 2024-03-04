@@ -1,0 +1,31 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male who presents with a history of [insert medical condition] and is scheduled to undergo [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert any previous surgeries or medical conditions]. The patient is currently taking [insert medications] and has been compliant with their medication regimen.
+
+The patient"s surgical history includes [insert any previous surgeries], and they have had no significant complications. They have a history of allergies to [insert any allergies], but they do not have any known allergies to anesthesia. The patient is in good health overall, but they have been experiencing some recent [insert any recent symptoms].
+
+The patient"s family medical history is significant for [insert any relevant family medical history]. They have a strong support system, including [insert any family members or friends who will be providing support during their recovery].
+
+The patient is a smoker and has been smoking for [insert number of years]. They have tried to quit in the past but have been unsuccessful. They are willing to work with their healthcare provider to quit smoking after their surgery.
+
+The patient has been informed of the risks and benefits of their surgery, including the potential for acute renal failure, a complication that can occur after surgery. They have been advised to monitor their urine output and to report any changes to their healthcare provider immediately.
+
+The patient is scheduled to undergo [insert type of surgery] on [insert date] at [insert location]. They will be admitted to the hospital on [insert date] and are expected to stay for [insert length of stay]. The patient will be discharged home with instructions for wound care and pain management.
+
+Post-operative Care:
+
+The patient will be closely monitored in the post-anesthesia care unit (PACU) for any complications. They will be assessed for any signs of acute renal failure, including decreased urine output, increased creatinine levels, and decreased urine specific gravity.
+
+The patient will be encouraged to ambulate and move around as soon as possible after surgery to help prevent complications such as deep vein thrombosis (DVT). They will be advised to follow a clear liquid diet for the first 24 hours after surgery and will be advanced to a regular diet as tolerated.
+
+The patient will be prescribed pain medication as needed, and they will be encouraged to use incentive spirometry to help prevent respiratory complications. They will also be advised to avoid heavy lifting, bending, or straining for several weeks after surgery.
+
+Complications:
+
+Acute renal failure (ARF) is a potential complication that can occur after surgery. ARF is a sudden decrease in kidney function that can be caused by a variety of factors, including dehydration, sepsis, and medication reactions. The patient is at risk for ARF due to their medical history and the type of surgery they are undergoing.
+
+The patient will be closely monitored for signs of ARF, including decreased urine output, increased creatinine levels, and decreased urine specific gravity. If the patient develops ARF, they will be treated with intravenous fluids and medications to help support their kidney function. In severe cases, dialysis may be necessary.
+
+Conclusion:
+
+The patient is scheduled to undergo [insert type of surgery] and has been informed of the risks and benefits of their surgery, including the potential for acute renal failure. They will be closely monitored in the post-operative period for any signs of complications, including ARF. The patient will be encouraged to follow a clear liquid diet, ambulate, and use incentive spirometry to help prevent respiratory complications. They will be prescribed pain medication as needed and will be advised to avoid heavy lifting, bending, or straining for several weeks after surgery.

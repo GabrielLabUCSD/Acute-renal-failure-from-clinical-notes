@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a __-year-old individual who is scheduled to undergo surgery. They have a past medical history of hypertension, hyperlipidemia, diabetes mellitus type 2, and osteoarthritis. The patient has been managing their conditions with medications including metoprolol for blood pressure control, a statin for lipid management, and metformin for diabetes.
+
+Their surgical procedure is due to ____________, and it is scheduled to take place on ________. They have been advised to discontinue their metformin two days prior to surgery but continue taking their other medications with small sips of water on the day of surgery.
+
+The patient's preoperative labs revealed a normal complete blood count with no evidence of anemia or infection. Their metabolic panel was within normal limits, with stable renal and liver function. However, they had slightly elevated blood glucose levels on the day of surgery, likely due to stress.
+
+The patient reported a previous surgical procedure ____________ and experienced an uneventful recovery. They were not exposed to complications such as acute renal failure during their previous surgery.
+
+During the postoperative course, the patient was closely monitored in the recovery room. Adequate hydration was maintained, and pain was managed with intravenous opioids. The patient was encouraged to ambulate and take deep breaths to prevent respiratory complications such as pneumonia. They were closely monitored for any signs of infection or bleeding.
+
+The patient's initial recovery was unremarkable, with stable vital signs and no signs of postoperative complications. They were able to tolerate a regular diet and were ambulating independently. The surgeon deemed the procedure successful and without any specific intraoperative complications.
+
+In the immediate postoperative period, the patient reported mild incisional pain, which was managed with oral analgesics. They were discharged home on the ________ postoperative day with appropriate postoperative instructions, including wound care, activity restrictions, and medication management.
+
+A follow-up appointment was scheduled for ________ to monitor the patient's progress. In the subsequent weeks, the patient reported gradual improvement in their pain levels and was able to resume their daily activities without limitations.
+
+Overall, the patient's postoperative course was uncomplicated. They did not experience any acute renal failure or other major complications post-surgery. The patient will continue their regular follow-up visits to ensure ongoing monitoring of their medical conditions and to address any concerns that may arise.

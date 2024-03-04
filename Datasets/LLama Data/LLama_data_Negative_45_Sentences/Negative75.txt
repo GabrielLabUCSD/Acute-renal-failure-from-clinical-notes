@@ -1,0 +1,43 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and degenerative disc disease. He has tried various conservative treatments, including physical therapy and medication, without significant relief. He is now considering surgical intervention to address his condition.
+
+The patient has a history of hypertension and hyperlipidemia, which are well-controlled with medication. He is a non-smoker and drinks alcohol in moderation. He has no known allergies and has not had any previous surgeries.
+
+The patient's family medical history is significant for his father having a history of coronary artery disease and his mother having a history of breast cancer.
+
+The patient's surgical history includes a cholecystectomy several years ago, which was performed without complications.
+
+The patient's current medications include atorvastatin, lisinopril, and omeprazole.
+
+The patient's lab results show a normal white blood cell count, hemoglobin, and platelet count. His liver and kidney function tests are also within normal limits.
+
+The patient's EKG shows a normal sinus rhythm with no evidence of ischemia.
+
+The patient's chest x-ray is clear, with no evidence of pulmonary disease.
+
+The patient's preoperative physical examination is significant for tenderness to palpation over the lumbar spine, with limited range of motion.
+
+The patient's surgical procedure is planned as a degenerative disc disease surgery, involving the removal of the damaged disc and fusion of the adjacent vertebrae.
+
+The patient's postoperative course is uneventful, with adequate pain management and stable vital signs.
+
+The patient is transferred to the floor on postoperative day 1 and ambulates without assistance.
+
+The patient experiences some nausea and vomiting on postoperative day 2, which is managed with antiemetics.
+
+The patient's wound is clean and dry, with no signs of infection.
+
+The patient's pain is moderate but manageable, with a visual analog scale score of 5-6/10.
+
+The patient is discharged home on postoperative day 3, with instructions for wound care, pain management, and physical therapy.
+
+Follow-up appointment is scheduled for 2 weeks post-discharge.
+
+No complications were encountered during the patient's hospital stay.
+
+The patient is advised to avoid heavy lifting, bending, or twisting for 6 weeks following surgery.
+
+The patient is also advised to avoid driving for 2 weeks following surgery.
+
+The patient's prognosis for a successful outcome is good, with a high chance of significant improvement in his back pain and quality of life.

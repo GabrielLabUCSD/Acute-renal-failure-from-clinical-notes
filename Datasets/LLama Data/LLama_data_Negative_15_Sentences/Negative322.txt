@@ -1,0 +1,19 @@
+Patient Summary:
+
+1. The patient is a 45-year-old female.
+2. She has a history of hypertension and hyperlipidemia.
+3. She has been smoking 10 cigarettes a day for the past 20 years.
+4. She has a history of obesity with a BMI of 35.
+5. She has been experiencing worsening left knee pain for the past year.
+6. She has tried physical therapy and steroid injections without relief.
+7. She has been diagnosed with osteoarthritis of the left knee.
+8. She is planning to undergo a left total knee arthroplasty.
+9. She has no allergies.
+10. She is taking aspirin and lisinopril for her hypertension and hyperlipidemia.
+11. She has a history of hypothyroidism and is taking levothyroxine.
+12. She has no history of bleeding disorders or previous surgeries.
+13. Her preoperative blood work showed normal liver and kidney function.
+14. Her preoperative electrocardiogram (ECG) showed no evidence of ischemia.
+15. She had an uneventful postoperative course and was discharged home on postoperative day 3.
+
+The patient had a successful left total knee arthroplasty, with effective pain management and improved mobility. She did not experience any complications during her postoperative course and was able to return to her normal activities within 6 weeks.

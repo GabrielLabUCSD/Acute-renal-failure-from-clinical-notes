@@ -1,0 +1,101 @@
+Here is a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 55
+Gender: Male
+
+Chief Complaint: The patient presents with a history of chronic low back pain and left leg radiculopathy.
+
+Medical History:
+
+* History of smoking (20 pack-years)
+* Hypertension
+* Hyperlipidemia
+* Diabetes mellitus (well-controlled)
+* Obstructive sleep apnea (uses CPAP)
+* Chronic kidney disease (Stage III)
+* History of non-cardioembolic stroke (2 years ago)
+
+Surgical History:
+
+* Appendectomy (10 years ago)
+* Cholecystectomy (5 years ago)
+* Hip replacement (2 years ago)
+
+Medications:
+
+* Atorvastatin
+* Amlodipine
+* Lisinopril
+* Metformin
+* Aspirin
+* Pantoprazole
+* Omeprazole
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 65
+* One sibling with hypertension
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies alcohol or illicit drug use
+* Lives in a two-story house with no wheelchair accessibility
+
+Review of Systems:
+
+* No significant cardiovascular, respiratory, or gastrointestinal symptoms
+* No recent weight loss or fever
+* Reports occasional dizziness and lightheadedness
+
+Physical Exam:
+
+* Blood pressure: 140/90 mmHg
+* Heart rate: 75 bpm
+* Respiratory rate: 16 bpm
+* Temperature: 98.6°F
+* BMI: 32
+* No evidence of surgical site infections
+
+Lab Results:
+
+* HbA1c: 7.4%
+* Creatinine: 1.8 mg/dL
+* Glomerular filtration rate (eGFR): 45 mL/min/1.73 m²
+* Total cholesterol: 180 mg/dL
+* HDL: 40 mg/dL
+* LDL: 120 mg/dL
+* Triglycerides: 150 mg/dL
+* WBC: 10,000 cells/mm³
+* Neutrophils: 70%
+* Lymphocytes: 20%
+* Monocytes: 8%
+* Eosinophils: 2%
+
+Imaging Studies:
+
+* MRI of the lumbar spine shows degenerative disc disease and spinal stenosis
+* CT angiogram of the abdominal aorta and iliac arteries shows mild atherosclerotic disease
+
+Postoperative Course:
+
+* Patient underwent a successful lumbar fusion surgery
+* Postoperative day 1: Patient experienced some nausea and vomiting, which was managed with antiemetics
+* Postoperative day 2: Patient's pain was well-controlled with hydrocodone and acetaminophen
+* Postoperative day 3: Patient was able to ambulate with assistance and had normal urine output
+* Postoperative day 4: Patient experienced some increased lower extremity weakness, which was evaluated with a neurological exam and found to be related to a temporary neuropraxia
+* Postoperative day 5: Patient was discharged home with a plan for outpatient physical therapy and pain management
+
+Complications:
+
+* None
+
+This patient summary provides a comprehensive overview of the patient's medical history, surgical history, medications, allergies, family history, social history, review of systems, physical exam, lab results, imaging studies, postoperative course, and complications. It covers all the necessary information for a surgeon to evaluate

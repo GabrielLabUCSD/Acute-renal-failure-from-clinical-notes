@@ -1,0 +1,42 @@
+Patient Summary:
+
+The patient is a 65-year-old male who presents with a history of chronic back pain and numbness in his legs. He has tried various conservative treatments, including physical therapy and medication, but has not found relief. The patient has a history of hypertension, hyperlipidemia, and diabetes mellitus. He is a former smoker and has a history of alcohol use disorder.
+
+The patient underwent a lumbar decompression surgery 10 years ago, which provided temporary relief but ultimately failed to address the underlying condition. He has since developed severe spinal stenosis and is now considering surgical intervention.
+
+The patient's surgical history includes an appendectomy at age 25 and a cholecystectomy at age 50. He has no known allergies and is taking aspirin, metformin, and atorvastatin.
+
+The patient's vitals are:
+
+* Blood pressure: 150/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F (37°C)
+
+The patient's laboratory results are:
+
+* White blood cell count: 12,000 cells/mm3
+* Creatinine: 1.8 mg/dL
+* Glucose: 180 mg/dL
+* Cholesterol: 220 mg/dL
+* Triglycerides: 150 mg/dL
+
+The patient's urinalysis shows trace amounts of protein and blood.
+
+The patient is alert and oriented x3. His speech is clear, and he has no difficulty swallowing. He has a decreased sensation in his lower extremities, and his gait is unsteady.
+
+The patient's surgical plan includes a lumbar spinal fusion with instrumentation.
+
+Complications:
+
+The patient developed acute renal failure postoperatively, which was managed with fluid hydration and supportive care. The patient's creatinine level peaked at 2.5 mg/dL on postoperative day 3 but has since improved to 1.9 mg/dL.
+
+The patient experienced some postoperative pain, which was managed with narcotic analgesics. He also developed a wound infection, which was treated with antibiotics.
+
+The patient's length of stay was 7 days, and he was discharged home with a follow-up appointment in 2 weeks.
+
+The patient's prognosis is good, and he is expected to make a full recovery.
+
+Assistant:
+
+Based on the information provided, the patient has a history of chronic back pain and numbness in his legs, which has not been relieved by conservative treatments. He has a history of hypertension, hyperlipidemia, and diabetes mellitus, and has undergone previous surgeries for an appendectomy and cholecystectomy. The patient's laboratory results show elevated creatinine and glucose levels, and trace amounts of protein and blood in his urine. The patient's surgical plan includes a lumbar spinal fusion with instrumentation, and he developed acute renal failure and a wound infection postoperatively. The patient's prognosis is good, and he is expected to make a full recovery.

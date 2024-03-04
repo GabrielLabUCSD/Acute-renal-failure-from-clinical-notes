@@ -1,0 +1,66 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker for 40 years, quit 10 years ago
+* Obese, BMI 35
+* History of sleep apnea, uses CPAP machine
+* History of Lower Back Pain, no surgical intervention
+* No history of previous surgery
+
+Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 20 mg daily
+* Metformin 1000 mg daily
+* Tramadol 50 mg as needed
+* Oxycodone 5 mg as needed
+
+Allergies:
+
+* None known
+
+Lab Results:
+
+* WBC 12,000/uL
+* Hematocrit 40%
+* Platelet count 200,000/uL
+* BUN 20 mg/dL
+* Creatinine 1.5 mg/dL
+* Glucose 150 mg/dL
+* Cholesterol 200 mg/dL
+* Triglycerides 150 mg/dL
+
+Imaging Results:
+
+* Chest X-ray: no acute disease
+* EKG: no acute changes
+
+Plan:
+
+* The patient is scheduled for a total knee replacement surgery
+* Preoperative orders include:
+	+ Bowel preparation
+	+ Prophylactic antibiotics
+	+ Thromboprophylaxis
+* Postoperative plan:
+	+ Patient will be transferred to the PACU for recovery
+	+ Pain management with opioids and non-steroidal anti-inflammatory drugs
+	+ Early mobilization and physical therapy
+	+ DVT prophylaxis with compression stockings and sequential compression devices
+
+Potential Complications:
+
+* Postoperative infections
+* Bleeding or hematoma
+* Wound dehiscence
+* Urinary retention or bladder injury
+* Respiratory complications (e.g. pneumonia, respiratory failure)
+* Cardiovascular complications (e.g. MI, arrhythmia)
+* Pulmonary embolism
+
+The patient's postoperative course was uneventful, and they were discharged from the hospital on postoperative day 3. They followed up with their surgeon and primary care physician for wound care and pain management. The patient did not experience any complications during their postoperative period.

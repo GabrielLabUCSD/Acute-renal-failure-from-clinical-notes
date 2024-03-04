@@ -1,0 +1,49 @@
+Patient Summary: 
+
+Name: [Patient"s Name].
+Age: [Patient"s Age].
+Gender: [Patient"s Gender].
+
+Medical History: 
+
+* Patient has a history of hypertension and hyperlipidemia.
+* Patient suffered a myocardial infarction 5 years ago and has been managed with medications.
+* Patient has chronic obstructive pulmonary disease (COPD) and uses an inhaler as needed.
+* Patient has a history of non-insulin-dependent diabetes mellitus.
+
+Surgical History: 
+
+* Patient is scheduled to undergo a elective laparoscopic cholecystectomy for symptomatic gallstones.
+* Patient had a previous appendectomy 10 years ago.
+
+Medications: 
+
+* Patient is currently taking aspirin, lisinopril, atorvastatin, and albuterol.
+
+Allergies: 
+
+* Patient is allergic to penicillin and sulfa drugs.
+
+Social History: 
+
+* Patient is a former smoker, quit 5 years ago.
+* Patient consumes moderate alcohol.
+* Patient has a supportive family and social network.
+
+Postoperative Course: 
+
+* Patient underwent a successful laparoscopic cholecystectomy.
+* Patient experienced mild postoperative pain, managed with pain medication.
+* Patient had a uneventful postoperative recovery and was discharged home on postoperative day 3.
+* Patient followed up with surgeon 2 weeks postoperatively and had a satisfactory wound healing.
+
+Complications: 
+
+* Patient developed a wound infection on postoperative day 5, treated with antibiotics.
+* Patient had a bout of nausea and vomiting on postoperative day 1, managed with antiemetics.
+* Patient had a mild respiratory distress on postoperative day 2, treated with oxygen therapy and bronchodilators.
+
+Follow-up: 
+
+* Patient will follow up with surgeon in 2 weeks for wound check and removal of sutures.
+* Patient will also follow up with primary care physician for routine follow-up and management of comorbidities.

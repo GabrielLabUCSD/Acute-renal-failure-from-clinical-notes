@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a 55-year-old male who presents for elective surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. The patient previously underwent a cholecystectomy and an appendectomy without complications. He currently takes lisinopril, atorvastatin, and metformin. The patient has a history of smoking but quit five years ago. He is allergic to penicillin and sulfa medications.
+
+During the preoperative examination, the patient's vital signs were within normal limits. His blood work showed normal electrolytes, liver function, and kidney function. The patient received general anesthesia and the surgery lasted for three hours without any major complications. The patient was transferred to the post-anesthesia care unit and remained there for two hours before being transferred to the surgical ward.
+
+On the first postoperative day, the patient's pain was managed with a patient-controlled analgesia (PCA) pump and he was able to tolerate a clear liquid diet. The patient began to have a low-grade fever, 101.3°F (38.5°C), on the second postoperative day and was started on broad-spectrum antibiotics. The fever resolved within 24 hours, and the patient was able to tolerate a soft diet. The patient's incision site was clean and dry.
+
+On the third postoperative day, the patient experienced some nausea and vomiting and was given ondansetron as needed. He was also started on a non-steroidal anti-inflammatory drug (NSAID) for pain management. The patient's urine output was adequate, and he did not develop any signs of urinary retention or postoperative bleeding.
+
+On the fourth postoperative day, the patient was discharged home in stable condition. He was advised to continue his pain medication and to follow up with his primary care physician within one week. The patient's postoperative course was otherwise uncomplicated.
+
+Complications: None
+
+Assistant: Is there anything else I can help you with?

@@ -1,0 +1,17 @@
+The patient is a (age)-year-old (gender) who is planning to undergo surgery. The patient's medical history includes (list of relevant medical conditions, such as diabetes, heart disease, etc.). They have also had previous surgeries for (specify surgeries, if applicable) on (date).
+
+In terms of their preoperative evaluation, the patient has undergone thorough assessment, including (mention any specific tests or evaluations performed, such as blood tests, imaging studies, consultations with specialists). Their vital signs have been stable, and they have been deemed a suitable candidate for surgery.
+
+During the surgery, (describe the type of surgery and if any complications were encountered during the procedure, if applicable). The patient was placed under general anesthesia and monitored closely throughout the procedure. The procedure was completed without any reported complications, and they were transferred to the post-anesthesia care unit for recovery.
+
+Postoperatively, the patient has been closely monitored for pain control, vital signs, and any signs of complications. They have been started on appropriate medications to prevent infection, deep vein thrombosis, and maintain adequate fluid balance. Physical therapy and mobility exercises have been initiated to prevent any postoperative complications.
+
+The patient has been on a regular diet, tolerating it well, and has been encouraged to ambulate as tolerated to prevent complications associated with immobility. Wound care has also been provided, with appropriate dressing changes and assessments.
+
+At each postoperative evaluation, the patient's pain level, vital signs, and overall recovery have been assessed. The patient has been compliant with all postoperative instructions and has reported gradual improvement in pain and general well-being. They have been advised on signs and symptoms to watch for that may indicate a potential complication.
+
+As for their postoperative course, the patient has experienced (indicate if there were any specific complications, if applicable, excluding acute renal failure). On day (number) post-surgery, the patient developed (description of complication, such as wound infection, surgical site hematoma, respiratory distress, etc.). The complication was managed through (describe the interventions or treatments provided to address the complication) and appropriate consultations were made, with involvement of (name of specialist).
+
+Following the management of the complication, the patient's condition has steadily improved, with resolution of symptoms and no further complications reported. The patient's pain has been adequately managed with pain medications, and they have been encouraged to continue with their mobility exercises and adhere to their follow-up appointments.
+
+Overall, the patient's postoperative course has been satisfactory aside from the mentioned complication. Their timely management, adherence to medical advice, and ongoing follow-up will play key roles in their continued recovery and well-being.

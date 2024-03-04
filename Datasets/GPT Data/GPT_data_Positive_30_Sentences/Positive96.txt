@@ -1,0 +1,41 @@
+The patient is a 45-year-old male who is planning to have surgery for a hernia repair. He has a history of hypertension, which has been well controlled with medication. 
+
+He also has a family history of heart disease, with his father having a heart attack at the age of 56. The patient himself has never had any cardiac symptoms and all his cardiac tests have been normal so far.
+
+In addition, the patient has a history of smoking for 10 years but has quit 5 years ago. He doesn't have any respiratory symptoms currently. 
+
+He does not have any known allergies, and his last tetanus shot was received 3 years ago. 
+
+The patient reports occasional back pain, which he believes is due to his sedentary lifestyle and long hours of sitting at work. He has not sought any treatment for his back pain.
+
+His past surgical history includes an appendectomy at the age of 20 and a tonsillectomy at the age of 10. No complications were reported in either surgery.
+
+The patient's medications include lisinopril for hypertension and a daily multivitamin. He does not take any herbal or over-the-counter supplements.
+
+The patient denies any current or past use of recreational drugs or excessive alcohol consumption. He reports drinking one to two alcoholic beverages per week.
+
+His physical examination reveals a well-nourished man in no acute distress. Vital signs are within normal limits, with blood pressure at 130/80 mmHg and heart rate at 80 beats per minute. The cardiovascular, respiratory, and abdominal examinations are unremarkable.
+
+Laboratory investigations show normal complete blood count, liver function tests, and renal function tests. His serum creatinine level is 0.9 mg/dL, indicating normal kidney function.
+
+However, a few days after the surgery, the patient develops symptoms of acute renal failure. He presents with decreased urine output, swelling in his lower extremities, and increasing fatigue.
+
+His laboratory investigations reveal elevated serum creatinine levels at 3.2 mg/dL and a decrease in urinary output to less than 400 mL per day. This confirms the diagnosis of acute renal failure.
+
+Further investigations reveal no evidence of obstruction in the urinary system, ruling out post-renal causes of acute renal failure.
+
+The patient is diagnosed with acute tubular necrosis, a common cause of acute renal failure after surgery. It is likely due to ischemic damage to the kidneys during the surgical procedure.
+
+Treatment for acute tubular necrosis includes optimizing fluid status, monitoring electrolyte levels, and initiating dialysis if necessary.
+
+The patient is started on intravenous fluids to maintain adequate hydration and to help flush out any toxins causing kidney damage.
+
+He is also closely monitored for electrolyte imbalances, particularly hyperkalemia, which can result from acute renal failure.
+
+Due to the severity of his kidney injury, the patient requires initiation of hemodialysis to help support his kidney function and aid in the removal of waste products from his blood.
+
+The patient's overall prognosis will depend on the extent and duration of his acute renal failure, as well as the underlying cause.
+
+It is important for the medical team to closely monitor his kidney function and ensure appropriate treatment to prevent any long-term complications.
+
+The patient should be educated about the importance of maintaining a healthy lifestyle, such as quitting smoking, managing his blood pressure, and following a balanced diet, to help prevent further kidney damage or recurrence of acute renal failure.

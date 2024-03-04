@@ -1,0 +1,15 @@
+Patient X is a 55-year-old male who is planning to undergo surgery for a herniated disc in the lumbar region. He has a past medical history of hypertension, type 2 diabetes, and obesity. He is currently taking medications for all three conditions. 
+
+During the pre-operative evaluation, it was noted that the patient has a history of chronic kidney disease stage 3, with a baseline estimated glomerular filtration rate (eGFR) of 45 ml/min/1.73m². His kidney function had been stable with no significant changes in the past year. 
+
+The patient has been instructed to hold his antihypertensive medications, including his angiotensin-converting enzyme (ACE) inhibitor, on the morning of surgery. He will undergo anesthesia with general endotracheal intubation. 
+
+Post-operatively, the patient developed acute renal failure, characterized by a rapid decline in kidney function. His serum creatinine level increased from 1.2 mg/dL pre-operatively to 2.8 mg/dL on post-operative day 1. His urine output has been consistently low, with a urine output of less than 400 ml per day. 
+
+The patient's blood pressure has also been difficult to control, with readings consistently above 160/90 mmHg. He has been started on intravenous fluids and diuretics to optimize his renal function. A nephrologist has been consulted for further management. 
+
+Lab tests were ordered, including electrolytes, arterial blood gas analysis, and a renal ultrasound. The electrolyte panel showed hyperkalemia, with a potassium level of 6.5 mmol/L. The arterial blood gas analysis showed metabolic acidosis, with a pH of 7.28 and bicarbonate level of 20 mmol/L. The renal ultrasound revealed normal-sized kidneys with no evidence of obstruction. 
+
+The patient is currently being closely monitored for signs of fluid overload and electrolyte disturbances. Renal replacement therapy with hemodialysis may be required if his kidney function does not improve within the next 48 hours. The surgical team has been notified of the patient's acute renal failure complication, and they are collaborating with the nephrologist to determine the optimal course of action. 
+
+In conclusion, Patient X with a history of hypertension, type 2 diabetes, obesity, and chronic kidney disease stage 3 is scheduled to undergo herniated disc surgery. However, he developed acute renal failure post-operatively with elevated serum creatinine, low urine output, difficult blood pressure control, hyperkalemia, and metabolic acidosis. In addition to supportive measures, further investigation and management are underway to address the complications and prevent further deterioration in renal function.

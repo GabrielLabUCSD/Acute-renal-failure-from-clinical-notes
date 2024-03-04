@@ -1,0 +1,11 @@
+The patient is a 55-year-old male who is planning to undergo surgery for a hernia repair. He has a past medical history significant for hypertension, diabetes mellitus type 2, and hyperlipidemia. The patient has been managed with medications for these conditions, including Lisinopril for hypertension and Metformin for diabetes. The patient reports a history of smoking for 30 years but quit 5 years ago.
+
+In terms of surgeries, the patient had appendectomy when he was younger and a cholecystectomy 10 years ago. Both surgeries were uncomplicated. The patient reports no known drug allergies.
+
+Currently, the patient's blood pressure is well controlled on Lisinopril 20 mg once daily. His blood sugars are satisfactory with a recent HbA1c level of 6.5%. He takes Metformin 1000 mg twice daily. The patient's lipid panel showed a total cholesterol of 200 mg/dL with LDL cholesterol of 120 mg/dL. He is currently on Atorvastatin 20 mg daily.
+
+The patient has a family history of cardiovascular disease, with his father experiencing a myocardial infarction at the age of 65. The patient denies any symptoms of chest pain or shortness of breath and is able to perform activities of daily living without difficulty.
+
+After undergoing surgery, the patient developed complications in the form of acute renal failure due to ischemia-reperfusion injury. His postoperative course has been complicated by hypotension and sepsis, leading to decreased renal perfusion and subsequent renal dysfunction. The patient's creatinine levels have risen to 2.5 mg/dL, with a concomitant decline in urine output. He also shows signs of electrolyte imbalance, including hyperkalemia and metabolic acidosis.
+
+The patient is currently being managed with intravenous fluids, diuretics, and close monitoring of his renal function. He has been referred to a nephrologist for further evaluation and management of his acute renal failure.

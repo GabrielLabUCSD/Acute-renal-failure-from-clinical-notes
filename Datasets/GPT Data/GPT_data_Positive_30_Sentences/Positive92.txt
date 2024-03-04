@@ -1,0 +1,25 @@
+Patient XYZ, a 45-year-old male, is scheduled for surgery and has a medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia. He has been taking medications for these conditions, including lisinopril, metformin, and atorvastatin.
+
+In addition to his chronic conditions, the patient has a history of obesity with a body mass index (BMI) of 36 kg/m². He has been counseled on the importance of weight management and has attempted various diet and exercise regimens without significant success.
+
+The patient has been diagnosed with obstructive sleep apnea and uses a continuous positive airway pressure (CPAP) machine during sleep. He reports compliance with CPAP therapy and finds it helpful in reducing daytime sleepiness.
+
+His surgical history includes a laparoscopic cholecystectomy performed 5 years ago due to symptomatic gallstones. No complications were reported during or after the surgery.
+
+In terms of allergies, the patient reports an allergy to penicillin, with a documented history of anaphylactic reaction. He has not experienced any other known drug allergies or adverse reactions.
+
+Laboratory findings reveal a history of well-controlled blood glucose levels with an HbA1c of 6.5%. His lipid profile demonstrates well-controlled cholesterol levels, with a total cholesterol of 180 mg/dL and LDL levels of 100 mg/dL. His renal function tests have been stable, with a serum creatinine level of 0.8 mg/dL and estimated glomerular filtration rate (eGFR) of 90 ml/min/1.73m².
+
+The patient has no known family history of significant medical conditions. He does not smoke and consumes alcohol in moderation.
+
+The planned surgery involves a partial colectomy for the treatment of a suspected adenocarcinoma. The patient has undergone a thorough preoperative evaluation, including a colonoscopy and imaging studies. The surgical team has discussed the risks, benefits, and potential complications of the procedure with the patient, who has provided informed consent.
+
+Postoperatively, the patient experiences acute renal failure, which is a potential complication of surgery. The leading cause of his acute renal failure is determined to be acute tubular necrosis, likely due to hypovolemia and inadequate perioperative fluid management. The patient undergoes supportive treatment, including intravenous fluids, diuretics, and close monitoring of renal function.
+
+The etiology of the patient's acute tubular necrosis is multifactorial, with factors such as preexisting hypertension, diabetes, and the use of nephrotoxic medications contributing to his renal compromise. The patient's renal function gradually improves over time, and he is eventually able to be discharged home with close follow-up with a nephrologist.
+
+Given the patient's medical history, it is crucial to optimize his perioperative management to minimize the risk of complications. This includes close monitoring of blood glucose levels, adequate hydration, careful selection of anesthetics, and vigilant postoperative nephrologic monitoring.
+
+Due to his obstructive sleep apnea, an anesthesiology consultation is obtained preoperatively to discuss the appropriateness of using regional anesthesia and the need for postoperative monitoring in a higher acuity setting.
+
+Overall, the patient's medical history and current acute renal failure highlight the importance of a comprehensive preoperative evaluation and the need for proactive management of known risk factors to ensure the best possible surgical outcome. Continuous collaboration between the surgical and medical teams is essential to address the patient's underlying medical conditions and manage potential complications effectively.

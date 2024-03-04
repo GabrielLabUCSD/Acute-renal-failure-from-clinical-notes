@@ -1,0 +1,33 @@
+The patient is a ____-year-old ____(gender)____ who is planning to undergo _____(type of surgery)____. The patient's past medical history includes _____(list of medical conditions)____. They have a known allergy to ______(specific medication or substance)_____
+
+In terms of surgeries, the patient has previously undergone _____(mention any previous surgeries)_____. The patient has a family history of ______(specific medical conditions)_____. Their current medications include ______(list of medications)_____. 
+
+The patient does not smoke and denies any history of alcohol or illicit drug use. Their vital signs are stable, with a blood pressure of _____mmHg, heart rate _____bpm, respiratory rate _____ breaths per minute, and temperature of _____°C. 
+
+Physical examination reveals ______(any notable findings or abnormalities)_____. Laboratory investigations show ______(relevant lab values)_____. Their renal function tests, including serum creatinine and estimated glomerular filtration rate, are within normal limits. 
+
+Preoperative consultations with the respective specialties have been completed, including ______(list of specialties consulted)_____. The patient has been successfully optimized and cleared for surgery. 
+
+Following the surgery, the patient's postoperative course has been uncomplicated. They were managed on ______(specific postoperative management plan)_____. Pain was adequately controlled with _____(specific pain management interventions)_____. 
+
+The patient was able to tolerate a regular diet and ambulate without difficulty. No signs of wound infection, such as redness, swelling, or drainage, were observed. 
+
+Daily wound dressing changes were performed, and the wound appeared to be healing well. The patient did not develop any signs of deep vein thrombosis, such as calf pain, swelling, or warmth. 
+
+Their postoperative blood work showed _____(relevant lab values)_____. The patient's vital signs remained stable during the postoperative period, with blood pressure ranging from _____ to _____mmHg, heart rate _____ to _____bpm, and temperature ranging between _____ and _____°C. 
+
+The patient's pain has gradually improved and is now well-controlled with oral analgesics. They have been encouraged to regularly perform deep breathing exercises and ambulate to prevent postoperative complications. 
+
+There have been no signs of postoperative complications, such as wound dehiscence, hematoma formation, or respiratory distress. The patient has had an appropriate urinary output, with a Foley catheter in place. 
+
+No signs of surgical site infection or systemic infection were observed. The patient's postoperative diet has included regular solid foods, and they have been able to maintain adequate hydration. 
+
+The patient's postoperative laboratory investigations, including complete blood count and basic metabolic panel, have remained within acceptable ranges. They have not required any blood transfusions or other interventions. 
+
+The surgical team has provided appropriate education regarding incision care, activity restrictions, and follow-up appointments. The patient has expressed understanding and is compliant with the provided instructions. 
+
+The patient has been discharged from the hospital in a stable condition. They have been scheduled for a follow-up visit in ______(number of days)_____. At the time of discharge, they were prescribed ______(list of medications)_____. 
+
+The patient has been advised to seek medical attention if they experience any signs of infection, bleeding, or worsening pain. They have been informed about potential warning signs related to their specific surgery. 
+
+Overall, the patient had an uneventful postoperative course without complications, other than _____(if there were any specific complications)_____. They were satisfied with the care received and have been encouraged to adhere to postoperative care guidelines.

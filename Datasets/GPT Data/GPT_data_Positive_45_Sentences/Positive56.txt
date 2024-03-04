@@ -1,0 +1,21 @@
+The patient, a 50-year-old male, is planning to have surgery and has a complex medical history. He has a history of hypertension, diabetes mellitus type 2, chronic kidney disease stage 3, and obesity. His hypertension is well controlled on medication, but his diabetes is poorly controlled with an HbA1c of 9.5%. He has been experiencing intermittent episodes of chest pain, related to exertion, for the past few months.
+
+The patient has a history of smoking, with a 30-pack-year history. He quit smoking 5 years ago. He also has a family history of cardiovascular disease, with his father having had a myocardial infarction at the age of 60.
+
+His chronic kidney disease is believed to be related to his poorly controlled diabetes and hypertension. His kidney function has been declining slowly over the past few years. He currently has an estimated glomerular filtration rate (eGFR) of 45 mL/min/1.73m2. He has mild proteinuria, with a urinary albumin creatinine ratio of 100 mg/g.
+
+The patient is also obese, with a body mass index (BMI) of 35 kg/m2. He has attempted to lose weight in the past but has been unsuccessful. He has a sedentary lifestyle and admits to a poor diet with high calorie intake.
+
+In addition to his medical history, the patient is also taking several medications. He is on an angiotensin-converting enzyme (ACE) inhibitor for hypertension and a statin for dyslipidemia. He is also taking metformin for his diabetes, although the dose may need adjustment due to poor glycemic control. He is not taking any over-the-counter or herbal medications.
+
+The patient is scheduled to undergo surgery for a hernia repair. The surgery is expected to last around 2 hours, and the patient will be given general anesthesia. The surgical team expects the patient to have an uneventful recovery, but there are inherent risks associated with any surgical procedure.
+
+During the surgery, the patient developed complications related to acute renal failure. Immediately after the surgery, his urine output decreased, and he became oliguric. His serum creatinine levels increased from 0.9 mg/dL preoperatively to 2.5 mg/dL postoperatively, indicating a decline in renal function.
+
+The patient was diagnosed with acute tubular necrosis, which is the most common cause of acute renal failure postoperatively. The exact cause of his acute tubular necrosis is unclear, but it is believed to be multifactorial. Factors that may have contributed to his renal failure include preexisting chronic kidney disease, intraoperative hypotension, and exposure to nephrotoxic medications.
+
+The patient was promptly started on aggressive fluid resuscitation and close monitoring of his renal function. His oliguria gradually improved, and his urine output returned to normal after a few days. However, his serum creatinine levels remained elevated at 2.0 mg/dL, indicating residual renal impairment.
+
+In addition to the acute renal failure, the patient also experienced other postoperative complications. He developed a wound infection at the surgical site, which was managed with antibiotics and wound care. He also had difficulty controlling his blood glucose levels postoperatively, with frequent episodes of hyperglycemia. Insulin therapy was initiated to achieve glycemic control.
+
+Overall, the patient's postoperative course was challenging, with prolonged hospital stay and additional interventions required to manage his complications. The renal failure added complexity to his recovery and necessitated close monitoring and management. The patient's long-term prognosis remains uncertain, as his preexisting chronic kidney disease may be further exacerbated by the acute tubular necrosis. Close follow-up and ongoing management of his renal function will be necessary to optimize his outcomes.

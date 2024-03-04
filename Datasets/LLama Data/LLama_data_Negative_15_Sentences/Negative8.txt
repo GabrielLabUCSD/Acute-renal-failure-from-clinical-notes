@@ -1,0 +1,45 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 55
+Sex: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus (well-controlled)
+* History of Non-alcoholic fatty liver disease (NAFLD)
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 10 years ago
+* Appendectomy (appendix removal) 20 years ago
+
+Current Symptoms:
+
+* Abdominal pain
+* Nausea and vomiting
+* Difficulty swallowing
+
+Reason for Surgery:
+
+* Gastroesophageal reflux disease (GERD)
+
+Planned Surgery:
+
+* Laparoscopic fundoplication (a minimally invasive procedure to treat GERD)
+
+Postoperative Course:
+
+* The patient had a smooth postoperative course
+* Was discharged from the hospital on the 3rd day after surgery
+* Followed up with the surgeon 2 weeks after discharge and reported minimal discomfort
+* Returned to work 2 weeks after surgery
+
+Complications:
+
+* None
+
+This patient summary provides a clear and concise overview of the patient's medical history, surgical history, current symptoms, reason for surgery, planned surgery, postoperative course, and complications. It highlights the patient's high-risk factors, such as obesity and hypertension, and the presence of diabetes mellitus and NAFLD, which may impact the patient's postoperative recovery. The absence of acute renal failure as a complication is also notable.

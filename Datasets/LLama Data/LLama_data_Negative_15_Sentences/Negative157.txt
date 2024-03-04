@@ -1,0 +1,31 @@
+Patient Summary:
+
+This patient is a [insert age]-year-old [insert gender] who presents for [insert type of surgery]. Their medical history includes [insert relevant medical conditions, such as hypertension, diabetes, or asthma]. The patient has been taking [insert medications] and supplements, including [insert any relevant supplements]. They have no known allergies to medications or latex.
+
+The patient's surgical history includes [insert any previous surgeries or procedures]. They have had no previous complications from surgery.
+
+The patient's current symptoms include [insert any relevant symptoms, such as pain or difficulty swallowing]. They have been experiencing these symptoms for [insert duration].
+
+The patient's physical examination reveals [insert any relevant findings, such as abnormal heart sounds or lung crackles].
+
+The patient is scheduled for [insert type of surgery] under [insert type of anesthesia].
+
+Postoperatively, the patient will be closely monitored for [insert any relevant complications, such as respiratory or cardiac issues].
+
+The patient will be discharged home with [insert any relevant medications or instructions, such as wound care or pain management].
+
+The patient will follow up with their surgeon in [insert time frame, such as 1-2 weeks] to ensure that their wound is healing properly and to address any concerns or complications.
+
+The patient is at risk for [insert any relevant potential complications, such as bleeding or infection].
+
+The patient will be prescribed [insert any relevant medications, such as antibiotics or pain medication] to manage any potential complications.
+
+The patient is expected to make a full recovery and return to their normal activities within [insert time frame, such as 2-4 weeks].
+
+The patient is advised to avoid [insert any relevant activities or foods, such as heavy lifting or hot foods] during their recovery.
+
+The patient is encouraged to follow a [insert any relevant instructions, such as wound care instructions or pain management plan] to ensure a smooth and successful recovery.
+
+The patient's prognosis is good, and they are expected to experience significant improvement in their symptoms after surgery.
+
+The patient has been informed of the risks and benefits of surgery and has given their informed consent for the procedure.

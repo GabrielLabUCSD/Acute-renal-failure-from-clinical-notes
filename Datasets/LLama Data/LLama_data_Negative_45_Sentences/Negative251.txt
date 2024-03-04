@@ -1,0 +1,101 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+
+Age: 55
+
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Herniotomy 5 years ago
+
+Current Medications:
+
+* Lisinopril
+* Atorvastatin
+* Aspirin
+* Metformin
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies alcohol or drug abuse
+* Lives alone
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Preoperative Examination:
+
+* Blood pressure: 140/90 mmHg
+* Heart rate: 75 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F (37°C)
+* Oxygen saturation: 98% on room air
+
+Lab Results:
+
+* White blood cell count: 12,000 cells/mm3
+* Hemoglobin: 14 g/dL
+* Hematocrit: 40%
+* Platelet count: 200,000 cells/mm3
+* BUN/Creatinine ratio: 15/1.2
+* Electrolytes: Normal
+* Lipase: 350 U/L
+* Amylase: 100 U/L
+* Bilirubin: 1.2 mg/dL
+
+Imaging Studies:
+
+* Ultrasound of the gallbladder shows multiple gallstones
+* CT scan of the abdomen and pelvis shows no evidence of appendicitis or other intra-abdominal pathology
+
+Plan:
+
+* Elective laparoscopic cholecystectomy
+* Preoperative preparation including antibiotics and patient instructions
+* Postoperative care in the surgical ward
+
+Postoperative Course:
+
+* Patient tolerated the procedure well and was extubated immediately after surgery
+* Patient experienced some postoperative nausea and vomiting, which was managed with antiemetics
+* Patient had some discomfort at the incision site, which was managed with pain medication
+* Patient was able to eat solid foods on the first postoperative day and had a uneventful postoperative course
+
+Complications:
+
+* None
+
+Discharge Instructions:
+
+* Follow-up appointment with surgeon in 1 week
+* No heavy lifting or bending for 2 weeks
+* Avoid strenuous activity for 4 weeks
+* Monitor for signs of infection (fever, chills, redness, swelling)
+* Take pain medication as directed
+* Follow-up with primary care physician in 2 weeks
+
+Note: This is a sample patient summary, and the specific details may vary depending on the individual patient and their medical history.

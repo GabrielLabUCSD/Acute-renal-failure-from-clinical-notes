@@ -1,0 +1,21 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] with a past medical history significant for [chronic conditions or illnesses]. They are planning to undergo surgery for [reason]. 
+
+In terms of their surgical history, the patient has had [number of prior surgeries]. Their previous surgeries include [brief description of prior surgeries and any complications, if applicable].
+
+In terms of their medical history, the patient has been diagnosed with [list of chronic conditions or illnesses]. The patient's chronic conditions include [description of each chronic condition and any associated complications, if applicable]. They are currently being managed with [specific treatments or medications] for these conditions.
+
+The patient has a family history of [any relevant medical conditions, if applicable]. Notable family medical history includes [description of relevant family conditions].
+
+On physical examination, the patient demonstrates [any notable findings or abnormalities that are relevant to the surgery or postoperative course].
+
+The patient's preoperative labs include [provide relevant lab values]. These labs indicate [any abnormal findings, if applicable].
+
+During the surgery, [details of the procedure] were performed.  The surgical procedure was [uncomplicated/complicated] and lasted for approximately [duration].
+
+Postoperatively, the patient's course was [unremarkable/complicated]. The patient experienced [complications, if any - excluding acute renal failure] following the surgery, including [description of complications, their severity, and how they were managed].
+
+The patient's vital signs have remained stable throughout the postoperative period, and they have been able to ambulate without difficulty. Pain management has been achieved with [type of pain management]. The patient's progress has been monitored closely with regular wound assessments and dressing changes, which have remained satisfactory.
+
+The patient has been discharged home on [specific medications or treatments] with instructions to follow up with their primary care physician/surgeon in [specific time frame]. They have been advised to resume their previous diet and activity level gradually and to report any concerning symptoms or signs of infection. The patient has received appropriate education regarding wound care and signs of complications.

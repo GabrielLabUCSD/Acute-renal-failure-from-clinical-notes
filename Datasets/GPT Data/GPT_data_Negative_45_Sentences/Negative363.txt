@@ -1,0 +1,21 @@
+The patient is a (age) year old (gender) who is scheduled for surgery. Their medical history includes (list of relevant medical conditions, such as hypertension, diabetes, asthma, etc.) which are well-controlled. They have a history of (list any relevant surgical procedures or major illnesses). The patient has a history of smoking for (number of years), but they currently do not smoke.
+
+Their medication list includes (list of medications) which are taken regularly as prescribed. They have no known allergies or adverse drug reactions. The patient's vital signs, including blood pressure, heart rate, respiratory rate, and temperature, are within normal limits.
+
+Their preoperative laboratory results showed normal complete blood count, electrolytes, kidney function tests, and liver function tests. Their chest X-ray and electrocardiogram came back normal as well. The patient had a preoperative consultation with the anesthesiologist and was deemed at low risk for anesthesia complications.
+
+The surgical procedure being performed is (describe the type of surgery) to address (explain the reason for surgery, such as to remove a tumor, repair a hernia, or correct a structural defect). The surgery is being done to (expected outcome of surgery).
+
+The patient was instructed to refrain from eating or drinking after midnight the night before the surgery to ensure an empty stomach. They were provided preoperative instructions on how to prepare for surgery, including proper wound care, medication management, and follow-up appointments.
+
+Postoperatively, the patient was closely monitored in the recovery room for a few hours before being transferred to a regular hospital room. They received appropriate pain management and were encouraged to perform breathing exercises and ambulate as tolerated to prevent complications such as pneumonia and deep vein thrombosis.
+
+The patient's postoperative course was uneventful. They resumed oral intake and their gastrointestinal system functioned normally. Wound healing was progressing well, and there were no signs of infection or other complications. They were able to tolerate a regular diet and their pain was adequately controlled with oral analgesics.
+
+The patient was seen by physical therapists for postoperative rehabilitation and started a gradual increase in their activity level to regain strength and range of motion. They were also provided with appropriate education and resources for at-home recovery, including wound care instructions and precautions to minimize the risk of complications.
+
+No postoperative complications were noted such as wound dehiscence, wound infection, bleeding, or prolonged ileus. The patient's vital signs remained stable throughout their hospital stay, with no signs of infection or other systemic complications. They were discharged on (day of discharge) in good condition, with detailed discharge instructions and scheduled follow-up appointments.
+
+During the postoperative follow-up appointments, the patient continued to demonstrate satisfactory progress, with the wound healing well and no signs of infection. They were gradually able to resume their normal activities and gradually discontinued pain medication as the pain subsided. The patient's overall recovery was deemed successful without any major complications.
+
+Overall, the patient's medical history and preoperative evaluation indicated low risk for surgery, and their postoperative course was uneventful without any complications. The surgery achieved the expected outcome and the patient showed good recovery following appropriate postoperative care.

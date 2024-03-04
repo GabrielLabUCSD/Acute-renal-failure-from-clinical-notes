@@ -1,0 +1,73 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol abuse
+* Obesity (BMI 35)
+* Sleep apnea
+* History of non-insulin dependent diabetes mellitus
+
+Current Medications:
+
+* Lisinopril
+* Atorvastatin
+* Clopidogrel
+* aspirin
+* Metformin
+* Oxycodone
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Previous Surgeries:
+
+* Cholecystectomy (laparoscopic) 10 years ago
+* Hernia repair (open) 5 years ago
+
+Family History:
+
+* Mother died of breast cancer at age 60
+* Father died of myocardial infarction at age 70
+* One sibling with a history of colon cancer
+
+Social History:
+
+* Married with two adult children
+* Works as a retired engineer
+* Lives in a two-story house with no elevator
+* Has a pet dog that requires regular walking
+
+Reason for Surgery:
+
+* Chronic lower back pain due to spinal stenosis
+
+Planned Surgery:
+
+* Laminotomy and fusion of L4-L5 vertebrae
+
+Postoperative Course:
+
+* Patient was transferred to the intensive care unit for close monitoring due to his sleep apnea and obesity
+* Patient experienced some postoperative nausea and vomiting, which was managed with medication
+* Patient had a thoracic epidural catheter inserted for pain management
+* Patient was able to ambulate independently on the first postoperative day and was discharged home on the third postoperative day
+
+Complications:
+
+* None
+
+Follow-up Plan:
+
+* Follow-up appointment with the surgeon in 2 weeks
+* Physical therapy appointments scheduled for 1 week after discharge
+* Pain management with oxycodone and gabapentin
+
+I hope this sample patient summary is helpful. Please note that this is just an example and the specific details may vary depending on the individual patient and surgery.

@@ -1,0 +1,21 @@
+The patient is a (age) year old (gender) with a past medical history significant for (medical conditions), who is planning to undergo (type of surgery). Their surgical history includes (previous surgeries). They have a history of (allergies) but no known allergies to any medications or materials utilized during surgery.
+
+The patient's medication history includes (current medications), which will be continued up until the day of surgery, with the exception of (medication to be stopped). They have no known drug interactions or contraindications for anesthesia. Preoperative labs, including complete blood count, comprehensive metabolic panel, coagulation studies, and urinalysis, were within normal limits.
+
+During the pre-anesthetic evaluation, the patient was noted to be in good general health, with stable vital signs and no evidence of acute illness. The patient's airway, cardiovascular system, and neurological system were all normal on examination. They were classified as an ASA (American Society of Anesthesiologists) physical status of (class).
+
+In preparation for surgery, the patient was administered standard preoperative prophylactic antibiotics. An intravenous line was initiated, and a comprehensive anesthesia plan was discussed with the patient, including the option for regional or general anesthesia based on the surgical procedure.
+
+The patient underwent (type of surgery) without any intraoperative complications. Vital signs were stable throughout the procedure, and intraoperative blood loss was minimal. Anesthesia was maintained using (anesthetic agents), and the patient was monitored closely including EKG, pulse oximetry, and blood pressure.
+
+The postoperative course for the patient was uneventful. They were monitored in the recovery room and then transferred to the surgical floor. Pain management was achieved using a combination of (analgesic medications), with a pain score consistently below (numeric score). The patient tolerated oral intake without any nausea or vomiting and experienced no significant surgical site complications.
+
+The patient's postoperative recovery was marked by regular visits from the surgical team, who monitored wound healing and addressed any concerns. Vital signs remained stable, and the patient's pain was well-controlled. They were gradually mobilized and encouraged to participate in physical therapy as appropriate for their surgical procedure.
+
+Throughout their hospital stay, the patient had no evidence of wound infections, thromboembolic events, pneumonia, or other postoperative complications. Their estimated blood loss was minimal, and there were no signs of postoperative anemia or transfusion requirement.
+
+The patient's surgical site was carefully monitored for signs of infection or dehiscence. The wound was found to be healing well with no evidence of surgical site complications. They were discharged home on (date) with a prescription for (appropriate postoperative medications) and instructions for wound care.
+
+At the time of discharge, the patient had achieved their desired functional status and was able to perform activities of daily living independently. They were advised to follow up with their primary care physician and surgeon for routine postoperative visits at scheduled intervals.
+
+In summary, the patient's surgical experience was uneventful, with no intraoperative or postoperative complications. They had an uncomplicated postoperative course, and their wound healed without any issues. The patient reported satisfactory pain control and achieved a successful functional recovery after surgery.

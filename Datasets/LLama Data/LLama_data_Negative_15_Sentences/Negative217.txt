@@ -1,0 +1,36 @@
+Patient Summary:
+
+Name: [Patient's Name]
+Age: [Patient's Age]
+Gender: [Patient's Gender]
+
+Medical History:
+
+* History of hypertension, controlled with medication
+* History of hypothyroidism, controlled with medication
+* History of hyperlipidemia, controlled with medication
+* History of non-insulin-dependent diabetes mellitus, controlled with medication and diet
+* History of obstructive sleep apnea, uses continuous positive airway pressure (CPAP) machine at night
+* History of anxiety, controlled with medication
+* History of depression, controlled with medication
+* History of chronic lower back pain, managed with physical therapy and pain medication
+* History of gallstones, had cholecystectomy 10 years ago
+* History of hysterectomy for uterine fibroids 5 years ago
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Postoperative Course:
+
+* Developed postoperative nausea and vomiting, managed with antiemetics
+* Experienced mild pain, managed with patient-controlled analgesia (PCA)
+* Had a temporary increase in blood pressure and heart rate, managed with medication
+* Developed mild urinary retention, managed with bladder catheterization
+* No signs of surgical site infection or other complications
+
+Complications:
+
+* None
+
+The patient had an uneventful postoperative course and was discharged home on the third day after surgery. They were advised to continue their medications for hypertension, hypothyroidism, hyperlipidemia, and anxiety, and to follow up with their surgeon and primary care physician for further management of their conditions.

@@ -1,0 +1,15 @@
+The patient is a X-year-old male/female planning to have surgery.
+They have a past medical history significant for hypertension, diabetes mellitus type 2, and obesity, with a BMI of X.
+They have a history of smoking X pack-years, but quit X years ago.
+Their current medications include lisinopril for hypertension and metformin for diabetes.
+They have a family history of heart disease, with their mother having a myocardial infarction at age X.
+Preoperative testing revealed an EKG showing sinus rhythm with left ventricular hypertrophy and a normal echocardiogram.
+The patient has been seen by the anesthesiology team for preoperative evaluation and was deemed to be at moderate surgical risk.
+In preparation for surgery, they were advised to stop taking metformin X days prior to the procedure.
+They underwent surgery under general anesthesia and tolerated the procedure well.
+Postoperatively, they are being closely monitored for pain control, wound healing, and respiratory function.
+They are encouraged to ambulate early to prevent venous thromboembolism.
+The patient's vital signs including heart rate, blood pressure, respiratory rate, and oxygen saturation have remained stable since surgery.
+They were initiated on deep vein thrombosis prophylaxis with subcutaneous heparin.
+The postoperative course has been uneventful, and the patient is recovering well.
+There were no immediate complications such as wound infection, respiratory distress, or cardiac events observed.

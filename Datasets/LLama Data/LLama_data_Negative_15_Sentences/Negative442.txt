@@ -1,0 +1,61 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Previous myocardial infarction (MI) 10 years ago
+* Previous coronary artery bypass grafting (CABG) 10 years ago
+* Chronic obstructive pulmonary disease (COPD)
+* Gastroesophageal reflux disease (GERD)
+* History of non-steroidal anti-inflammatory drug (NSAID) use
+* No known allergies
+
+Surgical History:
+
+* Cholecystectomy 5 years ago
+* Herniotomy 3 years ago
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Atorvastatin 20 mg daily
+* Lisinopril 40 mg daily
+* Omeprazole 20 mg daily
+* Albuterol inhaler as needed
+* Ibuprofen 800 mg as needed
+
+Preoperative Course:
+
+* Patient presented to the clinic for preoperative evaluation 2 weeks ago
+* Lab results showed mild anemia and elevated liver enzymes
+* Patient was referred to cardiology for further evaluation and clearance
+* Patient underwent stress echocardiogram which showed no significant issues
+* Patient was cleared for surgery by cardiology and anesthesia teams
+
+Surgical Procedure:
+
+* Laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Patient had an uneventful procedure and recovery
+* Patient experienced some postoperative nausea and vomiting, managed with antiemetics
+* Patient was discharged home on postoperative day 2
+
+Complications:
+
+* None
+
+Follow-up:
+
+* Patient followed up with surgeon 2 weeks after discharge
+* Patient reported minimal pain and was doing well
+* Surgeon recommended continuing with current medications and follow-up in 6 weeks.
+
+This patient summary includes relevant information about the patient's medical history, surgical history, current medications, preoperative course, surgical procedure, postoperative course, and follow-up plan. It also highlights potential risk factors, such as the patient's history of smoking, obesity, and hypertension, which may impact their surgical outcome.

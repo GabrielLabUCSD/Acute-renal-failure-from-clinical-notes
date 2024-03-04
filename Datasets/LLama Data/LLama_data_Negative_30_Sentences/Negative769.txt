@@ -1,0 +1,62 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and limited mobility. The patient has a history of smoking and has tried various conservative treatments, including physical therapy and pain medication, without significant relief. The patient has been recommended for surgery to address the underlying cause of their pain.
+
+Medical History:
+
+* History of smoking
+* Chronic back pain
+* Limited mobility
+* Previous attempts at conservative treatment without significant relief
+
+Surgical History:
+
+* None
+
+Medications:
+
+* Pain medication
+
+Allergies:
+
+* None
+
+Lab Results:
+
+* Within normal limits
+
+Imaging Results:
+
+* MRI reveals a herniated disc
+
+Diagnosis:
+
+* Herniated disc
+
+Treatment Plan:
+
+* Surgery to address the herniated disc
+
+Postoperative Course:
+
+* The patient had a successful surgery and was discharged from the hospital within 24 hours.
+* The patient was prescribed pain medication and physical therapy to aid in their recovery.
+* The patient reported some discomfort and swelling at the surgical site, but this resolved within a week.
+* The patient was able to return to their normal activities within 6 weeks.
+
+Complications:
+
+* None
+
+Follow-up:
+
+* The patient had a follow-up appointment with their surgeon 2 weeks after discharge.
+* The patient reported some increased pain and swelling at the surgical site.
+* The surgeon recommended continued physical therapy and pain medication.
+* The patient was advised to follow up with their primary care physician for further management of their pain.
+
+Conclusion:
+
+* The patient underwent successful surgery to address their herniated disc.
+* The patient had a relatively smooth postoperative course with some expected discomfort and swelling.
+* The patient was able to return to their normal activities within 6 weeks and had a successful outcome.

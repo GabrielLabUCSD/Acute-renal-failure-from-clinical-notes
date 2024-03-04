@@ -1,0 +1,21 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [list all medical conditions, including any previous surgeries, injuries, or illnesses]. The patient has been taking [list all medications, including dosages and frequency] and has had [list any allergic reactions or sensitivities] to medications in the past.
+
+The patient is scheduled to undergo [type of surgery] and the planned procedure includes [provide a detailed description of the surgical procedure]. The patient's postoperative course is expected to involve [list all expected postoperative interventions, such as pain management, wound care, and physical therapy].
+
+The patient has a history of [list any relevant medical conditions that may impact the postoperative course, such as heart disease or diabetes]. The patient is at risk for [list any potential complications that may arise during the postoperative period, such as infection or pulmonary embolism].
+
+The patient's vital signs are stable, with a blood pressure of [list blood pressure reading], heart rate of [list heart rate], and respiratory rate of [list respiratory rate]. The patient's temperature is [list temperature].
+
+The patient has been informed of the risks and benefits of the surgical procedure and has provided informed consent. The patient's support system includes [list any family members or friends who will be providing care and support during the postoperative period].
+
+The patient's postoperative care will be managed by [list the healthcare team members who will be responsible for the patient's care, including the surgeon, anesthesiologist, and nursing staff]. The patient will be closely monitored for any signs of complications and will receive appropriate interventions as needed.
+
+The patient is expected to stay in the hospital for [list the expected length of stay] and will require [list any additional interventions, such as physical therapy or pain management, that will be needed during this time]. The patient will follow up with the surgeon in [list the expected timeframe for follow-up appointments].
+
+There are no anticipated issues with the patient's postoperative course, but the healthcare team will closely monitor the patient for any complications and will take appropriate action if needed.
+
+Signature: [Assistant's Signature]
+Date: [Current Date]
+Time: [Current Time]

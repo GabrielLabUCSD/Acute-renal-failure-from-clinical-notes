@@ -1,0 +1,29 @@
+Patient Summary:
+
+The patient is a (insert age) year old male/female who presents with a history of (insert medical condition) and is scheduled for (insert type of surgery). The patient has a history of (insert relevant medical history), including (insert relevant surgical history). The patient"s current medications include (insert medications). The patient has no known allergies.
+
+Preoperative Workup:
+
+The patient underwent a thorough preoperative workup, which included (insert relevant diagnostic tests, such as lab tests, imaging studies, and cardiac evaluations). The results showed (insert relevant results).
+
+Operative Course:
+
+The patient underwent (insert type of surgery) on (insert date) under general anesthesia. The surgery was performed by (insert surgeon"s name). The procedure lasted (insert length of surgery) and was uneventful.
+
+Postoperative Course:
+
+The patient had an uncomplicated postoperative course. They were transferred to the recovery room and closely monitored for any complications. The patient experienced some (insert common postoperative symptoms, such as pain, nausea, and vomiting), which were managed with (insert medications and interventions).
+
+The patient was able to tolerate oral intake and had a stable vitals throughout the postoperative period. They were encouraged to move around and ambulate as soon as possible to prevent (insert potential complications).
+
+Complications:
+
+The patient did not experience any acute renal failure or other major complications during the postoperative period. However, they did have (insert any minor complications, such as wound infection, urinary retention, or constipation), which were managed with (insert medications and interventions).
+
+Discharge:
+
+The patient was discharged from the hospital on (insert date) and was advised to follow up with their surgeon for further postoperative care. They were also given instructions on wound care, pain management, and physical therapy to ensure a smooth recovery.
+
+Conclusion:
+
+In conclusion, the patient had an uneventful surgery and postoperative course. They were closely monitored and managed appropriately for any complications that arose. The patient was discharged from the hospital and advised to follow up with their surgeon for further care.

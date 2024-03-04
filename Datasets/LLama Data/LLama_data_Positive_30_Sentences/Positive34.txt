@@ -1,0 +1,36 @@
+Sure, here is a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a description of the patient having acute renal failure complication after surgery:
+
+Patient Name: John Doe
+
+1. Chief Complaint: Abdominal pain and distension
+2. History of Present Illness: 2-week history of worsening abdominal pain and distension, with associated nausea and vomiting
+3. Past Medical History: Hypertension, hyperlipidemia, non-insulin dependent diabetes mellitus (NIDDM), and chronic kidney disease (CKD)
+4. Medications: Lisinopril, simvastatin, metformin, and insulin
+5. Allergies: Penicillin
+6. Family History: No significant medical history in immediate family members
+7. Social History: Smoker, 1 pack per day for 20 years; drinks 2-3 alcoholic beverages per day
+8. Review of Systems: No significant cardiovascular, respiratory, or neurological symptoms
+9. Physical Examination: Abdominal tenderness to palpation, guarding, and rebound tenderness; no organomegaly or masses palpable
+10. Laboratory Results: Elevated white blood cell count (WBC), elevated serum creatinine and blood urea nitrogen (BUN), and metabolic acidosis
+11. Imaging Studies: Computed tomography (CT) scan of the abdomen and pelvis showed a possible obstructive lesion in the small intestine
+12. Procedures: Nasogastric tube placement for decompression; CT-guided fine needle aspiration of the pancreas
+13. Diagnosis: Acute pancreatitis, likely due to gallstones
+14. Plan: Laparoscopic cholecystectomy and possible pancreatic neurolysis
+15. Preoperative Orders: Clear liquids until midnight, no solid food or alcohol for 8 hours before surgery
+16. Day of Surgery: Patient arrived in the operating room at 7:00 am, fasting and ready for surgery
+17. Anesthesia: General anesthesia with an endotracheal tube and monitoring of vital signs
+18. Surgical Procedure: Laparoscopic cholecystectomy with common bile duct exploration
+19. Intraoperative Course: Uneventful, with stable vital signs and minimal bleeding
+20. Postoperative Course: Patient transferred to the post-anesthesia care unit (PACU) for recovery
+21. Postoperative Day 1: Patient experienced mild nausea and vomiting, managed with antiemetics
+22. Postoperative Day 2: Patient complained of worsening flank pain, managed with pain medication
+23. Postoperative Day 3: Patient developed oliguria and elevated serum creatinine, with diagnosis of acute renal failure
+24. Interventions: Fluid resuscitation, vasopressor support, and urgent nephrology consultation
+25. Response to Interventions: Patient's renal function improved with supportive care, but remained at high risk for chronic kidney disease
+26. Discharge Instructions: Follow-up appointments with primary care physician and nephrologist, continuation of medications, and fluid intake instructions
+27. Complications: Acute renal failure, likely secondary to hypovolemia and sepsis
+28. Patient Education: Importance of follow-up care, fluid intake, and medication adherence
+29. Follow-up: Patient seen in clinic 1 week after discharge, with stable renal function and improvement in symptoms
+30. Currently: Patient is being closely monitored by primary care physician and nephrologist, with regular follow-up appointments to assess renal function and prevent further complications.
+
+This patient summary includes essential information about the patient's medical history, surgical procedure, and postoperative course, including the development of acute renal failure. It also outlines

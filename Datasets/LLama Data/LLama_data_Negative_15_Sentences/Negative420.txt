@@ -1,0 +1,34 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus type 2
+* History of non-small cell lung cancer (NSCLC) status post lobectomy 5 years ago
+* Chronic obstructive pulmonary disease (COPD)
+* Gastroesophageal reflux disease (GERD)
+* History of kidney stones
+* Chronic lower back pain
+* history of sleep apnea
+
+Postoperative Course:
+
+* The patient had a uneventful surgery and was transferred to the post anesthesia care unit (PACU) for recovery.
+* He had a period of hypotension and tachycardia in the PACU, but it was managed with fluid resuscitation and vasopressors.
+* He was extubated and transferred to the surgical floor 2 hours after surgery.
+* He experienced some nausea and vomiting, but it was managed with antiemetics.
+* He had a mild fever on the first postoperative day (POD1), but it resolved with antibiotics.
+* He was able to tolerate a liquid diet on POD1 and progressed to a soft diet on POD2.
+* He had a slight increase in pain, but it was managed with pain medication.
+* He was able to ambulate on POD2 and had a normal postoperative course thereafter.
+
+Complications:
+
+* None
+
+I hope this helps! Let me know if you need anything else.

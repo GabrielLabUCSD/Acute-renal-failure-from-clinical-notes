@@ -1,0 +1,51 @@
+Patient Summary:
+
+1. The patient is a 45-year-old male.
+2. He has a history of smoking.
+3. He has a history of hypertension.
+4. He has a history of diabetes.
+5. He has a history of hyperlipidemia.
+6. He has a history of obesity.
+7. He has a history of sleep apnea.
+8. He has a history of gastroesophageal reflux disease (GERD).
+9. He has a history of anxiety.
+10. He has a history of depression.
+11. He has a history of chronic lower back pain.
+12. He has a history of chronic knee pain.
+13. He has a history of chronic shoulder pain.
+14. He has a history of chronic migraines.
+15. He has a history of allergies.
+16. He is allergic to penicillin.
+17. He is allergic to sulfa drugs.
+18. He has a history of asthma.
+19. He has a history of chronic obstructive pulmonary disease (COPD).
+20. He has a history of atrial fibrillation.
+21. He has a history of heart failure.
+22. He has a history of coronary artery disease.
+23. He has a history of peripheral artery disease.
+24. He has a history of varicose veins.
+25. He has a history of chronic kidney disease (CKD).
+26. He has a history of acute kidney injury.
+27. He has a history of urinary tract infections (UTIs).
+28. He has a history of benign prostatic hyperplasia (BPH).
+29. He has a history of erectile dysfunction.
+30. He has a history of hypothyroidism.
+31. He has a history of osteoarthritis.
+32. He has a history of rheumatoid arthritis.
+33. He has a history of sciatica.
+34. He has a history of neuropathy.
+35. He has a history of seizures.
+36. He has a history of stroke.
+37. He has a history of transient ischemic attack (TIA).
+38. He has a history of cancer.
+39. He has a history of chronic obstructive sleep apnea (OSA).
+40. He has a history of narcolepsy.
+41. He has a history of Bell's palsy.
+42. He has a history of thyroiditis.
+43. He has a history of vitiligo.
+44. He has a history of psoriasis.
+45. He is planning to have a surgical procedure.
+
+Complication: Acute Renal Failure
+
+After the surgical procedure, the patient experienced acute renal failure, which was caused by a combination of factors, including sepsis, shock, and decreased renal perfusion. The patient's urine output decreased significantly, and he developed elevated serum creatinine and blood urea nitrogen (BUN) levels. The patient required dialysis and intensive care unit (ICU) admission for close monitoring and management. The patient's renal function did recover gradually over time, but it took several weeks for him to fully recover.

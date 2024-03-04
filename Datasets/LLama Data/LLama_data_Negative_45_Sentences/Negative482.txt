@@ -1,0 +1,62 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1970
+
+Sex: Male
+
+Height: 5'10"
+
+Weight: 170 lbs
+
+BMI: 25
+
+Allergies: None
+
+Current Medications:
+
+* Aspirin 81mg daily
+* Lisinopril 20mg daily
+* Omeprazole 20mg daily
+* Simvastatin 20mg daily
+
+Medical History:
+
+* Hyperlipidemia
+* Hypertension
+* History of smoking (quit 5 years ago)
+* History of alcohol abuse (quit 10 years ago)
+* Positive family history of MI and stroke
+* Previous surgical history: appendectomy at age 25
+* Previous surgical history: cholecystectomy at age 35
+* Chronic lower back pain
+* History of migraines
+* History of GERD
+* History of mild sleep apnea
+
+Surgical Information:
+
+* Planning to undergo elective laparoscopic cholecystectomy for symptomatic gallstones
+* Preoperative workup:
+	+ Complete blood count: Within normal limits
+	+ Electrolyte panel: Within normal limits
+	+ Liver function tests: Within normal limits
+	+ Urinalysis: Within normal limits
+	+ Chest X-ray: Clear
+* Anesthesia plan: General anesthesia with endotracheal intubation
+* Anticipated length of stay: 2-3 days
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* No complications noted
+* Patient was able to tolerate a clear liquid diet on postoperative day 1
+* Patient was able to ambulate independently on postoperative day 2
+* Patient was discharged home on postoperative day 3
+
+Complications:
+
+* None noted
+
+Note: This patient summary is a sample and does not represent a real patient. Any similarity to actual patients is coincidental.

@@ -1,0 +1,26 @@
+Patient Summary:
+
+Name: [Patient's Name]
+Age: [Patient's Age]
+Gender: [Patient's Gender]
+
+Medical History:
+
+* [Patient's Medical History, including all relevant conditions, surgeries, and medications]
+
+Planned Surgery:
+
+* [Type of Surgery]
+* [Reason for Surgery]
+
+Postoperative Course:
+
+* [Description of Postoperative Course, including any complications that occurred]
+
+Complications:
+
+* [List of Complications that Occurred during the Postoperative Course, excluding Acute Renal Failure]
+
+The patient had a complicated postoperative course, experiencing [list of complications]. However, they were successfully managed with [description of management plan]. The patient was discharged from the hospital on [date] and is currently recovering at home.
+
+Please note that this is a generic patient summary and the specific details may vary depending on the individual patient's medical history and postoperative course.

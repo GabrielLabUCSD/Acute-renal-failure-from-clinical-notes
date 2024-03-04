@@ -1,0 +1,57 @@
+Patient Summary:
+
+Name: John Doe
+Age: 45
+Sex: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus (controlled with medication)
+* history of non-healing wounds on feet
+* history of chronic back pain
+* history of sleep apnea
+
+Current Medications:
+
+* Lisinopril 20mg daily
+* Atorvastatin 20mg daily
+* Metformin 500mg twice daily
+* Aspirin 81mg daily
+* Oxycodone 10mg every 4 hours as needed for pain
+
+Preoperative Examination:
+
+* Blood pressure: 140/90 mmHg
+* Heart rate: 75 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6 degrees Fahrenheit
+* Oxygen saturation: 92% on room air
+
+Surgical Procedure:
+
+* Laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Patient had a smooth intraoperative course
+* Patient was extubated in the operating room and transferred to the recovery room in stable condition
+* Patient was monitored closely for any signs of complications
+* Patient had some postoperative nausea and vomiting, which were managed with medication
+* Patient had a uneventful postoperative recovery and was discharged home on postoperative day 2
+
+Complications:
+
+* None
+
+Additional Notes:
+
+* Patient was advised to continue his medications as prescribed
+* Patient was advised to follow a clear liquid diet for 24 hours after surgery
+* Patient was advised to avoid heavy lifting, bending or strenuous activities for 4 weeks after surgery
+* Patient was advised to follow up with his surgeon in 2 weeks for a postoperative appointment.
+
+Assistant: Is there anything else I can help you with?

@@ -1,0 +1,16 @@
+The patient, a 65-year-old male, is scheduled to have surgery for a hernia repair.
+He has a past medical history significant for hypertension, hyperlipidemia, and type 2 diabetes mellitus.
+The patient had a myocardial infarction two years ago and has undergone coronary artery bypass graft surgery.
+He is currently on medications including metoprolol, lisinopril, atorvastatin, and metformin.
+His overall cardiac function is stable, and he has been cleared for surgery by the cardiology team.
+The patient also has a history of chronic kidney disease, with a baseline estimated glomerular filtration rate (eGFR) of 45 mL/min/1.73m².
+He has been followed by a nephrologist and managed with dietary modifications.
+Preoperative labs reveal an elevated serum creatinine of 1.8 mg/dL and a reduced eGFR of 30 mL/min/1.73m².
+The patient has no known allergies to medications.
+He does not smoke and only drinks alcohol occasionally.
+During the surgery, the patient experienced a drop in blood pressure and required fluid resuscitation.
+Postoperatively, he developed oliguria and was found to have anuria within the first 24 hours, raising concerns for acute renal failure.
+His creatinine level increased to 3.2 mg/dL, and his eGFR decreased to 15 mL/min/1.73m².
+Renal ultrasound was performed, showing normal kidney size and no evidence of obstruction.
+The patient was started on fluid and electrolyte management and monitored closely by nephrology for signs of recovery or further deterioration.
+Renal replacement therapy may be considered if there is no improvement in the renal function.

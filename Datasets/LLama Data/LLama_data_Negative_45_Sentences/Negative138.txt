@@ -1,0 +1,100 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. The patient has a history of lumbar spine degenerative disc disease and has failed conservative management. The patient is scheduled for a lumbar fusion surgery.
+
+Medical History:
+
+* Chronic back pain and left leg radiculopathy
+* Degenerative disc disease
+* History of smoking
+* Hypertension
+* Hyperlipidemia
+* Family history of cardiovascular disease
+
+Surgical History:
+
+* None
+
+Medications:
+
+* Naproxen 500mg PO BID
+* Gabapentin 300mg PO BID
+* Amlodipine 5mg PO Daily
+* Simvastatin 40mg PO Daily
+* Aspirin 81mg PO Daily
+
+Allergies:
+
+* None
+
+Social History:
+
+* Works as a computer programmer
+* Married with two children
+* Denies recreational drug use
+* Drinks alcohol occasionally
+
+Review of Systems:
+
+* No acute renal failure
+* No history of seizures
+* No history of bleeding disorders
+* No history of previous surgeries
+* No history of anesthesia complications
+
+Physical Examination:
+
+* Blood pressure: 120/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 bpm
+* Temperature: 98.6°F
+* BMI: 28 kg/m²
+
+Lab Results:
+
+* WBC: 10,000/mm³
+* Neutrophils: 60%
+* Lymphocytes: 30%
+* Monocytes: 8%
+* Eosinophils: 2%
+* Basophils: 0%
+* Hemoglobin: 14 g/dL
+* Hematocrit: 40%
+* Platelet count: 250,000/mm³
+* Prothrombin time: 12 seconds
+* Partial thromboplastin time: 30 seconds
+* INR: 1.0
+* Creatinine: 1.0 mg/dL
+* Glucose: 120 mg/dL
+* Cholesterol: 200 mg/dL
+* Triglycerides: 150 mg/dL
+* Alkaline phosphatase: 120 IU/L
+* Total bilirubin: 0.8 mg/dL
+* Direct bilirubin: 0.2 mg/dL
+* AST: 30 IU/L
+* ALT: 40 IU/L
+* Alcohol level: 0.01%
+
+Imaging Studies:
+
+* MRI lumbar spine: Degenerative disc disease at L4-L5 and L5-S1 with spinal stenosis and left neural foraminal narrowing.
+
+Plan:
+
+* The patient will undergo a lumbar fusion surgery.
+* Preoperative instructions include:
+	+ No food or drink after midnight the night before surgery.
+	+ No aspirin or anti-inflammatory medications for 1 week before surgery.
+	+ No smoking for 2 weeks before and after surgery.
+	+ No alcohol for 24 hours before and after surgery.
+* Postoperative instructions include:
+	+ Rest and avoid heavy lifting or bending for 6 weeks.
+	+ Follow a pain management plan that includes gabapentin and naproxen.
+	+ Follow a wound care plan that includes keeping the incision clean and dry.
+	+ Follow up with the surgeon in 2 weeks for a postoperative check-up.
+
+Complications:
+
+* None
+
+The patient's postoperative course was uneventful, and they were discharged from the hospital on the third day after surgery. They followed the postoperative instructions and had a smooth recovery. They were able to return to work after 6 weeks and resumed their normal activities.

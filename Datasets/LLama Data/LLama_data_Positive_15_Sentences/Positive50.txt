@@ -1,0 +1,23 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes mellitus.
+3. He has been smoking for the past 40 years.
+4. He has a history of chronic obstructive pulmonary disease (COPD).
+5. He has had multiple episodes of pneumonia in the past.
+6. He has a history of coronary artery disease and has had a myocardial infarction (heart attack) in the past.
+7. He has had a history of atrial fibrillation (irregular heartbeat) for the past 5 years.
+8. He has a history of chronic kidney disease (CKD) stage 3.
+9. He is currently experiencing acute renal failure (ARF) secondary to a complicated surgery he had last week.
+10. He had a laparoscopic cholecystectomy (gallbladder removal) surgery 7 days ago.
+11. Post-operatively, he developed a fever and tachycardia (rapid heart rate).
+12. He had a sudden drop in urine output and his serum creatinine levels have been steadily rising.
+13. He has been intubated and is currently on mechanical ventilation.
+14. He is being closely monitored in the intensive care unit (ICU).
+15. The patient"s family has been informed of his condition and are present at the bedside.
+
+Complication:
+
+1. Acute renal failure (ARF) secondary to complicated surgery.
+
+The patient"s surgery was complicated by ARF, which is a common complication in patients with pre-existing renal impairment. The patient"s age, history of CKD, and sepsis secondary to the surgical site infection all contributed to the development of ARF. The patient"s urine output and serum creatinine levels have been closely monitored, and he has been receiving appropriate fluid and medication management to support his kidney function. The patient"s respiratory status has also been closely monitored, and he has been intubated and placed on mechanical ventilation to support his breathing. The patient"s family has been informed of his condition and are present at the bedside to provide emotional support.

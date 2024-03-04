@@ -1,0 +1,103 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* Chronic obstructive pulmonary disease (COPD)
+* Gastroesophageal reflux disease (GERD)
+* Obstructive sleep apnea
+* History of non-insulin-dependent diabetes mellitus (NIDDM)
+* History of stroke
+* History of coronary artery disease
+* History of peripheral artery disease
+* History of colon cancer
+* History of prostate cancer
+
+Surgical History:
+
+* Cholecystectomy
+* Inguinal hernia repair
+* Cataract surgery
+* Partial nephrectomy
+* History of previous surgical complications (pneumonia, sepsis, and wound infection)
+
+Current Medications:
+
+* Lisinopril
+* Atorvastatin
+* Omeprazole
+* Alprazolam
+* Zolpidem
+* Metformin
+* Aspirin
+* Celecoxib
+* Prostate medication (finasteride)
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+* Codeine
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with no elevator
+* Has a pet dog
+* Walks for exercise
+* Enjoys reading and gardening
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Preoperative Physical Examination:
+
+* Blood pressure: 140/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F (37°C)
+* Height: 68 inches (172.72 cm)
+* Weight: 175 lbs (79.38 kg)
+* Body mass index (BMI): 29.1
+* Cardiovascular examination: Normal
+* Respiratory examination: Decreased breath sounds at the bases, wheezing, and bilateral crackles
+* Abdominal examination: Tender to palpation in the right upper quadrant, guarding, and rebound tenderness
+* Neurological examination: Normal
+* Musculoskeletal examination: Normal
+
+Lab Results:
+
+* White blood cell count: 10.5 × 109/L
+* Hemoglobin: 12.4 g/dL
+* Hematocrit: 39.4%
+* Platelet count: 218 × 109/L
+* Prothrombin time (PT): 12.2 seconds
+* Partial thromboplastin time (PTT): 31.8 seconds
+* International normalized ratio (INR): 1.1
+* Creatinine: 1.2 mg/dL
+* Glucose: 124 mg/dL
+* Cholesterol: 201 mg/dL
+* Triglycerides: 186 mg/dL
+* Alanine transaminase (ALT): 60 IU/L
+* Aspartate transaminase (AST): 40 IU/L
+* Alkaline phosphatase: 100 IU/L
+* Total bilirubin: 0.6 mg/dL
+
+Imaging Studies:
+
+* Ultrasound of the gallbladder: Showed multiple gallstones
+* Computed tomography (CT) scan of the abdomen and pelvis: Showed gallstones, dilated bile ducts, and a possible inflammatory mass in the gallbladder
+
+Anesthesia Plan:
+
+* General anesthesia with endotracheal intubation
+* Propofol, fentanyl, and

@@ -1,0 +1,52 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. He has been diagnosed with a herniated disc at L4-L5 and is scheduled for a lumbar discectomy.
+
+Medical History:
+
+* The patient has a history of hypertension and hyperlipidemia.
+* He has been smoking 1 pack of cigarettes per day for the past 20 years.
+* He has a history of alcohol use disorder and has been sober for the past 5 years.
+* He has no known allergies.
+* He has a history of non-insulin-dependent diabetes mellitus and takes metformin 1000mg twice daily.
+* He has a history of mild cognitive impairment and takes donepezil 5mg daily.
+* He has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+* He has a history of degenerative joint disease of the knees and takes celecoxib 200mg daily.
+* He has a history of migraines and takes sumatriptan 50mg as needed.
+
+Surgical History:
+
+* The patient has had a cholecystectomy in the past.
+* He has had a hernia repair in the past.
+* He has had a knee arthroscopy in the past.
+
+Medications:
+
+* The patient is currently taking aspirin 81mg daily.
+* He is taking tramadol 50mg as needed for pain.
+* He is taking amlodipine 10mg daily for hypertension.
+* He is taking simvastatin 40mg daily for hyperlipidemia.
+* He is taking metformin 1000mg twice daily for diabetes.
+* He is taking donepezil 5mg daily for mild cognitive impairment.
+* He is taking celecoxib 200mg daily for degenerative joint disease.
+* He is taking sumatriptan 50mg as needed for migraines.
+
+Postoperative Course:
+
+* The patient had a successful lumbar discectomy and was discharged home on postoperative day 2.
+* He experienced some postoperative pain, nausea, and vomiting, which were managed with medication.
+* He had a wound infection that was treated with antibiotics.
+* He had a prolonged ileus that was managed with bowel rest and nasogastric suction.
+* He had a delayed return of bowel function, which was managed with laxatives and stool softeners.
+* He experienced some numbness and weakness in his legs, which improved over time.
+* He had a urinary tract infection that was treated with antibiotics.
+
+Complications:
+
+* The patient developed a wound infection that was treated with antibiotics.
+* He had a prolonged ileus that was managed with bowel rest and nasogastric suction.
+* He had a delayed return of bowel function, which was managed with laxatives and stool softeners.
+* He experienced some numbness and weakness in his legs, which improved over time.
+* He had a urinary tract infection that was treated with antibiotics.
+
+The patient had a successful lumbar discectomy and was discharged home on postoperative day 2. He experienced some postoperative complications, including a wound infection, prolonged ileus, delayed return of bowel function, numbness and weakness in his legs, and a urinary tract infection. These complications were managed appropriately, and the patient made a full recovery.

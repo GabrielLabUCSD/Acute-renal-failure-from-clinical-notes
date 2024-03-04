@@ -1,0 +1,61 @@
+Sure, here's a sample patient summary for a patient planning to undergo surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Diabetes mellitus
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Hernia repair 5 years ago
+
+Current Medications:
+
+* Amlodipine 10 mg daily
+* Metformin 1000 mg daily
+* Atorvastatin 20 mg daily
+* Aspirin 81 mg daily
+
+Allergies:
+
+* Penicillin
+
+Lab Results:
+
+* WBC: 12,000/mm3
+* Hemoglobin: 14 g/dL
+* Platelet count: 200,000/mm3
+* Creatinine: 1.5 mg/dL
+* Blood Urea Nitrogen (BUN): 25 mg/dL
+* Glucose: 180 mg/dL
+* Lipid profile:
+	+ Total cholesterol: 220 mg/dL
+	+ LDL: 140 mg/dL
+	+ HDL: 40 mg/dL
+	+ Triglycerides: 160 mg/dL
+* Urinalysis:
+	+ Protein: 200 mg/dL
+	+ Blood: 10 RBC/HPF
+	+ White blood cells: 5 WBC/HPF
+	+ Specific gravity: 1.020
+	+ pH: 5.5
+
+Postoperative Course:
+
+* Patient had a smooth postoperative course
+* No complications noted
+* Patient was discharged on postoperative day 3
+
+Complications:
+
+* None noted
+
+Note: The patient's medical history, medications, allergies, lab results, and postoperative course are all important factors to consider when planning surgery. While the patient has several medical conditions, they are well-controlled and do not pose a significant risk for surgery. The patient's obesity and history of smoking may increase the risk of postoperative complications, but they can be managed with careful monitoring and appropriate interventions. The patient's urinalysis indicates mild proteinuria and hematuria, but these are not significant concerns for surgery.

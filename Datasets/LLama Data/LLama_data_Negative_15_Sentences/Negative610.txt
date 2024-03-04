@@ -1,0 +1,55 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* History of smoking (quit 5 years ago)
+* History of alcohol use disorder (in remission for 10 years)
+* Diabetes mellitus (well-controlled)
+* Obstructive sleep apnea (uses CPAP)
+* History of colon cancer (stage II, resected 5 years ago)
+* History of CVA (stroke) 3 years ago with residual left-sided weakness
+* History of osteoarthritis in both knees
+
+Surgical History:
+
+* Cholecystectomy (laparoscopic) 2 years ago
+* Inguinal hernia repair (open) 1 year ago
+* Total knee arthroplasty (right) 6 months ago
+
+Current Medications:
+
+* Amlodipine 5mg daily
+* Atorvastatin 20mg daily
+* Metformin 1000mg twice daily
+* Oxycodone 5mg as needed for knee pain
+* Aspirin 81mg daily
+* Lisinopril 40mg daily
+* CPAP machine (usage: 6 hours/night)
+
+Allergies:
+
+* Penicillin
+* Sulfa medications
+
+Social History:
+
+* Married with two adult children
+* Retired from full-time work 5 years ago
+* Lives independently with his wife
+* Has a support system of family and friends
+* Has a history of compliance with medical treatment
+
+Reason for Surgery:
+The patient is scheduled for a total knee arthroplasty (left) to address severe osteoarthritis and chronic knee pain.
+
+Postoperative Course:
+The patient had an uncomplicated postoperative course. He was discharged home on postoperative day 3 with a prescription for oxycodone for pain management. He followed up with his surgeon 2 weeks after discharge and reported minimal pain and good mobility. He was advised to continue with his regular medications and to gradually increase his activity level.
+
+Complications:
+
+* None noted.

@@ -1,0 +1,25 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male with a medical history of hypertension, hyperlipidemia, and diabetes mellitus.
+2. He has been smoking for the past 40 years and has a history of alcohol abuse.
+3. He has a history of coronary artery disease and had a myocardial infarction 10 years ago.
+4. He has been experiencing worsening left knee pain for the past year, which has limited his mobility.
+5. He has tried physical therapy and pain management but has not had significant relief.
+6. He has been scheduled for a total knee replacement surgery.
+7. His surgical history includes a cholecystectomy and a hernia repair.
+8. He has a family history of kidney disease and his mother had end-stage renal disease.
+9. He has been complaining of decreased urine output and swelling in his legs for the past week.
+10. His urinalysis shows pyuria and hematuria.
+11. His blood work shows an elevated creatinine level and a decline in his estimated glomerular filtration rate.
+12. He has been diagnosed with acute renal failure and has been started on dialysis.
+13. His surgery has been postponed until his renal function improves.
+14. He is being monitored closely by the nephrology team and is receiving fluid and electrolyte management.
+15. His prognosis is guarded due to the severity of his renal failure and the need for dialysis.
+
+Complications:
+
+1. Acute renal failure: The patient developed acute renal failure post-surgery, which is a common complication in patients with pre-existing renal impairment.
+2. Fluid and electrolyte imbalance: The patient experienced fluid and electrolyte imbalance due to the acute renal failure, which can lead to further complications if not managed properly.
+3. Dialysis dependence: The patient requires dialysis to maintain his renal function, which can be a life-long requirement if his renal function does not improve.
+4. Surgical postponement: The patient's surgery has been postponed due to his acute renal failure, which can impact his quality of life and mobility.
+5. Increased risk of infections: The patient is at an increased risk of infections due to his immunosuppressed state from the dialysis and surgery, which can further complicate his condition.

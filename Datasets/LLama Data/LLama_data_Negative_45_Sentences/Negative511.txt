@@ -1,0 +1,87 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Sex: Male
+
+Chief Complaint: Severe abdominal pain and distension
+
+History of Present Illness: The patient presents with a 2-day history of severe abdominal pain and distension. He has been unable to pass gas or have a bowel movement for the past day. The pain is located in the upper right abdomen and is described as a sharp, stabbing pain. The patient has been nauseous and vomiting.
+
+Past Medical History:
+
+* Appendectomy at age 10
+* Cholecystectomy at age 30
+* History of lumbar spine strain
+* History of depression
+* History of hypertension
+
+Medications:
+
+* Aspirin 81 mg PO daily
+* Lisinopril 20 mg PO daily
+* Omeprazole 20 mg PO daily
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Social History:
+
+* Married with two children
+* Works as an accountant
+* Denies tobacco, alcohol, or illicit drug use
+* Lives in a house with a dog and two cats
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+* One sibling with history of appendicitis
+
+Review of Systems:
+
+* Abdominal pain: severe, sharp, stabbing pain in the upper right abdomen
+* Nausea and vomiting: persistent for the past day
+* Fever: 100.4°F (38°C)
+* Abdominal distension: marked, with tenderness to palpation
+* Bowel habits: Constipation for the past 2 days
+* Urinary symptoms: None
+* Respiratory symptoms: None
+* Cardiovascular symptoms: None
+* Neurological symptoms: None
+
+Physical Exam:
+
+* Vital signs: Blood pressure 130/80 mmHg, Pulse 110/min, Respiratory rate 20/min, Oxygen saturation 98% on room air
+* Abdominal exam: Marked tenderness to palpation in the upper right abdomen, with guarding and rigidity
+* rectal exam: No masses palpated, stool is hard and impacted
+
+Diagnostic Tests:
+
+* Computed Tomography (CT) scan of the abdomen and pelvis with IV contrast, showing acute appendicitis
+
+Plan:
+
+* Appendectomy
+
+Postoperative Course:
+
+* The patient underwent a laparoscopic appendectomy and was transferred to the postanesthesia care unit (PACU) in stable condition.
+* He experienced some nausea and vomiting in the immediate postoperative period, which was managed with antiemetics.
+* He was able to tolerate clear liquids and was advanced to a regular diet on postoperative day 2.
+* The patient was discharged home on postoperative day 3 in stable condition, with instructions to avoid heavy lifting and bending for 2 weeks.
+
+Complications:
+
+* Postoperative nausea and vomiting
+* Wound infection (treated with antibiotics)
+
+Follow-up:
+
+* The patient followed up with his surgeon 2 weeks after discharge and reported improvement in his symptoms.
+* He was seen for a wound check and had a clean, dry incision.
+* The patient was advised to continue with his current medications and to follow up with his primary care physician for further management of his hypertension and depression.

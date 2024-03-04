@@ -1,0 +1,20 @@
+Patient Summary:
+
+* The patient is a 45-year-old male.
+* He has a history of hypertension and hyperlipidemia.
+* He has been a smoker for the past 20 years.
+* He had a myocardial infarction 10 years ago and has been compliant with his medications since then.
+* He has had multiple anginal episodes in the past year.
+* He underwent a coronary angiogram 6 months ago, which showed a 90% occlusion of the LAD artery.
+* He was referred for coronary artery bypass grafting (CABG) surgery.
+* He had a history of non-insulin-dependent diabetes mellitus.
+* His last HbA1c was 8.5%.
+* He has been taking metformin and sulfonylurea for his diabetes.
+* He has had no history of bleeding disorders.
+* He takes aspirin and clopidogrel for antiplatelet therapy.
+* He has been scheduled for an elective CABG surgery.
+* The surgery was performed without any complications.
+* His postoperative course was uneventful, and he was discharged home on the 5th postoperative day.
+* He had no complications during his follow-up visits.
+
+Note: The patient's summary is fictional and for demonstration purposes only. Any resemblance to real patients is unintentional.

@@ -1,0 +1,36 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 55-year-old male
+* History of hypertension and hyperlipidemia
+* Smoker with 20 pack-year history
+* Diabetes mellitus type II, controlled with metformin
+* Obstructive sleep apnea, uses continuous positive airway pressure (CPAP) machine
+* History of non-insulin-dependent diabetes mellitus
+* History of hyperthyroidism, treated with radioactive iodine
+* History of chronic low back pain, managed with physical therapy and NSAIDs
+* History of left knee osteoarthritis, managed with physical therapy and analgesics
+* History of benign prostatic hyperplasia (BPH), managed with finasteride
+* History of cataracts, Status post uneventful cataract surgery
+* No allergies to medications or anesthesia
+* No history of bleeding disorders or seizure disorders
+* No history of cancer
+
+Postoperative Course:
+
+* Patient had an uncomplicated surgery and anesthesia course
+* Patient was extubated in the operating room and transferred to the recovery room in stable condition
+* Patient experienced some nausea and vomiting in the immediate postoperative period, managed with antiemetics
+* Patient had a pain score of 6/10 on the visual analog scale (VAS) at 2 hours postoperative, managed with scheduled analgesics
+* Patient had a UO of 100 mL at 4 hours postoperative, and was encouraged to drink more fluids
+* Patient had a temperature of 37.2°C (99°F) at 6 hours postoperative, managed with tepid sponging
+* Patient was discharged from the hospital on postoperative day 3 in stable condition
+
+Complications:
+
+* None
+
+This patient summary outlines the patient's medical history, including his chronic medical conditions, surgical history, and current medications. It also describes the patient's postoperative course, including his pain management, fluid intake, and temperature. Importantly, it notes that the patient had an uncomplicated surgery and anesthesia course, with no complications.

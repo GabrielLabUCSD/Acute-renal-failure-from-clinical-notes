@@ -1,0 +1,53 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient: John Doe
+Age: 65
+Sex: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* Chronic kidney disease (Stage 3)
+* History of smoking (20 pack-years)
+* History of alcohol use (moderate)
+* No known allergies
+* No history of previous surgeries
+* No history of bleeding disorders
+
+Current Medications:
+
+* Lisinopril (for hypertension)
+* Atorvastatin (for hyperlipidemia)
+* Aspirin (for cardioprotection)
+* Omeprazole (for gastroprotection)
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Preoperative Workup:
+
+* Complete blood count: Normal
+* Electrolyte panel: Normal
+* Lipase: Elevated (150 U/L)
+* Amylase: Normal (20 U/L)
+* Urinalysis: Elevated protein (300 mg/dL) and blood (2+), otherwise normal
+* Imaging studies: Ultrasound and CT scan showed a distended gallbladder with multiple gallstones
+
+Postoperative Course:
+
+* Surgery went smoothly without any complications
+* Patient tolerated anesthesia well
+* Patient experienced some postoperative nausea and vomiting, which was managed with antiemetics
+* Pain was managed with patient-controlled analgesia (PCA)
+* Patient was discharged on postoperative day 3
+
+Complications:
+
+* None
+
+Follow-up:
+
+* Patient followed up with surgeon and primary care physician as directed
+* No postoperative complications or concerns
+* Patient's symptoms improved significantly after surgery.

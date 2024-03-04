@@ -1,0 +1,32 @@
+Patient Summary:
+
+Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus type 2
+* History of knee replacement surgery 10 years ago
+* History of coronary artery disease
+* Had a myocardial infarction 5 years ago
+* Currently taking aspirin, metformin, atorvastatin, and lisinopril
+
+Planned Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Postoperative Course:
+
+* Uneventful postoperative period
+* No complications
+* Patient was discharged from the hospital on postoperative day 3
+
+Complications:
+
+* None
+
+Assistant: Is there anything else I can help you with?

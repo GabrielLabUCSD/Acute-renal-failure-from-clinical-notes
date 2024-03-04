@@ -1,0 +1,29 @@
+Patient Summary:
+
+* Name: [Patient Name]
+* Date of Birth: [Date of Birth]
+* Gender: [Gender]
+* Age: [Age]
+* Medical History:
+	+ [Patient has a history of hypertension, diabetes, and obesity.]
+	+ [Patient has a history of smoking and alcohol abuse.]
+	+ [Patient has a history of anterior cruciate ligament (ACL) reconstruction surgery.]
+	+ [Patient has a history of lung disease and uses an inhaler.]
+	+ [Patient has a history of depression and anxiety.]
+	+ [Patient has a history of allergies to penicillin and latex.]
+* Current Medications:
+	+ [Patient is currently taking metformin for diabetes.]
+	+ [Patient is currently taking lisinopril for hypertension.]
+	+ [Patient is currently taking alprazolam for anxiety.]
+	+ [Patient is currently taking ibuprofen for pain.]
+* Reason for Surgery: [Patient is scheduled for a total knee replacement surgery due to severe osteoarthritis.]
+* Pre-Surgery Complications:
+	+ [Patient has developed acute renal failure due to sepsis from an infected urinary tract.]
+	+ [Patient has a history of bleeding disorders and will require close monitoring during surgery.]
+	+ [Patient has a history of respiratory problems and will require close monitoring during anesthesia.]
+* Post-Surgery Complications:
+	+ [Patient developed a surgical site infection that required extended antibiotic treatment.]
+	+ [Patient experienced excessive bleeding during surgery that required transfusion.]
+	+ [Patient developed a pulmonary embolism after surgery that required hospitalization.]
+
+Note: The information in this patient summary is for fictional purposes only and does not represent any real patient's medical history.

@@ -1,0 +1,18 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history and postoperative course:
+
+Patient: John Doe
+
+* Chief complaint: Severe shoulder pain
+* History of present illness: Mr. Doe is a 65-year-old male who presents with a 1-month history of severe shoulder pain.
+* Past medical history: The patient has a history of hypertension, hyperlipidemia, and migraines.
+* Medications: Lisinopril, simvastatin, and ibuprofen.
+* Family history: His father died of a myocardial infarction at the age of 60.
+* Social history: The patient is a retired accountant, denied smoking, and drinks alcohol occasionally.
+* Review of systems: Minimal numbness on the left side of his chest, no difficulty swallowing, and no recent change in bowel or bladder habits.
+* Physical examination: Blood pressure 150/80 mmHg, pulse 70/min, respiratory rate 16/min, and temperature 98.6°F (37°C).
+* Diagnostic tests: X-ray of the shoulder demonstrates a displacement of the humeral head.
+* Procedure: The patient underwent a total shoulder replacement.
+* Postoperative course: The patient had an uneventful postoperative course. Pain was well-controlled with medication, and the patient was able to move his arm without much difficulty.
+* Complications: None.
+
+The patient was discharged on postoperative day 3 and followed up with his surgeon 2 weeks later. At that time, the patient reported minimal pain and was able to perform basic activities of daily living without assistance. The patient was satisfied with the outcome of the surgery and had no further complaints.

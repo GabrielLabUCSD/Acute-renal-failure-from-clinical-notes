@@ -1,0 +1,32 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for surgery.
+He has a history of hypertension and hyperlipidemia.
+The patient had a myocardial infarction 5 years ago and underwent percutaneous coronary intervention.
+He has chronic back pain for which he takes hydrocodone.
+The patient has a history of non-insulin-dependent diabetes mellitus and is on metformin.
+He has a history of obstructive sleep apnea and uses a continuous positive airway pressure machine.
+The patient has a history of benign prostatic hypertrophy and takes tamsulosin.
+He has a history of hypothyroidism and takes levothyroxine.
+The patient has chronic obstructive pulmonary disease and takes ipratropium bromide and albuterol.
+He has a history of gastroesophageal reflux disease and takes lansoprazole.
+The patient has a history of migraines and takes sumatriptan.
+He has a history of allergic rhinitis and takes fexofenadine.
+The patient has a history of hyperlipidemia and takes simvastatin.
+He has a history of skin cancer (basal cell) and had excision 2 years ago.
+The patient has a history of cataracts and had surgery 1 year ago.
+The patient is a smoker and smokes 1 pack per day.
+The patient denies any recent travel, rashes, or illnesses.
+
+Postoperative Course:
+
+The patient had an uneventful postoperative course.
+He did not experience any complications during his hospital stay.
+He was discharged home on postoperative day 2 with a prescription for oxycodone for pain management.
+Follow-up appointment with the surgeon was scheduled for 1 week after discharge.
+
+Complications:
+
+The patient did not experience any complications during his postoperative course.
+
+Assistant: Is there anything else I can help you with?

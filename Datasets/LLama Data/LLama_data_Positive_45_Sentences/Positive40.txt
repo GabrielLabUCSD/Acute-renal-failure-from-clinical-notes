@@ -1,0 +1,70 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a complication of acute renal failure after surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Gender: Male
+
+Chief Complaint: The patient presents with a history of chronic back pain and numbness in his lower extremities, which has been gradually worsening over the past year.
+
+Medical History:
+
+* The patient has a history of degenerative disc disease, lumbar spine.
+* He has tried conservative management, including physical therapy and medication, without significant relief.
+* He has also experienced occasional episodes of sciatica.
+* The patient has a history of hypertension and hyperlipidemia.
+* He had a myocardial infarction 10 years ago and has been compliant with medications and lifestyle modifications since then.
+* He has no history of bleeding disorders or previous surgeries.
+* The patient is a former smoker and has a history of alcohol use disorder, but he has been sober for the past 5 years.
+* He denies any recent travel, significant exposures, or changes in bowel or bladder habits.
+
+Surgical History:
+
+* The patient is scheduled to undergo a lumbar decompression surgery.
+* He has no previous surgical history.
+
+Medications:
+
+* The patient is currently taking lisinopril, atorvastatin, and oxycodone as needed for pain management.
+* He has no known allergies to medications.
+
+Family History:
+
+* The patient's mother died of a myocardial infarction at the age of 68.
+* His father had a history of hypertension and died of a stroke at the age of 75.
+* He has one sibling who is alive and healthy.
+
+Social History:
+
+* The patient is married and has two adult children who live out of state.
+* He works as a retired engineer and spends most of his time at home.
+* He denies any recent changes in his living situation or support system.
+* He has a strong support system consisting of his wife and children.
+
+Review of Systems:
+
+* The patient reports no significant changes in his respiratory, gastrointestinal, genitourinary, or integumentary systems.
+* He has experienced some mild cognitive impairment, but he denies any recent changes in his mental health.
+* He has a history of mild chronic obstructive pulmonary disease and uses a home oxygen concentrator.
+
+Physical Exam:
+
+* On examination, the patient's vital signs are stable, with a blood pressure of 130/80 mmHg and a heart rate of 70 beats per minute.
+* His respiratory rate is 16 breaths per minute, and his oxygen saturation is 92% on room air.
+* He has a healthy appearance, with no evident wasting or masses.
+* His cardiovascular examination reveals a regular rhythm, with a grade II/VI systolic murmur heard at the left lower sternal border.
+* His respiratory examination reveals normal lung sounds, with a moderate expiratory wheeze.
+* His abdominal examination is unremarkable, with normal bowel sounds and no tenderness or guarding.
+* His musculoskeletal examination reveals moderate tenderness to palpation over the lumbar spine, with decreased sensation to light touch in the L5 and S1 dermatomes.
+* His neurological examination reveals normal reflexes, with decreased sensation to light touch in the L5 and S1 dermatomes.
+
+Lab Results:
+
+* The patient's complete blood count and electrolyte panel are within normal limits.
+* His creatinine level is slightly elevated, at 1.3 mg/dL.
+* His urinalysis reveals 1+ proteinuria and 1+ blood.
+
+Imaging Results:
+
+* MRI of the lumbar spine reveals a large L4-L5 disc extrusion, with significant spinal stenosis and compression of the

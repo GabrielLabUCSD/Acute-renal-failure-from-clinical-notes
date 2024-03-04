@@ -1,0 +1,86 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic low back pain and left leg radiculopathy. The patient has a history of lumbar spine degenerative disc disease and has failed conservative management. The patient is scheduled for a lumbar spine fusion surgery.
+
+Medical History:
+
+* History of hypertension
+* History of hyperlipidemia
+* History of non-insulin-dependent diabetes mellitus
+* History of asthma
+* History of allergic rhinitis
+* History of cardiovascular disease
+* History of chronic obstructive pulmonary disease
+* History of gastroesophageal reflux disease
+
+Surgical History:
+
+* Appendectomy at age 10
+* Cholecystectomy at age 35
+* Hysterectomy at age 40
+
+Medications:
+
+* Amlodipine
+* Atorvastatin
+* Metformin
+* Montelukast
+* Omeprazole
+* Aspirin
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 65
+* One sibling with a history of hypertension
+
+Social History:
+
+* married with two adult children
+* works as an accountant
+* does not smoke
+* drinks alcohol occasionally
+* does not use illicit drugs
+
+Review of Systems:
+
+* Denies chest pain, shortness of breath, or palpitations
+* Denies abdominal pain or change in bowel habits
+* Denies headache, fever, or recent weight loss
+* Denies joint pain or swelling
+
+Physical Exam:
+
+* Blood pressure: 130/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 bpm
+* Temperature: 98.6°F
+* Weight: 175 lbs
+* Height: 5'9"
+
+Laboratory Results:
+
+* WBC: 4.5 K/uL
+* Hemoglobin: 13.2 g/dL
+* Platelet Count: 200 K/uL
+* BUN: 20 mg/dL
+* Creatinine: 0.8 mg/dL
+* Glucose: 120 mg/dL
+* Cholesterol: 180 mg/dL
+* Triglycerides: 150 mg/dL
+
+Imaging Studies:
+
+* MRI of lumbar spine showed degenerative disc disease and spinal stenosis
+
+Postoperative Course:
+
+The patient underwent lumbar spine fusion surgery without any complications. The patient experienced some postoperative pain, which was managed with medication. The patient was able to ambulate independently and resumed his normal activities within 6 weeks.
+
+Complications:
+
+* None
+
+Follow-up:
+
+The patient followed up with his surgeon for postoperative check-ups and physical therapy. The patient showed significant improvement in his symptoms and was able to return to work within 8 weeks. The patient will continue to follow up with his surgeon for future check-ups and to monitor his condition.

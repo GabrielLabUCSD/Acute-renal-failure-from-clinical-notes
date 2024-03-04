@@ -1,0 +1,30 @@
+The patient is a [age]-year-old [gender] planning to undergo surgery.
+They have a past medical history significant for [list of relevant medical conditions, such as hypertension, diabetes, asthma, etc.].
+Their surgical procedure is indicated for [reason for surgery].
+Previous surgeries include [list of prior surgical procedures and their dates].
+They are currently taking the following medications: [list of medications, including any anticoagulant or antiplatelet agents].
+Allergies include [specific allergies, if any].
+The patient has a family history of [relevant medical conditions].
+Preoperative laboratory results reveal [summary of blood work, including any abnormalities].
+Their preoperative vital signs are stable and within normal limits.
+They have been cleared for surgery by their primary care physician and other specialists involved in their care.
+The patient understands the risks and benefits of the procedure and has provided informed consent.
+The surgical team includes [names and specialties of the surgeon, anesthesiologist, and other team members].
+Intraoperative monitoring will include [type of monitoring and anesthesia plan].
+The patient will be positioned in [position] during the procedure.
+The surgery is expected to last [estimated duration].
+Postoperatively, the patient will be transferred to the recovery room for close monitoring.
+Pain control will be managed with [pain management plan, such as analgesics or patient-controlled analgesia].
+They will receive prophylaxis against deep vein thrombosis and have appropriate sequential compression devices applied.
+Postoperative diet will be [clear liquids, regular, modified, etc.].
+Respiratory therapy will be provided as necessary to prevent complications.
+Physiotherapy will be initiated to promote early mobilization.
+The patient will be discharged home once they meet the following criteria: [specific criteria for discharge].
+They will receive postoperative follow-up with their surgeon and primary care provider.
+Complications during the postoperative course were absent.
+The patient tolerated the surgery well.
+The postoperative pain was managed effectively with minimal opioid requirements.
+They achieved full independence in activities of daily living.
+They experienced a prompt return of bowel function.
+The surgical incision site healed without signs of infection or dehiscence.
+Overall, the patient's postoperative course was uneventful, and they were discharged home in a satisfactory condition.

@@ -1,0 +1,87 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Chief Complaint: The patient presents with chronic back pain and limited mobility due to a herniated disc.
+
+Medical History:
+
+* History of hypertension, controlled with medication.
+* History of hyperlipidemia, controlled with medication.
+* History of non-insulin dependent diabetes mellitus, controlled with medication and diet.
+* History of obstructive sleep apnea, treated with continuous positive airway pressure (CPAP) therapy.
+* History of pulmonary embolism, treated with anticoagulation therapy.
+* History of coronary artery disease, treated with medication and lifestyle modifications.
+* History of peripheral artery disease, treated with medication and lifestyle modifications.
+* History of benign prostatic hyperplasia (BPH), treated with medication.
+* History of hypothyroidism, controlled with medication.
+* History of chronic kidney disease, stage 3.
+* History of gastroesophageal reflux disease (GERD), treated with medication.
+* History of colon cancer, treated with surgery and chemotherapy 5 years ago.
+* History of chronic obstructive pulmonary disease (COPD), treated with medication and pulmonary rehabilitation.
+
+Surgical History:
+
+* Cholecystectomy, age 45.
+* Ingrown toenail removal, age 50.
+* Cataract surgery, age 60.
+* Colon resection, age 65.
+
+Medications:
+
+* Aspirin 81 mg daily
+* Amlodipine 5 mg daily
+* Atorvastatin 20 mg daily
+* Metformin 1000 mg daily
+* Levothyroxine 25 mcg daily
+* Omeprazole 20 mg daily
+* Ibuprofen 800 mg as needed
+* CPAP machine use at night
+
+Allergies:
+
+* Penicillin
+* Sulfa antibiotics
+* Shellfish
+
+Social History:
+
+* The patient is a retired construction worker.
+* The patient has a 40 pack-year smoking history, quit 10 years ago.
+* The patient drinks alcohol occasionally.
+* The patient is married with two adult children.
+* The patient lives independently.
+* The patient has a support system in place.
+
+Family History:
+
+* Father died of myocardial infarction at age 60.
+* Mother died of breast cancer at age 75.
+* One sibling with hypertension and hyperlipidemia.
+
+Review of Systems:
+
+* No recent weight loss, fever, or night sweats.
+* No changes in bowel habits or urinary frequency.
+* No history of seizures, weakness, or paralysis.
+* No history of recent travel or exposure to illnesses.
+* No history of migraines or head trauma.
+
+Physical Exam:
+
+* Blood pressure: 130/80 mmHg
+* Pulse: 70/min
+* Respirations: 16/min
+* Temperature: 98.6°F (37°C)
+* Height: 5'9" (175 cm)
+* Weight: 210 lbs (95 kg)
+* BMI: 33
+* Surgical site: clean and dry, no signs of infection.
+
+Lab Results:
+
+* Complete Blood Count (CBC): WBC 12,000/uL, Hb 12 g/dL, Plt 200,000/uL.
+* Basic Metabolic Panel (BMP): Na 135 mEq/L, K 4.2 mEq/L, Cr 1.0 mg/dL, eGFR 60 mL/min.
+* Lipid Profile: TC 200 mg/dL, LDL

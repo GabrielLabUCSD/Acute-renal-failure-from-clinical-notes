@@ -1,0 +1,48 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male who presents with a history of [insert medical condition] and is scheduled to undergo [insert type of surgery]. The patient has a history of [insert relevant past surgeries or medical events].
+
+Current Medications:
+
+* [Insert medication 1]
+* [Insert medication 2]
+* [Insert medication 3]
+
+Allergies:
+
+* [Insert allergen 1]
+* [Insert allergen 2]
+
+Preoperative Testing:
+
+* [Insert test 1]
+* [Insert test 2]
+* [Insert test 3]
+
+The patient had an uneventful preoperative course.
+
+Surgery:
+
+The patient underwent [insert type of surgery] on [insert date]. The procedure was performed without any complications.
+
+Postoperative Course:
+
+The patient had a smooth postoperative course. They were extubated on [insert date] and were able to tolerate a regular diet by [insert date]. They were discharged from the hospital on [insert date].
+
+Complications:
+
+* [Insert complication 1]
+* [Insert complication 2]
+
+The patient did not experience any acute renal failure during their postoperative course.
+
+Additional Information:
+
+* [Insert additional information 1]
+* [Insert additional information 2]
+
+The patient is planned to follow up with their surgeon in [insert time frame] to monitor their progress and check for any complications.
+
+Conclusion:
+
+The patient had a successful surgery and an uneventful postoperative course. They did not experience any acute renal failure and were discharged from the hospital without any complications. The patient is planned to follow up with their surgeon in [insert time frame] to monitor their progress and check for any complications.

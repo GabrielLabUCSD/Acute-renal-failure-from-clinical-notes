@@ -1,0 +1,35 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history of [insert significant medical conditions, such as diabetes, hypertension, or heart disease]. The patient has been taking [insert medications] and has a history of [insert any relevant surgeries or procedures].
+
+The patient is scheduled to undergo [insert type of surgery] on [insert date] at [insert location]. The surgery is expected to last [insert duration] and will be performed by [insert surgeon's name].
+
+Pre-operative instructions include [insert any specific instructions, such as fasting or medication management].
+
+Post-operative course:
+
+The patient will be monitored in the recovery room for [insert duration] after the surgery. They will receive [insert pain management plan, such as patient-controlled analgesia or epidural anesthesia].
+
+The patient will be admitted to the hospital for [insert length of stay] and will be roomed with [insert name of roommate, if applicable].
+
+The patient will have a [insert type of drain, if applicable] inserted during surgery and will be taught how to care for it post-operatively.
+
+The patient will be able to eat [insert type of diet] after surgery and will be encouraged to ambulate as soon as possible.
+
+The patient will have a [insert type of dressing or bandage] applied to the surgical site and will be instructed on how to care for it.
+
+The patient will be prescribed [insert medications] for pain management and will be advised to avoid [insert specific activities, such as heavy lifting or bending].
+
+The patient will attend follow-up appointments with their surgeon on [insert dates] to monitor their progress and remove any sutures or staples.
+
+Complications:
+
+The patient is at risk for [insert potential complications, such as wound infection, bleeding, or pneumonia].
+
+The patient will be closely monitored for signs of [insert any specific complications, such as sepsis or respiratory failure].
+
+The patient will receive [insert any additional interventions, such as antibiotics or oxygen therapy] as needed to manage any complications.
+
+Conclusion:
+
+The patient is scheduled to undergo [insert type of surgery] and will require close monitoring during their post-operative course. They will be admitted to the hospital for [insert length of stay] and will receive [insert pain management plan]. The patient is at risk for [insert potential complications] and will be closely monitored for signs of any complications. The patient will receive [insert any additional interventions] as needed to manage any complications.

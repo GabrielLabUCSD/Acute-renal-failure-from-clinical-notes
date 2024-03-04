@@ -1,0 +1,19 @@
+The patient is a (age) -year-old (gender) with a medical history significant for (list of relevant medical conditions and surgeries). They are scheduled to undergo (type of surgery) on (date) at (hospital). Preoperative evaluation revealed (relevant findings from medical tests or imaging).
+
+The patient's current medications include (list of medications), and they have no known allergies. They report (symptoms or complaints related to the condition requiring surgery) and have been experiencing them for (duration).
+
+In terms of surgical risks, the patient does not have any contraindications for anesthesia. Additionally, their vital signs are stable, and they have a good functional status. They have been counseled about the procedure and its risks, and they provided informed consent.
+
+During the surgical procedure, the patient received (anesthesia type) and was positioned in (position). The surgeon performed (details of the surgical procedure) without any remarkable intraoperative complications or difficulties. The estimated blood loss was (amount) mL, and the patient received (fluids or blood products) as needed.
+
+Postoperatively, the patient was transferred to the recovery room in stable condition. They were closely monitored for vital signs, pain control, and wound healing. (Specify if the patient required any specific postoperative interventions or was transferred to the intensive care unit).
+
+In terms of the postoperative course, the patient initially experienced (common postoperative symptoms like pain, nausea, or dizziness). They were managed with (medications or interventions) and their symptoms gradually improved. The patient's pain was well-controlled with (analgesic regimen) and they were able to tolerate a regular diet. They were mobilized as tolerated and instructed on postoperative care and wound management.
+
+Throughout their hospital stay, the patient remained hemodynamically stable with no signs of infection or wound complications. Their surgical site was inspected daily and it showed (describe wound condition, e.g., clean, without drainage, no signs of dehiscence). They received prophylactic antibiotics as per protocol.
+
+The patient recovered well and met the standard discharge criteria. They were discharged home on (date) with follow-up instructions to (specific healthcare provider) in (number of weeks). They were prescribed (medications), which they were advised to take as directed.
+
+Regarding complications, the patient did not experience any significant postoperative complications during their hospital stay. However, (if the patient had any complications unrelated to acute renal failure, briefly mention them here).
+
+In summary, the patient is a (age) -year-old (gender) with a history of (list relevant medical conditions and surgeries). They underwent (type of surgery) without intraoperative complications. Postoperatively, they experienced (common postoperative symptoms) but improved with appropriate management. Their wound healed well, and they were discharged home in satisfactory condition. They did not have any significant complications during their hospital stay.

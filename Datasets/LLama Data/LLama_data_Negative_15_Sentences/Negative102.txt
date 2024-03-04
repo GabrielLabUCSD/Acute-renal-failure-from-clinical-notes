@@ -1,0 +1,67 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Chief Complaint: Chronic lower back pain
+
+Medical History:
+
+* History of smoking
+* Hypertension
+* Hyperlipidemia
+* Obesity
+* Sleep apnea
+* Diabetes mellitus type II
+* History of substance abuse
+
+Surgical History:
+
+* Appendectomy at age 20
+* Cholecystectomy at age 30
+* Hernia repair at age 35
+
+Current Medications:
+
+* Pain medication (oxycodone)
+* Antihypertensive medication (lisinopril)
+* Statin (atorvastatin)
+* Oral hypoglycemic medication (metformin)
+* CPAP machine for sleep apnea
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+
+Social History:
+
+* Married with two children
+* Works as a construction worker
+* Smokes one pack of cigarettes per day
+* Drinks alcohol occasionally
+
+Reason for Surgery:
+
+* The patient is scheduled for a lumbar fusion surgery to address chronic lower back pain that has not responded to conservative management.
+
+Postoperative Course:
+
+* The patient had a successful lumbar fusion surgery and was discharged from the hospital on postoperative day 4.
+* He experienced some pain and discomfort in the early postoperative period, but it was managed with pain medication.
+* He followed up with his surgeon one week after discharge and reported significant improvement in his pain.
+* He returned to work six weeks after surgery and gradually resumed his full work activities over the next few weeks.
+
+Complications:
+
+* None
+
+Note: This is just a sample summary and the specific details may vary depending on the individual patient and their medical history.

@@ -1,0 +1,15 @@
+The patient, a 55-year-old male, has a past medical history significant for hypertension and diabetes mellitus type 2. He has been well-controlled on medication for these conditions. He is a non-smoker and denies any alcohol or illicit drug use. The patient has a family history of heart disease, with his father having a myocardial infarction in his 60s.
+
+The patient is scheduled to undergo surgery for a hernia repair. He has been experiencing discomfort and occasional pain in his lower abdomen for the past few months, which prompted him to seek medical attention. Physical examination revealed a reducible inguinal hernia, confirmed by imaging studies.
+
+His pre-operative evaluation showed normal laboratory results, including a complete blood count, liver function tests, and coagulation profile. His renal function tests were within normal range, with a serum creatinine level of 1.0 mg/dL and an estimated glomerular filtration rate (eGFR) of 85 mL/min/1.73m2.
+
+During surgery, the patient received general anesthesia and underwent an uneventful procedure. In the post-operative period, he experienced mild pain and was managed with analgesics. However, on the second day after surgery, the patient developed oliguria and became progressively more confused. His vital signs were stable, but he appeared dehydrated.
+
+Laboratory investigations revealed elevated serum creatinine levels of 3.0 mg/dL and decreased urine output of less than 400 mL/day. A diagnosis of acute renal failure was made, likely secondary to decreased renal perfusion. The patient was started on intravenous fluids and diuretics to improve his fluid balance and renal function.
+
+Further evaluation revealed no evidence of urinary tract obstruction or infection. The patient's kidney injury was thought to be multifactorial, potentially related to the intraoperative fluid shifts and the use of nephrotoxic medications. Other contributing factors, such as the patient's underlying medical conditions and his advanced age, were also considered.
+
+The patient's renal function gradually improved with supportive measures, and he was closely monitored for any complications. Over the course of several days, his serum creatinine levels normalized, and his urine output increased to more than 1,000 mL/day.
+
+In conclusion, this patient with a history of hypertension and diabetes mellitus type 2 underwent anesthesia and surgery for a hernia repair. He developed acute renal failure in the post-operative period, likely due to decreased renal perfusion and other contributing factors. His renal function subsequently improved with conservative management. Close monitoring and appropriate interventions are crucial in patients undergoing surgery to prevent and manage post-operative complications, including acute renal failure.

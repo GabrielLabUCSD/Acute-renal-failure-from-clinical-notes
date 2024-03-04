@@ -1,0 +1,13 @@
+The patient is a [age]-year-old [gender] who is scheduled to undergo [type of surgery]. They have a medical history significant for [list relevant medical conditions, such as diabetes, hypertension, asthma, etc.], [surgical history], and [medication use, such as anticoagulants, antiplatelets, etc.].
+
+The patient's preoperative evaluation revealed [relevant findings, such as laboratory results, imaging findings, etc.]. They were optimized by [treatment, medication adjustment, etc.] before the surgery.
+
+During the surgery, [briefly describe the surgical procedure].
+
+The patient's postoperative course was unremarkable. They were monitored closely in the immediate postoperative period for signs of complications, such as infection, bleeding, or respiratory distress. [Describe any interventions or treatments provided in the postoperative period, if applicable].
+
+The patient [did/did not] experience complications during the postoperative period. Specifically, they did not develop acute renal failure. However, [if there were other complications, briefly describe them, such as wound infection, pneumonia, deep vein thrombosis, etc.]. The complications were managed appropriately with [treatment, interventions, medication, etc.].
+
+The patient was discharged [number of days] after the surgery in stable condition. They were advised to follow up with [relevant healthcare providers, such as surgeon, primary care physician] for further monitoring and management.
+
+In summary, the [age]-year-old [gender] patient with a history of [relevant medical conditions] underwent [type of surgery]. Their postoperative course was unremarkable, aside from [complications, if any], and they did not develop acute renal failure. The patient was discharged in stable condition and recommended to follow up with their healthcare providers.

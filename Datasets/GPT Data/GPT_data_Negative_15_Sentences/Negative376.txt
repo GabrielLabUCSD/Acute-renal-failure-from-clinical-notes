@@ -1,0 +1,13 @@
+Patient: The patient is a 45-year-old male who presented with a history of chronic lower back pain and is now planning to undergo surgery.
+
+Medical history: The patient has a history of degenerative disc disease in the lumbar spine. He has been suffering from chronic lower back pain for the past five years, which has significantly impacted his quality of life. Conservative management, including physical therapy, medications, and spinal injections, has been attempted without significant relief. MRI of the lumbar spine has shown multiple degenerative disc changes at the L4-L5 and L5-S1 levels.
+
+Surgical plan and procedure: The patient is scheduled to undergo a lumbar spinal fusion surgery. The procedure will involve the placement of screws and rods to stabilize and fuse the affected spinal segments. The goal of the surgery is to alleviate the patient's chronic pain and improve his overall functional status.
+
+Preoperative investigations: The patient has undergone a series of preoperative investigations, including complete blood count, basic metabolic panel, coagulation profile, and electrocardiogram. All results were within normal limits, indicating that the patient is fit for surgery.
+
+Postoperative course: The patient tolerated the surgery well and was closely monitored in the post-anesthesia care unit. He received appropriate pain management, including intravenous analgesics and patient-controlled analgesia. Physical therapy was initiated on the first postoperative day to promote early ambulation.
+
+Complications: The patient experienced mild postoperative complications, including transient incisional pain and surgical site drainage. These issues were managed conservatively with wound care and close monitoring. No signs of infection or deep vein thrombosis were observed. The patient's vitals remained stable throughout the postoperative period, with no significant changes in blood pressure, heart rate, or oxygen saturation levels.
+
+Overall, the patient's postoperative course was uneventful, and he demonstrated good progress in terms of pain control and early mobilization. He will be closely followed up in the outpatient clinic to assess his long-term surgical outcome and address any further concerns.

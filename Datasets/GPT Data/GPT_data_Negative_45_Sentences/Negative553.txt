@@ -1,0 +1,21 @@
+The patient is a [age]-year-old [gender] who has a medical history significant for [preexisting medical conditions]. They are now scheduled to undergo [type of surgery] due to [underlying condition or indication for surgery] on [date]. 
+
+In terms of their preoperative evaluation, the patient had routine preoperative laboratory tests, including a complete blood count (CBC), basic metabolic panel (BMP), coagulation profile, and urinalysis. All of these tests were within normal limits, except for [specific abnormality]. 
+
+The patient has been on several medications preoperatively, including [list of medications]. They have allergies to [specific allergies]. The anesthesiology team has assessed their risk for perioperative complications and taken appropriate precautions. 
+
+The patient was instructed to fast for a specific number of hours before the surgery as per anesthesiology recommendations. They were also given preoperative antibiotics for infection prophylaxis. 
+
+During the surgical procedure, the patient was placed under general anesthesia. The surgery was performed [via a specific technique] and [any specific findings during the surgery].
+
+In the postoperative course, the patient was closely monitored in the recovery room for any signs of complications, including pain, bleeding, or infection. They were administered pain medication and instructed on postoperative care instructions, including wound care and activity restrictions. 
+
+The patient experienced [specific postoperative complications] during their recovery, which were managed appropriately [describe management]. 
+
+In terms of their postoperative course, the patient began ambulating on [specific day] and their pain was well controlled with oral pain medication. They were making progress with their diet, transitioning from a clear liquid to a regular diet at [specific timeline]. 
+
+The surgical wound was inspected daily for signs of infection, and appropriate wound care was provided. The patient's vital signs remained stable throughout their hospital stay. They did not experience any acute respiratory distress or cardiovascular complications.
+
+The patient was discharged from the hospital on [specific day] in stable condition. They were provided with prescriptions for pain medication and instructions for a follow-up appointment with the surgeon in [specific number of days]. 
+
+Overall, the patient tolerated the surgery well, and their postoperative course was unremarkable, except for the aforementioned complications. The complications were effectively managed, and the patient's recovery is expected to continue smoothly. The patient was educated on potential signs of complications to watch out for at home and instructed to seek immediate medical attention if any concerns arise.

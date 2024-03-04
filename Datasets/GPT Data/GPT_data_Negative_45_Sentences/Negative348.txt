@@ -1,0 +1,85 @@
+The patient is a [age]-year-old [gender] who is planning to have [type of surgery]. 
+
+In terms of medical history, the patient has a past medical history significant for [list any relevant conditions or diseases]. They also have a history of [list any surgeries or procedures done in the past]. 
+
+On current medications, the patient takes [list any medications they are currently taking], including [specific medications they need to be aware of during surgery]. 
+
+The patient has a family history of [relevant family medical history].
+
+In terms of allergies, the patient is allergic to [list any known allergies].
+
+During the preoperative evaluation, the patient was found to have [list any abnormal findings or conditions that may impact the surgery]. 
+
+Prior to the surgery, the patient underwent a series of preoperative tests including [list any specific tests conducted] which showed [results]. 
+
+The patient underwent the surgical procedure on [date]. 
+
+During the procedure, [describe the surgery, any specific techniques used, and any complications encountered during the surgery, excluding acute renal failure].
+
+Postoperatively, the patient was monitored in the recovery room and then transferred to [specific area of the hospital]. 
+
+The patient's vital signs remained stable throughout the postoperative course. 
+
+Pain management was initiated with [specific pain medications or techniques]. 
+
+The patient's surgical incision was examined regularly for signs of infection or any other complications. 
+
+Postoperative medications prescribed include [list any medications prescribed for pain, prevention of infection, or any other specific conditions]. 
+
+The patient was advised to follow a strict postoperative care regimen including [specific instructions regarding diet, activity level, wound care, and medication administration]. 
+
+The patient was provided with a postoperative appointment for follow-up and was advised to seek immediate medical attention if there are any signs of complications such as fever, increased pain, swelling, redness, or drainage from the incision site. 
+
+During the postoperative period, the patient experienced [describe any common postoperative symptoms, such as pain, swelling, bruising, or fatigue]. 
+
+The patient was assessed for any signs of postoperative complications as per the standard protocol. 
+
+The patient's activities were limited to [specific activity restrictions imposed during the recovery period]. 
+
+It was noted that the patient remained compliant with the prescribed medication regimen. 
+
+The patient's wound was healing well, with no signs of infection observed. 
+
+The patient's pain level was managed effectively with the prescribed pain medications. 
+
+The patient was encouraged to engage in deep breathing exercises and early ambulation to prevent complications. 
+
+During the postoperative period, the patient's laboratory tests were monitored, including [list any specific tests relevant to the surgery, such as blood counts or coagulation studies]. 
+
+The patient's vital signs remained consistently within normal ranges. 
+
+The patient's overall recovery progress was uneventful. 
+
+The patient reported feeling progressively better each day following the surgery. 
+
+The patient was able to tolerate a regular diet without any issues. 
+
+The patient's pain and swelling continued to decrease over time. 
+
+The patient's surgical incision showed signs of healing, with no signs of infection or dehiscence. 
+
+Postoperative imaging studies were performed to evaluate the success of the surgery, which showed [results]. 
+
+The patient was discharged from the hospital on [date]. 
+
+During the postoperative follow-up visit, the patient was assessed for any signs of complications or delayed healing. 
+
+The patient's pain was well-controlled with oral pain medications. 
+
+The patient demonstrated a good understanding of the postoperative care instructions and was compliant. 
+
+There were no signs of infection, hematoma, or seroma at the surgical site. 
+
+The patient reported a gradual improvement in their functional status. 
+
+The patient was advised to continue with any prescribed physical therapy or rehabilitation exercises. 
+
+The patient's incisional wound was noted to be fully healed. 
+
+The patient did not experience any postoperative complications other than the normal expected ones for this surgery. 
+
+The patient's overall postoperative course was successful, with good recovery and no significant complications encountered. 
+
+The patient was advised to schedule any necessary follow-up appointments as needed. 
+
+The patient was discharged from further surgical follow-up and referred back to their primary care physician for routine care.

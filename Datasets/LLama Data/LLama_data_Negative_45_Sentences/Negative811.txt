@@ -1,0 +1,76 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker, 20 pack-years
+* History of alcohol abuse, stopped 10 years ago
+* History of CAD, stent placed 5 years ago
+* History of chronic low back pain, managed with physical therapy and medication
+* History of obstructive sleep apnea, uses CPAP machine
+* History of glaucoma, managed with eye drops
+* History of hypothyroidism, managed with levothyroxine
+* History of benign prostatic hyperplasia, managed with finasteride
+* History of colon cancer, Stage II, treated with surgery and chemotherapy 5 years ago
+* History of osteoarthritis, managed with pain medication and physical therapy
+* History of anxiety and depression, managed with medication and therapy
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Colon resection 5 years ago
+* Hip replacement 3 years ago
+
+Current Medications:
+
+* Amlodipine
+* Atorvastatin
+* Metformin
+* Tramadol
+* Celecoxib
+* Levothyroxine
+* Finasteride
+* Oxycodone
+* Alprazolam
+* Fluvoxamine
+
+Allergies:
+
+* None
+
+Lab Results:
+
+* WBC count: 12,000/mm3
+* Hemoglobin: 14.2 g/dL
+* Platelet count: 175,000/mm3
+* BUN: 25 mg/dL
+* Creatinine: 1.2 mg/dL
+* eGFR: 60 mL/min/1.73m2
+* Fasting blood glucose: 180 mg/dL
+* Total cholesterol: 190 mg/dL
+* Triglycerides: 150 mg/dL
+* HDL: 40 mg/dL
+* LDL: 120 mg/dL
+* Urine dipstick: Positive for protein and blood
+
+Imaging Studies:
+
+* Chest X-ray: Showed a suggestion of pulmonary emphysema
+* ECG: Showed a prolonged QTc interval
+* Echocardiogram: Showed a decrease in left ventricular function
+* Imaging studies of the abdomen and pelvis: Did not show any acute process
+
+Postoperative Course:
+
+* Patient had a smooth postoperative course
+* No complications noted
+* Patient was discharged home on postoperative day 3
+
+Complications:
+
+* None noted
+
+Assistant:  I hope this sample patient summary is helpful in preparing for surgery. It's important to note that this document should be tailored to the specific patient and surgery they are undergoing. Additionally, it's important to keep in mind that this is just a sample and should be reviewed and approved by a healthcare professional.

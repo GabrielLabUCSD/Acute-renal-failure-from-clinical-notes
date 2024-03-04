@@ -1,0 +1,35 @@
+Patient X is a 58-year-old male who is scheduled to undergo surgery. He has a past medical history significant for hypertension, diabetes mellitus type 2, and hyperlipidemia. His blood pressure has been well controlled on a combination of antihypertensive medications, including angiotensin-converting enzyme (ACE) inhibitors.
+
+He was diagnosed with diabetes 15 years ago and has been managed on oral hypoglycemic agents, including metformin and a sulfonylurea. His most recent hemoglobin A1c level was 7.2%, indicating fair glycemic control.
+
+The patient's lipid profile reveals elevated low-density lipoprotein (LDL) cholesterol levels at 160 mg/dL. He has been prescribed a statin medication and has been adherent to his treatment plan.
+
+Patient X has a history of periodic musculoskeletal pain, for which he takes non-steroidal anti-inflammatory drugs (NSAIDs) as needed. He does not have any known allergies to medications or food.
+
+In terms of his surgical history, the patient underwent an appendectomy in his early adulthood without any complications. He has not had any other major surgeries.
+
+During his pre-operative assessment, routine laboratory tests were performed, including a complete blood count, liver function tests, and renal function tests.
+
+Unfortunately, the patient developed acute renal failure postoperatively, likely due to a combination of factors such as pre-existing renal impairment, intraoperative hypotension, and the use of nephrotoxic medications.
+
+His pre-operative creatinine level was 1.2 mg/dL, which was within the normal range. However, his post-operative creatinine level increased to 2.8 mg/dL, indicating acute renal failure.
+
+The patient presented with oliguria, decreased urine output, and rising serum creatinine levels. His blood urea nitrogen (BUN) level also increased from 20 mg/dL pre-operatively to 40 mg/dL post-operatively.
+
+A renal ultrasound was performed to assess the underlying cause of acute renal failure. It revealed normal-sized kidneys with no evidence of obstruction or renal masses.
+
+The patient was managed conservatively with strict fluid and electrolyte control. He was placed on a fluid restriction regimen and his intake and output were closely monitored.
+
+In addition, the patient was started on intravenous fluids, including normal saline, to maintain adequate hydration. Diuretics, such as furosemide, were also administered to enhance diuresis and promote renal recovery.
+
+The nephrology team was consulted to assist in managing the patient's acute renal failure. They recommended close monitoring of renal function and electrolyte levels.
+
+The patient's renal function gradually improved over the course of several days, with a subsequent decrease in serum creatinine levels. His urine output also increased, indicating restoration of renal function.
+
+To prevent further complications, the patient's medications were adjusted to avoid nephrotoxic agents, such as NSAIDs and certain antibiotics.
+
+Patient X's post-operative course was otherwise uneventful. He was discharged from the hospital after a week of close monitoring with stable renal function.
+
+Upon follow-up, the patient's renal function continued to improve, and his creatinine levels normalized. He was advised to continue strict blood pressure control and glycemic control to prevent future renal complications.
+
+In summary, Patient X is a 58-year-old male with a past medical history significant for hypertension, diabetes mellitus type 2, and hyperlipidemia. He is scheduled to undergo surgery, but unfortunately develops acute renal failure postoperatively. His renal function gradually improves with conservative management, and he is discharged with stable renal function. Close follow-up is recommended to ensure long-term renal health.

@@ -1,0 +1,31 @@
+Patient Summary: 
+
+The patient is a [insert age]-year-old male who presents with a history of [insert medical condition] and is planned for [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert relevant surgical history]. The patient"s current medications include [insert medications]. The patient has no known allergies. 
+
+Preoperative examination reveals: 
+
+* Blood pressure: [insert blood pressure reading]
+* Heart rate: [insert heart rate reading]
+* Respiratory rate: [insert respiratory rate reading]
+* Temperature: [insert temperature reading]
+
+The patient had an uneventful preoperative course. No complications were encountered during the surgery. The patient"s postoperative course was also uneventful, and they were discharged from the hospital on [insert date]. Follow-up appointment is scheduled for [insert date]. 
+
+Postoperative vital signs: 
+
+* Blood pressure: [insert blood pressure reading]
+* Heart rate: [insert heart rate reading]
+* Respiratory rate: [insert respiratory rate reading]
+* Temperature: [insert temperature reading]
+
+The patient did not experience any complications during their postoperative course. 
+
+Patient"s current condition: 
+
+The patient is currently in good health and is recovering well from their surgery. They have been advised to follow up with their surgeon for further management. 
+
+Note: 
+
+* The patient is advised to follow up with their surgeon for further management.
+* The patient should continue to take their medications as prescribed.
+* The patient should avoid any strenuous activities that may interfere with their healing process.

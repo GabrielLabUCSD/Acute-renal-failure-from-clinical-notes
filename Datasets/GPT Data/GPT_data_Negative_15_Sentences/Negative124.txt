@@ -1,0 +1,19 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [relevant medical conditions]. They have been experiencing [specific symptoms relevant to the surgery], which has led to the decision to undergo surgery. The patient's surgical procedure is [name/type of surgery], and it is scheduled for [date].
+
+The patient's preoperative workup included [relevant diagnostic tests]. The results of these tests revealed [findings]. The patient has been managed with [medications or other interventions], and their symptoms have [improved/worsened/remained stable].
+
+During the preoperative consultation, the patient discussed the risks and benefits of the surgery with the surgical team. The patient was informed about the potential complications, such as infection, bleeding, or adverse reactions to anesthesia.
+
+The patient has been given preoperative instructions, which include [specific instructions given to the patient]. They were instructed to stop taking [specific medications] and to adhere to a specific diet/medication regimen in the days leading up to the surgery.
+
+Following the surgery, the patient's postoperative course was monitored closely. They were taken to the recovery room, where their vital signs and pain level were assessed regularly. The patient was started on analgesic medications to manage their postoperative pain.
+
+During the hospital stay, the patient received postoperative physiotherapy, respiratory exercises, and ambulation assistance as needed. They were closely monitored for signs of complications, such as wound infection, deep vein thrombosis, or pneumonia.
+
+The patient's postoperative laboratory tests showed [results]. They were also provided with appropriate wound care instructions to prevent infection. The patient was advised to follow-up with their surgeon in [number] weeks to assess their healing progress and to address any concerns or questions.
+
+The patient's postoperative course was generally uneventful, with no major complications observed. They demonstrated good pain control, wound healing, and overall recovery. There were no signs of infection, and their vital signs remained stable throughout their hospital stay.
+
+The patient was started on prophylactic antibiotics to prevent surgical site infection. They were also encouraged to perform deep breathing exercises and early ambulation to prevent postoperative complications such as pneumonia or deep vein thrombosis.
+
+In summary, the patient, [age]-year-old [gender], underwent [type of surgery]. Preoperatively, they had [relevant medical conditions] and were experiencing [specific symptoms]. Postoperatively, the patient's course was uneventful, with good pain control, wound healing, and no signs of infection. The patient will follow up with their surgeon in [number] weeks for further evaluation and management.

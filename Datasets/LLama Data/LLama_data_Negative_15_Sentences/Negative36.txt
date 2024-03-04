@@ -1,0 +1,35 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 55
+Sex: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* Obesity (BMI 35)
+* Chronic lower back pain
+* Previous appendectomy
+* Previous cholecystectomy
+* Previous hernia repair
+* Family history of heart disease
+* Family history of cancer
+
+Postoperative Course:
+
+* Patient underwent a successful lumbar spine fusion surgery
+* Experienced some postoperative pain, but it was managed with medication
+* Had a prolonged ileus, which resolved with conservative management
+* Developed a wound infection, which was treated with antibiotics
+* Required blood transfusion due to blood loss during surgery
+* Had a prolonged hospital stay (7 days) due to the wound infection
+
+Complications:
+
+* Wound infection
+* Prolonged ileus
+* Blood loss requiring transfusion
+
+Note: Acute renal failure was not included as a complication in this patient summary.

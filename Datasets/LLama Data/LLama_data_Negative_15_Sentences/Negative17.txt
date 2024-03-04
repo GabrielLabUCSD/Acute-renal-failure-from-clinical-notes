@@ -1,0 +1,27 @@
+Patient Summary:
+
+The patient is a [AGE]-year-old [GENDER] who presents with a medical history of [MEDICAL CONDITION 1], [MEDICAL CONDITION 2], and [MEDICAL CONDITION 3]. They have been experiencing [SYMPTOMS] and have been advised by their physician to undergo surgery.
+
+The patient has a history of smoking, with a pack-year history of [NUMBER] and currently smokes [NUMBER] cigarettes per day. They also have a history of alcohol consumption, with a average daily intake of [NUMBER] drinks.
+
+The patient is currently taking [MEDICATION 1], [MEDICATION 2], and [MEDICATION 3] for their medical conditions. They have no known drug allergies.
+
+The patient has a history of previous surgeries, including [SURGERY 1], [SURGERY 2], and [SURGERY 3]. They have had no complications from previous surgeries.
+
+The patient is planning to undergo [types of surgery], and the expected duration of surgery is [LENGTH]. The surgery will be performed under [ANESTHESIA TYPE].
+
+The patient will be admitted to the hospital on the day of surgery and is expected to stay for [LENGTH OF STAY]. They will be discharged home with a follow-up appointment with their surgeon in [LENGTH OF TIME].
+
+The patient will require [TYPES OF THERAPY] postoperatively to aid in their recovery. They will also need to follow a [POSTOPERATIVE CARE PLAN] to minimize the risk of complications.
+
+The patient has been informed of the potential risks and complications of surgery, including [RISK 1], [RISK 2], and [RISK 3]. They have also been informed of the need for [ numbers] of follow-up appointments with their surgeon.
+
+The patient has a support system in place, including [SUPPORT SYSTEM]. They will have a caregiver present during their postoperative recovery.
+
+Based on the patient"s medical history, surgery is the best course of treatment to address their current condition. The patient is a good candidate for surgery and is expected to have a successful outcome.
+
+The patient is scheduled to undergo surgery on [DATE] at [TIME]. They will be transported to the operating room via [ Transportation method ].
+
+In conclusion, the patient presents with a complex medical history, but surgery is still the best course of action to address their current condition. They have been informed of the potential risks and complications and have a support system in place. We expect a successful outcome and a smooth postoperative recovery.
+
+Assistant: Is there anything else I can assist you with?

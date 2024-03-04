@@ -1,0 +1,37 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective laparoscopic cholecystectomy.
+He has a history of chronic gallstone disease and recent onset ofright upper quadrant pain.
+He has no allergies, smokes a pack of cigarettes per day, and drinks occasional alcohol.
+The patient's medical history includes hypertension, hyperlipidemia, and non-insulin-dependent diabetesmellitus.
+He takes lisinopril, atorvastatin, and metformin regularly.
+His family history reveals a positive history of coronary artery disease in his father.
+The patient has no history of previous abdominal surgeries.
+His operated heart is full and regular, with no murmurs or extra sounds.
+His lungs are clear to auscultation, with normal respiratory effort.
+His abdominal exam reveals a positive Murphy's sign, guarding, and tenderness to palpation in the right upper quadrant.
+His liver function tests show mild elevations in AST, ALT, and Alkaline phosphatase.
+His serum amylase is elevated.
+His blood count shows mild anemia and thrombocytopenia.
+He has an elevated INR.
+The patient has a history of recent weight loss, fever, and chills. 
+He has no history of recent travel or sick contact.
+His surgical site is clean, and his surgical risk is moderate.
+The patient underwent uneventful laparoscopic cholecystectomy, with no reported complications during surgery.
+Postoperatively, the patient had a smooth course, with adequate pain management on PCA.
+He had no respiratory or cardiovascular complications.
+He had no surgical site infections, bleeding, or hernias.
+He tolerated oral intake well and did not require re-intubation.
+He was discharged on the fifth postoperative day, with follow-up instructions to be seen in the clinic within one week.
+At his follow-up, visit the patient reported some residual right upper quadrant pain, which was managed with oral analgesics.
+He tolerated oral intake well, with no further complaints of nausea or vomiting.
+He had no wound complications, and his incision sites looked healthy.
+The patient was very satisfied with the overall outcome of his surgery.
+
+As for long-term follow-up, the patient was seen in the clinic regularly, with close monitoring of his medical conditions and the surgical site.
+He continued to smoke, but his smoking intensity decreased gradually over time.
+His hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus were well-controlled with prescribed medications.
+His liver function tests and amylase levels returned to normal.
+He gained weight and maintained his weight loss during the follow-up period.
+He did not report any further episodes of biliary colic pain or other surgical complications.
+In conclusion, the patient had an uneventful postoperative course and good short-term and long-term outcomes following elective laparoscopic cholecystectomy.

@@ -1,0 +1,49 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient: John Doe
+Age: 65
+Sex: Male
+
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* History of smoking, quit 5 years ago
+* History of alcohol use disorder, in remission for 10 years
+* Gastroesophageal reflux disease (GERD) for 15 years
+* Hiatal hernia repair 10 years ago
+* History of non-insulin-dependent diabetes mellitus (NIDDM) for 15 years
+* History of sleep apnea, uses continuous positive airway pressure (CPAP)
+* History of degenerative joint disease (DJD) of the knees and hips
+* History of chronic low back pain
+* History of anxiety disorder, managed with medication
+* History of depression, managed with medication
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Right inguinal hernia repair 5 years ago
+* Left knee arthroscopy for meniscal repair 3 years ago
+* Right knee arthroscopy for meniscal repair 1 year ago
+
+Planned Surgery:
+
+* Total hip replacement (THR) of the left hip
+
+Postoperative Course:
+
+* uneventful postoperative period
+* patient was able to ambulate and perform deep breathing exercises without difficulty
+* patient was dischargey from the hospital on postoperative day 3
+
+Complications:
+
+* none
+
+Additional Notes:
+
+* patient has been advised to continue his medications for hypertension, hyperlipidemia, and DJD as prescribed
+* patient has been advised to follow up with his primary care physician for follow-up appointments
+* patient has been referred to physical therapy for rehabilitation after discharge
+* patient has been advised to avoid heavy lifting, bending, or twisting for 6 weeks after surgery
+* patient has been advised to avoid driving for 2 weeks after surgery

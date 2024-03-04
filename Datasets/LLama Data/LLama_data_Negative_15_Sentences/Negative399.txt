@@ -1,0 +1,52 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 55
+Gender: Male
+
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* Diabetes mellitus for 3 years
+* Obesity (BMI 35)
+* History of smoking (20 pack-years)
+* History of alcohol abuse (5 years)
+* Cardiac history: stable angina, NSTEMI 2 years ago
+* Chronic kidney disease (stage 3)
+* OSA (sleep apnea)
+
+Medications:
+
+* Lisinopril 20mg daily
+* Atorvastatin 20mg daily
+* Metformin 1000mg daily
+* Insulin glargine 100 units daily
+* Aspirin 81mg daily
+* Pantoprazole 40mg daily
+* CPAP machine for OSA
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Postoperative Course:
+
+* Patient had a laparoscopic cholecystectomy for symptomatic gallstones.
+* Surgery went smoothly, no complications.
+* Patient tolerated anesthesia well.
+* Patient was discharged home on postoperative day 2.
+
+Complications:
+
+* Patient developed a wound infection on postoperative day 5.
+* Patient was readmitted to the hospital for IV antibiotics.
+* Patient had a prolonged hospital course due to delays in wound healing.
+
+Additional Notes:
+
+* Patient has a history of non-adherence to medications and follow-up appointments.
+* Patient has a history of substance abuse and smoking, which may impact wound healing and overall health.
+* Patient will need close monitoring and follow-up to ensure proper wound care and prevent complications.
+* Patient will need to continue medications and lifestyle modifications to manage comorbidities.

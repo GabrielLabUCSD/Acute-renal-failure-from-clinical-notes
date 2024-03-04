@@ -1,0 +1,59 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [medical condition 1], [medical condition 2], and [medical condition 3]. The patient has been experiencing [symptom 1], [symptom 2], and [symptom 3] and has tried [treatment 1], [treatment 2], and [treatment 3] without relief. The patient is scheduled to undergo [surgery name] to address [medical condition 1].
+
+The patient has a history of [surgery 1], [surgery 2], and [surgery 3] and has experienced [complication 1], [complication 2], and [complication 3] in the postoperative course. The patient has also been diagnosed with [medical condition 4], [medical condition 5], and [medical condition 6] and is currently being treated with [medication 1], [medication 2], and [medication 3].
+
+The patient is allergic to [drug 1], [drug 2], and [drug 3] and has a history of [adverse reaction 1], [adverse reaction 2], and [adverse reaction 3]. The patient does not have any implants or devices.
+
+The patient"s vital signs are:
+
+* Temperature: [temperature]
+* Blood Pressure: [blood pressure]
+* Heart Rate: [heart rate]
+* Respiratory Rate: [respiratory rate]
+* Oxygen Saturation: [oxygen saturation]
+
+The patient"s laboratory results are:
+
+* White Blood Cell Count: [white blood cell count]
+* Hemoglobin: [hemoglobin]
+* Hematocrit: [hematocrit]
+* Platelet Count: [platelet count]
+* Blood Urea Nitrogen: [blood urea nitrogen]
+* Creatinine: [creatinine]
+* Glucose: [glucose]
+
+The patient"s medication list includes:
+
+* [Medication 1]
+* [Medication 2]
+* [Medication 3]
+
+The patient has been instructed to stop taking [medication 1] and [medication 2] before surgery. The patient will continue to take [medication 3] until the day of surgery.
+
+The patient has been advised to follow a clear liquid diet for 24 hours before surgery and to avoid alcohol and nicotine for 24 hours before and after surgery. The patient has also been instructed to arrive at the hospital 2 hours before the scheduled surgery time.
+
+The patient"s surgical plan includes:
+
+* [Surgery name]
+* [Surgical approach]
+* [Estimated length of procedure]
+* [Estimated blood loss]
+* [Anticipated recovery time]
+
+The patient will be monitored closely for [complication 4], [complication 5], and [complication 6] in the postoperative course. The patient will be discharged from the hospital when they are able to [milestone 1], [milestone 2], and [milestone 3].
+
+The patient has been informed of the potential risks and complications associated with the surgery and has provided informed consent. The patient understands the importance of follow-up care and has been advised to follow up with their surgeon within [timeframe] after discharge.
+
+The patient"s support person is [name], who will be present during the surgery and in the recovery room. The patient has also been advised to have a backup support person in case [name] is unavailable.
+
+The patient"s discharge instructions include:
+
+* [Instruction 1]
+* [Instruction 2]
+* [Instruction 3]
+
+The patient has been advised to contact their surgeon"s office for any concerns or issues related to their surgery. The patient has also been given a contact number for any emergencies.
+
+I have reviewed the patient"s medical history and surgical plan, and I am confident that they are a good surgical candidate. I will be available to answer any questions and address any concerns during the surgery

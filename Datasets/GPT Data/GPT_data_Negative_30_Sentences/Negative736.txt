@@ -1,0 +1,19 @@
+The patient is a [age]-year-old [gender] who is scheduled to undergo [type of surgery]. They have a significant medical history, including [list of medical conditions], for which they are receiving treatment. This patient has previously undergone [previous surgeries or procedures], with no significant complications reported. 
+
+On presentation, the patient complained of [list of symptoms that led to the decision for surgery]. Physical examination revealed [specific findings, if any]. Preliminary investigations such as [labs, imaging studies, etc.] were ordered, which revealed [specific findings].
+
+The patient's preoperative clearance included consultations with the [specialist(s)] to manage their [specific medical conditions] prior to surgery. They were advised to discontinue certain medications such as [specific medications] before the procedure. They were given appropriate instructions regarding [preoperative diet, fasting, smoking cessation, etc.].
+
+During the surgery, the patient was placed under general anesthesia and monitored closely throughout the procedure. The surgical team performed [details of the surgery], which lasted approximately [length of time]. Intraoperatively, no significant complications were encountered.
+
+The patient's postoperative course was uneventful for the most part. They were initially transferred to the post-anesthesia care unit (PACU) and closely monitored for vital signs and pain control. They were started on intravenous fluids and given appropriate antibiotics, analgesics, and other medications as required.
+
+Following surgery, the patient experienced expected postoperative pain, which was managed with a combination of oral analgesics and intravenous pain medications as needed. The surgical wound was monitored for signs of infection or dehiscence throughout the hospital stay. Appropriate wound care measures were taken, including dressing changes and close monitoring for any signs of complications.
+
+Daily postoperative rounds were conducted to assess the patient's progress and to address any concerns. The patient was encouraged to ambulate and perform deep breathing exercises to prevent complications such as pneumonia and deep vein thrombosis. They were put on a clear liquid diet initially and gradually progressed to a regular diet as tolerated.
+
+The patient's recovery was uncomplicated, and they were discharged on [specific date]. Before discharge, they were provided with appropriate instructions regarding wound care, activity restrictions, medication management, and follow-up appointments. They were also given information on possible signs and symptoms requiring immediate medical attention.
+
+During the postoperative period, the patient did not experience any major complications such as wound infection, deep vein thrombosis, pneumonia, or cardiovascular events. However, [specific complications/considerations not related to acute renal failure] were noted and managed accordingly.
+
+Overall, the patient's surgery was successful, with an uneventful postoperative course, and they were discharged in stable condition. They will continue to receive appropriate follow-up care to ensure their complete recovery.

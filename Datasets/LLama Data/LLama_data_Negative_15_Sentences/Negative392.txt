@@ -1,0 +1,23 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history of [insert relevant medical conditions, such as hypertension, diabetes, etc.]. They have been taking [insert medications] and have had [insert relevant surgeries or procedures] in the past.
+
+The patient is scheduled to undergo [insert type of surgery] to address [insert condition or complaint]. The surgery is expected to take [insert duration] and will be performed under [insert type of anesthesia].
+
+The patient's postoperative course has been uneventful, with no major complications. They have experienced some minor discomfort, such as [insert minor complications, such as nausea, dizziness, etc.], which have been successfully managed with [insert treatments or medications].
+
+The patient has been advised to follow a [insert postoperative instructions, such as rest, pain management, wound care, etc.] and has been discharged home with a follow-up appointment scheduled for [insert date].
+
+The patient's recovery has been smooth, with no signs of complications. They have been able to tolerate oral intake and have had minimal pain, which has been managed effectively with [insert pain management plan].
+
+The patient's wound has been healing well, with no signs of infection or dehiscence. They have been advised to continue with wound care and to follow-up with their primary care physician for further management.
+
+The patient has reported some mild discomfort, such as [insert minor complications], which have been managed with [insert treatments or medications].
+
+The patient has been able to resume their normal activities, including [insert activities, such as work, exercise, etc.].
+
+The patient has been advised to follow-up with their primary care physician for ongoing management of their medical conditions and to monitor for any signs of complications.
+
+No acute renal failure was experienced during the postoperative period.
+
+Overall, the patient's surgery and postoperative course have been successful, with no major complications. They have been discharged home with clear instructions for continued care and have been advised to follow-up with their primary care physician for further management.

@@ -1,0 +1,69 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Height: 5'9"
+Weight: 180 lbs
+BMI: 28
+Medical History:
+
+* Hypertension diagnosed 10 years ago
+* High cholesterol diagnosed 5 years ago
+* History of smoking, quit 5 years ago
+* history of alcohol use, currently drinks moderately
+* Diabetes mellitus diagnosed 3 years ago
+* Obstructive sleep apnea diagnosed 2 years ago
+* History of stroke, suffered a minor stroke 2 years ago
+* History of heart disease, had a myocardial infarction 10 years ago
+* History of chronic back pain, currently managed with physical therapy and medication
+* History of osteoarthritis, currently managed with medication and lifestyle modifications
+* History of gastroesophageal reflux disease, currently managed with medication and lifestyle modifications
+
+ surgical History:
+
+* Cholecystectomy 10 years ago
+* Hernia repair 5 years ago
+* Cataract surgery 2 years ago
+
+Medications:
+
+* Amlodipine 5mg PO daily
+* Atorvastatin 20mg PO daily
+* Metformin 1000mg PO bid
+* Aspirin 81mg PO daily
+* Omeprazole 20mg PO daily
+* Celecoxib 200mg PO bid
+* Alprazolam 0.5mg PRN
+
+Family History:
+
+* Mother died of breast cancer at age 60
+* Father died of colon cancer at age 70
+* One brother died of lung cancer at age 55
+* One sister alive and healthy at age 68
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies any recent travel or exposure to illness
+* Lives in a two-story house with no pets
+* Has a support system of family and friends
+* Has a living will and advance directive in place
+
+Reason for surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Postoperative Course:
+
+* Patient had a successful laparoscopic cholecystectomy and was discharged home on postoperative day 2.
+* Patient experienced some discomfort and pain in the abdomen which was managed with medication.
+* Patient was advised to avoid heavy lifting and bending for 4 weeks.
+* Patient had a follow-up appointment with the surgeon 2 weeks after discharge, and the incision site was healing well.
+* Patient did not experience any complications during the postoperative period.
+
+Complications:
+
+* None

@@ -1,0 +1,93 @@
+I'm happy to help you with that! Here's a sample patient summary with 45 sentences describing a patient's medical history and a potential complication after surgery:
+
+Patient Summary:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Chief Complaint: Abdominal pain
+
+Medical History:
+
+* Hyperlipidemia
+* Hypertension
+* History of smoking
+* History of alcohol use disorder
+* Chronic kidney disease stage 3
+* History of non-insulin-dependent diabetes mellitus
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Herniotomy 5 years ago
+
+Medications:
+
+* Simvastatin 40 mg daily
+* Amlodipine 5 mg daily
+* Lisinopril 40 mg daily
+* Metformin 1000 mg daily
+* Aspirin 81 mg daily
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 68
+* One sibling with history of kidney disease
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with no elevator
+* Walks 1-2 miles daily
+* Denies recent travel or exposure to illness
+
+Reason for Visit:
+
+* Evaluation for elective surgery
+
+Physical Exam:
+
+* Blood pressure 140/80 mmHg
+* Heart rate 70 bpm
+* Temperature 98.6°F
+* Respiratory rate 16 breaths/min
+* Oxygen saturation 95% on room air
+* Abdominal tenderness to palpation
+* No rebound tenderness or guarding
+* No costovertebral angle tenderness
+* No abnormal lung or cardiovascular examination findings
+
+Laboratory Results:
+
+* White blood cell count 12,000/mm3
+* Creatinine 1.8 mg/dL
+* Glomerular filtration rate (eGFR) 45 mL/min/1.73 m2
+* Urinalysis: proteinuria 1+, leukocyte esterase 1+, nitrites 0, blood 1+
+* Lipid profile: total cholesterol 200 mg/dL, triglycerides 150 mg/dL, HDL 40 mg/dL, LDL 120 mg/dL
+
+Imaging Studies:
+
+* Ultrasound of the abdomen and pelvis showed a possible gallstone
+
+Plan:
+
+* Schedule patient for elective cholecystectomy
+* Initiate patient on preoperative clear liquid diet
+* Order perioperative antibiotics
+* Monitor patient's renal function closely postoperatively
+
+Complication:
+
+* Acute renal failure (ARF) developed postoperatively, likely due to hypovolemia and sepsis
+* Patient required intensive care unit admission and hemodialysis
+* ARF resolved with supportive care and hemodialysis, and patient was able to recover fully
+
+I hope this sample patient summary helps! Let me know if you have any questions or need further assistance.

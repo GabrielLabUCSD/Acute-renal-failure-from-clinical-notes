@@ -1,0 +1,19 @@
+The patient is a [age]-year-old [gender] who is scheduled to have [type of surgery]. The patient's past medical history includes [list of relevant medical conditions]. They have a history of [list of previous surgeries]. The patient's medications include [list of current medications]. They do not have any known allergies.
+
+In terms of family history, the patient reports a family history of [specific medical conditions, if applicable]. They deny any history of smoking, alcohol, or illicit drug use. The patient's social history is otherwise unremarkable.
+
+Upon physical examination, the patient appears [general appearance]. Vital signs are stable, with a blood pressure of [BP], heart rate of [HR], respirations of [RR], and oxygen saturation of [O2 sat] on room air. The patient's general physical examination is within normal limits except for [notable physical finding, if applicable].
+
+Additional relevant investigations include [list of pertinent lab results, imaging studies, or other diagnostic tests]. Notable findings include [specific findings, if applicable]. The overall preoperative assessment indicates the patient is an appropriate candidate for surgery.
+
+Regarding the surgical plan, the patient met with the surgeon who discussed the procedure, risks, and benefits. The patient provided informed consent. Preoperative antibiotics were administered as per protocol. The patient was taken to the operating room [date and time] and underwent [type of surgery] under [type of anesthesia]. The procedure was [uncomplicated/complicated] and lasted approximately [duration] hours. The estimated blood loss was [amount] mL.
+
+Postoperatively, the patient was transferred to the recovery area and then to the surgical ward. Vital signs remained stable, with the patient maintaining a blood pressure within [range], heart rate within [range], respirations within [range], and oxygen saturation within [range]. The patient received adequate pain management with appropriate analgesics as per the postoperative pain protocol.
+
+Regarding the patient's postoperative course, they progressively met their milestones. They were ambulating well and tolerating a regular diet without any issues. There were no signs of infection, wound dehiscence, or any other immediate complications. The patient's surgical wound appeared clean, dry, and intact. Drain output was within acceptable limits. The patient's incision site was monitored closely for signs of infection or delayed wound healing.
+
+Overall, the patient's postoperative recovery was uneventful, and they were discharged home on [date]. They were advised regarding wound care, pain management, and activity restrictions. An appointment for a follow-up visit was scheduled with the surgeon in [number of days/weeks].
+
+To date, the patient has not experienced any complications related to the surgery. They have not developed any signs of deep vein thrombosis, pulmonary embolism, surgical site infection, or other postoperative complications. The patient has been compliant with the prescribed medications and follow-up appointments.
+
+In conclusion, the patient underwent [type of surgery] without any intraoperative or immediate postoperative complications. They have had an uneventful recovery and demonstrated appropriate wound healing. The patient will continue to be monitored closely during their follow-up visits to ensure a complete recovery.

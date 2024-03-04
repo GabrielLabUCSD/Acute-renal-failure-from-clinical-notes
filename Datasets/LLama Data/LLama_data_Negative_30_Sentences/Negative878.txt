@@ -1,0 +1,58 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient: John Doe
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker for 40 years, quit 5 years ago
+* History of coronary artery disease, status post coronary artery bypass grafting (CABG) 10 years ago
+* History of chronic obstructive pulmonary disease (COPD)
+* History of gastroesophageal reflux disease (GERD)
+* History of knee osteoarthritis, status post total knee arthroplasty (TKA) 5 years ago
+* History of breast cancer, status post lumpectomy and radiation therapy 3 years ago
+* No history of bowel obstruction or previous abdominal surgery
+
+Planned Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* No complications encountered during surgery or postoperative period
+* Patient was discharged home on postoperative day 2
+
+Potential Complications:
+
+* Wound infection
+* Postoperative nausea and vomiting
+* Respiratory complications (e.g. pneumonia, respiratory failure)
+* Cardiac complications (e.g. myocardial infarction, atrial fibrillation)
+* Pulmonary embolism
+* Sepsis
+* Hypoventilation
+* Hypercapnia
+* Postoperative cognitive dysfunction
+
+Patient's Current Medications:
+
+* Aspirin
+* Metformin
+* Amlodipine
+* Lisinopril
+* Omeprazole
+* Albuterol
+* Ibuprofen
+
+Allergies:
+
+* None known
+
+Social History:
+
+* Married with two adult children
+* Works as a retired accountant
+* Lives independently
+* No recent travel or exposure to illness
+
+This patient summary includes relevant medical history, planned surgery, postoperative course, potential complications, current medications, allergies, and social history. Please note that this is a sample and should be tailored to the specific patient and surgery.

@@ -1,0 +1,20 @@
+Patient Summary:
+
+* Patient name: John Doe
+* Age: 65 years old
+* Gender: Male
+* Medical history: Hypertension, hyperlipidemia, diabetes mellitus, and obesity
+* Reason for surgery: Elective laparoscopic cholecystectomy for symptomatic gallstones
+* Current medications: Amlodipine, atorvastatin, metformin, and aspirin
+* Allergies: None
+* Past surgeries: None
+* Family history: No history of surgical complications
+* Social history: Active smoker, moderate alcohol consumption
+* Preoperative tests: Complete blood count, electrolyte panel, liver function tests, and coagulation studies within normal limits
+* Preoperative physical examination: No signs of acute illness, stable vital signs
+* Anesthesia plan: General anesthesia with endotracheal intubation
+* Surgical procedure: Laparoscopic cholecystectomy performed without any complications
+* Postoperative course: Patient had a smooth recovery, stable vital signs, and adequate pain control with opioids. Patient was able to tolerate oral intake and had no nausea or vomiting. Patient was discharged home on postoperative day 2.
+* Complications: None
+
+Note: This patient summary is a sample and fictional, and it should not be used as a real patient record.

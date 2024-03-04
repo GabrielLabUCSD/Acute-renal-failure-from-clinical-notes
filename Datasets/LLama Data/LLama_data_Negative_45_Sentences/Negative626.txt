@@ -1,0 +1,111 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications):
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Diabetic
+* Hyperlipidemic
+* History of smoking
+* History of alcohol use
+* Obese (BMI 35)
+* Sleep apnea
+* Gastroesophageal reflux disease (GERD)
+* Chronic lower back pain
+* Previoushistory of lumbar spine surgery
+
+Surgical History:
+
+* Previous cholecystectomy
+* Previous hernia repair
+* Previous knee arthroscopy
+
+Current Admission:
+
+* Admitted for elective lumbar spine surgery (decompression and fusion)
+* Preoperative workup includes:
+	+ Complete blood count (CBC)
+	+ Electrolyte panel
+	+ Liver function tests (LFTs)
+	+ Renal function tests (RFTs)
+	+ Urinalysis
+	+ Chest x-ray
+	+ Electrocardiogram (ECG)
+* Patient is taking aspirin, atorvastatin, metformin, and omeprazole
+
+Postoperative Course:
+
+* Patient had a successful decompression and fusion surgery
+* Postoperative day 1:
+	+ Patient is awake and alert
+	+ Vital signs are stable
+	+ Pain is managed with IV morphine
+	+ Patient is unable to ambulate due to surgical site
+* Postoperative day 2:
+	+ Patient is able to ambulate with assistance
+	+ Pain is managed with oral hydrocodone
+	+ Patient is able to eat solid foods
+* Postoperative day 3:
+	+ Patient is able to ambulate independently
+	+ Pain is managed with oral acetaminophen
+	+ Patient is discharged home with a surgical drain
+
+Complications:
+
+* Postoperative day 1:
+	+ Patient develops a fever of 101.3°F (38.5°C)
+	+ Blood cultures are drawn and broad-spectrum antibiotics are started
+	+ Follow-up blood cultures are negative
+* Postoperative day 2:
+	+ Patient develops a wound infection (Staphylococcus aureus)
+	+ Incision and drainage are performed
+	+ Patient is started on antibiotics
+* Postoperative day 4:
+	+ Patient develops a urinary tract infection (Escherichia coli)
+	+ Patient is started on antibiotics
+
+Assistant:  Here's a summary of the patient's medical history, postoperative course, and complications in 45 sentences:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Diabetic
+* Hyperlipidemic
+* History of smoking
+* History of alcohol use
+* Obese (BMI 35)
+* Sleep apnea
+* Gastroesophageal reflux disease (GERD)
+* Chronic lower back pain
+* Previous history of lumbar spine surgery
+
+Surgical History:
+
+* Previous cholecystectomy
+* Previous hernia repair
+* Previous knee arthroscopy
+
+Current Admission:
+
+* Admitted for elective lumbar spine surgery (decompression and fusion)
+* Preoperative workup includes:
+	+ Complete blood count (CBC)
+	+ Electrolyte panel
+	+ Liver function tests (LFTs)
+	+ Renal function tests (RFTs)
+	+ Urinalysis
+	+ Chest x-ray
+	+ Electrocardiogram (ECG)
+* Patient is taking aspirin, atorvastatin, metformin, and omeprazole
+
+Postoperative Course:
+
+* Patient had a successful decompression and fusion surgery
+* Postoperative day 1:
+	+ Patient is awake and alert
+	+ V

@@ -1,0 +1,109 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1970
+
+Gender: Male
+
+Chief Complaint: The patient presents with chronic low back pain and left leg radiculopathy.
+
+Medical History:
+
+* History of smoking (20 pack years)
+* Hypertension
+* Hyperlipidemia
+* Obesity (BMI 35)
+* Diabetes mellitus (type 2)
+* Sleep apnea
+* History of alcohol abuse
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 35
+* Herniotomy at age 40
+
+Current Medications:
+
+* Lisinopril 20mg daily
+* Metformin 500mg daily
+* Simvastatin 20mg daily
+* Aspirin 81mg daily
+* Oxycodone 10mg every 4 hours as needed for pain
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 65
+* One sibling with history of colon cancer
+
+Social History:
+
+* Married with two adult children
+* Works as a manual laborer
+* Living situation is stable
+* No recent travel or exposure to illness
+
+Review of Systems:
+
+* No fever, chills, or night sweats
+* No recent weight loss or gain
+* No changes in bowel or bladder habits
+* No history of neurological symptoms
+* No history of respiratory symptoms
+* No history of cardiovascular symptoms
+
+Physical Examination:
+
+* Blood pressure 150/90 mmHg
+* Pulse 80/min
+* Respiratory rate 18/min
+* Temperature 98.6°F
+* BMI 35
+* No obvious deformities or abnormalities
+
+Lab Results:
+
+* WBC 12,000/mm3
+* Neutrophils 70%
+* Lymphocytes 20%
+* Monocytes 8%
+* Eosinophils 2%
+* Basophils 0%
+* Platelets 250,000/mm3
+* BUN 20 mg/dL
+* Creatinine 1.2 mg/dL
+* Glucose 180 mg/dL
+* Total Cholesterol 220 mg/dL
+* Triglycerides 180 mg/dL
+* HDL 30 mg/dL
+* LDL 160 mg/dL
+
+Imaging Studies:
+
+* MRI of the lumbar spine shows multilevel degenerative disc disease and spinal stenosis
+* CT scan of the abdomen and pelvis shows no acute disease
+
+Plan:
+The patient will undergo a lumbar decompression surgery to alleviate symptoms of spinal stenosis.
+
+Postoperative Course:
+
+* Patient was taken to the recovery room in stable condition
+* Patient experienced some nausea and vomiting in the immediate postoperative period, which was treated with antiemetics
+* Patient's pain was well-controlled with opioids
+* Patient was able to ambulate and move his lower extremities without difficulty
+* Patient was discharged home on postoperative day 3 with instructions to follow up with his surgeon in 1 week
+
+Complications:
+
+* Patient experienced some urinary retention in the immediate postoperative period, which was treated with catheterization and resolved within 24 hours
+* Patient developed a superficial wound infection at the incision site, which was treated with antibiotics and resolved within 7 days
+
+ Assistant:  I have generated a patient summary with 45 sentences describing a patient's medical history who is planning to have

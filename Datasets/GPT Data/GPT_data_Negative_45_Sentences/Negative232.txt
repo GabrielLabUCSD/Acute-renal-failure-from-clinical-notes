@@ -1,0 +1,33 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. They have a significant medical history including [list of medical conditions]. The patient's surgical indication is [provide surgical indication].
+
+In terms of past surgeries, the patient has undergone [list previous surgeries]. Additionally, they have had [mention any procedures or interventions] in the past.
+
+The patient is currently on the following medications: [list medications]. These medications are being taken to manage their medical conditions such as [mention conditions being managed].
+
+They have multiple known allergies, including [list allergies and specific reactions]. These allergies have been thoroughly documented in the patient's medical records.
+
+During the pre-operative evaluation, the patient underwent several tests and investigations. These include [list tests performed] which revealed [mention any significant findings]. These findings were taken into consideration as part of the preoperative planning.
+
+Aside from their medical issues, the patient has a good functional status and is able to perform their activities of daily living independently. They have a stable vital signs and no signs of acute distress.
+
+The surgical procedure is scheduled to be performed by [surgeon's name] on [date]. The patient has been provided with detailed pre-operative instructions and has been educated on the expected postoperative course.
+
+Postoperatively, the patient was monitored closely in the recovery area. They were initially started on [list medications/interventions]. The patient's pain was being managed with [mention pain management modalities].
+
+In the immediate postoperative period, the patient's vital signs remained stable, and they were closely monitored for any signs of complications. The wound site was inspected regularly for any signs of infection or dehiscence.
+
+As for the patient's postoperative course, it was uneventful overall. They tolerated the surgery well and experienced no major complications. They were able to ambulate independently and resume a regular diet without any issues.
+
+To prevent postoperative complications, the patient received prophylactic antibiotics and was encouraged to practice deep breathing exercises as well as ambulation to prevent complications such as thromboembolism and pneumonia.
+
+At the follow-up visit, the surgical wound was healing nicely, with no signs of infection or abnormal discharge. The patient's pain was well-managed and they reported an improvement in their symptoms.
+
+The patient has been referred to physical therapy for rehabilitation as part of their postoperative recovery plan. The aim is to restore their functional status and regain strength and mobility.
+
+No complications related to the surgery, such as surgical site infection or postoperative bleeding, were noted.
+
+In regards to renal function, the patient did not experience acute renal failure as a complication postoperatively.
+
+The patient was instructed to follow up with their primary care physician for regular check-ups and monitoring of their underlying medical conditions.
+
+Overall, the patient's surgical experience was successful, with an uneventful postoperative course and no major complications observed. They are expected to have a full recovery and return to their normal activities gradually.

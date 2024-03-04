@@ -1,0 +1,23 @@
+Patient X is a 55-year-old male with a medical history significant for hypertension, diabetes mellitus type 2, hyperlipidemia, and obesity. He weighs 250 pounds with a body mass index (BMI) of 38.8 kg/m^2. The patient presents for elective surgery for bilateral knee replacements due to severe osteoarthritis that significantly limits his mobility and quality of life. 
+
+Patient X's hypertension is well-controlled on lisinopril 20 mg daily, with a blood pressure consistently around 130/80 mmHg. His diabetes is managed with metformin 1000 mg twice daily, with a glycosylated hemoglobin (HbA1c) level of 7.2%. His lipid profile reveals total cholesterol of 190 mg/dL, low-density lipoprotein (LDL) cholesterol of 120 mg/dL, high-density lipoprotein (HDL) cholesterol of 40 mg/dL, and triglycerides of 150 mg/dL.
+
+The patient has a previous medical history of deep vein thrombosis (DVT) in the left leg for which he completed 6 months of anticoagulation with rivaroxaban, ending 2 years ago. He does not have a history of any bleeding disorders or complications related to the prior DVT.
+
+Patient X has no known drug allergies and does not smoke or consume alcohol. He leads a sedentary lifestyle due to his limited mobility but has a supportive social network.
+
+Physical examination is remarkable for bilateral knee pain with limited range of motion due to joint deformity and crepitus. The remainder of the examination is unremarkable.
+
+Preoperative investigations include a complete blood count (CBC) within normal limits, liver function tests within normal limits, and a chest X-ray showing no significant cardiopulmonary abnormalities. An electrocardiogram (ECG) reveals normal sinus rhythm.
+
+Patient X is scheduled for surgery and has undergone preoperative optimization, including blood pressure control, glycemic control, and cessation of metformin 48 hours prior to surgery. He has also received education on deep breathing exercises, leg exercises, and early ambulation following surgery.
+
+Immediately following surgery, the patient is transferred to the post-anesthesia care unit (PACU). Intravenous patient-controlled analgesia (PCA) is initiated with morphine sulfate for pain management. Vital signs remain stable throughout the immediate postoperative period.
+
+Patient X is monitored for potential complications such as surgical site infection, deep venous thrombosis (DVT), pulmonary embolism (PE), and pneumonia. Thromboprophylaxis with enoxaparin is administered as per protocol. Sequential compression devices are applied to prevent DVT.
+
+In the postoperative course, the patient receives physical therapy to help regain mobility and strength in the knee joints. He is encouraged to ambulate with the assistance of a walker. Pain management is optimized with a combination of oral analgesics and PCA.
+
+Patient X's recovery progresses well without any significant complications. He achieves full range of motion in his knee joints and is discharged home on postoperative day 4. During follow-up visits, the patient reports a gradual improvement in pain and functionality. There are no signs of infection or wound complications.
+
+In summary, Patient X is a 55-year-old obese male with hypertension, diabetes, hyperlipidemia, and a history of DVT, presenting for bilateral knee replacement surgery. He undergoes preoperative optimization and postoperative care, including pain management and rehabilitation. The patient experiences no major postoperative complications and has a successful recovery with improved mobility and quality of life.

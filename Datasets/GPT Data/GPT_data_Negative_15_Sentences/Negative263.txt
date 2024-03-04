@@ -1,0 +1,13 @@
+Patient Summary:
+
+This is a summary of a patient's medical history who is planning to have surgery. The patient is a 55-year-old female with a past medical history of hypertension, diabetes mellitus type 2, dyslipidemia, and osteoarthritis. She is currently on multiple medications including lisinopril, metformin, simvastatin, and acetaminophen for pain management.
+
+The patient has a history of uncontrolled hypertension, with blood pressure readings ranging between 160/90 mmHg and 180/100 mmHg. Despite lifestyle modifications and medication management, her blood pressure remains elevated. The patient is compliant with her medication regimen and regularly monitors her blood glucose levels. She also follows a diabetic diet and exercises regularly.
+
+In terms of surgical history, the patient underwent an appendectomy 10 years ago without any complications. She has no known drug allergies and denies any adverse reactions to anesthesia in the past. The patient is a non-smoker and does not consume alcohol.
+
+During the preoperative evaluation, the patient's vital signs were within normal limits, with blood pressure reading at 140/80 mmHg. Her laboratory results showed well-controlled blood glucose levels, with a hemoglobin A1c of 6.2%. Renal function tests revealed normal kidney function, with a creatinine level of 0.8 mg/dL. The patient's EKG showed no significant abnormalities.
+
+The patient was informed about the surgical procedure, risks, benefits, and alternative treatment options. She underwent a comprehensive preoperative assessment including a chest x-ray, which revealed no abnormalities. The patient's postoperative course was uneventful, and she did not develop any complications. Her pain was well controlled with analgesics, and she was able to tolerate a regular diet without any issues. The surgical wound healed without signs of infection. She was discharged home on postoperative day 3 with appropriate discharge instructions and follow-up scheduled.
+
+In conclusion, this patient has a history of hypertension, diabetes mellitus type 2, dyslipidemia, and osteoarthritis. She underwent a successful surgery without any complications. Her postoperative course was uneventful, and she was discharged home in stable condition.

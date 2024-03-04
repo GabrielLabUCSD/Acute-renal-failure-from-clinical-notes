@@ -1,0 +1,13 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history of hypertension, diabetes mellitus, and hyperlipidemia. He had a myocardial infarction 10 years ago and has been compliant with his medications since then. He has a history of non-alcoholic fatty liver disease and has been told he has mild cirrhosis. He has been a smoker for the past 20 years but quit 5 years ago. He denies any substance abuse. 
+
+His surgical history includes a cholecystectomy 15 years ago, and an inguinal hernia repair 5 years ago. He has no known allergies to medications and takes no medications that may affect anesthesia. His last bowel movement was this morning. He does not have any loose teeth or dentures. 
+
+His vital signs are: Temperature: 98.6°F, Pulse: 78 bpm, Respiratory rate: 16 bpm, Blood pressure: 158/92 mmHg, and Oxygen saturation: 98% on room air. His height is 5’6, weight 85 kg, and BMI is 31. 
+
+He denies any recent illnesses, such as colds, flu, or pneumonia. He is an independent individual with no difficulty performing activities of daily living. He works as a software engineer. He recently traveled to Mexico but did not experience any health problems while there. 
+
+The patient’s postoperative course was uneventful. He experienced some nausea and vomiting on the first postoperative day, which was treated with appropriate medication. He did not have any respiratory or cardiac complications. He was discharged from the hospital on the third postoperative day and has been recovering well at home. 
+
+He did not experience any complications related to the surgery and is doing well. He has follow-up appointments with his surgeon and primary care physician to ensure that his recovery is progressing as expected.

@@ -1,0 +1,49 @@
+Patient Summary:
+
+* Name: John Doe
+* Age: 65
+* Gender: Male
+* Date of Birth: January 1, 1955
+* Medical Record Number: 12345
+* Primary Care Physician: Dr. Jane Smith
+* Current Medications:
+	+ Aspirin 81mg daily
+	+ Lisinopril 20mg daily
+	+ Metformin 500mg twice daily
+	+ Omeprazole 20mg daily
+* Medical History:
+	+ Hypertension
+	+ Diabetes mellitus type 2
+	+ Hyperlipidemia
+	+ History of smoking
+	+ History of alcohol use disorder
+	+ Chronic kidney disease stage 3
+* Reason for Surgery:
+	+ Elective laparoscopic cholecystectomy for symptomatic gallstones
+* Preoperative Lab Results:
+	+ WBC 12,000/mm3
+	+ Creatinine 1.8mg/dL
+	+ eGFR 60ml/min
+	+ AST/ALT 25/18 U/L
+	+ Alkaline phosphatase 120 U/L
+	+ Total bilirubin 1.2mg/dL
+	+ Direct bilirubin 0.6mg/dL
+* Surgical History:
+	+ None
+* Family History:
+	+ Father died of myocardial infarction at age 60
+	+ Mother died of breast cancer at age 70
+* Social History:
+	+ Married with two adult children
+	+ Retired
+	+ Lives in a two-story house with no elevator
+	+ Walks 1-2 miles daily
+	+ Denies recent travel or exposure to illness
+* Acute Renal Failure Complication:
+	+ Developed oliguria and elevated serum creatinine levels postoperatively
+	+ Requires continuous renal replacement therapy
+	+ Underwent ultrasound-guided renal biopsy for suspected acute tubular necrosis
+	+ Pathology results show severe acute tubular necrosis with 80% renal cortical damage
+	+ Currently receiving supportive care and close monitoring in the intensive care unit
+
+Note: This patient summary is a fictional example and does not represent any real patient's medical history.

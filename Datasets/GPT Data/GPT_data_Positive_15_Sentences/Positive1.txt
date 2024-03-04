@@ -1,0 +1,15 @@
+The patient is a 55-year-old male with a medical history significant for hypertension and diabetes mellitus type 2. He presents today for pre-operative evaluation prior to scheduling surgery for a hernia repair. The patient has a history of well-controlled hypertension, which is currently managed with an angiotensin receptor blocker (ARB). His diabetes is treated with metformin and diet modification. He has no known drug allergies.
+
+Additional medical history includes a prior appendectomy in his early 20s and a cholecystectomy in his late 30s. He has never had any major complications from these surgeries. The patient has no known family history of surgical complications and denies any past issues with anesthesia.
+
+Baseline laboratory values reveal a normal complete blood count (CBC), serum electrolytes, and liver function tests. However, his serum creatinine level is slightly elevated at 1.4 mg/dL, indicating mild chronic kidney disease.
+
+Regarding lifestyle factors, the patient is a non-smoker and consumes alcohol only occasionally. He leads a sedentary lifestyle and has a body mass index (BMI) of 31 kg/m², indicative of obesity.
+
+During the surgery, unexpected complications arise, and the patient develops acute renal failure. His urine output decreases significantly, and his creatinine level rises to 3.2 mg/dL.
+
+Upon further evaluation, it is discovered that the patient experienced hypotension during surgery, leading to diminished renal perfusion. Additionally, the intraoperative administration of nephrotoxic medications, such as nonsteroidal anti-inflammatory drugs (NSAIDs) and certain antibiotics, may have further contributed to the development of acute renal failure.
+
+The patient is immediately started on aggressive fluid resuscitation and closely monitored for electrolyte imbalances. His medications are adjusted to include renal dose adjustments, and nephrology consult is obtained. Dialysis may be required if there is no improvement in renal function within the next 24-48 hours.
+
+In summary, a 55-year-old male with a history of hypertension and diabetes mellitus type 2 is planning to undergo surgery for a hernia repair. His baseline laboratory values indicate mild chronic kidney disease. Post-surgery, the patient develops complications of acute renal failure likely due to intraoperative hypotension and administration of nephrotoxic medications. Aggressive management and nephrology consultation are initiated to restore renal function.

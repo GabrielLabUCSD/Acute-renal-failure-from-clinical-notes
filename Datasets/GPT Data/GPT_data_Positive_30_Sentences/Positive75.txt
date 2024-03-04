@@ -1,0 +1,15 @@
+Patient Summary
+
+The patient is a [age]-year-old [gender] with a history of [medical conditions] who is planning to undergo [type of surgery]. The patient's medical history includes [condition/disease], which was diagnosed [time period] ago. They have been managing their condition with [medications/treatments]. Additionally, the patient has a history of [medical condition] for [time period], which is currently stable. They are taking [medications] to control this condition.
+
+His past surgical history includes [previous surgeries], which were performed [time period] ago. The patient has no known medication allergies and is not currently taking any over-the-counter medications or supplements. However, it is important to note that the patient is a smoker, consuming [number of cigarettes] per day for [duration].
+
+Laboratory tests conducted prior to surgery revealed normal complete blood count, liver function tests, and electrolyte levels. However, the patient's renal function tests indicated a slight elevation in serum creatinine levels, which could suggest early renal impairment. The patient had decreased urinary output and increased serum creatinine levels, which raised concerns about possible post-operative acute renal failure.
+
+Considering the patient's medical history and recent laboratory findings, the surgical team will closely monitor the patient's renal function during and after surgery. Special attention will be given to maintaining hydration and avoiding nephrotoxic medications, as well as ensuring optimal perioperative hemodynamic stability to prevent further kidney damage.
+
+In the event that the patient develops acute renal failure, treatment options will include fluid management, diuretics, and close monitoring of electrolyte levels. In consultation with a nephrologist, the surgical team will devise a comprehensive treatment plan to mitigate the effects of renal failure and promote kidney recovery.
+
+It is important to note that the patient has expressed concerns about post-operative pain management and would like to explore non-opioid alternatives. Collaboration with the anesthesia team will be essential to develop a personalized pain management plan that takes into account the patient's preferences and minimizes the use of opioids while ensuring effective pain control.
+
+Overall, the patient's medical history and current renal function indicate the need for careful perioperative management to mitigate the risk of acute renal failure. A multidisciplinary approach involving the surgical team, nephrologist, and anesthesia team will be essential to optimize the patient's surgical outcome and post-operative recovery.

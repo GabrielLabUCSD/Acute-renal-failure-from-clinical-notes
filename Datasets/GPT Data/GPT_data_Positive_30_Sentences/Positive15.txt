@@ -1,0 +1,31 @@
+The patient is a 45-year-old male who is scheduled to undergo surgery.
+He has a past medical history of hypertension, diabetes mellitus, and hyperlipidemia.
+His blood pressure is well controlled with a combination of antihypertensive medications, including lisinopril and hydrochlorothiazide.
+He takes metformin for his diabetes.
+His cholesterol levels are managed with atorvastatin.
+The patient has no known drug allergies.
+He does not smoke and has no history of alcohol abuse.
+His surgical history includes an appendectomy and tonsillectomy in childhood.
+He has experienced no previous complications or adverse reactions to anesthesia.
+The patient reports no family history of surgical complications.
+He presents with no current symptoms related to his chronic medical conditions.
+His preoperative laboratory tests reveal normal fasting glucose levels and stable renal function.
+His liver function tests, complete blood count, and coagulation profile are within normal limits.
+The patient is on a well-balanced diet and exercises regularly.
+He is of average height and weight for his age.
+The patient is mentally and emotionally stable, displaying no signs of anxiety or depression related to the upcoming surgery.
+During the surgery, the patient is monitored closely, including blood pressure, heart rate, and oxygen saturation levels.
+He receives general anesthesia.
+The procedure is uneventful and there are no complications during the surgery.
+However, the patient develops acute renal failure following the surgery.
+His urine output decreases significantly, and there is an increase in his serum creatinine and blood urea nitrogen levels.
+The patient complains of fatigue, feeling weak, and a decreased appetite.
+He has no other signs of infection or respiratory distress.
+A nephrologist is consulted and diagnoses the patient with acute tubular necrosis, the most common cause of acute renal failure following surgery.
+The patient is managed with intravenous fluids to restore hydration and improve renal perfusion.
+He is also prescribed medication for pain control and to manage his blood pressure.
+The patient's renal function gradually improves over several days with the appropriate treatment.
+He is closely monitored for any signs of complications or further deterioration in renal function.
+The patient's other medical conditions are managed during his hospital stay, including regular blood glucose monitoring and medication administration.
+He is discharged from the hospital once his renal function stabilizes and he is deemed medically stable.
+Follow-up appointments with the nephrologist and primary care physician are scheduled to monitor the patient's renal function and adjust medications as needed.

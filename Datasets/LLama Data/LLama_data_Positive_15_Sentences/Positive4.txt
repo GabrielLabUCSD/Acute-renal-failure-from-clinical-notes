@@ -1,0 +1,28 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male with a history of hypertension, diabetes, and hyperlipidemia.
+2. He has been experiencing worsening left knee pain over the past year, consistent with osteoarthritis.
+3. The patient has tried physical therapy and medication but has not experienced sufficient relief.
+4. He has been advised by his orthopedic surgeon that total knee replacement surgery is necessary.
+5. The patient has no known allergies and is not taking any medications that could interfere with surgery.
+6. He has a history of smoking but quit 10 years ago.
+7. The patient has a history of alcohol use but denies excessive drinking.
+8. He has a BMI of 32, which may increase the risk of complications during surgery.
+9. The patient has been advised to lose weight before surgery but has not been successful in doing so.
+10. He has a history of sleep apnea and uses a CPAP machine at night.
+11. The patient has a history of chronic lower back pain but denies any recent exacerbations.
+12. He has no history of previous surgeries or hospitalizations.
+13. The patient's family history is significant for heart disease and stroke.
+14. He has been advised to have a cardiac evaluation before surgery to ensure he is a good candidate.
+15. The patient is anxious about the surgery but is motivated to improve his quality of life.
+
+Complication:
+
+1. Acute renal failure developed postoperatively, likely due to a combination of factors such as hypotension, sepsis, and renal impairment.
+2. The patient experienced decreased urine output, increased serum creatinine, and metabolic acidosis.
+3. He was transferred to the intensive care unit for close monitoring and treatment.
+4. The patient required temporary hemodialysis to support his kidney function.
+5. He developed a urinary tract infection, which was treated with antibiotics.
+6. The patient's renal function gradually improved over time, and he was eventually able to discontinue dialysis.
+7. He was closely monitored for any signs of ongoing renal impairment or complications.
+8. The patient's recovery was prolonged due to the complication, but he eventually made a full recovery.

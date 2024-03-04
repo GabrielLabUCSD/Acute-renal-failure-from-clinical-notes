@@ -1,0 +1,11 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. The patient has a history of smoking and alcohol use. The patient has tried physical therapy and pain management without relief. The patient has a history of hypertension and hyperlipidemia. The patient is allergic to penicillin. The patient has a history of asthma. The patient has a history of degenerative disc disease and spondylolisthesis. The patient has a history of previous back surgery with hardware placement. The patient has a history of urinary retention. The patient has a history of constipation. The patient has a history of sleep apnea. The patient is obese. The patient has a history of gastroesophageal reflux disease. The patient has a history of hypothyroidism. The patient has a history of osteoarthritis in the knees. The patient has a history of chronic prostatitis. The patient has a history of benign prostatic hyperplasia. The patient has a history of migraines. The patient has a history of chronic kidney disease stage 3. The patient has a history of anemia. The patient has a history of chronic obstructive pulmonary disease. The patient has a history of anxiety and depression. The patient takes aspirin, atorvastatin, lisinopril, omeprazole, levothyroxine, and tamsulosin.
+
+Postoperative Course:
+
+The patient underwent a successful lumbar fusion surgery. The patient had a difficult time with anesthesia recovery, experiencing nausea and vomiting. The patient had a temporary increase in back pain but eventually improved with pain management. The patient experienced some constipation but was managed with laxatives. The patient had a urinary tract infection that was treated with antibiotics. The patient had a wound infection that was treated with antibiotics and local wound care. The patient developed hypotension and was managed with fluid resuscitation. The patient developed a pulmonary embolism and was managed with blood thinners. The patient had a prolonged hospital stay due to the complications.
+
+Complications:
+
+The patient developed a wound infection and a pulmonary embolism.

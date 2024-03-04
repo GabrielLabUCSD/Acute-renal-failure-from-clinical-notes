@@ -1,0 +1,34 @@
+Patient Summary:
+
+1. The patient is a 45-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He had a myocardial infarction 10 years ago and has been stable since.
+4. He has a history of non-insulin-dependent diabetes mellitus.
+5. He has been experiencing worsening left knee pain for the past year.
+6. He has tried physical therapy and analgesics without relief.
+7. An MRI revealed a torn meniscus and degenerative changes.
+8. He was referred to an orthopedic surgeon for evaluation.
+9. The patient is a nonsmoker and drinks alcohol occasionally.
+10. He takes aspirin, lisinopril, and metformin daily.
+11. He denies any allergies to medications.
+12. He has a BMI of 32 and is obese.
+13. He has a history of sleep apnea and uses a CPAP machine at night.
+14. He had a normal ECG and echocardiogram prior to surgery.
+15. He underwent a left knee arthroscopy with a meniscectomy.
+16. The surgery went smoothly without any complications.
+17. He was discharged home the same day with instructions to rest and ice the knee.
+18. He was prescribed oxycodone for pain management.
+19. He experienced some nausea and vomiting the first postoperative day.
+20. He had a good pain relief with the medication and did not require further doses.
+21. He was able to ambulate with assistance the first postoperative day.
+22. He was advised to avoid heavy lifting, bending, or strenuous activity.
+23. He followed the instructions and had a uneventful postoperative course.
+24. His knee pain steadily improved over the next few weeks.
+25. He was able to return to work as a desk clerk 6 weeks after surgery.
+26. He resumed his normal activities, including light exercise and walking.
+27. He reported some mild stiffness in the knee but no significant pain.
+28. He had a follow-up appointment with his surgeon 8 weeks after surgery.
+29. His knee was stable and had full range of motion.
+30. The patient was satisfied with the outcome of the surgery.
+
+The patient had a successful surgery and an uneventful postoperative course. He was able to return to work and resume his normal activities without any significant complications. His knee pain improved steadily over time, and he was satisfied with the outcome of the surgery.

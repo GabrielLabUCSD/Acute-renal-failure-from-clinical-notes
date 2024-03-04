@@ -1,0 +1,83 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension diagnosed 10 years ago
+* Hyperlipidemia diagnosed 5 years ago
+* History of smoking - quit 5 years ago
+* History of alcohol use disorder - in remission for 10 years
+* Chronic lower back pain due to degenerative disc disease
+* Chronic obstructive pulmonary disease (COPD) diagnosed 3 years ago
+* History of non-insulin-dependent diabetes mellitus (NIDDM) diagnosed 5 years ago
+* History of thyroid nodules - benign
+* History of vitamin D deficiency
+* History of osteoporosis
+* History of colonic polyps - removed 2 years ago
+* History of prostate cancer - treated with radiation therapy 5 years ago
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Herniotomy at age 50
+* Knee arthroscopy at age 60
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Albuterol inhaler for COPD
+* Metformin for NIDDM
+* Levothyroxine for hypothyroidism
+* Vitamin D supplement for deficiency
+* Bisphosphonates for osteoporosis
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Living in a two-story house with no elevator
+* Able to ambulate independently
+* Able to perform activities of daily living independently
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Reason for Surgery:
+
+* Elective Total Hip Replacement (THR) for severe osteoarthritis
+
+Preoperative Workup:
+
+* Complete Blood Count (CBC) - within normal limits
+* Electrolyte panel - within normal limits
+* Lipid profile - within normal limits
+* renal function test - within normal limits
+* Urinalysis - within normal limits
+* Chest X-ray - within normal limits
+* Electrocardiogram (EKG) - within normal limits
+
+Postoperative Course:
+
+* Patient underwent successful THR surgery
+* Patient experienced mild postoperative pain managed with pain medication
+* Patient had a smooth recovery and was discharged from the hospital on postoperative day 3
+* Patient followed up with orthopedic surgeon and primary care physician for postoperative check-ups
+* Patient was able to ambulate independently and perform activities of daily living without assistance by 6 weeks postoperative
+
+Complications:
+
+* None
+
+I hope this sample patient summary helps! Please note that this is just an example and the specific details of a patient's medical history, surgical history, current medications, allergies, social history, family history, reason for surgery, preoperative workup, postoperative course, and complications will vary from patient to patient.

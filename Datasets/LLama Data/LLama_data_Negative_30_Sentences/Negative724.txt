@@ -1,0 +1,80 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history of hypertension, hyperlipidemia, and obesity. The patient had a myocardial infarction 10 years ago and has been compliant with medications since then. He has a history of non-insulin-dependent diabetes mellitus and has been controlled with metformin. The patient has a history of sleep apnea and uses a continuous positive airway pressure machine. He is a former smoker of 15 years ago.
+
+Current Medications:
+
+* Amlodipine 5mg orally daily
+* Atorvastatin 20mg orally daily
+* Metformin 1000mg orally twice daily
+* Aspirin 81mg orally daily
+* Lisinopril 20mg orally daily
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+* One sibling with hypertension
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies alcohol or illicit drug use
+* Lives independently
+
+Reason for Surgery:
+
+The patient is scheduled for a repair of an inguinal hernia.
+
+Preoperative Examination:
+
+The patient's vital signs are:
+
+* Blood pressure: 130/80 mmHg
+* Pulse: 72 beats per minute
+* Respiratory rate: 16 breaths per minute
+* Oxygen saturation: 98% on room air
+* Temperature: 98.6 degrees Fahrenheit
+
+Lab Results:
+
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte Panel: Within normal limits
+* Lipid Panel: Elevated triglycerides
+* Glucose: 120 mg/dL fasting
+* Urinalysis: Within normal limits
+
+Imaging Studies:
+
+* Chest X-ray: Within normal limits
+* Electrocardiogram (ECG): Within normal limits
+
+Anesthesia Plan:
+
+The patient will receive general anesthesia with endotracheal intubation.
+
+Surgical Course:
+
+The patient had an uneventful surgical procedure. He received a total of 1500 ml of lactated Ringers solution intraoperatively. His blood pressure was maintained between 120/80 mmHg and 140/90 mmHg. He had no episodes of bradycardia or hypotension.
+
+Postoperative Course:
+
+The patient was extubated in the operating room and transferred to the recovery room. He was monitored closely for any signs of respiratory or cardiac complications. He had a minimal amount of nausea and vomiting, which was controlled with ondansetron. The patient's pain was well-controlled with patient-controlled analgesia (PCA) utilizing fentanyl. He had no signs of surgical site infection or bleeding.
+
+Complications:
+
+* None
+
+Length of Stay:
+
+The patient stayed in the hospital for 2 days after surgery and was discharged home with a follow-up appointment in 1 week.
+
+Conclusion:
+
+The patient underwent a successful repair of an inguinal hernia. He had an uneventful surgical and postoperative course, with no complications. He was closely monitored for any signs of respiratory or cardiac complications and had his pain well-controlled with PCA. The patient was discharged home with a follow-up appointment in 1 week.

@@ -1,0 +1,21 @@
+Patient Summary:
+
+* Chief Complaint: Abdominal pain and distension
+* History of Present Illness: The patient has been experiencing worsening abdominal pain and distension over the past month, with no relief by conservative management.
+* Medical History: The patient has a history of hypertension, diabetes mellitus, and obstructive sleep apnea.
+* Medications: The patient is currently taking lisinopril, metformin, and tramadol.
+* Family History: The patient's mother died of colon cancer at the age of 60.
+* Social History: The patient is a 55-year-old male, married, and works as an accountant. He denies smoking and alcohol use.
+* Review of Systems: The patient reports nausea, vomiting, and abdominal tenderness to palpation.
+* Allergies: The patient is allergic to penicillin and sulfa medications.
+* Lab Results: The patient's complete blood count shows a white blood cell count of 12,000/mm3, hemoglobin 12 g/dL, hematocrit 36%, and platelet count 150,000/mm3. His serum creatinine level is 1.8 mg/dL, and urinalysis shows ++ protein and RBC.
+* Imaging Results: The patient's CT scan shows a large inflammatory mass in the right lower quadrant of the abdomen, concerning for appendicitis.
+* Plan: The patient will undergo an open appendectomy.
+
+Complication:
+
+* Acute Renal Failure: Postoperatively, the patient developed oliguria, increasing serum creatinine, and metabolic acidosis, consistent with acute renal failure.
+* Management: The patient was started on intravenous fluids, and his urine output was closely monitored. He was also given a loop diuretic to help increase his urine output. His electrolytes and fluid balance were closely monitored and managed as needed.
+* Outcome: The patient's renal function gradually improved, and he was able to recover fully from his acute renal failure.
+
+This patient summary provides essential information about the patient's medical history, medications, allergies, and current symptoms, which is crucial for anesthesiologists, surgeons, and other healthcare providers involved in the patient's care. It also highlights the potential risk of acute renal failure as a complication after surgery and the steps taken to manage it.

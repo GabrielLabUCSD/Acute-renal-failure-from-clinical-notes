@@ -1,0 +1,17 @@
+The patient is a 65-year-old male who is planning to undergo surgery. He has a significant medical history that includes hypertension, diabetes mellitus type 2, and hyperlipidemia. The patient takes medications to manage these conditions, which include an angiotensin-converting enzyme inhibitor, a diuretic, metformin, and a statin.
+
+His hypertension is well-controlled with a blood pressure consistently below 130/80 mmHg. The patient's diabetes is also under control, with a stable hemoglobin A1c level of 6.2%. He reports occasional episodes of hypoglycemia, but he is able to manage them with glucose tablets.
+
+The patient has a history of angioplasty and stent placement for coronary artery disease five years ago. He has been symptom-free since then and regularly takes aspirin and a P2Y12 inhibitor to prevent clot formation.
+
+He has no known drug allergies and has never had any adverse reactions to anesthesia or surgery in the past. The patient is a non-smoker with no history of alcohol or drug abuse.
+
+Laboratory tests reveal normal renal function with a serum creatinine level of 0.9 mg/dL and an estimated glomerular filtration rate of 95 mL/min/1.73m². The patient has a normal electrolyte balance, with potassium, sodium, and chloride levels within the reference range.
+
+The surgical procedure is planned to be a total hip replacement due to osteoarthritis. The patient is scheduled to be under general anesthesia, and the procedure is expected to take approximately two hours.
+
+Unfortunately, after the surgery, the patient develops acute renal failure, characterized by a sudden decrease in urine output and elevations in serum creatinine and blood urea nitrogen levels. The patient also experiences fluid overload, with swelling in the lower extremities and shortness of breath.
+
+The patient is promptly started on intravenous fluids and diuretics to manage the fluid overload. His current medications are adjusted to improve renal perfusion and prevent further damage. Renal consultation is obtained, and the patient is monitored closely for any signs of worsening renal function or electrolyte imbalances.
+
+The underlying cause of acute renal failure after surgery is suspected to be a combination of intraoperative hypotension, prolonged surgical time, and the use of nephrotoxic medications. The patient's renal function gradually improves over the next few days with appropriate management, and he is eventually discharged from the hospital with close follow-up instructions.

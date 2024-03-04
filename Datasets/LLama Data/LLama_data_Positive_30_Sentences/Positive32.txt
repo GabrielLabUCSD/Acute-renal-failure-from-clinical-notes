@@ -1,0 +1,40 @@
+Sure, here is a patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery and also includes a description of the patient experiencing acute renal failure complication after surgery:
+
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension, hyperlipidemia, and diabetes mellitus.
+3. he has been smoking for the past 40 years.
+4. He has a history of regular alcohol consumption.
+5. He has a history of stroke and takes medication for it.
+6. He has also been diagnosed with peripheral artery disease.
+7. He has chronic kidney disease with a baseline creatinine level of 1.8mg/dL.
+8. He has been experiencing worsening left knee pain for the past 6 months.
+9. He has tried physical therapy, and nonsteroidal anti-inflammatory drugs without relief.
+10. He has been scheduled for a total knee replacement surgery.
+11. His surgical history includes a cholecystectomy and a hernia repair.
+12. He takes Aspirin, metformin, lisinopril, and atorvastatin.
+13. He is allergic to penicillin.
+14. He doesn't have any known drug allergies.
+15. He has no history of bleeding disorders.
+16. He doesn't have a history of anesthesia complications.
+17. His mother died of a myocardial infarction at age 68.
+18. His father died of a myocardial infarction at age 72.
+19. He has one sibling who is alive and healthy.
+20. His wife died of breast cancer 5 years ago.
+21. He has two adult children who are both healthy.
+22. He works as a retired accountant.
+23. He has a high school education.
+24. He lives alone and has a support system of friends and family.
+25. His current weight is 85 kg, and his height is 175 cm.
+26. His BMI is 31.4, placing him in the obese category.
+27. His blood pressure is 140/90 mmHg.
+28. His heart rate is 75 bpm.
+29. His respiratory rate is 18 breaths per minute.
+30.His temperature is 37.2°C (99°F).
+
+Complication:
+
+After the surgery, the patient developed acute renal failure (ARF) due to a combination of factors such as pre-existing chronic kidney disease, perioperative hypotension, and sepsis. The patient's creatinine level increased to 4.5mg/dL, and he required continuous renal replacement therapy (CRRT) for 5 days. The patient had a prolonged hospital stay and required intensive care unit admission for close monitoring. He was eventually discharged to a skilled nursing facility for rehabilitation and further management of his renal failure.
+
+This patient summary provides a comprehensive overview of the patient's medical history, current health status, and risk factors, which is essential for anesthesiologists, surgeons, and other healthcare providers involved in the patient's care to make informed decisions and provide optimal care. The complication of acute renal failure after surgery highlights the importance of close monitoring and management of patients with pre-existing renal impairment and multiple comorbidities during the perioperative period.

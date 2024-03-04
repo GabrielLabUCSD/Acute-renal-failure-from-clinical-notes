@@ -1,0 +1,19 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [list of relevant medical conditions]. They are scheduled to undergo [type of surgery] on [date]. The primary reason for the surgery is [briefly explain the indication for surgery].
+
+In terms of their medical history, the patient has a well-controlled history of [chronic condition], for which they take [medication(s)]. They also have a history of [other chronic condition], which is managed with [medications/treatments]. Additionally, they were previously diagnosed with [past medical condition] but have had no ongoing symptoms or treatment for it.
+
+The patient's surgical history includes [list any previous surgeries], which were done [dates] and were uneventful with no complications reported. Their most recent surgery was [surgery name] performed on [date] by Dr. [surgeon's name]. Postoperatively, the patient recovered well and had a typical course without any notable complications.
+
+Regarding medications, the patient takes a daily regimen of [list of medications], which includes [medications for chronic conditions]. They are not currently taking any medications that would necessitate adjustment or discontinuation prior to surgery. Allergies include [list any known drug allergies].
+
+Lab tests conducted in preparation for surgery revealed [lab results relevant for surgery], which were within normal limits except for [mention any abnormalities and their significance].
+
+The patient's preoperative evaluation included consultations with various specialty services, such as cardiology and anesthesia, to optimize their medical condition before the surgery. They were cleared for surgery after a comprehensive assessment, including an echocardiogram, which showed [findings] and was determined to be satisfactory for the planned procedure.
+
+During the immediate postoperative course, the patient was initially admitted to the surgical ward for close monitoring. They were placed on [type of postoperative care plan, e.g., conservative management, early ambulation, etc.]. Pain was managed adequately with [type of pain management], and they were able to tolerate a regular diet. 
+
+The patient's vital signs remained stable throughout their hospitalization, and there were no signs of surgical site infection or wound dehiscence. They were able to ambulate independently and were encouraged to participate in physiotherapy exercises to aid in their recovery.
+
+The patient's postoperative course was largely uneventful, with no major complications observed. They had a successful outcome and were discharged home on [date] with appropriate discharge instructions, prescriptions, and follow-up appointments. The patient was advised to monitor for signs of infection, deep vein thrombosis, and any other potential postoperative complications, and instructed to seek prompt medical attention if any concerning symptoms arise.
+
+In summary, the patient, who has a history of [chronic conditions], is scheduled for [type of surgery]. Their preoperative assessment, including cardiology and anesthesia consultations, was satisfactory. Previously, they had [list of previous surgeries], which were uneventful. The postoperative course after their most recent surgery was uncomplicated, and they were discharged home in stable condition.

@@ -1,0 +1,33 @@
+The patient is a __ year-old __ (gender) with a medical history significant for __ (list relevant medical conditions such as hypertension, diabetes, chronic obstructive pulmonary disease, etc.). They are scheduled to undergo __ (type of surgery) for __ (reason for surgery).
+
+In terms of their surgical history, the patient has previously undergone __ (list any previous surgeries they have had, specifying the dates if available). They had __ (describe any complications, if any, that occurred during or after the previous surgeries).
+
+The patient's preoperative evaluation included a comprehensive physical examination, laboratory tests, and imaging studies. Relevant preoperative results include __ (mention any abnormal findings, such as abnormal blood counts, abnormal liver function tests, abnormalities on chest X-ray or electrocardiogram, etc.).
+
+The patient's current medications include __ (list all current medications with their dosages and frequencies). They have been advised to discontinue __ (any medications they were specifically instructed to stop taking prior to surgery).
+
+Discussion was also held with the patient regarding the potential risks and benefits of the surgery. The risks explained to the patient include __ (list any specific risks associated with the surgery, such as infection, bleeding, organ damage, etc.).
+
+Anesthesia consultation was obtained to assess the patient's readiness for surgery. The patient was performed __ (type of anesthesia) by an experienced anesthesiologist based on __ (considerations such as the patient's overall health, surgical procedure, etc.).
+
+The surgery was performed without any immediate complications, and the patient was transferred to the recovery unit postoperatively. Immediately following the surgery, the patient was monitored closely for vital signs, pain control, and early signs of complications.
+
+The patient's postoperative course was uneventful for the most part. They were started on __ (type of pain management) to control their pain and discomfort. The patient's surgical wound was inspected for signs of infection and healing progression.
+
+In terms of their recovery progress, the patient began ambulating __ (specific time period) post-surgery with the assistance of __ (such as a physical therapist or nurse). They were encouraged to perform deep breathing exercises and coughing to prevent any respiratory complications.
+
+The patient experienced __ (specify any complications, if any, that occurred during their postoperative course. Exclude acute renal failure as per the instruction).
+
+They were monitored for any signs of infection, thrombosis, or other potential postoperative complications. The patient's vital signs remained stable throughout their stay in the hospital, with blood pressure ranging from __ mmHg systolic to __ mmHg diastolic, heart rate __ beats per minute, respiratory rate __ breaths per minute, and temperature __ degrees Fahrenheit/Celsius.
+
+During their hospital stay, the patient continued to receive appropriate wound care and pain management. The amount of pain they experienced was graded as __/10 on the numeric pain scale.
+
+On postoperative day __ (specific day), the patient's surgical wound was examined, and it showed signs of adequate healing without any evidence of infection or complications. The patient's vital signs remained stable, and they were tolerating oral intake without any issues.
+
+The patient was discharged on __ (specific day), after their medical condition was deemed stable, wound assessment was satisfactory, and pain was well-controlled. Discharge medications included __ (list all medications prescribed at discharge, including pain management, prophylactic antibiotics, etc.), along with appropriate discharge instructions.
+
+The patient was advised to follow up with their primary care physician on __ (specific date) for a postoperative evaluation and wound check. Additionally, they received instructions to watch for signs of complications such as wound infection, worsening pain, fever, or worsening shortness of breath.
+
+The patient was educated about the need for adequate rest and limited activity during their recovery period. They were advised to gradually increase their activity level over time, under the guidance of their healthcare provider or physical therapist.
+
+In conclusion, the patient successfully underwent __ (type of surgery) for __ (reason for surgery) without any immediate complications. Their postoperative course was uneventful, and they were discharged home in stable condition. The patient was advised to follow up as scheduled and report any concerning symptoms.

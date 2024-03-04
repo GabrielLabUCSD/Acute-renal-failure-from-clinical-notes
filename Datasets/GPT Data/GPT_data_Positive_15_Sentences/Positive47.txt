@@ -1,0 +1,21 @@
+This patient is a 65-year-old male who is scheduled to undergo surgery. He has a significant medical history, including hypertension, diabetes, and coronary artery disease. He has a long-standing history of smoking, with a pack-year history of 30.
+
+The patient's hypertension is well-controlled with medication, and he has a history of occasional chest pain related to his coronary artery disease, which is managed with nitroglycerin.
+
+In terms of his diabetes, he takes oral medication and monitors his blood glucose regularly. His most recent HbA1c was 7.2%, indicating fair glycemic control.
+
+The patient has a past surgical history of a coronary artery bypass graft (CABG) surgery 10 years ago, which improved his cardiac function and alleviated his angina symptoms.
+
+On physical examination, the patient appears generally well-nourished but is slightly overweight. His blood pressure is stable at 130/80 mmHg, and his heart rate is regular at 70 beats per minute. Lung auscultation reveals normal breath sounds bilaterally, and there are no abnormal cardiac murmurs or sounds.
+
+In terms of laboratory findings, the patient's complete blood count (CBC) shows normal values, and his electrolyte panel is within normal limits. His renal function, as indicated by his serum creatinine level, is slightly elevated at 1.5 mg/dL, suggesting mild renal impairment.
+
+The patient consented to the surgery after careful consideration of the potential risks and benefits. Unfortunately, after the surgery, he developed acute renal failure, possibly due to decreased blood flow to the kidneys during the operation.
+
+He was immediately started on intravenous fluids and medications to support his kidney function. Close monitoring of his fluid balance, electrolyte levels, and urine output was initiated.
+
+Further investigation revealed that he developed acute tubular necrosis (ATN) secondary to the surgical procedure, causing a sudden decline in renal function. The ATN was likely multifactorial, resulting from a combination of decreased renal perfusion, exposure to nephrotoxic medications during surgery, and perioperative hypotension.
+
+The patient's renal function gradually improved with aggressive management, including fluid and electrolyte optimization, frequent monitoring, and supportive care. His serum creatinine levels trended downwards, and his urine output started to increase.
+
+Overall, the patient's chronic medical conditions and surgical history pose challenges in managing his perioperative care. However, with meticulous attention to his renal status and appropriate intervention, his acute renal failure is being successfully managed, and he is on the path to recovery.

@@ -1,0 +1,87 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and complications:
+
+PatientName: John Doe
+Age: 55
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol abuse
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* History of non-insulin-dependent diabetes mellitus
+* Family history of coronary artery disease
+* History of gastroesophageal reflux disease (GERD)
+* History of migraines
+
+Current Medications:
+
+* Lisinopril (Zestril) - 40 mg orally once daily
+* Atorvastatin (Lipitor) - 20 mg orally once daily
+* Aspirin (Ecotrin) - 81 mg orally once daily
+* Oxycodone (Roxicodone) - 5 mg orally every 6 hours as needed for pain
+* Alprazolam (Xanax) - 0.5 mg orally once daily
+* Meloxicam (Mobic) - 15 mg orally once daily
+* Omeprazole (Prilosec) - 20 mg orally once daily
+
+Allergies:
+
+* Penicillin
+* Cephalosporins
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Herniotomy at age 45
+
+Current Surgical Plan:
+
+* Elective laparoscopic sleeve gastrectomy for morbid obesity
+
+Preoperative Workup:
+
+* Complete blood count (CBC) - Within normal limits
+* Electrolyte panel - Within normal limits
+* Lipid profile - Elevated triglycerides
+* Renal function panel - Within normal limits
+* Urinalysis - Within normal limits
+* EKG - Normal sinus rhythm
+* Chest X-ray - Normal
+* Pulmonary function test (PFT) - Normal
+
+Operative Course:
+
+* Surgery performed under general anesthesia without complications
+* Estimated blood loss - 100 mL
+* Duration of surgery - 2 hours
+
+Postoperative Course:
+
+* Patient transferred to the recovery room in stable condition
+* Postoperative pain managed with oxycodone and fentanyl
+* Patient developed Nausea and vomiting on postoperative day 1, treated with ondansetron
+* Patient developed respiratory depression on postoperative day 2, treated with naloxone
+* Patient developed urinary retention on postoperative day 3, treated with catheterization
+* Patient developed hypotension on postoperative day 4, treated with fluid replacement
+
+Complications:
+
+* Postoperative nausea and vomiting
+* Respiratory depression
+* Urinary retention
+* Hypotension
+
+Discharge Summary:
+
+* Patient was discharged home on postoperative day 5 in stable condition
+* Patient advised to follow up with their primary care physician and surgeon
+* Patient prescribed oxycodone for pain management
+* Patient advised to avoid heavy lifting, bending, or strenuous activity for 6 weeks
+* Patient advised to avoid alcohol and nicotine for 4 weeks
+
+I hope this sample patient summary helps! Let me know if you have any questions or need further assistance.

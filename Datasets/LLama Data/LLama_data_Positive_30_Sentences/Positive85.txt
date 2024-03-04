@@ -1,0 +1,39 @@
+Sure, here is a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a description of the patient having acute renal failure complication after surgery:
+
+Patient Summary:
+
+1. The patient is a 65-year-old male who presents with a history of chronic back pain and left leg radiculopathy.
+2. He has been experiencing worsening pain and weakness in his left leg over the past year.
+3. The patient has a history of cigarette smoking, with a 40-pack-year history.
+4. He has also had a history of hypertension and hyperlipidemia.
+5. The patient had a previous MI at age 55 and has been compliant with medications since then.
+6. He denies any significant cardiac symptoms currently.
+7. His surgical history includes a cholecystectomy and a hernia repair.
+8. He has a history of peptic ulcer disease and takes NSAIDs as needed.
+9. The patient has been using a cane for ambulation assistance for several months.
+10. Examination shows mild kyphosis and moderate left-sided weakness.
+11. His neurological examination shows decreased sensation to light touch in the left lower extremity.
+12. Patellar reflexes are 2+ and there is a positive Hoffmann's reflex.
+13. The patient's gait is antalgic and he has difficulty with tandem walking.
+14. He also reports frequent urinary tract infections.
+15. Latest eGFR is 45 mL/min/1.73 m2.
+
+Acute Renal Failure Complication:
+
+16. The patient underwent a lumbar fusion surgery 3 days ago.
+17. His postoperative course has been complicated by acute renal failure.
+18. He has been unable to produce urine for the past 24 hours.
+19. His serum creatinine level has risen to 4.5 mg/dL from a baseline of 1.8 mg/dL.
+20. Urinalysis shows pyuria and hematuria.
+21. Blood cultures are positive for E. coli.
+22. The patient has been started on broad-spectrum antibiotics and fluid hydration.
+23. He has also been placed on continuous renal replacement therapy.
+24. The patient remains intubated and sedated in the ICU.
+25. He is being closely monitored for any signs of seizures or other complications.
+26. The patient's family is aware of the situation and is kept updated regularly.
+27. They are optimistic about his recovery and are willing to take him home once he is stable.
+28. The patient is being treated by a multidisciplinary team, including surgical, medical, and critical care specialists.
+29. His long-term prognosis is guarded due to the severity of his renal failure.
+30. The patient is currently being considered for hemodialysis pending further evaluation by nephrology and surgical services.
+
+This summary provides a comprehensive overview of the patient's medical history and the current complications he is facing post-surgery. It will help the healthcare team to understand his condition and make informed decisions about his care.

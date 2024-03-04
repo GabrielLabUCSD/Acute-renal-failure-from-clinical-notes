@@ -1,0 +1,31 @@
+The patient is a __ years old individual who is planning to undergo surgery. Their medical history includes past diagnoses of ____. They have had previous surgeries for conditions including ____. The patient has a family history of ____.
+
+In terms of allergies, the patient is allergic to _________. They have had no adverse reactions to anesthesia in the past.
+
+The patient's past medication history includes the use of ________ for _________. They currently take medications such as _______ for _______ and _______ for _______. They have been compliant with their medications and have not experienced any adverse effects.
+
+As for their vital signs and physical examination, the patient is generally in good health. Their blood pressure is ____, heart rate is ____, and respiratory rate is _____. They have no signs of respiratory distress and their oxygen saturation is within normal limits.
+
+Initial laboratory results show that the patient's complete blood count is within normal ranges, with a hemoglobin level of ______, hematocrit of ________, and platelet count of _______. Their coagulation profile shows an international normalized ratio (INR) of ________ and a normal activated partial thromboplastin time (aPTT).
+
+The patient's renal function tests reveal a blood urea nitrogen (BUN) level of _______ and a serum creatinine level of _______. Their estimated glomerular filtration rate (eGFR) is ________, indicating normal kidney function.
+
+In terms of imaging studies, the patient has undergone _______ which shows _______. There are no significant abnormalities in the _______.
+
+The patient has discussed the surgical procedure with their surgeon and understands the potential risks and benefits. They have provided informed consent for the surgery.
+
+The patient will undergo general anesthesia for the surgery. The anesthesia team has reviewed the patient's medical history and has discussed the anesthetic plan with them.
+
+Postoperatively, the patient's vital signs will be closely monitored in the recovery room. Pain management will be provided based on their individual needs.
+
+Complications that can occur after surgery include _______. Postoperative complications such as _______ will be closely monitored for. The patient will receive prophylactic antibiotics to minimize the risk of infection.
+
+The patient's postoperative course will involve regular assessments of their wound site, monitoring for signs of infection, and assessment of pain levels. They will be encouraged to ambulate and will receive appropriate physical therapy if needed.
+
+The patient's pain management will include a combination of oral analgesics such as _______ and non-pharmacological techniques such as ice packs or heat therapy.
+
+Anticoagulation measures will be implemented as needed to prevent deep vein thrombosis and pulmonary embolism.
+
+The patient's diet will be advanced as tolerated, starting with clear liquids and progressing to a regular diet. Nutritional support will be provided if necessary.
+
+The patient's overall recovery will depend on the type and complexity of the surgery. They will receive regular follow-up appointments with their surgical team and primary care physician to address any concerns or complications that may arise.

@@ -1,0 +1,29 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a description of the patient having acute renal failure complication after surgery:
+
+1. The patient is a 65-year-old male who presents with a history of chronic back pain and degenerative disc disease.
+2. He has tried various conservative treatments, including physical therapy and pain medication, but has not experienced significant relief.
+3. The patient has a history of hypertension and hyperlipidemia, which will need to be controlled perioperatively.
+4. He has a history of smoking, but quit 10 years ago.
+5. The patient has no known allergies to medications or anesthesia.
+6. He has a history of gastroesophageal reflux disease (GERD) and takes medication for it.
+7. The patient has a history of mild chronic obstructive pulmonary disease (COPD) and uses an inhaler as needed.
+8. He has a history of hypothyroidism and takes levothyroxine daily.
+9. The patient has a history of benign prostatic hyperplasia (BPH) and takes tamsulosin daily.
+10. He has a history of osteoarthritis in his knees and hips, for which he takes occasional pain medication.
+11. The patient has a history of migraines and takes sumatriptan as needed.
+12. He has a history of mild anemia and takes iron supplements as needed.
+13. The patient has a history of recurrent urinary tract infections (UTIs) and takes antibiotics as needed.
+14. He has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+15. The patient is planning to undergo a lumbar fusion surgery to address his chronic back pain.
+
+Complication:
+
+1. Postoperatively, the patient developed acute renal failure (ARF) due to hypotension and decreased renal perfusion.
+2. He required intensive care unit (ICU) admission and close monitoring of his renal function.
+3. The patient was started on intravenous (IV) fluids and vasopressors to support his blood pressure and renal perfusion.
+4. He also developed respiratory failure and required mechanical ventilation.
+5. The patient's urine output and electrolyte levels were closely monitored, and he was started on hemodialysis as needed.
+6. He remained in the ICU for several days until his renal function improved and he was able to be extubated.
+7. The patient's surgical wound healed uneventfully, and he was discharged home with a follow-up appointment in the clinic.
+
+This patient summary provides a comprehensive overview of the patient's medical history, including his chronic conditions, medications, and surgical plan. It also highlights the potential risks and complications associated with surgery, such as acute renal failure, and outlines the appropriate management and monitoring of these complications.

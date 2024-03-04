@@ -1,0 +1,33 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension (high blood pressure)
+* Hyperlipidemia (high cholesterol)
+*Diabetes mellitus (type 2)
+* Obstructive sleep apnea
+* History of smoking (quit 10 years ago)
+* History of alcohol abuse (quit 5 years ago)
+* Previous myocardial infarction (heart attack) 10 years ago
+* Previous coronary artery bypass surgery 5 years ago
+* History of chronic lower back pain
+* History of migraines
+* Allergies: Penicillin, sulfa drugs
+
+Postoperative Course:
+
+* Patient underwent a successful surgery and was discharged from the hospital within 3 days.
+* Patient experienced some postoperative pain, nausea, and vomiting, which were managed with medication.
+* Patient had a uneventful recovery and was able to return to his normal activities within 2 weeks.
+* Patient had follow-up appointments with his surgeon and primary care physician to monitor his progress and manage any complications.
+
+Complications:
+
+* Patient developed a wound infection on the incision site, which was treated with antibiotics.
+* Patient experienced some constipation, which was managed with laxatives and stool softeners.
+* Patient had a brief episode of atrial fibrillation (irregular heartbeat), which was managed with medication.
+
+Assistant:  I hope this helps! Let me know if you need anything else.

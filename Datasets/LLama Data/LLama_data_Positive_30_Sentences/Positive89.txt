@@ -1,0 +1,38 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes mellitus.
+3. He has been smoking for the past 40 years.
+4. He has a history of chronic obstructive pulmonary disease (COPD).
+5. He has had multiple episodes of pneumonia in the past.
+6. He has a history of peripheral artery disease.
+7. He has had a myocardial infarction (heart attack) in the past.
+8. He has a history of sleep apnea.
+9. He is currently taking aspirin, lisinopril, and metformin.
+10. He has a history of alcohol use disorder.
+11. He has a history of depression.
+12. He has a history of anxiety.
+13. He has a history of hyperlipidemia.
+14. He has a history of bronchiectasis.
+15. He has a history of colon cancer.
+16. He has a history of chronic kidney disease (CKD).
+17. His current creatinine level is 1.8 mg/dL.
+18. His current eGFR is 60 mL/min.
+19. He has a history of acute renal failure (ARF) after a previous surgery.
+20. He has a history of sepsis.
+21. He has a history of shock.
+22. He has a history of respiratory failure.
+23. He has a history of cardiac arrest.
+24. He has a history of pulmonary embolism.
+25. He has a history of deep vein thrombosis.
+26. He has a history of chronic obstructive sleep apnea (OSA).
+27. He has a history of asthma.
+28. He has a history of allergic rhinitis.
+29. He has a history of gastroesophageal reflux disease (GERD).
+30. He is planning to undergo a surgical procedure.
+
+Complication:
+
+The patient developed acute renal failure (ARF) after surgery, which was complicated by sepsis and shock. He required intensive care unit (ICU) admission and was treated with vasopressors and mechanical ventilation. His renal function did not recover completely and he was left with chronic kidney disease (CKD) stage 3.
+
+This patient summary provides a comprehensive overview of the patient's medical history, including his chronic conditions, medications, and previous surgeries. It also highlights the patient's risk factors for complications during surgery, such as his history of COPD, sleep apnea, and alcohol use disorder. The complication section outlines the specific complication that occurred after surgery, which was acute renal failure, and the subsequent treatments that were necessary. This summary will help inform the patient's care plan and ensure that he receives the appropriate management and monitoring during and after surgery.

@@ -1,0 +1,65 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hyperlipidemia
+* Hypertension
+* History of smoking
+* History of alcohol abuse
+* Obstructive sleep apnea
+* Chronic kidney disease (CKD) stage 3
+* History of non-insulin-dependent diabetes mellitus
+* History of lower back pain
+* History of left knee pain
+* History of right shoulder pain
+* History of colon polyps
+* History of migraines
+* History of allergies (penicillin, dust, pollen)
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 10 years ago
+* Right knee arthroscopy 5 years ago
+* Left shoulder arthroscopy 3 years ago
+* Colonoscopy 2 years ago
+
+Current Medications:
+
+* Atorvastatin (Lipitor) 20 mg daily
+* Lisinopril (Zestril) 40 mg daily
+* Metformin (Glucophage) 1000 mg daily
+* Celecoxib (Celebrex) 200 mg daily
+* Meloxicam (Mobic) 15 mg daily
+* Aspirin 81 mg daily
+* Omeprazole (Prilosec) 20 mg daily
+* Zolpidem (Ambien) 10 mg at bedtime as needed
+* Alprazolam (Xanax) 0.5 mg daily
+
+ labResults:
+
+* Recent hemoglobin A1c: 7.4%
+* Recent blood pressure: 140/86 mmHg
+* Recent creatinine level: 1.8 mg/dL
+* Recent BUN level: 30 mg/dL
+* Recent liver function tests: normal
+* Recent thyroid function tests: normal
+
+Preoperative Instructions:
+
+* Patient has been advised to avoid solid foods and drinks for 8 hours preoperatively.
+* Patient has been advised to avoid alcohol and aspirin for 24 hours preoperatively.
+* Patient has been advised to bring his current medications to the hospital.
+* Patient has been advised to have someone available to drive him home after the procedure.
+
+Postoperative Course:
+
+* Patient had a successful laparoscopic cholecystectomy.
+* Patient had a length of stay of 2 days in the hospital.
+* Patient had mild postoperative pain managed with hydrocodone.
+* Patient had no nausea or vomiting.
+* Patient had no postoperative complications.
+
+I hope this sample patient summary is helpful in preparing for your patient's surgery. Please note that this is just a sample and should be tailored to the individual patient's medical history and current situation.

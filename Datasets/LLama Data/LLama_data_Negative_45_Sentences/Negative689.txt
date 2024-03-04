@@ -1,0 +1,73 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* History of smoking for 20 years, quit 5 years ago
+* Diabetes mellitus type II for 10 years, controlled with metformin
+* Obesity, BMI 35
+* History of non-insulin-dependent diabetes mellitus (NIDDM) in mother and father
+* history of heart disease in father
+* History of sleep apnea, uses CPAP machine
+* History of degenerative joint disease, left knee
+* History of chronic low back pain, managed with physical therapy and NSAIDs
+* History of colon cancer, stage II, treated with surgery and chemotherapy 5 years ago
+* History of benign prostatic hyperplasia (BPH), managed with finasteride
+* History of cataracts, had surgery 2 years ago
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Hernia repair 5 years ago
+* Left knee arthroscopy 3 years ago
+* Right knee arthroscopy 1 year ago
+* Colon resection 5 years ago
+* Prostate surgery 2 years ago
+
+Current Medications:
+
+* Metformin 1000mg BID
+* Atorvastatin 20mg QD
+* Lisinopril 40mg QD
+* Omeprazole 20mg QD
+* Aspirin 81mg QD
+* Celecoxib 200mg BID
+* Finasteride 5mg QD
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies any recent travel or exposure to illness
+* Lives in a two-story house with no elevator
+* Has a pet dog, a golden retriever
+
+Reason for Surgery:
+
+* Elective lumbar spine fusion
+
+Postoperative Course:
+
+* Uneventful postoperative course
+* Patient was extubated immediately after surgery
+* Started on IV acetaminophen and ketorolac for pain management
+* Moved to the floor on POD 1
+* Ambulated independently on POD 2
+* Started physical therapy on POD 3
+* Discharged home on POD 4 with a walker and instructions for wound care and pain management
+
+Complications:
+
+* None
+
+I hope this helps! Let me know if you need any further assistance.

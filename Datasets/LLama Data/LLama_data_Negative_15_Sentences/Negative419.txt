@@ -1,0 +1,17 @@
+Patient Summary: 
+
+The patient is a (insert age) year old male/female who presents with a history of (insert medical condition) and is planned to undergo (insert type of surgery). The patient has a history of (insert relevant medical history), including (insert relevant surgical history). The patient is currently taking (insert medications) and has no known allergies. 
+
+Preoperative examination reveals (insert relevant physical examination findings). Lab results show (insert relevant laboratory results). 
+
+The patient underwent (insert type of surgery) on (insert date) and the procedure was uneventful. The patient had a (insert postoperative course) course and was discharged on (insert date). 
+
+Postoperative complications included (insert complications, if any). The patient was managed with (insert management of complications) and had a successful outcome. 
+
+Follow-up appointment was arranged for (insert date) to monitor the patient's progress. The patient is advised to follow up with their surgeon and primary care physician regularly to ensure optimal recovery and management of their condition. 
+
+Signature: 
+
+Date: 
+
+This patient summary provides a comprehensive overview of the patient's medical history, surgical plan, and postoperative course. It highlights relevant medical and surgical history, current medications, and any complications that may impact the surgical outcome. This information is crucial for the surgical team to make informed decisions and provide optimal care for the patient.

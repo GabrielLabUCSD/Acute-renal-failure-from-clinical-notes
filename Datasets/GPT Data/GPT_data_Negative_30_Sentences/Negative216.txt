@@ -1,0 +1,27 @@
+The patient is a xx-year-old male/female who is planning to undergo surgery. The patient has a significant medical history including hypertension, diabetes mellitus type 2, and dyslipidemia. They have been managed with medications including lisinopril for blood pressure control, metformin for diabetes, and atorvastatin for dyslipidemia. The patient does not have a known allergy to any medications.
+
+They also have a history of smoking with a 10 pack-year history and are currently smoking 10 cigarettes per day. The patient consumes alcohol occasionally but denies any regular or excessive alcohol intake. There is no family history of any significant medical conditions.
+
+The patient underwent a preoperative evaluation including a physical examination, electrocardiogram (ECG), and blood work, which revealed normal findings. Their renal function tests showed a serum creatinine level of 0.9 mg/dL, within the normal range, and a glomerular filtration rate (GFR) of 95 mL/min/1.73 m².
+
+The surgical procedure planned for the patient is xxx. It is being performed due to xxx (e.g., to relieve symptoms, correct a medical condition). The surgery is expected to be performed under general anesthesia. The patient has been informed about the risks and benefits of the procedure and has provided informed consent.
+
+The patient will be kept nil per os (NPO) for 8 hours prior to the surgery. The surgical team has already administered prophylactic antibiotics prior to the incision. They have also ensured adequate pain management is available during the postoperative period.
+
+During the surgery, the patient had no significant intraoperative complications, such as excessive bleeding or hemodynamic instability. The procedure was successfully completed without any notable issues.
+
+Following the surgery, the patient was monitored closely in the post-anesthesia care unit (PACU) for their vital signs, pain control, and the return of motor and sensory functions. They remained hemodynamically stable and their pain was managed effectively with intravenous analgesics.
+
+The patient was observed for any signs of infection, such as fever or wound redness, and appropriate wound care was provided. The surgical site was inspected regularly to ensure proper healing and to monitor for any signs of dehiscence or wound infection.
+
+After an uneventful recovery in the PACU, the patient was allowed to resume oral intake as tolerated. They were provided with postoperative instructions regarding wound care, pain management, and when to seek medical attention if any complications arise.
+
+During their postoperative follow-up, the patient had regular visits with their surgeon. The surgical site was noted to be healing well without any signs of infection. The patient reported minimal pain, which was effectively managed with oral analgesics. 
+
+The patient's renal function remained stable with a serum creatinine level of 0.9 mg/dL on postoperative days 1, 3, and 5.
+
+There were no significant complications noted during the patient's postoperative course. They did not experience any surgical site infections, wound dehiscence, or thromboembolic events. 
+
+The patient was advised to quit smoking due to its detrimental effects on the healing process and overall health. They were also encouraged to continue their regular medication regimen for hypertension, diabetes, and dyslipidemia. 
+
+Overall, the patient had a successful surgical procedure and a smooth postoperative recovery without complications. They were satisfied with the outcome and were discharged home in stable condition on postoperative day 5.

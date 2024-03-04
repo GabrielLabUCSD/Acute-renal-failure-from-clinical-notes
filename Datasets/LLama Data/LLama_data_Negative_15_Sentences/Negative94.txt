@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery.
+He has a history of hypertension and hyperlipidemia.
+The patient had a myocardial infarction 5 years ago and has been compliant with medications and lifestyle changes since then.
+He has a history of non-insulin-dependent diabetes mellitus and takes metformin.
+He has a BMI of 32 and has been unable to lose weight despite diet and exercise.
+The patient has a history of obstructive sleep apnea and uses a CPAP machine nightly.
+He has a history of chronic low back pain and takes hydrocodone as needed.
+The patient has a history of asthma and takes albuterol as needed.
+He has a history of allergies to penicillin and sulfa medications.
+The patient has no known allergies to anesthesia.
+He has a history of nausea and vomiting with anesthesia and will receive prophylactic antiemetics.
+The patient will receive general anesthesia for the surgery.
+The patient"s surgical course was uncomplicated, and he received adequate analgesia and anxiolysis during the procedure.
+He had a smooth extubation and was transferred to the recovery room in stable condition.
+The patient had some postoperative nausea and vomiting, which were controlled with antiemetics.
+He experienced some mild postoperative pain, which was managed with hydrocodone.
+The patient was discharged from the hospital on postoperative day 2 in stable condition. No complications were encountered during the hospital stay.

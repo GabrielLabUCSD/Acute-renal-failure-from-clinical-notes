@@ -1,0 +1,25 @@
+The patient is a _____ years old male/female who is planning to have surgery for ________. The patient has a medical history of ________. They have had _______ surgeries in the past, including ________. Their previous surgeries were performed by _______ and were uncomplicated. The patient's past medical history includes ________.
+
+They have been diagnosed with ________, which is currently being managed with ________. The patient's blood pressure is controlled with ________. They have a history of ________ and are currently taking ________ medication to manage it. The patient has a history of ________, but it is well-controlled with ________.
+
+Their cardiovascular history includes ________. They have a history of ________ and are currently taking ________ to manage it. The patient has a history of ________ and is currently on ________ medication. They do not have a history of ________. The patient underwent a ________ test recently, which showed ________.
+
+Their pulmonary history includes ________. They have a history of ________, which is currently stable with ________. The patient has a history of ________, but it does not significantly impact their daily activities. They do not have a history of ________. Pulmonary function tests were performed and indicated ________.
+
+The patient has a history of ________, which is being managed with ________. They have a history of ________, but it does not require intervention at this time. The patient's liver function tests are within normal limits. They do not have a history of ________. The patient has a ________ insertion and is currently on ________ to prevent ________.
+
+Their gastrointestinal history includes ________. They have a history of ________, but it is well-controlled with ________. The patient does not have a history of ________. They have a ________ quadrant ________ which is being monitored. The patient's ________ levels are normal.
+
+Their endocrine history includes ________. They have a history of ________ and are currently taking ________ to manage it. The patient's ________ levels are in the normal range. They do not have a history of ________. The patient has a history of ________ and is currently taking ________.
+
+The patient's renal history includes ________. They have a history of ________, which is currently stable with ________ treatment. The patient's most recent creatinine levels are ________. They do not have a history of ________. The patient has a ________ ________ and is currently taking ________ to manage it.
+
+Their hematologic history includes ________. The patient has a history of ________, which is being managed with ________. They do not have a history of ________. The patient's ________ levels are within normal limits. They have a ________ ________ and are currently taking ________ to manage it.
+
+The patient's musculoskeletal history includes ________. They have a history of ________, but it does not significantly impact their daily activities. They do not have a history of ________. The patient has a ________ ________ and is currently taking ________ to manage it. They underwent a ________ test, which showed ________.
+
+Their neurological history includes ________. They have a history of ________, but it does not significantly impact their daily activities. The patient's cranial nerves are intact. They do not have a history of ________. The patient had a ________ test, which showed ________. 
+
+The patient's postoperative course was uneventful. They were extubated ________ hours after surgery and were able to tolerate a regular diet ________ hours postoperatively. Their pain was managed well with ________ medication. They did not experience any complications such as ________.
+
+In conclusion, the patient, a ________ years old male/female, underwent surgery for ________. Their postoperative course was uncomplicated, and they did not experience any complications.

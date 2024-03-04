@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [age]-year-old female who presents with a history of [medical condition] and is planning to undergo [type of surgery]. The patient has a history of [relevant medical history 1], [relevant medical history 2], and [relevant medical history 3]. The patient's current medications include [medication 1], [medication 2], and [medication 3].
+
+Preoperatively, the patient was in good health and did not report any significant symptoms or concerns. The patient's vital signs were within normal limits, and they had a normal electrolyte panel.
+
+Intraoperatively, the patient tolerated the procedure well and did not experience any complications. The patient's blood pressure and heart rate remained stable during the procedure, and they did not require any blood transfusions.
+
+Postoperatively, the patient had a uneventful course. They were able to extubate without difficulty and were transferred to the recovery room in stable condition. The patient did not experience any nausea or vomiting and did not require any additional analgesia.
+
+The patient was discharged from the hospital on [date] and recovered well at home. They did not experience any complications during their recovery and did not require any further medical attention.
+
+The patient's postoperative follow-up appointment was on [date], and they were seen by [provider]. The patient reported feeling well and did not have any concerns. The patient's incision site was healing well, and they did not have any evidence of infection.
+
+Overall, the patient had a successful surgery and an uneventful postoperative course. They did not experience any complications and were able to recover well at home.

@@ -1,0 +1,32 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history and acute renal failure complication after surgery:
+
+1. The patient is a 65-year-old male who presents with a history of chronic back pain and degenerative disc disease.
+2. He has tried conservative management, including physical therapy and medication, without significant relief.
+3. The patient has a history of hypertension and hyperlipidemia, which are well-controlled with medication.
+4. He has no history of cardiovascular disease or pulmonary disease.
+5. The patient has a history of smoking, but quit 10 years ago.
+6. He has a history of alcohol use, but denies excessive alcohol consumption.
+7. The patient has no history of previous surgeries or anesthesia complications.
+8. He is currently taking ASA and celecoxib for pain management.
+9. The patient has a history of chronic kidney disease, with a baseline creatinine of 1.8 mg/dL.
+10. His most recent creatinine level was 2.0 mg/dL, which was checked one week ago.
+11. The patient has a history of bladder cancer, which was treated with radiation therapy 5 years ago.
+12. He has no history of bleeding disorders or previous blood transfusions.
+13. The patient has a history of mild cognitive impairment, but is able to make informed decisions.
+14. He lives alone and has a support system in place.
+15. The patient is planning to undergo a lumbar fusion surgery to treat his chronic back pain.
+
+Complication:
+
+1. The patient developed acute renal failure post-operatively, with a creatinine level of 4.0 mg/dL.
+2. He had a significant drop in urine output, with only 100 mL of urine produced in the first 8 hours post-operatively.
+3. The patient developed flu-like symptoms, including nausea, vomiting, and fatigue.
+4. He had a significant increase in blood urea nitrogen (BUN) level, with a BUN-to-creatinine ratio of 25.
+5. The patient required vasopressor support and was transferred to the intensive care unit for close monitoring.
+6. The renal failure was attributed to sepsis caused by a urinary tract infection.
+7. The patient required hemodialysis and antibiotics to treat the sepsis.
+8. He remained in the ICU for 5 days and was monitored closely for signs of recovery.
+9. The patient's renal function gradually improved, and he was discharged home after 10 days.
+10. He was advised to follow up with his nephrologist and undergo repeat renal function testing in 2 weeks.
+
+This patient summary outlines the patient's medical history, including his chronic conditions, medications, and surgical plan. It also highlights the acute renal failure complication that developed post-operatively and the measures taken to treat it. This information is crucial for healthcare providers to ensure comprehensive care and prevent further complications.

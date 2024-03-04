@@ -1,0 +1,62 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history of [insert significant medical conditions, such as diabetes, hypertension, heart disease, etc.]. The patient has been taking [insert medications] and has had [insert surgeries or procedures] in the past.
+
+The patient is planned to undergo [insert type of surgery] and the procedure is expected to take [insert duration of surgery]. The patient's postoperative course is anticipated to be [insert expected length of stay in the hospital, any anticipated complications, etc.].
+
+The patient has been advised to follow a liquid diet for the next [insert time frame, e.g. 24 hours] before the surgery and to abstain from alcohol and certain medications, such as [insert medications, e.g. blood thinners], for a period of [insert time frame, e.g. 2 weeks] before and after the surgery.
+
+The patient has been informed of the risks and benefits associated with the surgery and has provided informed consent. The patient is aware of the potential complications, such as [insert potential complications, e.g. infection, bleeding, etc.], and has been advised to seek immediate medical attention if they experience any unusual symptoms.
+
+The patient's family history is significant for [insert significant medical conditions, e.g. heart disease, cancer, etc.]. The patient's social history includes [insert relevant information, e.g. smoking, alcohol use, etc.].
+
+The patient's baseline vital signs are:
+
+* Blood pressure: [insert blood pressure reading]
+* Pulse: [insert pulse rate]
+* Respiratory rate: [insert respiratory rate]
+* Oxygen saturation: [insert oxygen saturation level]
+* Temperature: [insert temperature]
+
+The patient's laboratory results are as follows:
+
+* Hemoglobin: [insert hemoglobin level]
+* White blood cell count: [insert white blood cell count]
+* Creatinine: [insert creatinine level]
+* Glucose: [insert glucose level]
+
+The patient's ECG shows [insert ECG findings, e.g. normal sinus rhythm].
+
+The patient's chest x-ray shows [insert chest x-ray findings, e.g. clear lungs].
+
+The patient is allergic to [insert allergens, e.g. penicillin].
+
+The patient's surgical site is clean and ready for the procedure.
+
+The patient has been given [insert medications, e.g. antibiotics, anti-anxiety medication] before the surgery.
+
+The patient's pain level is currently [insert pain level, e.g. mild, moderate, severe].
+
+The patient's blood pressure and oxygen saturation levels are stable during the surgery.
+
+The surgical procedure is performed without any complications.
+
+The patient is transferred to the recovery room for postoperative care.
+
+The patient's vital signs are closely monitored in the recovery room.
+
+The patient experiences [insert any complications, e.g. nausea, vomiting, dizziness] in the recovery room.
+
+The patient is discharged from the hospital after [insert length of stay, e.g. 2 days] with a follow-up appointment scheduled for [insert date].
+
+The patient is advised to continue taking [insert medications] and to follow up with their primary care physician for further management.
+
+The patient is also advised to avoid heavy lifting, bending, or strenuous activity for a period of [insert time frame, e.g. 6 weeks] after the surgery.
+
+The patient is instructed to follow a [insert diet, e.g. liquid, soft, regular] diet and to drink plenty of fluids to prevent dehydration.
+
+The patient is advised to take [insert medications, e.g. pain medication, antihistamines] as directed by their surgeon to manage postoperative pain and discomfort.
+
+The patient's outpatient care plan is discussed and coordinated with their primary care physician.
+
+The patient is satisfied with their care and is pleased with the outcome of the surgery.

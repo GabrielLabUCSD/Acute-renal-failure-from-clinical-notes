@@ -1,0 +1,27 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension, hyperlipidemia, and obesity. The patient has been a smoker for the past 10 years and has a history of alcohol use disorder. He has no known allergies to medications and has not experienced any previous adverse reactions to anesthesia. His family medical history reveals a positive history of coronary artery disease and stroke.
+
+The patient's surgical history includes a cholecystectomy ten years ago, and he has had no previous anesthesia complications. His current medications include atorvastatin, lisinopril, and bupropion.
+Vital signs reveal a blood pressure of 130/80 mmHg, heart rate of 75 beats per minute, respiratory rate of 16 breaths per minute, and an oral temperature of 98.6 degrees Fahrenheit. 
+
+Lab results within the past month show a WBC count of 10.2 g/dL, hemoglobin A1C of 7.5%, BUN/Cr ratio of 16/1.1, and an AST/ALT ratio of 1.5/1.0. The patient has been NPO since midnight and has an empty bladder.
+
+The patient is scheduled for a laparoscopic cholecystectomy under general anesthesia. The anesthesia plan includes a combination of lidocaine, propofol, and sevoflurane. The patient will be monitored closely for any signs of hemodynamic instability, respiratory depression, or pain. The patient will be placed in the reversed Trendelenburg position during the procedure.
+
+Postoperatively, the patient will be closely monitored in the recovery room for at least 24 hours. Pain management will consist of patient-controlled analgesia with fentanyl and postoperative nausea and vomiting will be treated with ondansetron. The patient will be encouraged to ambulate as soon as possible to reduce the risk of deep vein thrombosis.
+The patient will have a nasogastric tube in place for at least 24 hours postoperatively to monitor for any nausea or vomiting.
+
+There are no anticipated complications for this procedure. The patient has been thoroughly counseled on the risks and benefits of the surgery, and he has provided informed consent.
+
+This patient summary provides a concise overview of the patient's medical history, surgical history, medications, vital signs, lab results, and anesthesia plan. It outlines the postoperative course and potential complications, and it ensures that the patient has been properly counseled and has provided informed consent for the procedure. It's a helpful tool for the healthcare team to quickly reference the patient's information during the surgery and postoperative care.
+
+Complications that are not mentioned in the patient summary but could occur during or after the procedure include:
+
+* Respiratory complications such as respiratory failure or pneumonia
+* Cardiac complications such as arrhythmias, cardiac arrest, or myocardial infarction
+* Neurological complications such as seizures or stroke
+* Bleeding complications such as hematoma or bleeding from the surgical site
+* Infection complications such as wound infection or sepsis
+* Pulmonary embolism
+* Hypothyroidism

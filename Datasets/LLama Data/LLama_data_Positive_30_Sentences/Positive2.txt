@@ -1,0 +1,36 @@
+Patient Summary:
+
+1. The patient is a 55-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He has been a smoker for the past 20 years.
+4. He has a history of non-insulin-dependent diabetes mellitus.
+5. He has had multiple episodes of urinary tract infections in the past.
+6. He has a history of benign prostatic hyperplasia.
+7. He has been diagnosed with prostate cancer.
+8. He has undergone external beam radiation therapy for his prostate cancer.
+9. He has a history of recurrent kidney stones.
+10. He has a history of gout.
+11. He has been prescribed aspirin and lisinopril for his hypertension and hyperlipidemia.
+12. He has been advised to follow a low-sodium, low-fat diet.
+13. He has a history of asthma and uses an inhaler as needed.
+14. He has a history of allergic rhinitis.
+15. He has a history of sleep apnea and uses a continuous positive airway pressure machine.
+16. He has a history of chronic lower back pain and has been prescribed hydrocodone for pain management.
+17. He has a history of hypothyroidism and takes levothyroxine daily.
+18. He has a history of vitamin D deficiency.
+19. He has been diagnosed with hyperparathyroidism.
+20. He has been scheduled for a parathyroidectomy.
+21. He has a history of acute renal failure following surgery.
+22. He has been admitted to the intensive care unit for close monitoring.
+23. He has been started on intravenous fluids and diuretics for fluid management.
+24. He has been prescribed blood transfusions for anemia.
+25. He has been prescribed antibiotics for a suspected urinary tract infection.
+26. He has been monitored closely for signs of seizure activity.
+27. He has been advised to follow a low-protein diet.
+28. He has been referred to a nephrologist for further management of his renal failure.
+29. He has been recommended to undergo hemodialysis.
+30. He is currently awaiting a kidney transplant.
+
+Complication: Acute Renal Failure
+
+The patient experienced acute renal failure following his parathyroidectomy surgery. This complication is likely due to the patient's pre-existing medical conditions, such as hypertension, diabetes, and a history of urinary tract infections. The patient's renal failure was further complicated by the need for blood transfusions and the use of diuretics and intravenous fluids for fluid management. The patient was closely monitored in the intensive care unit for signs of seizure activity and was prescribed antibiotics for a suspected urinary tract infection. The patient was referred to a nephrologist for further management of his renal failure and was recommended to undergo hemodialysis. The patient is currently awaiting a kidney transplant.

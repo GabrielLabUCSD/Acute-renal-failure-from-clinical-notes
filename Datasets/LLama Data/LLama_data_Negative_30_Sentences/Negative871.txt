@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history of [insert relevant medical conditions, such as hypertension, diabetes, etc.]. The patient has been taking [insert medications] and has been compliant with their treatment regimen. The patient"s surgical history includes [insert previous surgeries, if any].
+
+The patient is scheduled to undergo [insert type of surgery] for [insert indication]. The surgery is expected to last [insert length of surgery] and will be performed under [insert type of anesthesia]. The patient will be admitted to the hospital on the day of surgery and is expected to stay for [insert length of hospital stay].
+
+Postoperative Course:
+
+The patient had an uneventful postoperative course. They were transferred to the recovery room and closely monitored for any complications. The patient experienced some pain, which was managed with [insert pain management plan]. The patient was also monitored for any signs of infection or bleeding.
+
+The patient was able to ambulate and perform deep breathing exercises as instructed. They were started on a clear liquid diet and progressed to a regular diet as tolerated. The patient was discharged from the hospital on [insert date] and will follow up with their surgeon in [insert time frame].
+
+No complications were noted during the patient"s postoperative course. The patient reported some mild discomfort and bruising at the surgical site, which resolved with time. The patient was advised to avoid heavy lifting or strenuous activities for [insert time frame] to allow for proper healing.
+
+The patient was also advised to follow up with their primary care physician for routine follow-up and to monitor their medical condition. The patient was discharged from the hospital in stable condition and without any acute complications.

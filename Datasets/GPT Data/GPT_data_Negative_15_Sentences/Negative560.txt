@@ -1,0 +1,29 @@
+The patient is a X-year-old male/female planning to undergo surgery for (type of surgery). 
+
+The patient's medical history is significant for (1) hypertension, (2) hyperlipidemia, (3) type 2 diabetes mellitus, (4) obesity with a BMI of (number), (5) obstructive sleep apnea, and (6) osteoarthritis of the knees. 
+
+The patient has a history of smoking (number of pack-years) and currently reports smoking (number) cigarettes per day. 
+
+Their surgical history includes (7) appendectomy at age (number), (8) cholecystectomy at age (number), and (9) hernia repair at age (number). 
+
+The patient has a known allergy to (10) penicillin, and their medication list includes (11) metformin (500 mg twice daily), (12) lisinopril (10 mg daily), (13) atorvastatin (20 mg daily), (14) inhaler for their asthma (as needed), and (15) vitamin D supplementation. 
+
+Postoperatively, the patient was closely monitored in the recovery area for (number) hours before being transferred to the surgical ward. 
+
+They were started on (16) intravenous fluids and (17) prophylactic antibiotics, which were continued for (number of days). 
+
+The patient's postoperative course was uneventful, and they were gradually transitioned to a regular diet. 
+
+They were able to ambulate independently and were assisted with physical therapy exercises. 
+
+The patient's pain was managed with (18) opioids initially and then transitioned to (19) non-opioid analgesics as tolerated. 
+
+They did not experience any postoperative complications such as wound infection, urinary tract infection, or respiratory distress. 
+
+The patient experienced normal bowel movements on postoperative day (number). 
+
+They were discharged home on postoperative day (number) with a prescription for (20) pain medications and (21) instructions for wound care. 
+
+The patient's follow-up appointment was scheduled for (date) with instructions to report any signs of postoperative complications or concerns. 
+
+Overall, the patient had a successful surgery with a smooth postoperative course and no complications.

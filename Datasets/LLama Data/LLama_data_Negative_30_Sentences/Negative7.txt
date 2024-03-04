@@ -1,0 +1,84 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Chief Complaint: Severe lower back pain and limited mobility
+
+Medical History:
+
+* History of smoking (20 pack years)
+* Hypertension (controlled with medication)
+* Hyperlipidemia (controlled with medication)
+* Obesity (BMI 35)
+* Sleep apnea (uses CPAP machine)
+* History of non-insulin dependent diabetes mellitus (NIDDM)
+* History of coronary artery disease (CAD) with a previous myocardial infarction (MI)
+* History of chronic obstructive pulmonary disease (COPD)
+* History of gastroesophageal reflux disease (GERD)
+* History of neuropathic pain (managed with gabapentin)
+* History of osteoarthritis in both knees
+* History of degenerative disc disease (DDD) at L4-L5 and L5-S1 levels
+* History of spinal stenosis
+* History of herniated nucleus pulposus at L4-L5 and L5-S1 levels
+* History of sciatica
+* History of chronic low back pain
+* History of chronic left leg pain and numbness
+* History of chronic left foot drop
+* History of urinary frequency and urgency (managed with medication)
+* History of constipation (managed with laxatives)
+* History of erectile dysfunction (managed with sildenafil)
+* History of anxiety (managed with benzodiazepine)
+
+Surgical History:
+
+* Cholecystectomy (laparoscopic) in 2010
+* Hip replacement (left) in 2015
+* Knee arthroscopy (right) in 2017
+
+Current Medications:
+
+* Amlodipine
+* Lisinopril
+* Simvastatin
+* Gabapentin
+* Celecoxib
+* Omeprazole
+* Sildenafil
+* Alprazolam
+* Metformin
+* Insulin glargine
+
+Family History:
+
+* Father died of MI at age 55
+* Mother has hypertension and hyperlipidemia
+* One sibling has hypertension and hyperlipidemia
+
+Social History:
+
+* Married with two adult children
+* Works as a software engineer
+* Denies alcohol or illicit drug use
+* Quit smoking 5 years ago
+* Exercises regularly (jogging 3-4 times a week)
+
+Reason for Presentation:
+
+* Patient presents with severe lower back pain and limited mobility, which has been gradually worsening over the past year.
+* Patient has tried physical therapy, chiropractic care, and pain medication without significant improvement.
+* Patient is now considering surgical intervention (lumbar fusion) to alleviate symptoms.
+
+Postoperative Course:
+
+* Patient underwent lumbar fusion (L4-L5 and L5-S1) with instrumentation.
+* Patient had an uneventful postoperative course.
+* Patient was discharged home on postoperative day 4 with instructions to follow up with surgeon in 2 weeks.
+* Patient had mild postoperative pain managed with pain medication.
+* Patient had mild temporary numbness in the left lower extremity, which resolved within 2 weeks.
+* Patient had no complications during the postoperative period.
+
+I hope this sample patient summary helps. Please note that this is just an example and the specific details of a patient's medical history and surgical course may vary.

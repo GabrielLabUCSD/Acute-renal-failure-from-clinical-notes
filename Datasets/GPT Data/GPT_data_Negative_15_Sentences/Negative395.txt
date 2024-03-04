@@ -1,0 +1,16 @@
+The patient is a 60-year-old female who is planning to undergo surgery. She has a past medical history significant for hypertension, hyperlipidemia, and type 2 diabetes mellitus.
+Her hypertension is well-controlled on a combination of medications including amlodipine and lisinopril.
+Her hyperlipidemia is managed with diet modifications and simvastatin.
+Her hemoglobin A1c is within target range on metformin and insulin glargine for her diabetes.
+She has a history of allergic reactions to penicillin and codeine.
+Her social history is notable for a 20 pack-year smoking history. She quit smoking 5 years ago.
+Previous surgeries include cholecystectomy and hysterectomy.
+She takes daily medications including amlodipine, lisinopril, simvastatin, metformin, and insulin glargine.
+Her physical exam is unremarkable, and all vitals are within a normal range.
+Her laboratory results are significant for well-controlled blood pressure and lipid profile within target range.
+EKG shows normal sinus rhythm with no evidence of acute ischemia or arrhythmia.
+Chest x-ray reveals no active cardiopulmonary pathology.
+Her preoperative workup includes a comprehensive metabolic panel, complete blood count, and coagulation profile, which are all within normal limits.
+During the postoperative course, she tolerated the surgery well with no immediate complications.
+She was able to ambulate independently on postoperative day 1 and had adequate pain control using a combination of non-opioid analgesics.
+There were no signs of infection, wound dehiscence, or other surgical site complications noted.

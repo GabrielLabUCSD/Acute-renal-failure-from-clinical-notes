@@ -1,0 +1,60 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Obesity (BMI 35)
+* Diabetes mellitus type 2
+* History of heart disease
+* History of stroke
+* Chronic obstructive pulmonary disease (COPD)
+* Gastroesophageal reflux disease (GERD)
+* Chronic kidney disease (CKD) stage 3
+* History of non-melanoma skin cancer
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Inguinal hernia repair 5 years ago
+* Cataract surgery 2 years ago
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes
+* Omeprazole for GERD
+* Aspirin for stroke prevention
+* Phenytoin for seizure prophylaxis
+* Alprazolam for anxiety
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with no elevator
+* Has a cat
+* Denies any recent travel or exposure to illnesses
+
+Postoperative Course:
+
+* Patient had a successful surgery and was transferred to the recovery room in stable condition.
+* Patient experienced some postoperative nausea and vomiting, which was managed with antiemetics.
+* Patient had a Foley catheter inserted intraoperatively, which was removed on postoperative day 1.
+* Patient was able to tolerate a clear liquid diet on postoperative day 1 and progressed to a soft diet on postoperative day 2.
+* Patient was ambulatory on postoperative day 2 and was discharged home on postoperative day 3 with a follow-up appointment scheduled for 1 week after discharge.
+
+Complications:
+
+* None noted during the postoperative period.

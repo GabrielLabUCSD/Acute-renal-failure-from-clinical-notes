@@ -1,0 +1,31 @@
+The patient is a 65-year-old male who is preparing to undergo surgery.
+He has a medical history of hypertension and type 2 diabetes.
+His blood pressure is well-controlled with medication.
+His diabetes is managed with diet and exercise, and his blood glucose levels are stable.
+The patient has no known allergies to medications.
+He has never had any major surgeries in the past.
+His current medications include metformin for diabetes, lisinopril for hypertension, and atorvastatin for high cholesterol.
+He does not have a history of smoking or alcohol use.
+His family history is significant for heart disease, with his father and one sibling both having myocardial infarctions in their 60s.
+The patient has recently completed all pre-operative tests, including blood work, ECG, and chest X-ray, which all came back normal.
+His physical examination was unremarkable, with no abnormalities detected.
+The patient has been counseled on the risks and benefits of surgery, and he has provided informed consent.
+He has been instructed to stop taking his metformin and atorvastatin one week before surgery.
+The patient will need to fast for 8 hours before surgery.
+He has been advised to take his lisinopril on the morning of surgery with a small sip of water.
+The patient will be kept nil by mouth after surgery until bowel sounds return and he is able to tolerate oral intake.
+During surgery, the patient will be intubated and placed under general anesthesia.
+He will have a urinary catheter inserted to monitor urine output during and after surgery.
+After surgery, the patient will be closely monitored for complications such as bleeding, infection, and thrombosis.
+He will be started on prophylactic antibiotics to reduce the risk of infection.
+The patient has been educated about post-operative pain management and will be given analgesics as needed.
+He has been advised to ambulate as soon as possible after surgery to prevent complications such as deep vein thrombosis.
+The patient's surgical site will be assessed regularly for signs of infection or poor healing.
+He will receive physical therapy to aid in his recovery and regain mobility.
+Unfortunately, the patient developed acute renal failure post-operatively.
+He experienced a sudden decrease in urine output and an increase in serum creatinine levels.
+The patient's urine was also noted to have a dark color and a strong odor.
+After further evaluation, it was determined that the acute renal failure was likely due to post-operative hypotension and decreased perfusion to the kidneys.
+The patient was immediately started on intravenous fluids to restore his fluid balance and improve renal function.
+He was also started on medications to promote diuresis and support renal function.
+The patient's renal function gradually improved over the next few days and he was eventually able to be discharged from the hospital with close outpatient follow-up.

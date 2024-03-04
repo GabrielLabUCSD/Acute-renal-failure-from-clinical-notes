@@ -1,0 +1,15 @@
+The patient is a [age]-year-old [gender] with a medical history of [list relevant medical conditions such as diabetes, hypertension, hyperlipidemia, etc.] who is planning to undergo [type of surgery] for [indicate the reason for the surgery].
+The patient reports a surgical history of [list any previous surgeries] without any major complications.
+Regarding medications, the patient takes [list current medications] for [indicate purpose] as prescribed by [physician name].
+The patient denies any known drug allergies or adverse reactions to anesthesia.
+During the preoperative evaluation, the patient's vital signs were stable, and laboratory tests revealed [list any significant findings such as abnormal bloodwork or imaging results].
+The patient underwent a comprehensive anesthesia evaluation, which revealed [include anesthesia-specific findings].
+The anesthesiologist noted that the patient has a Mallampati score of [indicate score], indicating [describe airway characteristics].
+The patient was advised to discontinue [list specific medications] prior to surgery as directed by the attending physician.
+In terms of social history, the patient denies the use of tobacco, alcohol, or illicit substances.
+The patient has a reliable support system at home to assist with postoperative care and recovery.
+The patient was educated about the surgical procedure, including its risks, benefits, and alternative treatment options.
+Postoperatively, the patient's course was unremarkable, with stable vital signs and no significant pain or discomfort reported.
+The patient followed the prescribed postoperative plan, including pain management, wound care, and physical activity restrictions.
+Routine laboratory tests performed after surgery showed [indicate relevant results].
+The patient did not experience any postoperative complications, such as wound infection, postoperative bleeding, or respiratory distress.

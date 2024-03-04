@@ -1,0 +1,30 @@
+The patient is a _____-year-old ______ (gender) with a medical history significant for ________.
+They have been scheduled for _______ surgery.
+Their current medications include _______ for ________ and _______ for ________.
+They have no known drug allergies.
+Past surgical history is significant for ________.
+The patient denies any recent illnesses or hospitalizations.
+Their social history reveals ________.
+Family history is non-contributory.
+Preoperative labs including complete blood count (CBC), basic metabolic panel (BMP), coagulation panel, and urinalysis were within normal limits.
+An electrocardiogram (ECG) was obtained, showing ________.
+A chest X-ray revealed ________.
+The patient was evaluated by the anesthesiology team and deemed to be at a _______ ASA physical status.
+Informed consent was obtained, and the risks, benefits, and alternatives of the procedure were discussed.
+The patient was counseled on the preoperative fasting guidelines and instructed to arrive at the hospital ________ prior to the scheduled surgery time.
+On the day of the surgery, preoperative antibiotics were administered ________.
+The patient was taken to the operating room and placed under general anesthesia without any complications.
+The surgical procedure lasted _______ hours and was uneventful.
+Intraoperative blood loss was ________ mL.
+The patient tolerated the procedure well and was transferred to the post-anesthesia care unit (PACU) in stable condition.
+In PACU, the patient's vital signs remained stable, and their pain was adequately managed using _______.
+Intravenous fluids were administered to maintain hydration.
+The patient was started on deep venous thrombosis (DVT) prophylaxis with _______.
+They were able to ambulate and tolerate oral intake without any issues.
+The postoperative course was unremarkable, and the patient was transferred to the surgical ward.
+They were monitored closely for signs of infection, deep vein thrombosis, and other postoperative complications.
+Physical therapy was initiated to promote early mobilization and prevent complications.
+The patient's pain was well-controlled on oral pain medications.
+They were discharged home on postoperative day ________ in stable condition.
+The patient was educated on postoperative wound care, signs and symptoms of complications, and follow-up instructions.
+They were advised to follow up with their surgeon for a postoperative visit to assess their healing and address any concerns.

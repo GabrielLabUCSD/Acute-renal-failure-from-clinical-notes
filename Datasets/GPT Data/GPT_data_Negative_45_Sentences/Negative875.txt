@@ -1,0 +1,21 @@
+Patient Summary:
+
+This is a summary of a patient's medical history who is planning to have surgery. The patient is a [age]-year-old [gender] with a history of [list specific medical conditions or relevant medical history]. The patient's primary complaint and reason for surgery is [describe the specific reason for surgery]. 
+
+The patient's past medical history includes [list significant past medical conditions or surgeries]. They have a history of [list relevant chronic conditions]. The patient is on multiple medications including [list medications and dosages]. They have tried [list previous treatments or interventions] for their current condition, which have been ineffective or provided only partial relief.
+
+On physical examination, the patient exhibits [describe specific findings on physical examination]. Diagnostic tests performed [list relevant diagnostic tests] show [describe any specific findings].
+
+The patient had previous surgeries including [list previous surgeries, dates, and indications]. They had [any notable complications or history of prolonged postoperative recovery]. [Describe any specific surgical risks or concerns based on the patient's medical history and current condition].
+
+The patient and their family have been adequately counseled regarding the surgery, including risks, benefits, and alternative treatment options. Informed consent has been obtained.
+
+Postoperatively, the patient is expected to undergo [describe anticipated postoperative course and treatment plan]. They will require [specific postoperative interventions or therapies]. Pain management will include [describe pain management plan, including medications and interventions]. 
+
+The patient will be closely monitored for postoperative complications such as [list potential complications based on the type of surgery and the patient's medical history]. They will be assessed for signs of infection, wound healing, and deep vein thrombosis. Their vital signs, fluid balance, and urine output will be closely monitored. 
+
+Postoperative follow-up will include [describe postoperative follow-up plan, such as clinic visits or telemedicine consultations]. The patient will require [specific postoperative care, such as wound care or physical therapy]. 
+
+The patient's postoperative course may be complicated by [list potential complications based on the surgery or patient's medical history]. However, it is essential to note that acute renal failure is not considered a complication in this case.
+
+Overall, the patient's surgical plan is based on a comprehensive assessment of their medical history and current condition. The patient and their family are aware of the potential risks and benefits associated with the surgery. Close monitoring and appropriate postoperative care will be provided to ensure the best possible outcome for the patient.

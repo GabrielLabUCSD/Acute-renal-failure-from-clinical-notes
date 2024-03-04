@@ -1,0 +1,46 @@
+Patient Summary:
+
+Name: [Patient's Name]
+Age: [Patient's Age]
+Gender: [Patient's Gender]
+
+Medical History:
+
+* [Patient's Medical History, including all relevant conditions, surgeries, and treatments]
+
+Planned Surgery:
+
+* [Type of Surgery]
+* [Reason for Surgery]
+
+Postoperative Course:
+
+* [Description of Postoperative Course, including any complications that occurred]
+
+Complications:
+
+* [List of Complications, if any, exclude Acute Renal Failure]
+
+Current Medications:
+
+* [List of Current Medications, including dosages and frequency]
+
+Allergies:
+
+* [List of Allergies, including any medication or substance allergies]
+
+Social History:
+
+* [Smoking Status]
+* [Alcohol Use]
+* [Diet and Exercise Habits]
+
+Family History:
+
+* [Relevant Family Medical History]
+
+Surgeon's Notes:
+
+* [Any additional information or instructions from the surgeon]
+
+This patient summary provides a comprehensive overview of the patient's medical history, planned surgery, and postoperative course. It includes relevant information about the patient's medical conditions, medications, allergies, social history, and family history. The surgeon's notes provide any additional information or instructions that may be useful for the surgical team.

@@ -1,0 +1,83 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and bilateral leg pain. The patient has a history of degenerative disc disease and has failed conservative management.
+
+The patient has a history of hypertension and hyperlipidemia.
+
+The patient had a myocardial infarction (MI) 10 years ago and has since been compliant with medications and lifestyle modifications.
+
+The patient has a history of non-insulin-dependent diabetes mellitus (NIDDM) and takes metformin.
+
+The patient has a history of obstructive sleep apnea (OSA) and uses a continuous positive airway pressure (CPAP) machine.
+
+The patient has a history of gastroesophageal reflux disease (GERD) and takes omeprazole.
+
+The patient has a history of asthma and takes an inhaler as needed.
+
+The patient has a history of allergies to penicillin and cephalosporins.
+
+The patient has a history of bleeding disorders and takes warfarin.
+
+The patient has a history of seizure disorder and takes levetiracetam.
+
+The patient is an active smoker.
+
+The patient has a history of alcohol abuse but has been sober for the past 5 years.
+
+The patient has a history of recreational drug use but has been abstinent for the past 10 years.
+
+The patient is married with two adult children who live out of state.
+
+The patient works as an accountant and is currently able to perform all job-related tasks without restrictions.
+
+The patient has a history of delayed wound healing and has required prolonged courses of antibiotics for skin infections.
+
+The patient has a history of chronic obstructive pulmonary disease (COPD) and takes ipratropium and albuterol as needed.
+
+The patient has a history of thyroid disease and takes levothyroxine.
+
+The patient has a history of kidney stones and has had multiple procedures for removal.
+
+The patient has a history of osteoporosis and takes alendronate.
+
+The patient has a history of glaucoma and takes latanoprost.
+
+The patient has a history of arthritis and takes celecoxib.
+
+The patient has a history of psoriasis and takes methotrexate.
+
+The patient has a history of polyps in the colon and has had multiple colonoscopies.
+
+The patient has a history of cataracts and has had surgery to remove them.
+
+The patient has a history of carpal tunnel syndrome and has had surgery to release the nerve.
+
+The patient has a history of trigger finger and has had surgery to release the tendon.
+
+The patient has a history of plantar fasciitis and has had physical therapy for it.
+
+The patient has no known drug allergies.
+
+The patient has no history of previous surgeries.
+
+The patient is planning to have a lumbar fusion surgery to alleviate the chronic back pain.
+
+The patient will be admitted to the hospital on the day of surgery and is expected to stay for 3-5 days postoperatively.
+
+The patient will require physical therapy postoperatively to regain strength and mobility.
+
+The patient is at risk for postoperative complications such as wound infection, sepsis, and respiratory failure.
+
+The patient will be closely monitored for signs of bleeding due to the history of bleeding disorders.
+
+The patient will be closely monitored for signs of seizures due to the history of seizure disorder.
+
+The patient will be closely monitored for signs of hypertension and tachycardia due to the history of hypertension.
+
+The patient will be closely monitored for signs of respiratory depression due to the history of COPD.
+
+The patient will be closely monitored for signs of infection due to the history of pyelonephritis.
+
+The patient will be closely monitored for signs of cardiac complications such as MI or arrhythmias due to the history of MI.
+
+The patient will be closely monitored for signs of aspiration due to the history of OSA.

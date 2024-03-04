@@ -1,0 +1,71 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus (type 2)
+* History of coronary artery disease
+* History of heart failure
+* History of chronic obstructive pulmonary disease (COPD)
+* History of benign prostatic hyperplasia (BPH)
+
+Surgical History:
+
+* Cholecystectomy (laparoscopic) 10 years ago
+* Hernia repair (inguinal) 5 years ago
+
+Current Medications:
+
+* Amlodipine
+* Atorvastatin
+* Glipizide
+* Metformin
+* Levothyroxine
+* Omeprazole
+* Aspirin
+* Pantoprazole
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives independently
+* No known support system
+
+Family History:
+
+* Mother died of breast cancer at age 60
+* Father died of myocardial infarction at age 70
+* One sibling with history of colon cancer
+
+Reason for Surgery:
+
+* Elective total knee replacement
+
+Expected Postoperative Course:
+
+* 2-3 days in the hospital
+* Pain management with patient-controlled analgesia (PCA) and/or nerve block
+* Early ambulation and physical therapy
+* Discharge to home with home health care assistance
+
+Complications:
+
+* Wound infection
+* Urinary retention
+* Postoperative nausea and vomiting
+* Respiratory depression
+* Delirium
+
+Assistant:  I hope that helps! Let me know if you have any questions or need further clarification.

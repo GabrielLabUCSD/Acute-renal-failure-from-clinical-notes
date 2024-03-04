@@ -1,0 +1,21 @@
+The patient is a (age) year old (gender) with a medical history significant for (list medical conditions). They are planning to have (type of surgery) to address (indicate reason for surgery). Preoperative labs and investigations have been obtained, and the patient has been cleared for surgery by (specialist/primary care physician).
+
+In terms of their medical history, the patient has a past surgical history of (list previous surgeries). They have a history of (list any relevant medical conditions, such as diabetes, hypertension, etc.) which is well-controlled with medication. The patient denies any allergies to medications or previous adverse reactions to anesthesia.
+
+Medications currently prescribed to the patient include (list medications), which have been continued perioperatively as appropriate. They have been advised to hold (name of medication) before the surgery after discussing with their primary care physician.
+
+The patient's vital signs are stable, with blood pressure ranging between (range), heart rate ranging between (range), and oxygen saturation consistently at (range). Physical examination reveals no significant abnormalities, and the patient is in overall good health.
+
+Preoperatively, the patient has completed all necessary pre-operative testing, including (list any specific tests, such as blood work, imaging, etc.). They have been instructed to fast before the surgery, strictly adhering to the prescribed fasting times.
+
+In the operating room, the patient will receive anesthesia in accordance with their medical history and patient preference. The procedure will be performed by (name of surgeon), and duration of the surgery is estimated to be (time).
+
+Postoperatively, the patient will be closely monitored in the recovery room until they meet specified criteria for discharge to the surgical ward. They will receive appropriate analgesia for pain management and be closely observed for signs of complications such as infection, bleeding, or other postoperative complications.
+
+During their postoperative course, the patient is expected to have a/an (expected) recovery period of (timeframe) and may experience mild to moderate pain at the surgical site, which will be managed with appropriate analgesics. They will be encouraged to ambulate early and perform respiratory exercises to prevent complications such as deep vein thrombosis and atelectasis.
+
+Follow-up appointments have been scheduled for the patient to assess wound healing, monitor for signs of infection, and address any concerns or questions they may have. The patient will be discharged on a prescribed course of medications and will receive instructions regarding activity restrictions, wound care, and signs of possible complications.
+
+Complications that can occur postoperatively include infection, wound dehiscence, hematoma formation, respiratory complications, and adverse reactions to medications. However, it should be noted that the patient did not experience any complications in their postoperative course, apart from (if applicable).
+
+Overall, the patient's surgical procedure went well, and they had a smooth postoperative recovery without significant complications. They were compliant with the recommended postoperative care and medication regimen and displayed appropriate healing on follow-up visits.

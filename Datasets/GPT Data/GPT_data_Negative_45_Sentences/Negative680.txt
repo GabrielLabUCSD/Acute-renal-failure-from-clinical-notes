@@ -1,0 +1,23 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [list of relevant medical conditions, such as hypertension, diabetes, heart disease]. They are scheduled to undergo [type of surgery] for [indication for surgery].
+
+In terms of their past surgical history, the patient has previously had [list any previous surgeries]. They have also had [number] previous hospital admissions, with the most recent one being [timeframe] ago for the management of [reason for hospital admission].
+
+Regarding their medication history, the patient is currently taking [list current medications], including [specific medications]. They are not allergic to any known medications. The patient is a non-smoker and denies the use of alcohol or recreational drugs.
+
+During the preoperative evaluation, the patient's vital signs were stable, and their physical examination was unremarkable except for [any notable findings, such as a murmur or localized pain]. Further diagnostic workup, including laboratory tests and imaging studies, showed [normal/routine/abnormal] results. Specifically, [provide relevant abnormal findings, such as elevated liver enzymes or abnormal EKG].
+
+Anesthesia consult was obtained, and the patient's anesthesia risk was deemed [low/moderate/high] based on their medical history. The patient was advised to strictly adhere to preoperative fasting instructions.
+
+On the day of surgery, the patient was brought to the operating room, and [type of anesthesia] was administered without any complications. The surgery itself lasted [duration], and the patient tolerated the procedure well.
+
+In the immediate postoperative period, the patient was monitored closely in the recovery room, and their vital signs remained stable. Pain management was achieved with [pain medications]. The patient was able to ambulate without difficulty, and their incision site was clean and intact.
+
+In the days following surgery, the patient was gradually mobilized and started on a clear liquid diet, which was then advanced to a regular diet as tolerated. Their pain was well-controlled with [pain medications], and they reported a gradual improvement in their incisional pain. The surgical wound showed signs of appropriate healing without any signs of infection.
+
+During their hospital stay, the patient received appropriate prophylactic antibiotics and deep vein thrombosis prophylaxis. They were closely monitored for any signs of infection or postoperative complications, such as wound dehiscence or thromboembolic events, but none were noted.
+
+The patient's postoperative course was uneventful, and they were discharged home on postoperative day [number] with appropriate discharge instructions, including wound care and medication management. They were scheduled for a follow-up visit in [timeframe], at which time their sutures or staples would be removed, if needed.
+
+In the post-discharge period, the patient reported a gradual improvement in their overall well-being. They followed up with their primary care physician and surgical team as scheduled. No major complications or readmissions were reported.
+
+In summary, this patient underwent [type of surgery] for [indication]. Their preoperative evaluation showed [relevant findings], and they were deemed suitable for surgery. The surgical procedure was successfully performed without any complications. During the postoperative period, the patient's recovery was uneventful, and they were discharged home in stable condition. Regular follow-up appointments were scheduled to ensure appropriate healing and continued postoperative care.

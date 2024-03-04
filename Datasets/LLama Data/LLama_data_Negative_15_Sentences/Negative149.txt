@@ -1,0 +1,66 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol abuse
+* Obesity (BMI 35)
+* Diabetes mellitus type II
+* History of coronary artery disease
+* History of heart failure
+* History of stroke
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Hip replacement 5 years ago
+* knee arthroscopy 2 years ago
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Metoprolol 25 mg daily
+* Lisinopril 20 mg daily
+* Atorvastatin 20 mg daily
+* Insulin glargine 100 units daily
+* Oxycodone 5 mg PRN
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives independently
+* No history of recent travel or exposure to illness
+
+Family History:
+
+* Mother died of breast cancer at age 60
+* Father died of myocardial infarction at age 70
+
+Reason for Surgery:
+
+* Elective total knee arthroplasty for severe osteoarthritis
+
+Expected Postoperative Course:
+
+* 2-3 days in the hospital
+* Pain management with patient-controlled analgesia
+* Early mobilization and physical therapy
+* DVT prophylaxis with compression stockings and intermittent pneumatic compression device
+* Antibiotics for surgical prophylaxis
+
+Complications:
+
+* None anticipated
+
+I hope this helps! Let me know if you need any further assistance.

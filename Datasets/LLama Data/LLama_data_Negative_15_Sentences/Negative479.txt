@@ -1,0 +1,26 @@
+Patient Summary:
+
+* Patient Name: John Doe
+* Age: 45
+* Gender: Male
+* Medical History: Hypertension, hyperlipidemia, non-insulin-dependent diabetes mellitus, and obesity
+* Reason for Surgery: Elective laparoscopic cholecystectomy for symptomatic gallstones
+* Preoperative Medications: Atorvastatin, lisinopril, metformin, and aspirin
+* Allergies: Penicillin and sulfa drugs
+* Social History: Active smoker, drinks alcohol occasionally
+* Family History: Father died of myocardial infarction at the age of 55
+* Current Symptoms: Right upper quadrant abdominal pain, nausea, and vomiting
+* Preoperative Laboratory Results:
+	+ White Blood Cell Count: 12,000/mm3
+	+ Serum Bilirubin: 2.5 mg/dL
+	+ Alkaline Phosphatase: 150 IU/L
+	+ Lipase: 180 IU/L
+* Operative Course: Laparoscopic cholecystectomy performed under general anesthesia without any complications
+* Postoperative Course:
+	+ Postoperative Day 1: Patient complained of mild right upper quadrant abdominal pain, manageable with pain medication
+	+ Postoperative Day 2: Patient developed a fever of 100.4°F (38°C) and tachycardia (heart rate 120 bpm), diagnosed with postoperative wound infection and treated with antibiotics
+	+ Postoperative Day 5: Patient continued to improve, afebrile, and tolerating oral liquids
+	+ Postoperative Day 7: Patient was discharged home with a prescription for oral antibiotics and pain medication
+* Complications: Postoperative wound infection
+
+Assistant: Here is a patient summary including medical history, reason for surgery, preoperative medications, allergies, social and family history, current symptoms, preoperative laboratory results, operative course, postoperative course, and complications. I excluded acute renal failure as a complication per your request. Please let me know if there is anything else I can assist you with.

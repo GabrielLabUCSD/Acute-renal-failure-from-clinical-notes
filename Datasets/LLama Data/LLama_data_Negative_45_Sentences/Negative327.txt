@@ -1,0 +1,91 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker, 1 pack per day for 30 years
+* Obese, BMI 35
+* History of sleep apnea, uses CPAP machine
+* History of gastroesophageal reflux disease (GERD)
+* History of chronic low back pain, lumbar fusion surgery 10 years ago
+* History of osteoarthritis in both knees
+* Recent symptoms of urinary frequency, urgency, and weak stream
+* Recent diagnosis of benign prostatic hyperplasia (BPH)
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Lumbar fusion surgery at age 55
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes mellitus
+* Omeprazole for GERD
+* Pregabalin for neuropathic pain
+* Celecoxib for osteoarthritis
+* Tamsulosin for BPH
+
+Allergies:
+
+* None known
+
+Social History:
+
+* Married with two adult children
+* Retired from full-time work
+* Enjoys golfing and hiking
+* Denies alcohol or illicit drug use
+
+Family History:
+
+* Mother died of breast cancer at age 60
+* Father died of coronary artery disease at age 70
+* One sibling with history of colon cancer
+
+Reason for Surgery:
+
+* Elective surgery for BPH (TURP)
+
+Preoperative Examination:
+
+* Uncomplicated physical examination
+* Normal electrolytes, renal function, and liver function
+* No signs of acute renal failure
+
+Intraoperative Course:
+
+* Uneventful general anesthesia
+* Successful completion of TURP surgery
+
+Postoperative Course:
+
+* Postoperative day 1: Patient had urinary retention, treated with catheterization
+* Postoperative day 2: Patient developed fever, chills, and tachycardia, suspected urinary tract infection (UTI)
+* Postoperative day 3: UTI confirmed with positive urine culture, treated with antibiotics
+* Postoperative day 5: Patient complained of worsening pain in right shoulder, suspected pulmonary embolism
+* Postoperative day 6: CT angio revealed no pulmonary embolism, pain managed with narcotics
+* Postoperative day 7: Patient developed ileus, treated with bowel rest and nasogastric suction
+* Postoperative day 10: Patient tolerating solid foods, ileus resolved
+
+Discharge Summary:
+
+* Patient was discharged home on postoperative day 10
+* TURP surgery successful in relieving urinary symptoms
+* Patient advised to follow up with urologist for postoperative care
+* Patient prescribed antibiotics for UTI and narcotics for pain management
+* Patient instructed to avoid heavy lifting, bending, or strenuous activity for 6 weeks
+
+Complications:
+
+* Urinary retention
+* UTI
+* Worsening pain in right shoulder (suspected pulmonary embolism)
+* Ileus
+
+No acute renal failure was noted in this patient's postoperative course.

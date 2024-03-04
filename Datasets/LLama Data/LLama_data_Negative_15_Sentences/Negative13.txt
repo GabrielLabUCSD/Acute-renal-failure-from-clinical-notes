@@ -1,0 +1,33 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive patients for the past 10 years
+* History of smoking, quit 5 years ago
+* Hyperlipidemia, controlled with statins
+* history of non-insulin-dependent diabetes mellitus
+* Obstructive sleep apnea, uses CPAP
+* History of peripheral artery disease, underwent peripheral angioplasty 2 years ago
+* History of chronic lower back pain, managed with physical therapy and NSAIDs
+* No history of previous surgeries
+
+Planned Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Postoperative Course:
+
+* Uneventful recovery, tolerated pain well
+* ambulated on the first postoperative day
+* Started on a clear liquid diet on the second postoperative day
+* Moved to a regular diet on the third postoperative day
+* Discharged home on the fourth postoperative day
+
+Complications:
+
+* None
+
+The patient had an uncomplicated postoperative course and was discharged home without any complications.

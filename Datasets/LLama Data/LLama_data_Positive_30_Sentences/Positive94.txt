@@ -1,0 +1,63 @@
+Patient Summary:
+
+The patient is a 65-year-old male presenting for elective surgery. He has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient has been a heavy smoker for the past 40 years and has a history of alcohol abuse. He denies any recent illnesses or injuries.
+
+The patient's family history reveals that his father died of a myocardial infarction at the age of 60, and his mother died of cancer at the age of 70. He has one sibling who is alive and healthy.
+
+The patient's surgical history includes a cholecystectomy 10 years ago and a hernia repair 5 years ago. He has no known allergies to medications or anesthetics.
+
+The patient's current medications include lisinopril, atorvastatin, metformin, and aspirin. He takes no herbal supplements or over-the-counter medications.
+
+The patient's vital signs are:
+
+* Blood pressure: 150/90 mmHg
+* Heart rate: 80 beats per minute
+* Respiratory rate: 16 breaths per minute
+* Oxygen saturation: 95% on room air
+
+The patient's laboratory results reveal:
+
+* White blood cell count: 12,000 cells/mm3
+* Hemoglobin: 14 g/dL
+* Hematocrit: 42%
+* Platelets: 200,000 cells/mm3
+* Blood urea nitrogen (BUN): 25 mg/dL
+* Creatinine: 1.5 mg/dL
+* Glucose: 180 mg/dL
+* Cholesterol: 200 mg/dL
+* Triglycerides: 150 mg/dL
+* Alanine transaminase (ALT): 50 IU/L
+* Aspartate transaminase (AST): 70 IU/L
+* Alkaline phosphatase: 120 IU/L
+
+The patient's electrocardiogram (ECG) shows no evidence of ischemia or infarction. His echocardiogram reveals a Left Ventricular Ejection Fraction (LVEF) of 60%.
+
+The patient's urinalysis reveals trace amounts of protein and blood.
+
+The patient is scheduled for a surgical procedure and is at risk for developing acute renal failure (ARF) due to his age, comorbidities, and the surgical procedure itself.
+
+Post-operatively, the patient develops oliguria, increasing serum creatinine, and metabolic acidosis, consistent with acute renal failure. He is managed with fluid resuscitation, vasopressors, and dialysis.
+
+The patient's vital signs during this time are:
+
+* Blood pressure: 180/100 mmHg
+* Heart rate: 120 beats per minute
+* Respiratory rate: 20 breaths per minute
+* Oxygen saturation: 92% on 2 liters of nasal cannula oxygen
+
+The patient's laboratory results reveal:
+
+* White blood cell count: 20,000 cells/mm3
+* Hemoglobin: 12 g/dL
+* Hematocrit: 38%
+* Platelets: 150,000 cells/mm3
+* Blood urea nitrogen (BUN): 45 mg/dL
+* Creatinine: 2.5 mg/dL
+* Glucose: 250 mg/dL
+* Cholesterol: 250 mg/dL
+* Triglycerides: 200 mg/dL
+* Alanine transaminase (ALT): 100 IU/L
+* Aspartate transaminase (AST): 120 IU/L
+* Alkaline phosphatase: 150 IU/L
+
+The patient'

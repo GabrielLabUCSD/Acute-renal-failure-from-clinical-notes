@@ -1,0 +1,17 @@
+Patient is a 60-year-old male who is planning to have surgery. His past medical history is significant for hypertension and type 2 diabetes, which are both well controlled with medications. He also has a history of coronary artery disease and had a previous myocardial infarction five years ago, for which he underwent coronary artery bypass graft surgery. He is currently on aspirin and a statin for cardiovascular risk management.
+
+In his surgical history, the patient had a cholecystectomy ten years ago without any complications. He has undergone colonoscopy twice in the past, and no abnormalities were found. The patient has a family history of colon cancer, with his father being diagnosed at the age of 65.
+
+His list of current medications includes metoprolol for blood pressure control, metformin for diabetes management, atorvastatin for cholesterol control, and aspirin for cardiovascular protection. He reports no medication allergies.
+
+The patient denies smoking and does not consume alcohol.
+
+Upon physical examination, the patient's vital signs are stable. His blood pressure is 130/80 mmHg, heart rate is 72 beats per minute, and oxygen saturation is 98% on room air. He has a body mass index (BMI) of 27, indicating that he is overweight.
+
+Preoperative laboratory tests indicate that his hemoglobin is 14 g/dL, platelet count is 250 x 10^9/L, creatinine is 0.9 mg/dL, and random blood glucose is 120 mg/dL. His liver function tests are within normal limits.
+
+During the postoperative course, the patient had an uneventful recovery. He reported minimal pain, which was well controlled with analgesics. His vital signs remained stable, and he showed no signs of infection or wound complications.
+
+No cardiopulmonary complications, such as arrhythmias or respiratory distress, were observed. His incisions were clean, dry, and intact. The patient was mobilized early and successfully resumed his normal oral intake. He was discharged home on the second postoperative day with appropriate postoperative instructions and an outpatient follow-up appointment.
+
+Overall, the patient tolerated the surgery well, and no complications were noted during his postoperative course.

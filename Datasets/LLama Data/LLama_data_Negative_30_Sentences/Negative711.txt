@@ -1,0 +1,83 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus (type 2)
+* History of coronary artery disease
+* Previous myocardial infarction (MI)
+* Peripheral artery disease
+* History of chronic obstructive pulmonary disease (COPD)
+* Sleep apnea
+* Osteoarthritis in both knees
+* Previous left knee replacement surgery
+* Previous right knee arthroscopy
+
+Current Symptoms:
+
+* Severe left knee pain
+* Limited mobility
+* Difficulty walking up and down stairs
+* Nighttime pain
+
+Planned Surgery:
+
+* Left total knee replacement
+
+Preoperative Workup:
+
+* Complete blood count (CBC)
+* Electrolyte panel
+* Coagulation studies
+* Urinalysis
+* Chest X-ray
+* Electrocardiogram (ECG)
+* Cardiac stress test
+* Pulmonary function tests (PFTs)
+
+Postoperative Course:
+
+* Postoperative day 1:
+	+ Patient doing well
+	+ Pain managed with medication
+	+ Early mobilization and physical therapy begun
+* Postoperative day 2:
+	+ Patient continues to improve
+	+ Pain and discomfort decreasing
+	+ Increased mobility and range of motion
+* Postoperative day 3:
+	+ Patient experiences sudden increase in pain
+	+ Swelling and redness in the left knee
+	+ Diagnosed with superficial surgical site infection (SSI)
+* Postoperative day 4:
+	+ Initiated antibiotics for SSI
+	+ Pain and discomfort improved
+	+ Continued mobilization and physical therapy
+* Postoperative day 5:
+	+ Patient experiences sudden shortness of breath
+	+ Diagnosed with pulmonary embolism
+	+ Initiated anticoagulation therapy
+* Postoperative day 6-7:
+	+ Patient continues to recover from SSI and pulmonary embolism
+	+ Pain and discomfort minimal
+	+ Mobilization and physical therapy continued
+
+Complications:
+
+* Superficial surgical site infection (SSI)
+* Pulmonary embolism
+
+Additional Notes:
+
+* Patient's postoperative course was prolonged due to complications
+* Patient required aggressive antibiotic treatment for SSI
+* Patient required anti-coagulation therapy for pulmonary embolism
+* Patient's mobility and range of motion improved significantly over time
+* Patient experienced significant pain relief after surgery.

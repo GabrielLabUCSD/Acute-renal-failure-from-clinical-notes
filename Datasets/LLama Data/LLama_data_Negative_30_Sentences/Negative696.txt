@@ -1,0 +1,35 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Chief Complaint: The patient presents with a 2-year history of chronic lower back pain and bilateral leg pain.
+
+Medical History: The patient has a history of degenerative disc disease, spinal stenosis, and arthritis.
+
+Surgical History: The patient has had a previous lumbar fusion surgery 10 years ago.
+
+Medications: The patient is currently taking ibuprofen, acetaminophen, and gabapentin for pain management.
+
+Allergies: The patient is allergic to penicillin and has a history of anaphylaxis.
+
+Family History: The patient's father died of a myocardial infarction at the age of 60.
+
+Social History: The patient is a retired construction worker and has a history of heavy smoking and alcohol use.
+
+Review of Systems: The patient reports frequent urination, occasional dizziness, and a recent 10-pound weight loss.
+
+Physical Exam: On examination, the patient has a decreased lumbar lordosis, decreased knee flexion, and Bilateral paresthesias in the lower extremities.
+
+Lab Results: The patient's CBC, ECG, and Chem 7 are within normal limits.
+
+Imaging Results: MRI shows a severely degenerated lumbar disc, spinal stenosis, and a possible herniation.
+
+Plan: The patient is scheduled for a lumbar decompression and fusion surgery.
+
+Postoperative Course: The patient had an uncomplicated postoperative course and was discharged home on postoperative day 4.
+
+Complications: None.
+
+Follow-up: The patient followed up with the surgeon at 2 weeks, 6 weeks, and 3 months postoperatively, and reported significant improvement in pain and mobility.

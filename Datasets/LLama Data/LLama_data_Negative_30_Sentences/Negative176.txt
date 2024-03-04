@@ -1,0 +1,11 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension, hyperlipidemia, and non-insulin dependent diabetes mellitus. He had a myocardial infarction 10 years ago and has been compliant with medications and lifestyle modifications since then. He has a history of chronic lower back pain and has tried various treatments, including physical therapy and pain management, without significant relief. He is a former smoker and has not smoked in the past 5 years. He drinks alcohol occasionally and denies any drug use.
+
+The patient's surgical history includes a cholecystectomy and a hernia repair. He has no allergies to medications and is currently taking aspirin, lisinopril, atorvastatin, and metformin. His preoperative examination is significant for a blood pressure of 140/80 mmHg, heart rate of 70 bpm, and an electrocardiogram that shows no evidence of ischemia. His blood work shows normal liver and kidney function, and a hemoglobin A1c of 7.3%.
+
+The patient underwent a successful surgery and had an uneventful postoperative course. He experienced some discomfort and pain in the immediate postoperative period, but this was managed effectively with pain medication. He did not develop any complications during his hospital stay and was discharged on the fifth postoperative day.
+
+During his follow-up appointments, the patient reported some ongoing lower back pain, but it was significantly improved compared to his preoperative symptoms. He was advised to continue with physical therapy and pain management. He also reported some minor numbness and tingling in his feet, which was evaluated with an EMG and found to be related to a mild peripheral neuropathy. This was managed with physical therapy and neurological follow-up.
+
+Overall, the patient had a successful surgery and an uneventful postoperative course. He experienced some minor complications related to his pre-existing medical conditions, but these were managed effectively and did not require any further surgical interventions. He is currently doing well and is satisfied with the outcome of his surgery.

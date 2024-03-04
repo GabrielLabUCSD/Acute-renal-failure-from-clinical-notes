@@ -1,0 +1,17 @@
+The patient is a [age]-year-old [gender] with [underlying medical conditions] who is planning to have [type of surgery]. They have a history of [specific medical conditions], including [specific details]. The patient has been managing their conditions with [medications, treatments, or lifestyle changes].
+
+Their surgical history includes [previous surgeries], which were performed [dates and reasons for surgeries]. The patient has a known allergy to [specific allergens], with [details on previous allergic reactions and management].
+
+The patient's preoperative laboratory results are within normal limits, including [specific lab values]. Their baseline vital signs are stable, with blood pressure around [range] mmHg and heart rate around [range] bpm. The patient's height is [centimeters] and weight is [kilograms], resulting in a BMI of [BMI value].
+
+They have been cleared for surgery by [specialties involved], including [names of healthcare professionals]. The patient understands the risks and benefits of the surgery, and informed consent has been obtained.
+
+Postoperatively, the patient experienced [complications, if any]. These complications were successfully managed by [details on interventions or treatments]. Their vital signs remained stable, with blood pressure around [range] mmHg and heart rate around [range] bpm.
+
+The patient's pain levels were assessed regularly and managed with [pain medications or techniques]. They were able to tolerate a regular diet and maintain adequate oral intake. Nutritionist consultation was obtained to optimize the patient's diet during the recovery period.
+
+Physical therapy was initiated to assist in the patient's mobility and prevent complications such as deep vein thrombosis or pneumonia. They were encouraged to perform deep breathing exercises and use incentive spirometry to prevent respiratory complications. Ambulation was started [timeframe post-surgery].
+
+The patient's surgical incision was regularly assessed for signs of infection or delayed wound healing. No signs of surgical site infection were identified. A follow-up appointment was scheduled for [date] to monitor the patient's recovery progress.
+
+In conclusion, the patient with [underlying medical conditions] underwent [type of surgery] without developing acute renal failure. The postoperative course was generally uneventful, with stable vital signs and successful management of any complications that arose. The patient is expected to continue recovering well with appropriate follow-up care.

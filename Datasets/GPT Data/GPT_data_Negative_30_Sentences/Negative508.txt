@@ -1,0 +1,21 @@
+The patient is a (age)-year-old individual who is scheduled for surgery. Their medical history is significant for several conditions, including (list conditions), but they have been under control with appropriate medications and interventions. The patient has provided informed consent for the surgery and is aware of the potential risks and benefits.
+
+Among the patient's medical conditions, they have been diagnosed with (condition 1), which has been managed with (treatment). Additionally, they have a history of (condition 2), which has been stable with (treatment). Their (condition 3) has been controlled with (treatment), and they have been compliant with their medication regimen. Moreover, the patient has a history of (condition 4) but is currently asymptomatic.
+
+In the past, the patient has undergone (list previous surgeries or procedures if any). They have tolerated these interventions well without any complications or adverse events. Their recovery was uneventful, and they had a good postoperative course.
+
+Regarding the current surgical procedure, the patient's surgeon has recommended (type of surgery). The reason for the surgery is (specific indication or pathology). The procedure is expected to be performed under (general or local) anesthesia. The expected duration of the surgery is approximately (duration in minutes).
+
+The patient is scheduled to be admitted to the hospital on (admission date) and undergo the surgery on (surgery date). They have been advised to follow the preoperative fasting guidelines and to avoid any medications or supplements that may interfere with the procedure.
+
+After the surgery, the patient will be closely monitored in the post-anesthesia care unit (PACU) for initial recovery. Vital signs, pain control, and any potential complications will be closely observed by the nursing staff. The patient will be encouraged to ambulate and perform deep breathing exercises to prevent postoperative complications such as pneumonia and blood clots.
+
+Pain management for the patient will be through (specific method, e.g., IV analgesics, patient-controlled analgesia). The medication regimen will be adjusted based on the patient's pain score and individual needs. Postoperative nausea and vomiting prophylaxis will also be administered to minimize any discomfort.
+
+The patient's surgical wound will be assessed regularly for signs of infection or delayed healing. Appropriate dressing changes and antibiotic therapy, if required, will be provided. The patient will also receive thromboembolism prophylaxis, such as subcutaneous heparin, to prevent deep vein thrombosis.
+
+Furthermore, the patient will be guided by physical therapists for early mobilization and exercises to regain strength and functionality. Respiratory therapists will assist in respiratory exercises and ensure optimal lung function.
+
+In terms of complications, the patient is at a generally low risk. However, as with any surgery, there are potential risks such as infection, bleeding, or adverse reactions to anesthesia. It is important to note that a thorough preoperative evaluation and optimization have been performed to minimize these risks.
+
+To summarize, the patient is scheduled for (type of surgery) due to (specific indication). Their medical history includes (list conditions), which are currently well-managed. The patient has undergone previous surgeries without complications. The postoperative course is expected to involve close monitoring in the PACU, pain management, wound care, thromboembolism prophylaxis, and early mobilization. The patient will be assessed for potential complications, and appropriate measures will be taken promptly.

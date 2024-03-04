@@ -1,0 +1,40 @@
+I understand. Here is a template for a patient summary with 45 sentences that describes a patient's medical history, postoperative course, and potential complications. Please fill in the appropriate information for the patient you are planning to operate on:
+
+1. The patient is a  [age] -year-old  [gender] who presents with a history of  [chief complaint].
+2. The patient has a history of  [medical condition 1], which has been managed with  [treatment 1].
+3. The patient has also been diagnosed with  [medical condition 2], and has been taking  [medication 2] to control symptoms.
+4. The patient has a history of  [surgeries/procedures 1], which were performed to treat  [condition 1].
+5. The patient is currently taking  [medication 1] for  [medical condition 1], and  [medication 2] for  [medical condition 2].
+6. The patient has no known allergies to medications or anesthesia.
+7. The patient is in good health overall, with no significant cardiovascular or respiratory disease.
+8. The patient's last office visit was on [date], and the patient was seen by [provider].
+9. The patient's surgical history includes a [previous surgery 1] performed on [date] at [facility].
+10. The patient's surgical history also includes a [previous surgery 2] performed on [date] at [facility].
+11. The patient has no history of previous anesthesia complications.
+12. The patient has no history of bleeding disorders or significant bleeding events.
+13. The patient has no history of seizure disorders or significant neurological events.
+14. The patient has no history of liver or kidney disease.
+15. The patient has no history of immunosuppressive therapy or significant immune disorders.
+16. The patient has no history of active infections or recent hospitalizations.
+17. The patient has no history of malignancies or previous cancer treatment.
+18. The patient's current BMI is [BMI], which is within the [normal/overweight/obese] range.
+19. The patient has no history of significant respiratory disease, including asthma or COPD.
+20. The patient has no history of significant cardiovascular disease, including heart failure or MI.
+21. The patient has no history of significant renal disease or dialysis.
+22. The patient has no history of significant hepatic disease or cirrhosis.
+23. The patient has no history of significant hematological disorders or anemia.
+24. The patient has no history of significant endocrine disorders, including diabetes or thyroid disease.
+25. The patient has no history of significant psychiatric disorders or suicidal ideation.
+26. The patient has no history of significant drug or alcohol abuse.
+27. The patient has no history of significant allergic reactions or anaphylaxis.
+28. The patient has no history of significant eye or ear disorders.
+29. The patient has no history of significant dental or oral disorders.
+30. The patient has no history of significant musculoskeletal disorders or joint replacements.
+31. The patient has no history of significant gastrointestinal disorders, including inflammatory bowel disease or cirrhosis.
+32. The patient has no history of significant genitourinary disorders, including renal stones or bladder incontinence.
+33. The patient has no history of significant skin disorders, including psoriasis or melanoma.
+34. The patient has no history of significant neurological disorders, including seizures or Multiple Sclerosis.
+35. The patient has no history of significant immunological disorders, including HIV or AIDS.
+36. The patient has no history of significant pulmonary disorders, including COPD or pulmonary fibrosis.
+37. The patient has no history of significant cardiac disorders, including heart failure or atrial fibrillation.
+38. The patient has no history of significant vascular disorders

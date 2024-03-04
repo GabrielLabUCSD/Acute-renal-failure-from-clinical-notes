@@ -1,0 +1,59 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Osteoarthritis of the knees
+* Previous history of colon cancer ( stage II )
+* Previous history of left knee replacement
+
+Surgical History:
+
+* Upcoming elective left total knee arthroplasty
+
+Medications:
+
+* Aspirin 81 mg daily
+* Atorvastatin 20 mg daily
+* Lisinopril 40 mg daily
+* Oxycodone 5 mg PRN
+
+Allergies:
+
+* Penicillin
+
+Social History:
+
+* Married with two adult children
+* Works as a retired accountant
+* Lives independently
+* No history of substance abuse
+
+Family History:
+
+* Mother died of breast cancer at age 68
+* Father died of myocardial infarction at age 75
+
+Reason for Surgery:
+
+* Severe left knee pain and limited mobility due to osteoarthritis
+
+Plan:
+
+* Elective left total knee arthroplasty
+* Postoperative course:
+	+ Hospital stay: 3-4 days
+	+ Rehabilitation: Inpatient rehabilitation for 7-10 days, then home physical therapy for 6-8 weeks
+	+ Follow-up appointment: 2 weeks after discharge, then as needed
+
+Complications:
+
+* None anticipated
+
+This patient summary provides a comprehensive overview of the patient's medical history, surgical history, medications, allergies, social history, family history, reason for surgery, and planned postoperative course. It also highlights the patient's history of colon cancer and previous knee replacement, which may be relevant for the anesthesia and surgical teams. Additionally, it notes the patient's obesity and smoking history, which may impact the patient's recovery and risk for complications. Finally, it lists the medications the patient is currently taking and their allergies, which is important for the anesthesia and surgical teams to know.

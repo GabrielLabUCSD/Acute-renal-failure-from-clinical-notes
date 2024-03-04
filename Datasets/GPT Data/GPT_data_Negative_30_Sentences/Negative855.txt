@@ -1,0 +1,61 @@
+The patient is a 45-year-old female who is planning to have surgery. They have a medical history of asthma, which is well-controlled with an inhaler. They have no known drug allergies. 
+
+The patient has a history of high blood pressure, which is managed with medication. They have been on a stable dose of lisinopril for the past 2 years, and their blood pressure is consistently within normal range. 
+
+The patient also has a history of type 2 diabetes, which is well-controlled with diet and exercise. They have a recent HbA1c level of 6.5%, indicating good long-term blood sugar control. They do not require insulin or oral hypoglycemic medications. 
+
+They have a history of migraine headaches, which are infrequent and usually respond well to over-the-counter pain relievers. The patient does not require prescription medication for migraines. 
+
+The patient had their gallbladder removed 5 years ago due to symptomatic gallstones. The surgery was uneventful, and they had a smooth recovery with no complications. 
+
+They had a tonsillectomy as a child due to chronic tonsillitis. The surgery was successful, and they have not had any issues with their tonsils since then. 
+
+The patient had a colonoscopy 2 years ago, which showed no abnormalities. They have no family history of colorectal cancer or inflammatory bowel disease. 
+
+They have a history of seasonal allergies, but no other significant respiratory issues. They do not require daily medication for their allergies. 
+
+The patient recently had a mammogram, which was normal. They have no family history of breast cancer. 
+
+They have routine eye exams and wear glasses for distance vision correction. 
+
+The patient had an appendectomy 10 years ago for acute appendicitis. The surgery was uncomplicated, and they have not had any issues since then. 
+
+They have no history of heart disease or other cardiovascular issues. Their cholesterol levels are within normal range. 
+
+The patient reports occasional back pain but has not required any formal treatment for it. 
+
+They have no history of stroke or other neurologic disorders. They do not take any medications specifically for neurologic conditions. 
+
+The patient is a non-smoker and does not consume alcohol excessively. 
+
+They have a BMI of 27 and are considered overweight. They have been working on improving their diet and exercise habits to achieve weight loss. 
+
+They have a history of depression, which is managed with regular therapy sessions. They do not currently require medication for their mental health. 
+
+The patient has good social support from their family and friends. 
+
+They have a history of urinary tract infections, which have responded well to antibiotics. 
+
+The patient has a history of acid reflux disease, which is managed with lifestyle modifications such as avoiding trigger foods and elevating the head of the bed. They do not require medication for their acid reflux. 
+
+They have a history of vitamin D deficiency and take a daily supplement. 
+
+The patient had a colon polyp removed during their last colonoscopy, which was found to be benign. 
+
+They have no known history of bleeding or clotting disorders. 
+
+The patient has no significant past surgical history other than the aforementioned procedures. 
+
+Their preoperative lab work shows normal complete blood count, liver function tests, and renal function tests. 
+
+The patient's surgery went as planned, and they had no immediate complications. 
+
+They were closely monitored in the postoperative period and had appropriate pain management. 
+
+The patient's incision site is healing well, with no signs of infection or other issues. 
+
+They did not require any blood transfusions during or after surgery. 
+
+In the days following surgery, the patient experienced some mild postoperative pain, which was managed with oral pain medication. 
+
+Despite their normal renal function preoperatively, the patient developed acute renal failure in the postoperative period. An evaluation revealed that the acute renal failure was due to a combination of hypovolemia and intraoperative hypotension. They required fluid resuscitation and close monitoring of their renal function. With appropriate management, their renal function eventually returned to baseline and they had no further complications.

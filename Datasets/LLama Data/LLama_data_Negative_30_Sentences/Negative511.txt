@@ -1,0 +1,16 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents to the hospital for elective surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). He has been a smoker for the past 20 years but quit 2 years ago. The patient has a history of asthma and uses an inhaler as needed. He has no known allergies.
+
+The patient underwent a thorough physical examination and laboratory tests, including Complete Blood Count (CBC), blood chemistry, coagulation profile, and urinalysis, which showed normal results. A chest X-ray and electrocardiogram (ECG) were also performed and were normal.
+
+The patient received general anesthesia and underwent a successful surgical procedure. The postoperative course was uneventful, and the patient recovered well. He had some nausea and vomiting on the first postoperative day, which were managed with antiemetics. The patient had a satisfactory pain management with patient-controlled analgesia (PCA).
+
+On the second postoperative day, the patient developed a mild fever, which responded promptly to antibiotics. He also experienced some constipation, which was managed with laxatives. The patient was encouraged to ambulate and Deep Vein Thrombosis (DVT) prophylaxis was prescribed.
+
+The patient was discharged from the hospital on the fifth postoperative day, in good condition, and was advised to follow up with the surgeon in a week. He was also prescribed pain medication and advised to continue with his preoperative medications for hypertension, hyperlipidemia, and NIDDM.
+
+Overall, the patient had an uneventful postoperative course, and the surgery was successful in addressing the underlying condition.
+
+Complications:
+None

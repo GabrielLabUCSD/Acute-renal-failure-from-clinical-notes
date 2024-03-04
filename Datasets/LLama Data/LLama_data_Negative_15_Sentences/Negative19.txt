@@ -1,0 +1,9 @@
+Patient Summary:
+
+The patient is a [age]-year-old male/female with a medical history of [medical condition 1], [medical condition 2], and [medical condition 3]. The patient has been experiencing [symptom 1], [symptom 2], and [symptom 3] and has been taking [medication 1], [medication 2], and [medication 3] to manage their symptoms. The patient has tried [conservative treatment 1], [conservative treatment 2], and [conservative treatment 3] without significant improvement.
+
+The patient is scheduled to undergo [type of surgery] surgery to address [medical condition 4]. The surgery is expected to take [length of surgery] hours and will be performed under [type of anesthesia]. The patient will be admitted to the hospital on [date] and is expected to stay for [length of hospital stay] days.
+
+The patient"s postoperative course has been uneventful. They have been experiencing some [postoperative symptom 1], [postoperative symptom 2], and [postoperative symptom 3] which are manageable with [postoperative medication 1], [postoperative medication 2], and [postoperative medication 3]. The patient has been able to eat and drink without any issues and has not experienced any complications.
+
+The patient"s surgical site is healing well and there are no signs of infection. The patient has been able to ambulate without assistance and has not experienced any pain or discomfort that cannot be managed with medication. The patient is expected to make a full recovery and will follow up with their surgeon in [time frame] for a postoperative check-up. Overall, the patient is recovering well and there are no concerns regarding their postoperative course.

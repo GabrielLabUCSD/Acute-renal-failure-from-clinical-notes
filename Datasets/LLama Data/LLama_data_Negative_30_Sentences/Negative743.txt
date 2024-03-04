@@ -1,0 +1,75 @@
+Patient Summary:
+
+This patient is a [age]-year-old male/female with a medical history of [briefly describe significant medical conditions, such as diabetes, hypertension, etc.]. They have been scheduled for [type of surgery] surgery.
+
+The patient has a history of [relevant previous surgeries or procedures, such as gallbladder removal, hysterectomy, etc.].
+
+In terms of medications, the patient is currently taking [list medications, including dosages and frequency].
+
+The patient has allergies to [list allergies, including medications, foods, or other substances].
+
+The patient's last visit to their primary care physician was on [date] and the purpose of the visit was [briefly describe reason for visit].
+
+The patient's surgical history includes [list previous surgeries or procedures, including dates and descriptions].
+
+The patient's family medical history includes [briefly describe any relevant medical conditions or diseases that run in the patient's family].
+
+The patient's social history includes [briefly describe any relevant information about the patient's living situation, occupation, or support system].
+
+The patient's review of systems includes [list any relevant symptoms or medical conditions that the patient has experienced in the past, such as chest pain, shortness of breath, etc.].
+
+The patient's physical examination reveals [list any relevant abnormal findings, such as lumps, lesions, or abnormal organ function].
+
+The patient's laboratory results reveal [list any relevant abnormal results, such as high blood sugar, elevated liver enzymes, etc.].
+
+The patient's imaging results reveal [list any relevant abnormal findings, such as tumors, fractures, etc.].
+
+The patient is scheduled to undergo [type of surgery] surgery on [date] at [time].
+
+The patient will be admitted to the hospital on [date] and is expected to stay for [length of stay].
+
+The patient will be placed under [type of anesthesia] anesthesia during the procedure.
+
+The patient will be positioned in the [position] position during the procedure.
+
+The patient will have [number] hours of fasting before the procedure.
+
+The patient will receive [list medications] before the procedure.
+
+The patient will have a [name of device] inserted during the procedure.
+
+The patient will have a [name of catheter] inserted during the procedure.
+
+The patient will have a [name of drain] inserted during the procedure.
+
+The patient will have a [name of dressing] applied after the procedure.
+
+The patient will be closely monitored for [list any potential complications or concerns, such as bleeding, infection, etc.].
+
+The patient will be transferred to the [name of unit] after the procedure.
+
+The patient will be seen by [name of physician] for follow-up.
+
+The patient will follow up with their primary care physician in [time frame, such as 1-2 weeks].
+
+The patient will have [number] follow-up appointments.
+
+The patient will have [number] dressing changes.
+
+The patient will have [number] wound checks.
+
+The patient will take [list medications] after the procedure.
+
+The patient will be advised to [list any instructions or precautions, such as avoid heavy lifting, avoid bending, etc.].
+
+The patient will be discharged home on [date] with a follow-up appointment on [date].
+
+The patient will be discharged to a rehabilitation facility on [date].
+
+The patient will be discharged to a nursing home on [date].
+
+There were no complications during the procedure.
+
+There were no complications during the postoperative course.
+
+The patient made a full recovery and was discharged from the hospital without any complications.

@@ -1,0 +1,23 @@
+Patient Summary:
+
+* Patient Name: John Doe
+* Age: 55
+* Gender: Male
+* Medical History: Hypertension, Diabetes Mellitus, Hyperlipidemia, and Obesity
+* Current Medications: Lisinopril, Metformin, Atorvastatin, and Aspirin
+* Allergies: Penicillin and Sulfa
+* Surgical History: Cholecystectomy (gallbladder removal) 10 years ago
+* Family History: Father died of myocardial infarction (heart attack) at age 60
+* Social History: Smoker for 20 years, quitted 5 years ago; drinks alcohol occasionally
+* Reason for Admission: Elective laparoscopic cholecystectomy (gallbladder removal)
+* Pre-operative Diagnosis: Symptomatic gallstones
+* Intended Procedure: Laparoscopic cholecystectomy
+* Surgeon: Dr. Smith
+* Anesthesiologist: Dr. Johnson
+* Acute Renal Failure Complication:
+* Post-operative Day 1: Patient developed decreased urine output, increased serum creatinine, and metabolic acidosis
+* Diagnosis: Acute renal failure (ARF)
+* Treatment: Conservative management with fluid and electrolyte replacement, and supportive care
+* Outcome: Patient recovered fully and was discharged on post-operative Day 5
+
+Note: The patient summary should be concise and include only relevant information. The surgical history, family history, and social history should be brief and to the point. The focus should be on the patient's current medical condition, treatment, and outcome.

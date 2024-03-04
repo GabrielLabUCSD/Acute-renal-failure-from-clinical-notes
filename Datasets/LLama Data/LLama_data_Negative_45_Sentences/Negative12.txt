@@ -1,0 +1,46 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker with 30 pack-year history
+* Obesity with BMI of 35
+* History of sleep apnea
+* History of knee replacement surgery 10 years ago
+* History of coronary artery disease with stent placement 5 years ago
+* History of chronic kidney disease with baseline creatinine of 1.8 mg/dL
+* History of gastroesophageal reflux disease (GERD)
+* History of peripheral neuropathy
+* History of glaucoma
+* History of benign prostatic hyperplasia (BPH)
+
+Postoperative Course:
+
+* Patient underwent elective laparoscopic cholecystectomy for symptomatic gallstones
+* Surgery lasted 2 hours and 30 minutes without any complications
+* Patient had mild postoperative pain managed with hydrocodone
+* Patient had minimal nausea and vomiting
+* Patient's respiratory and cardiovascular systems were stable throughout the postoperative period
+* Patient's blood glucose levels were well-controlled with sliding scale insulin
+* Patient's renal function remained stable with baseline creatinine of 1.8 mg/dL
+* Patient was discharged home on postoperative day 3 with instructions for wound care and pain management
+
+Potential Complications:
+
+* Bleeding
+* Infection
+* Wound dehiscence
+* Respiratory failure
+* Cardiac arrest
+* Pulmonary embolism
+* Deep vein thrombosis
+* Sepsis
+* Deterioration of renal function
+* Worsening of sleep apnea
+* Worsening of peripheral neuropathy
+* Worsening of GERD symptoms
+
+Note that acute renal failure is not included as a potential complication since you explicitly mentioned it should not be included.

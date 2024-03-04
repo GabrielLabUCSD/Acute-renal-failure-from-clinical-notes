@@ -1,0 +1,31 @@
+Patient Summary:
+
+This patient is a [age]-year-old male/female who presents with a history of [medical condition] and is planned for [surgical procedure]. The patient has a history of [previous surgeries/medical conditions], including [relevant medical conditions]. The patient is currently taking [medications] and has allergies to [medications].
+
+Preoperative Testing:
+
+The patient has undergone the following preoperative tests: [list relevant tests, such as ECG, x-ray, blood work, etc.]. The results of these tests are as follows: [list abnormal results, including any abnormal lab values].
+
+Surgical Procedure:
+
+The patient underwent [surgical procedure] on [date] under the care of [surgeon's name]. The procedure was performed through [incision/ Approach].
+
+Postoperative Course:
+
+The patient had an uneventful postoperative course. They were closely monitored in the recovery room and experienced minimal pain, which was well-controlled with [pain medication]. The patient was able to ambulate and perform deep breathing exercises without difficulty.
+
+Complications:
+
+The patient did not experience any complications during their postoperative course.
+
+Discharge:
+
+The patient was discharged from the hospital on [date] and was advised to follow up with their surgeon in [time frame, e.g., 1-2 weeks]. They were also given instructions on wound care and pain management.
+
+Follow-up:
+
+The patient followed up with their surgeon on [date] and reported no complications or concerns. The wound was healing well, and the patient was able to resume their normal activities.
+
+Conclusion:
+
+In conclusion, this patient had a successful surgical procedure and an uneventful postoperative course. They did not experience any complications and were discharged from the hospital without any issues. The patient followed up with their surgeon and reported no concerns or complications during the follow-up visit.

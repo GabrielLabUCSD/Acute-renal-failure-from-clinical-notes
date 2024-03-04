@@ -1,0 +1,30 @@
+The patient is a [age]-year-old [gender] who is planning to undergo surgery for [reason]. 
+They have a past medical history significant for [list of previous medical conditions] and have undergone [list of previous surgeries]. 
+Their current medications include [list of current medications]. 
+They have had no previous complications with anesthesia or surgery. 
+The patient is a non-smoker and does not consume alcohol. 
+They have no known drug allergies. 
+Their family history is unremarkable for any major medical conditions. 
+The patient's vital signs are stable, with a blood pressure of [BP], heart rate of [HR], respiratory rate of [RR], and oxygen saturation of [SpO2]. 
+Their physical examination is within normal limits, with no evidence of any acute or chronic illnesses. 
+Their laboratory results show [list of notable lab values]. 
+An EKG was performed, which showed [findings], but is otherwise normal. 
+The patient has been educated and informed about the surgery, including the risks and benefits. 
+They have provided informed consent for the procedure. 
+The patient has been advised to stop any medications that may interfere with surgery, as directed by their healthcare provider. 
+They have been instructed to fast for [number of hours] prior to the surgery. 
+The surgery will be performed under general anesthesia. 
+The patient will be monitored closely during the surgery, including continuous blood pressure monitoring, EKG monitoring, and pulse oximetry. 
+Postoperatively, the patient will receive appropriate pain management and will be closely monitored for any signs of complications. 
+They will be encouraged to ambulate as tolerated and to participate in respiratory exercises to prevent postoperative complications. 
+The patient will be started on prophylactic antibiotics to prevent surgical site infections. 
+They will also receive thromboprophylaxis to prevent deep vein thrombosis. 
+The patient will be seen for follow-up visits to assess wound healing and monitor for any signs of infection. 
+The surgical site will be inspected for any signs of redness, swelling, or drainage. 
+The patient will be educated on signs and symptoms of potential complications and instructed to seek medical attention if any arise. 
+The patient's postoperative care will also include regular monitoring of their vital signs and laboratory parameters. 
+Unfortunately, the patient develops an acute renal failure complication following surgery. 
+The specific cause of the acute renal failure is likely multi-factorial, but potentially related to the surgery, anesthesia, or underlying medical conditions. 
+They have developed oliguria and their laboratory values show elevated creatinine levels, decreased urine output, and electrolyte imbalances. 
+The patient will require close monitoring of their renal function, fluid balance, and electrolyte levels. 
+Treatment may include fluid resuscitation, diuretics, and management of any underlying causes.

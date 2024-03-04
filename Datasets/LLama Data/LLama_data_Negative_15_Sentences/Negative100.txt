@@ -1,0 +1,73 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history, postoperative course, and possible complications:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Chief Complaint: Chronic lower back pain and numbness in the legs
+
+Medical History:
+
+* History of smoking (20 years)
+* Hypertension
+* Hyperlipidemia
+* Obesity (BMI 35)
+* Diabetes mellitus (on insulin)
+* History of coronary artery disease (CABG x2)
+* History of stroke (left hemisphere)
+* History of chronic obstructive pulmonary disease (COPD)
+* History of sleep apnea (on CPAP)
+
+Surgical History:
+
+* Cholecystectomy (open) 10 years ago
+* Hysterectomy (open) 15 years ago
+
+Current Medications:
+
+* Insulin (Lantus and Humalog)
+* Amlodipine
+* Atorvastatin
+* Lisinopril
+* Aspirin
+* Metformin
+* Omeprazole
+* Alprazolam
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Social History:
+
+* Retired engineer
+* Married with two adult children
+* Lives in a two-story house with no elevator
+* Currently able to ambulate independently but with difficulty
+* No history of substance abuse
+
+Reason for Surgery:
+
+* Lumbar spinal stenosis
+
+Planned Surgery:
+
+* Lumbar decompression and fusion (TLIF)
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Was able to ambulate independently with a walker on the first postoperative day
+* Gradually improved and was discharged home on postoperative day 5
+
+Complications:
+
+* None
+
+Current Status:
+
+* Patient is at home and recovering well
+* Follow-up appointment with the surgeon scheduled for 2 weeks post-discharge
+* Will need ongoing physical therapy to improve mobility and strength.

@@ -1,0 +1,31 @@
+patient summary: 
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition] and is planned to undergo [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert relevant surgical history]. The patient is currently taking [insert medications] and has allergies to [insert allergens].
+
+preoperative course: 
+
+The patient underwent routine preoperative testing, including [insert tests], which revealed [insert results]. The patient was optimized for surgery, including [insert optimize methods].
+
+intraoperative course: 
+
+The patient underwent [insert type of surgery] under [insert anesthesia] anesthesia. The procedure was uneventful, with no complications.
+
+postoperative course: 
+
+The patient had a smooth postoperative recovery, with minimal pain managed with [insert pain management plan]. The patient was discharged from the hospital on [insert day] and followed up with their surgeon on [insert day].
+
+complications: 
+
+The patient did not experience any complications during their postoperative course.
+
+follow-up: 
+
+The patient followed up with their surgeon on [insert day] and reported minimal pain and discomfort. The patient was advised to continue their pain management plan and follow up with their primary care physician for routine follow-up.
+
+The patient had a successful surgical outcome and did not require any further interventions.
+
+patient instructions: 
+
+The patient was instructed to follow their pain management plan, take their medications as directed, and follow up with their primary care physician for routine follow-up. The patient was also advised to avoid heavy lifting, bending, or strenuous activity for [insert time frame].
+
+The patient was counseled on the importance of postoperative follow-up and the need to report any concerning symptoms or complications to their surgeon or primary care physician.

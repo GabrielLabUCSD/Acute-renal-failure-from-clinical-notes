@@ -1,0 +1,93 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemic
+* History of smoking
+* History of alcohol abuse
+* Obese (BMI 35)
+* Diabetes mellitus type II
+* history of non-insulin-dependent diabetes mellitus
+* History of hyperglycemia
+* History of hypothyroidism
+* History of asthma
+* History of allergic rhinitis
+* History of osteoarthritis
+* History of back pain
+* History of chronic obstructive pulmonary disease (COPD)
+* History of sleep apnea
+* History of gastroesophageal reflux disease (GERD)
+* History of barrett's esophagus
+* History of colon polyps
+* History of benign prostatic hyperplasia (BPH)
+* History of erectile dysfunction
+* History of peripheral artery disease (PAD)
+* History of coronary artery disease (CAD)
+* History of heart failure
+* History of stroke
+* History of transient ischemic attack (TIA)
+* History of seizure disorder
+
+Surgical History:
+
+* No previous surgeries
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes mellitus
+* Levothyroxine for hypothyroidism
+* Albuterol for asthma
+* Fluticasone for allergic rhinitis
+* Celecoxib for osteoarthritis
+* Meloxicam for back pain
+* Alprazolam for anxiety
+* Zolpidem for sleep apnea
+* Omeprazole for GERD
+* Amlodipine for hypertension
+* Sildenafil for erectile dysfunction
+* Clopidogrel for PAD
+* Aspirin for CAD
+* Metoprolol for heart failure
+* Citalopram for depression
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+* Latex
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies any recent travel or exposure to illness
+* Lives in a house with a second floor
+* Able to ambulate independently
+* No recent weight loss or gain
+* No recent changes in bowel or bladder habits
+* No recent fevers or chills
+* No recent night sweats or fatigue
+
+Physical Examination:
+
+* Blood pressure: 140/90 mmHg
+* Heart rate: 80 beats per minute
+* Respiratory rate: 12 breaths per minute
+* Temperature: 98.6 degrees Fahrenheit
+* Oxygen saturation: 95% on room air
+* Height: 5 feet 10 inches
+* Weight: 250 pounds
+* BMI: 35
+
+Lab Results:
+
+* Complete Blood Count (CBC): WBC 12,000/mm3, Hb 12 g/dL, Hct 38%, MCV 90 fl, MCH 28 pg, MCHC 33%
+* Basic Metabolic Panel (BMP): Na 138 mEq/L, K 4.5 mEq/L, Cl 102 mEq/L, CO2 24 mEq/L, BUN 20 mg/dL, Cr 1.2 mg/dL, eGFR 60 mL/min/1.73m2
+* Lipid Panel: Total Cholesterol 180 mg/dL, Triglycerides 150 mg/dL, HDL 40 mg/dL, LDL 120 mg/dL, VLDL 40 mg/dL
+* Thyroid Function Tests: T4 80 ng/dL

@@ -1,0 +1,100 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemia
+* History of smoking
+* History of alcohol abuse
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* Previous lumbar fusion surgery 10 years ago
+* Previous appendectomy 20 years ago
+* Previous cholecystectomy 15 years ago
+* History of non-insulin dependent diabetes mellitus
+* History of degenerative joint disease
+* History of osteoarthritis
+* History of chronic obstructive pulmonary disease (COPD)
+* History of asthma
+* History of allergies (penicillin, pollen, dust)
+* History of hypothyroidism
+* History of chronic kidney disease (CKD) stage 3
+* History of anemia
+* History of gastroesophageal reflux disease (GERD)
+* History of hiatal hernia
+* History of colon polyps
+* History of benign prostatic hyperplasia (BPH)
+
+Surgical History:
+
+* Planning to undergo elective surgery for colon cancer
+* Previous surgeries as mentioned above
+
+Medications:
+
+* Currently taking aspirin, lisinopril, atorvastatin, metformin, and omeprazole
+* Allergic to penicillin, sulfa drugs, and codeine
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with no elevator
+* Has a pet dog
+* Does not have a support system nearby
+* Financially stable
+
+Review of Systems:
+
+* No recent fever, chills, or night sweats
+* No recent weight loss or gain
+* No recent changes in bowel habits or appetite
+* No recent abdominal pain or distension
+* No recent nausea or vomiting
+* No recent urinary tract infections or changes in urinary output
+* No recent shortness of breath or chest pain
+* No recent palpitations or dizziness
+* No recent headaches or seizures
+
+Physical Examination:
+
+* Blood pressure: 140/90 mmHg
+* Pulse: 70/min
+* Respiratory rate: 16/min
+* Temperature: 98.6°F (37°C)
+* Oxygen saturation: 95% on room air
+* Height: 5'8" (172 cm)
+* Weight: 220 lbs (100 kg)
+* BMI: 35
+* Presents with a surgical scar on his abdomen from previous lumbar fusion surgery
+
+Lab Results:
+
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte panel: Within normal limits
+* Lipid panel: Elevated triglycerides, high cholesterol
+* Glucose: 120 mg/dL (normal fasting glucose)
+* Liver function test: Within normal limits
+* Renal function test: Creatinine level 1.5 mg/dL (normal creatinine level)
+* Urinalysis: Within normal limits
+* Carcinoembryonic antigen (CEA): Elevated
+
+Imaging Studies:
+
+* Computed Tomography (CT) scan of the abdomen and pelvis: Shows a mass in the colon consistent with colon cancer
+
+Postoperative Course:
+
+* Patient underwent elective surgery for colon cancer and had a successful operation
+* Patient experienced some postoperative pain, nausea, and vomiting, which were managed with pain medication and antiemetics
+* Patient had a uneventful postoperative recovery and was discharged from the hospital

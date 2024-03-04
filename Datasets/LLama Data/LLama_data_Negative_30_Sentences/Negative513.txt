@@ -1,0 +1,67 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and bilateral leg pain. The patient has a history of degenerative disc disease and has tried various conservative treatments, including physical therapy and medication, without significant relief. The patient is a candidate for lumbar fusion surgery.
+
+The patient has a history of hypertension and hyperlipidemia, and is currently taking medication for these conditions. The patient has no known allergies and has a negative history of bleeding disorders.
+
+The patient has a history of smoking, but quit 5 years ago. The patient consumes moderate amounts of alcohol.
+
+The patient has a positive family history of coronary artery disease and peripheral vascular disease.
+
+The patient's last colonoscopy was 5 years ago and was normal. The patient has a history of occasional constipation.
+
+The patient has a history of mild obstructive sleep apnea and uses a continuous positive airway pressure (CPAP) machine.
+
+The patient's electrocardiogram (ECG) showed no signs of ischemia or arrhythmias.
+
+The patient's echocardiogram showed a normal ejection fraction and no valvular disease.
+
+The patient's pulmonary function tests showed normal lung function.
+
+The patient's blood work showed normal liver and kidney function, but mild anemia.
+
+The patient's urinalysis showed no signs of infection or abnormalities.
+
+The patient has a history of mild glaucoma and wears glasses for near-vision.
+
+The patient has no history of previous surgeries or hospitalizations.
+
+The patient is allergic to penicillin and sulfa drugs.
+
+The patient has a history of anxiety and depression, but is currently not taking any medication for these conditions.
+
+The patient's physical examination showed normal vital signs, except for a slightly elevated blood pressure. The patient's abdominal examination showed no tenderness or guarding.
+
+The patient's neurological examination showed normal cognitive function and no focal deficits.
+
+The patient's musculoskeletal examination showed limited mobility in the lower back and bilateral lower extremities.
+
+The patient's cardiovascular examination showed a regular rhythm and no murmurs.
+
+The patient's respiratory examination showed normal breath sounds and no wheezing.
+
+The patient's gastrointestinal examination showed no tenderness or guarding.
+
+The patient's genitourinary examination showed no abnormalities.
+
+The patient's postoperative course was uneventful. The patient was able to extubated immediately after surgery and was transferred to the recovery room in stable condition.
+
+The patient experienced some postoperative nausea and vomiting, but this was well-controlled with medication.
+
+The patient had some mild postoperative pain, but this was well-controlled with medication.
+
+The patient was able to ambulate independently on the first postoperative day and was able to eat a regular diet.
+
+The patient was discharged from the hospital on the second postoperative day in stable condition.
+
+The patient followed up with the surgeon 2 weeks after discharge and reported significant improvement in back pain and mobility.
+
+The patient had no complications during the postoperative period.
+
+The patient's 6-week follow-up appointment showed continued improvement in back pain and mobility.
+
+The patient was able to return to work 8 weeks after surgery.
+
+The patient reported no new onset of symptoms or complications at the 6-month follow-up appointment.
+
+The patient's 1-year follow-up appointment showed continued improvement in back pain and mobility, and the patient was able to perform activities of daily living without difficulty.

@@ -1,0 +1,71 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension and hyperlipidemia, controlled with medication. He had a myocardial infarction 10 years ago and has since had stable cardiac function. He has a history of non-insulin-dependent diabetes mellitus and obstructive sleep apnea. He is a former smoker, quitting 5 years ago. He has a history of alcohol use disorder but has been sober for 2 years. He denies any recent illnesses or hospitalizations.
+
+Medications:
+
+* Lisinopril 20 mg PO daily
+* Atorvastatin 20 mg PO daily
+* Metformin 1000 mg PO twice daily
+* Aspirin 81 mg PO daily
+* Oxygen therapy as needed
+
+Allergies:
+
+* Penicillin
+
+Lab Results:
+
+* WBC: 12,000/mm³
+* Hemoglobin: 14.2 g/dL
+* Platelets: 220,000/mm³
+* BUN: 24 mg/dL
+* Creatinine: 1.2 mg/dL
+* Glucose: 180 mg/dL
+* Cholesterol: 180 mg/dL
+* Triglycerides: 150 mg/dL
+* Alanine transaminase (ALT): 40 U/L
+* Aspartate transaminase (AST): 30 U/L
+
+Physical Exam:
+
+* Blood pressure: 130/80 mmHg
+* Pulse: 80 beats per minute
+* Respiratory rate: 16 breaths per minute
+* Temperature: 98.6°F (37°C)
+* Oxygen saturation: 98% on room air
+* Chest: clear to auscultation
+* Heart: regular rhythm, no murmurs
+* Abdomen: soft, non-tender
+* Extremities: warm, well-perfused
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 35
+* Hysterectomy at age 40
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 65
+* One sibling with hypertension
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies any recent travel or exposure to illnesses
+
+Plan:
+The patient will undergo elective surgery with general anesthesia. Preoperative instructions include nothing by mouth after midnight and avoiding alcohol and nicotine for 24 hours prior to surgery. The patient will receive standard preoperative antibiotics and anti-anxiety medication as needed. Postoperative course will include close monitoring of vital signs, fluid status, and pain management. The patient will be transferred to the intensive care unit for observation due to his history of cardiac disease and sleep apnea.
+
+Complications:
+
+* Postoperative day 1: Patient develops dizziness and nausea, likely due to anesthesia.
+* Postoperative day 2: Patient experiences increased pain and discomfort, managed with narcotic medication.
+* Postoperative day 3: Patient develops a wound infection, treated with antibiotics.
+* Postoperative day 5: Patient experiences urinary retention, managed with catheterization.
+
+Conclusion:
+The patient underwent successful surgery with minimal complications. He was closely monitored in the intensive care unit and received appropriate treatment for postoperative complications. His surgical site healed properly, and he was discharged home on postoperative day 7.

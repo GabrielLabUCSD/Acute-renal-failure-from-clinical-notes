@@ -1,0 +1,12 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male who presents with a history of [insert medical condition] and is planning to undergo [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert relevant surgical history]. The patient takes [insert medications] and has allergies to [insert allergies].
+The patient's last visit to the doctor was on [insert date] and their current symptoms include [insert symptoms]. Their vital signs are: blood pressure [insert blood pressure], heart rate [insert heart rate], respiratory rate [insert respiratory rate], and temperature [insert temperature].
+
+Postoperative Course:
+The patient underwent [insert type of surgery] on [insert date] and the procedure went smoothly. The patient was taken to the recovery room and monitored closely for any complications. They were given [insert pain medication] for pain management and their pain level was managed effectively. The patient had a smooth postoperative course and did not experience any complications. They were discharged from the hospital on [insert date] and advised to follow up with their surgeon in [insert time frame].
+
+Complications:
+The patient did not experience any complications during their postoperative course. They were closely monitored and their pain was managed effectively. They were discharged from the hospital without any complications.
+
+Note: This summary is based on the information provided and does not include acute renal failure as a complication.

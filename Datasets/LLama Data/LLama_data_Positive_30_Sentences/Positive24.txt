@@ -1,0 +1,35 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of high blood pressure and diabetes.
+3. He has been smoking for the past 40 years.
+4. He has a history of heart disease and had a myocardial infarction 10 years ago.
+5. He has been experiencing worsening knee pain for the past year.
+6. He was recently diagnosed with osteoarthritis.
+7. He has tried physical therapy and medications without relief.
+8. He is planning to undergo a total knee replacement surgery.
+9. He has a history of kidney stones and has had multiple episodes of nephrolithiasis.
+10. He is currently experiencing acute renal failure.
+11. His blood work shows elevated creatinine and urea levels.
+12. He has decreased urine output and edema in his legs.
+13. He has a history of gastroesophageal reflux disease and has been prescribed medications for it.
+14. He has a history of hyperlipidemia and takes medication to control his cholesterol levels.
+15. He is allergic to penicillin and has a history of anaphylaxis.
+16. He has a history of sleep apnea and uses a continuous positive airway pressure machine.
+17. He has a history of obstructive lung disease and uses an inhaler.
+18. He is currently taking aspirin and warfarin for his heart condition.
+19. He has a history of bleeding gastric ulcers and has had several episodes of melena.
+20. He is scheduled to have a coronary angiogram in the next month.
+21. He is also planning to have a cataract surgery in the near future.
+22. He is currently experiencing depression and anxiety.
+23. He has a history of alcohol abuse and has been advised to minimize alcohol intake.
+24. He has a history of thyroid disease and takes levothyroxine.
+25. He has a history of rectal bleeding and has been advised to have a colonoscopy.
+26. He has a history of prostate cancer and has been receiving hormone therapy.
+27. He has a history of atrial fibrillation and has been taking anticoagulant medication.
+28. He has a history of chronic obstructive pulmonary disease.
+29. He has a history of chronic low back pain and has been prescribed pain medication.
+30. He has a history of gout and has had several episodes of acute gouty arthritis.
+
+Complication:
+After the surgery, the patient developed acute renal failure, which was detected by an increase in his serum creatinine level and a decrease in his urine output. He was diagnosed with acute kidney injury and was started on dialysis. The patient had to undergo an emergency nephrostomy tube placement to help remove excess fluid and improve his kidney function. He had a prolonged hospital stay and required several weeks of dialysis before his kidney function improved.

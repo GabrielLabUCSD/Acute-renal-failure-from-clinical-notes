@@ -1,0 +1,15 @@
+Patient X, a 58-year-old male, is planning to undergo surgery for the removal of a tumor in his colon. He has a past medical history of hypertension, diabetes mellitus type 2, and dyslipidemia. His blood pressure has been well-controlled on a combination of metoprolol and lisinopril. He is currently taking metformin for his diabetes and atorvastatin for his dyslipidemia.
+
+Patient X's surgical history includes an appendectomy 10 years ago and a cholecystectomy 5 years ago. Both surgeries were uneventful, and he recovered well. His family history is significant for cardiovascular disease, with his father having a myocardial infarction at the age of 60.
+
+On physical examination, Patient X is generally well with a body mass index (BMI) of 28 kg/m2. His blood pressure is 130/80 mmHg, and his heart rate is 80 beats per minute. His abdominal examination reveals a palpable mass in the left lower quadrant consistent with the tumor.
+
+Pre-operative laboratory investigations show a complete blood count within normal limits, with a hemoglobin level of 13.5 g/dL. His renal function tests reveal a creatinine level of 1.2 mg/dL and an estimated glomerular filtration rate (eGFR) of 60 mL/min/1.73 m2. His liver function tests, electrolytes, and coagulation profile are all within normal limits.
+
+After the surgery, Patient X developed acute renal failure as a post-operative complication. His renal function deteriorated further, with a creatinine level rising to 2.5 mg/dL and an eGFR of 30 mL/min/1.73 m2. He developed oliguria and required initiation of hemodialysis for renal replacement therapy.
+
+The etiology of his acute renal failure was determined to be ischemic acute tubular necrosis, likely due to prolonged hypotension during the surgery. Patient X's renal function is closely monitored, and efforts are made to optimize his fluid balance and prevent further deterioration.
+
+In addition to renal management, Patient X's other post-operative care includes pain control, wound care, and early mobilization. He is started on prophylactic antibiotics to prevent surgical site infections. His diabetes management is closely monitored, and insulin therapy is initiated to maintain glycemic control.
+
+Patient X is provided with appropriate education and support to cope with his acute renal failure and the challenges it poses for his recovery. A multidisciplinary approach involving nephrologists, surgeons, nurses, dietitians, and physical therapists is utilized to provide comprehensive care and facilitate his rehabilitation. Patient X's prognosis will depend on the extent of his renal recovery and successful management of his underlying medical conditions.

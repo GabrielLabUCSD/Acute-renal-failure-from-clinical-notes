@@ -1,0 +1,19 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. The patient's medical history includes [list any relevant medical conditions or surgeries, such as hypertension, diabetes, or previous surgeries]. 
+
+The patient's current medications include [list any medications the patient is currently taking, including dosage and frequency]. It is important to note that the patient does not have a history of acute renal failure.
+
+During the preoperative evaluation, the patient's vital signs were within normal limits, and laboratory investigations showed [list any notable findings, such as normal electrolytes, complete blood count, or coagulation profile]. The patient's creatinine levels were [specific value], indicating [normal kidney function/ mild impairment/ moderate impairment].
+
+During the surgery, the patient was placed under general anesthesia and the procedure was completed without any complications. The surgical team took appropriate measures to ensure the patient's safety and to prevent any intraoperative complications.
+
+Following the surgery, the patient was closely monitored in the postoperative recovery area. Vital signs including blood pressure, heart rate, and respiratory rate were stable throughout the immediate postoperative period. Pain management was initiated with [specific pain medications and dosages]. 
+
+The patient was encouraged to ambulate and deep breathing exercises were instructed to prevent any postoperative complications, such as atelectasis or deep vein thrombosis. Opioid medications were used cautiously to minimize the risk of adverse effects.
+
+The patient's postoperative course was uneventful, and they recovered well without any immediate complications. Their pain was well controlled, and they were able to tolerate a regular diet. Wound healing progressed satisfactorily, without signs of infection or dehiscence.
+
+The patient was discharged [specific time frame] after surgical intervention and was provided with detailed postoperative instructions, including wound care, medication regimen, and follow-up appointments. They were advised to seek medical attention if they experienced any concerning symptoms, such as fever, worsening pain, redness, or swelling at the surgical site.
+
+As of the latest follow-up appointment, the patient has been recovering smoothly without any significant complications. They did not report any new or worsening symptoms related to the surgery. The patient's vital signs and physical examination were within normal limits, without any signs of infection or other concerning findings.
+
+In conclusion, the patient underwent [type of surgery] without any intraoperative complications. Their postoperative course has been uneventful, and they have been recovering well. The patient did not develop acute renal failure or experience any other significant postoperative complications. They will continue to be monitored and followed up closely to ensure a successful recovery.

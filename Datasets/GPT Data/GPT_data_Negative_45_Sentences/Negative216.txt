@@ -1,0 +1,25 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] with a history of [medical conditions] who is planning to undergo [type of surgery]. They have been experiencing [symptoms] which necessitate the surgical intervention. The patient has a medical history of [pre-existing conditions] and has undergone previous surgeries including [surgeries]. 
+
+Their current medications include [list of medications], which may need to be adjusted before and after the surgery. It is important to note that they have no known drug allergies. The patient's vital signs are stable with blood pressure averaging [average blood pressure] mmHg and heart rate averaging [average heart rate] bpm.
+
+Laboratory tests reveal [results of relevant tests] with no concerning abnormalities except for [specific issue such as anemia or elevated liver enzymes]. The patient's baseline renal function demonstrates a creatinine level of [creatinine level] mg/dL. Their preoperative chest X-ray shows [findings on the X-ray, if any].
+
+The surgical team has discussed the risks and benefits of the procedure with the patient, including potential complications such as bleeding, infection, and adverse reactions to anesthesia. The patient understands the procedure's goals, alternative options, and possible outcomes.
+
+The patient will receive [type of anesthesia] for the surgery and will be positioned [position] on the operating table. Necessary precautions, including prophylactic antibiotics, will be taken to minimize the risk of surgical site infection. The procedure is anticipated to last [duration] and will be performed by [surgeon's name].
+
+Postoperatively, the patient will be closely monitored in the recovery room and vital signs, pain levels, and wound status will be assessed regularly. The healthcare team will ensure the patient's pain is adequately managed through the use of pharmacological and non-pharmacological measures.
+
+Regular ambulation and deep breathing exercises will be encouraged to prevent complications such as atelectasis and deep vein thrombosis. The patient will have a Jackson-Pratt drain or other drains in place to facilitate drainage of excess fluid post-surgery.
+
+As for complications, there were no intraoperative complications reported. The patient has tolerated the surgery well without any notable hemodynamic instability or surgical site issues. No signs of surgical site infection, wound dehiscence, or excessive bleeding have been observed.
+
+In the immediate postoperative period, the patient's pain has been well-controlled with the prescribed analgesics. They have been able to tolerate oral intake and there have been no signs of postoperative nausea and vomiting.
+
+The patient's urinary output has been within normal limits, and there has been no evidence of acute renal failure. The nursing team closely monitors fluid balance and ensures adequate hydration.
+
+The patient is currently on a regular postoperative care plan and will continue to receive routine postoperative assessments. Follow-up appointments have been scheduled with the surgeon to monitor wound healing, address any concerns, and discuss further care post-surgery.
+
+In conclusion, the patient is a [age]-year-old [gender] with [medical conditions] undergoing [type of surgery] due to [symptoms]. They have a medical history of [pre-existing conditions] and have undergone previous surgeries including [surgeries]. The patient is currently stable with no known drug allergies. They are well-informed about the procedure and its potential complications. Postoperatively, the patient has experienced no complications and their pain has been well-managed. The healthcare team will continue to provide appropriate care and monitor the patient's progress.

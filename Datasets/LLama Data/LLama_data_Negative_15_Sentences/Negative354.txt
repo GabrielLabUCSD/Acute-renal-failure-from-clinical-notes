@@ -1,0 +1,33 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic lower back pain and left leg radiculopathy. The patient has a history of lumbar spine degenerative disc disease and has failed conservative management. The patient is scheduled for a lumbar fusion surgery.
+
+The patient has a history of hypertension and hyperlipidemia, which are well-controlled with medication. The patient does not have a history of diabetes or any other chronic medical conditions.
+
+The patient has a history of smoking but quit 5 years ago. The patient consumes alcohol occasionally but not excessively.
+
+The patient has a history of allergy to penicillin and CEFOXITIN but has no known allergies to anesthesia.
+
+The patient has a history of previous surgery, including a cholecystectomy and a hernia repair.
+
+The patient's family history is significant for cardiovascular disease.
+
+The patient's current medications include ibuprofen, gabapentin, and atorvastatin.
+
+The patient's review of systems is otherwise unremarkable.
+
+The patient's physical examination reveals a healthy male with normal vital signs.
+
+The patient's neurological examination reveals decreased sensation to light touch and pinprick in the L4-S1 dermatomes.
+
+The patient's musculoskeletal examination reveals tenderness to palpation over the lumbar spine.
+
+The patient's radiological studies, including an MRI and CT scan, reveal significant degenerative changes at L4-L5 and L5-S1.
+
+The patient's postoperative course was uneventful, and the patient was discharged home on postoperative day 3.
+
+The patient followed up with the surgeon at 2 weeks and 6 weeks postoperatively, and there were no complications noted.
+
+The patient's pain and symptoms have significantly improved since the surgery.
+
+The patient is able to ambulate without assistance and has returned to his normal activities.

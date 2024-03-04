@@ -1,0 +1,59 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history of [insert relevant medical conditions, e.g., hypertension, diabetes, sleep apnea]. The patient has been admitted to the hospital for elective [insert type of surgery, e.g., orthopedic, abdominal, cardiovascular] surgery.
+
+Preoperative Medications:
+
+The patient is currently taking [insert medications, dosages, and frequency, e.g., aspirin 81 mg daily, lisinopril 20 mg daily, metformin 500 mg twice daily].
+
+Allergies:
+
+The patient has no known allergies to medications or materials.
+
+Medical History:
+
+The patient has a history of [insert relevant medical conditions, e.g., myocardial infarction, stroke, chronic obstructive pulmonary disease]. The patient has also had [insert number of previous surgeries] previous surgeries, including [insert type of surgery, e.g., hip replacement, cholecystectomy].
+
+Family History:
+
+The patient's family history is significant for [insert relevant medical conditions, e.g., heart disease, cancer].
+
+Social History:
+
+The patient is a [insert occupation] and enjoys [insert hobbies, e.g., golf, gardening]. The patient is a nonsmoker and denies alcohol use.
+
+Review of Systems:
+
+The patient reports [insert symptoms, e.g., abdominal pain, shortness of breath]. The patient has also experienced [insert relevant medical symptoms, e.g., fever, nausea].
+
+Physical Examination:
+
+On admission, the patient's vital signs are [insert vital signs, e.g., blood pressure 120/80 mmHg, pulse 80 beats per minute]. The patient's surgical site is clean and dry.
+
+Lab Results:
+
+The patient's lab results are significant for [insert relevant abnormal lab results, e.g., elevated white blood cell count, electrolyte imbalance].
+
+Imaging Results:
+
+The patient's imaging results are significant for [insert relevant abnormal imaging results, e.g., lung nodules, abdominal mass].
+
+ Plan:
+
+The patient will undergo [insert type of surgery] surgery. The surgical team will consist of [insert number of surgeons, anesthesiologists, nurses]. The patient will receive [insert anesthesia plan, e.g., general anesthesia, regional anesthesia].
+
+Postoperative Course:
+
+The patient's postoperative course was uneventful. The patient experienced [insert postoperative symptoms, e.g., mild nausea, discomfort]. The patient was discharged from the hospital on [insert day of discharge] and will follow up with the surgeon in [insert number of days, e.g., 7-10 days].
+
+Complications:
+
+The patient did not experience any complications during the postoperative period.
+
+I hereby certify that I have reviewed this patient's medical record and that the information contained in this summary is accurate and complete to the best of my knowledge.
+
+[Insert signature block]
+
+Date: [Insert date]
+
+Time: [Insert time]

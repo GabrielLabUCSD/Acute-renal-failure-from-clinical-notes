@@ -1,0 +1,13 @@
+This patient is a [age]-year-old [gender] with a significant medical history of [conditions/illnesses]. They are scheduled to undergo [type of surgery] for [reason]. The patient has been experiencing [specific symptoms] for approximately [duration]. Their past surgical history includes [previously undergone surgeries]. 
+
+In terms of medications, the patient is currently taking [list of medications], which includes [specific medication names, dose, and frequency]. Furthermore, they have allergies to [specific allergens].
+
+The patient's preoperative laboratory results revealed [specific lab values] in the normal range, except for [mention any abnormalities]. Their cardiac evaluation, including electrocardiogram and echocardiogram, showed [specific findings].
+
+Throughout their hospital stay, the patient will be closely monitored, and preoperative antibiotics will be given. Anesthesia will be administered by [type of anesthesia]. The surgical procedure is expected to take [estimated duration]. The patient will be placed in [specific surgical position]. 
+
+Postoperatively, the patient will be transferred to the recovery room and monitored closely for any signs of complications. Their vital signs, including heart rate, blood pressure, and oxygen saturation, will be closely monitored. Pain management will be maintained through [type of pain control]. The patient will start with a clear liquid diet and gradually progress to a regular diet based on tolerance. Ambulation and physical therapy will be initiated to prevent complications such as deep vein thrombosis.
+
+The patient is anticipated to have a smooth postoperative course unless complications arise. Possible complications could include infection, bleeding, wound dehiscence, pneumonia, or cardiac events. Additionally, they will be educated on potential signs and symptoms of complications, such as fever, shortness of breath, chest pain, or incisional pain.
+
+The patient is expected to fully recover within [estimated recovery time]. However, if any complications arise, they will be managed accordingly by the healthcare team. Close follow-up visits will be arranged to assess the patient's progress and provide necessary care or interventions.

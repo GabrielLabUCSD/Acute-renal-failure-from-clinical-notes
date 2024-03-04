@@ -1,0 +1,80 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemic
+* Smoker (20 pack-years)
+* History of coronary artery disease (CABG 10 years ago)
+* History of peripheral artery disease (PAD)
+* History of Chronic Obstructive Pulmonary Disease (COPD)
+* History of gastroesophageal reflux disease (GERD)
+* History of diabetes mellitus (DM)
+* History of sleep apnea
+* History of degenerative joint disease (DJD)
+* History of chronic low back pain
+* History of obstructive sleep apnea (OSA)
+* History of asthma
+* History of allergic rhinitis
+* History of hypothyroidism
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy for symptomatic gallstones
+* Previous surgical history includes CABG, PAD, and hernia repair
+
+Medications:
+
+* Aspirin 81 mg daily
+* Atorvastatin 20 mg daily
+* Lisinopril 40 mg daily
+* Metformin 500 mg daily
+* Omeprazole 20 mg daily
+* Alprazolam 0.5 mg daily
+* Ibuprofen 800 mg as needed
+* Oxygen therapy as needed
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Laboratory Results:
+
+* WBC: 12,000/mm3
+* HbA1c: 7.5%
+* BUN: 25 mg/dL
+* Creatinine: 1.5 mg/dL
+* AST: 35 IU/L
+* ALT: 50 IU/L
+* Alk Phos: 120 IU/L
+* Total Bilirubin: 1.2 mg/dL
+* Direct Bilirubin: 0.6 mg/dL
+* Albumin: 3.5 g/dL
+* Prothrombin Time: 12.2 seconds
+* Partial Thromboplastin Time: 29.1 seconds
+* INR: 1.8
+
+Imaging Results:
+
+* Chest X-ray: shows cardiomegaly, pulmonary congestion, and bilateral pleural effusions
+* EKG: shows sinus rhythm, left bundle branch block, and ST segment depression
+* Echocardiogram: shows left ventricular hypertrophy, decreased systolic function, and moderate mitral regurgitation
+* Abdominal ultrasound: shows gallstones and choledocholithiasis
+
+Postoperative Course:
+
+* Patient tolerated the procedure well and was extubated in the operating room
+* Postoperative day 1: patient experienced mild nausea and vomiting, which was controlled with medication
+* Postoperative day 2: patient developed a fever of 101.3°F (38.5°C) and tachycardia, which resolved with antibiotics and fluid management
+* Postoperative day 3: patient experienced worsening back pain, which was managed with analgesics
+* Postoperative day 4: patient was discharged home in stable condition
+
+Complications:
+
+* None noted
+
+Assistant:  John Doe is a 65-year-old male patient who is scheduled to undergo an elective laparoscopic cholecystectomy for symptomatic gallstones. He has a history of hypertension, hyperlipidemia, smoking, and chronic medical conditions such as COPD, PAD, GERD, DM, sleep apnea, asthma, allergic rhinitis, and hypothyroidism. His surgical history includes CABG, PAD, and hernia repair. He takes aspirin, atorvastatin

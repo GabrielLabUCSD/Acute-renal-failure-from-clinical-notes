@@ -1,0 +1,47 @@
+The patient in question is scheduled to undergo surgery and provides a comprehensive medical history. The patient does not have a history of acute renal failure.
+
+1. The individual is a 52-year-old female with a past medical history significant for diabetes mellitus type 2.
+2. She was diagnosed with diabetes ten years ago and manages it with oral antihyperglycemics.
+3. The patient also has a history of hypertension for which she takes antihypertensive medications.
+4. She has a known allergy to sulfa-based medications.
+5. There is no previous history of surgeries or hospitalizations.
+6. The patient reports being a non-smoker and denies alcohol consumption.
+7. She has a history of seasonal allergies but no known drug allergies besides sulfa.
+8. The family history is positive for cardiovascular disease, but no specific details are given.
+9. The patient has been experiencing progressive knee pain over the past several months.
+10. She underwent imaging studies that revealed severe osteoarthritis of both knees.
+11. Conservative management with physical therapy and analgesics failed to provide adequate relief.
+12. Given the debilitating nature of her symptoms, she elected to undergo total knee replacement surgery.
+13. Preoperative labs including a complete blood count (CBC), comprehensive metabolic panel (CMP), and coagulation studies were within normal limits.
+14. The patient's vital signs including blood pressure, heart rate, and respiratory rate were stable.
+15. Radiographs confirmed advanced degenerative joint disease in both knees, with significant joint space narrowing and osteophyte formation.
+16. She was evaluated by an anesthesiologist and deemed suitable for general anesthesia.
+17. The patient was given instructions on fasting prior to surgery and provided with an explanation of the surgical procedure, including potential risks and benefits.
+18. She received preoperative prophylactic antibiotics to reduce the risk of surgical site infection.
+19. The surgical procedure performed was a bilateral total knee replacement.
+20. Intraoperative findings revealed severe osteoarthritis in both knees, necessitating the use of prosthetic components.
+21. The surgery was performed without complications and lasted approximately four hours.
+22. The patient was transferred to the post-anesthesia care unit (PACU) for recovery.
+23. In the PACU, her vital signs were monitored closely, and pain control was achieved through intravenous analgesics.
+24. She was transferred to the surgical ward once fully awake and stable.
+25. The patient's postoperative course was uneventful, with regular monitoring of vital signs and wound healing.
+26. Physical therapy was initiated on the first postoperative day to aid in mobilization and range of motion exercises.
+27. She was started on prophylactic low molecular weight heparin to prevent deep vein thrombosis.
+28. Routine blood work, including CBC and CMP, were monitored regularly and remained within normal limits.
+29. The patient's pain was managed with a combination of oral analgesics and local/topical pain relief measures.
+30. She was encouraged to perform postoperative exercises to strengthen the muscles surrounding the knees.
+31. The patient tolerated the postoperative diet well and resumed normal bowel function within 48 hours.
+32. Urinary catheterization was not required, and she maintained normal urinary function.
+33. The patient was discharged on the fourth postoperative day with detailed instructions on wound care and activity restrictions.
+34. A follow-up appointment was scheduled for two weeks after discharge to assess wound healing and discuss rehabilitation progress.
+35. At the follow-up visit, the patient reported improvement in pain and mobility.
+36. The surgical wound was healing well without evidence of infection.
+37. Physical therapy was continued as an outpatient to aid in further rehabilitation.
+38. Six weeks after surgery, the patient reported full range of motion in her knees and minimal pain.
+39. Radiographs taken at the follow-up appointment confirmed proper alignment and positioning of the prosthetic components.
+40. No signs of complications such as infection, deep vein thrombosis, or implant failure were noted.
+41. At the six-month follow-up, the patient reported being able to perform daily activities with minimal difficulty.
+42. Repeat imaging showed continued satisfactory positioning of the prosthetic components.
+43. There were no signs of loosening or wear of the implants.
+44. The patient was discharged from regular follow-up and advised to seek medical attention if any concerns arose.
+45. Overall, the patient had an uneventful postoperative course without any complications such as acute renal failure.

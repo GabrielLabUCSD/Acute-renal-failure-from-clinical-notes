@@ -1,0 +1,17 @@
+The patient is a [age]-year-old [gender] who is planning to have surgery. They have a significant past medical history, including [list of various medical conditions] and a history of [surgical procedures or major illnesses]. They are currently taking [list of medications] for [specific medical conditions]. 
+
+The patient has had regular follow-up with their primary care physician and specialists for their medical conditions. They have been compliant with their medication regimen and have made lifestyle modifications as advised. Their latest laboratory results, including blood work and imaging studies, have been within normal limits or stable for the past [timeframe]. 
+
+During the preoperative evaluation, the patient's vital signs were stable, and no significant abnormalities were identified on physical examination. The patient underwent additional tests, including [specific tests or imaging studies], which revealed [any notable findings].
+
+The patient has discussed their surgical plan extensively with their surgeon. The procedure will be performed under [type of anesthesia], and the estimated duration is [time]. The surgical team has been made aware of the patient's medical history and is prepared to manage any potential complications that may arise.
+
+In the postoperative course, the patient was closely monitored in the recovery room and then transferred to the surgical ward. They were started on [specific postoperative instructions, such as bed rest, ambulation, or dietary measures]. Pain management was initiated with [specific pain medications], and the patient reported adequate pain control.
+
+The patient's vital signs remained stable postoperatively, and there were no signs of surgical site infection or wound complications. They tolerated a regular diet without any difficulties and were able to walk independently. The nursing staff provided education on wound care and signs and symptoms to monitor for post-surgery.
+
+The patient's postoperative recovery progressed uneventfully, and they were discharged on [specific date]. They were prescribed [post-discharge medications], including antibiotics, pain medications, or anticoagulants, as needed. Discharge instructions included wound care, activity restrictions, and follow-up appointments.
+
+During the postoperative follow-up visit, the patient's surgical wound was healing well, with no signs of infection. They reported minimal pain and were able to resume their daily activities without any limitations. 
+
+Overall, the patient had a successful surgical outcome, with no significant complications. The patient's postoperative course was uncomplicated, and they did not experience any acute renal failure or other postoperative complications typically associated with the surgery performed.

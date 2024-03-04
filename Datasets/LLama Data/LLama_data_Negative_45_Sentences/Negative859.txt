@@ -1,0 +1,74 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications without acute renal failure:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* Smoking history of 20 pack-years
+* History of non-insulin-dependent diabetes mellitus
+* Obstructive sleep apnea
+* History of chronic lower back pain
+* Previous appendectomy
+* Previous cholecystectomy
+* Previous hernia repair
+* Family history of coronary artery disease
+* Family history of stroke
+
+Medications:
+
+* Lisinopril 20mg daily
+* Simvastatin 20mg daily
+* Metformin 500mg bid
+* Oxycodone 5mg q4hr as needed for pain
+* Aspirin 81mg daily
+
+Allergies:
+
+* None
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Living in a two-story house with no wheelchair accessibility
+* No recent travel or exposure to illness
+
+Reason for Surgery:
+
+* Elective lumbar spine fusion
+
+Preoperative Exam:
+
+* Unremarkable physical exam except for limited mobility in the lower extremities
+* Normal laboratory values
+* Negative electrocardiogram (ECG)
+
+Intraoperative Course:
+
+* Standard anesthesia protocol
+* No intraoperative complications
+* Estimated blood loss of 200mL
+
+Postoperative Course:
+
+* Postoperative day 1: Patient transferred to the surgical floor with stable vital signs.
+* Postoperative day 2: Patient experienced some nausea and vomiting, managed with ondansetron.
+* Postoperative day 3: Patient developed a minor temperature elevation (38.5°C) and was started on levofloxacin for possible urinary tract infection (UTI).
+* Postoperative day 4: Patient's temperature normalized, and the UTI was ruled out with a negative urinalysis.
+* Postoperative day 5: Patient was transferred to the rehabilitation unit for further recovery and physical therapy.
+
+Complications:
+
+* None
+
+Discharge Summary:
+
+* Patient was discharged home on postoperative day 7 with stable vital signs and improved mobility.
+* Patient was advised to continue physical therapy and follow up with the surgeon in 2 weeks.
+* Patient was prescribed hydrocodone-acetaminophen 5-325mg q4hr as needed for pain and instructed to gradually taper off over the next week.
+
+This patient summary provides a comprehensive overview of the patient's medical history, postoperative course, and potential complications, excluding acute renal failure. It highlights the patient's long history of smoking, hypertension, and hyperlipidemia, which increases their risk for postoperative complications such as cardiovascular events and respiratory complications. Additionally, the patient's history of non-insulin-dependent diabetes mellitus and obstructive sleep apnea may also impact their postoperative recovery. The patient's social history, including their living situation and limited mobility, may also impact their postoperative recovery and rehabilitation. The patient's postoperative course was relatively uneventful, with a brief episode of nausea and vomiting and a possible UTI that was successfully treated with antibiotics. The patient was discharged home with stable vital signs and improved mobility, and was advised to continue physical therapy and follow up with the surgeon.

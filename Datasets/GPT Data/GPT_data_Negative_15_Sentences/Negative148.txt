@@ -1,0 +1,17 @@
+The patient is a ___ year-old male/female who is planning to have surgery for ___ (diagnosis). The patient has a medical history significant for ___ (list of medical conditions). The patient's current medications include ___ (list of medications) which are being managed by their primary care physician. It is important to note that the patient has a known allergy to ___ (specific medication or substance).
+
+In terms of their surgical history, the patient has previously undergone ___ (list of previous surgeries, if any). During these procedures, the patient experienced ___ (complications, if any) which were appropriately managed. 
+
+Regarding the patient's preoperative course, all necessary preoperative evaluations and assessments have been completed. The patient's vital signs are stable, and their laboratory values are within normal limits, with the exception of ___ (specific abnormal lab result, if any) which will be monitored closely.
+
+The patient's surgery is scheduled for ___ (date) and will be performed by ___ (surgeon). The expected duration of the surgery is ___ (estimated time). The anesthesia team will provide general/regional anesthesia as determined by the anesthesiologist.
+
+In terms of the postoperative course, the patient was initially admitted to the post-anesthesia care unit (PACU) for recovery. They were closely monitored for any signs of postoperative complications such as bleeding, infection, or respiratory distress. Pain management was achieved using a multimodal approach including oral/IV analgesics as needed.
+
+Fortunately, the patient did not experience any significant postoperative complications. They were able to tolerate a regular diet and ambulated with assistance on the first postoperative day. Vital signs remained stable, and surgical site dressings were clean, dry, and intact.
+
+The patient was discharged home on the ___ (number) postoperative day, with a prescription for appropriate pain management medication. They were educated on warning signs of potential complications and given detailed discharge instructions including wound care and follow-up appointments.
+
+Throughout the postoperative period, the patient's pain was adequately controlled, and they reported gradual improvement in their surgical site. The patient's primary care physician will continue to manage their chronic medical conditions and adjust medications as needed in light of the surgical intervention. The patient will follow up with the surgeon for a postoperative evaluation within ___ (timeframe).
+
+In summary, the patient is a ___ year-old male/female with a medical history of ___. They underwent ___ surgery without any significant postoperative complications. The patient's recovery was uneventful, and they are currently in stable condition. Discussed with the patient and their family, the goals and outcomes of the surgery have been achieved.

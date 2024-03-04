@@ -1,0 +1,31 @@
+Patient Summary:
+
+The patient is a [age] [gender] who is planning to undergo [type of surgery]. They have a history of [medical conditions], including [list of conditions]. 
+
+The patient's medical history also includes [surgeries or procedures] that they have undergone in the past. They have a known allergy to [specific medication or substance]. 
+
+In terms of medications, the patient is currently taking [list of current medications]. They have been on these medications for [duration]. 
+
+The patient has a family history of [specific conditions or diseases]. It is important to note that they are a non-smoker and do not consume alcohol. 
+
+Before the surgery, the patient will need to undergo certain preoperative tests, including [list of tests]. 
+
+During the surgery, the patient will be under general anesthesia, and the procedure will be performed by [surgeon's name]. 
+
+The expected duration of the surgery is [estimated time]. 
+
+Following the surgery, the patient will need to be closely monitored in the postoperative period. They will receive pain medication to manage any discomfort. 
+
+Complications that may arise after surgery include [list possible complications]. 
+
+Unfortunately, the patient developed acute renal failure as a complication after the surgery. This was characterized by [specific symptoms]. 
+
+The patient's renal function tests revealed elevated [specific values], indicating the presence of acute renal failure. 
+
+To manage this complication, the patient was placed on [specific interventions or treatments], including [medications or interventions]. 
+
+The healthcare team closely monitored the patient's kidney function, fluid status, and electrolyte balance. 
+
+Over time, the patient's renal function gradually improved, and they experienced a full recovery from acute renal failure. 
+
+The patient has been discharged from the hospital with instructions for follow-up care and close monitoring of renal function. They are advised to avoid certain medications and maintain a healthy lifestyle to prevent further kidney complications.

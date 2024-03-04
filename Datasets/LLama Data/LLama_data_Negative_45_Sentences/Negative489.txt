@@ -1,0 +1,90 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* Smoking history (20 pack-years)
+* Obesity (BMI 35)
+* Sleep apnea
+* History of colon cancer (stage II) 5 years ago
+* History of left knee osteoarthritis
+* History of lower back pain
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 20 mg daily
+* Simvastatin 20 mg daily
+* Alprazolam 0.5 mg as needed
+* Oxycodone 5 mg as needed
+* Ibuprofen 800 mg as needed
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Surgical History:
+
+* Cholecystectomy (laparoscopic) 10 years ago
+* Colon resection (open) 5 years ago
+* Left knee arthroscopy (scopic) 2 years ago
+
+Current Symptoms:
+
+* Worsening left knee pain
+* Limited mobility
+* Difficulty walking up and down stairs
+* Intermittent lower back pain
+
+Planned Surgery:
+
+* Left total knee arthroplasty
+
+Preoperative Workup:
+
+* Complete blood count
+* Electrolyte panel
+* Lipid profile
+* Coagulation studies
+* Urinalysis
+* Chest x-ray
+* Electrocardiogram
+
+Expected Postoperative Course:
+
+* 2-3 days hospital stay
+* Pain management with patient-controlled analgesia (PCA)
+* Early mobilization and physical therapy
+* DVT prophylaxis with compression stockings and intermittent pneumatic compression devices
+* Bowel regimen with laxatives and stool softeners
+* Antibiotic prophylaxis with cephalexin
+* Follow-up appointment with surgeon in 2 weeks
+
+Potential Complications:
+
+* Wound infection
+* Deep vein thrombosis
+* Pulmonary embolism
+* Urinary retention
+* Postoperative nausea and vomiting
+* Delirium
+* Respiratory failure
+* Sepsis
+* Myocardial infarction
+* Cerebrovascular accident/stroke
+
+Special Instructions:
+
+* Patient to have nothing by mouth after midnight before surgery
+* Patient to avoid taking aspirin and non-steroidal anti-inflammatory drugs (NSAIDs) for 1 week before surgery
+* Patient to avoid smoking for 2 weeks before and after surgery
+* Patient to avoid heavy lifting, bending, or strenuous activity for 6 weeks after surgery
+* Follow-up appointment with primary care physician in 1 week for wound check and removal of sutures.
+
+I hope this sample summary helps you in creating a comprehensive patient summary for your patient.

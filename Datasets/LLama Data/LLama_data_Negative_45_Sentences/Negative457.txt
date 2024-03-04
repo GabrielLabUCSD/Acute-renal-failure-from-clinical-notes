@@ -1,0 +1,81 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, diabetes, and hyperlipidemia
+* Smoker for 40 years, quit 10 years ago
+* Obese, BMI 35
+* History of chronic back pain, managed with physical therapy and medication
+* Previous appendectomy at age 25
+* Previous cholecystectomy at age 40
+
+Surgical History:
+
+* Planning to undergo elective total hip arthroplasty (THA) for severe osteoarthritis
+* Previous surgical procedures include:
+	+ Appendectomy
+	+ Cholecystectomy
+	+ Skin lesion excision (3 times)
+
+Current Medications:
+
+* ASA 81 mg daily
+* Metformin 1000 mg twice daily
+* Lisinopril 40 mg daily
+* Simvastatin 40 mg daily
+* Omeprazole 20 mg daily
+* Hydrocodone 10/325 mg as needed for back pain
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two adult children
+* Retired from full-time work, currently works part-time
+* Denies alcohol or illicit drug use
+* Lives independently with his wife
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 65
+* One sibling with history of hypertension and hyperlipidemia
+
+Reason for Surgery:
+
+* Severe osteoarthritis of the right hip, causing difficulty ambulating and managing daily activities
+
+Expected Postoperative Course:
+
+* Hospital stay: 2-3 days
+* Rehabilitation: Inpatient rehab for 10-14 days, followed by outpatient physical therapy
+* Pain management: Multimodal pain management including patient-controlled analgesia (PCA), opioids, and nonsteroidal anti-inflammatory drugs (NSAIDs)
+* Expected recovery time: 6-8 weeks for full recovery, 12-16 weeks for complete return to normal activities
+
+Potential Complications:
+
+* Deep venous thrombosis (DVT)
+* Pulmonary embolism (PE)
+* Infection
+* Bleeding
+* Nerve damage
+* Blood clotting disorders
+* Respiratory complications
+* Cardiac complications
+
+Preoperative Orders:
+
+* Preoperative clearance by primary care physician and anesthesiologist
+* Blood work: CBC, electrolytes, renal function tests, INR
+* Imaging studies: X-ray of the right hip, CT scan of the abdomen and pelvis
+* Consultations: Cardiology, Pulmonology, Infectious Disease
+* Preoperative instruction: Patient to stop ASA and Eliquis 10 days before surgery, continue other medications as usual
+* Preoperative physiotherapy: Patient to attend inpatient rehabilitation program for 10-14 days before surgery
+
+Note: This patient summary includes a thorough medical and surgical history, current medications, allergies, social history, family history, reason for surgery, expected postoperative course, and potential complications. It also includes relevant preoperative orders and instructions to ensure a smooth and successful surgical experience. However, it does not include acute renal failure as a complication, as requested.

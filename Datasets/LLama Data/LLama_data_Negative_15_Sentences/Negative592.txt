@@ -1,0 +1,28 @@
+Patient Summary:
+
+Name: [Patient's Name]
+Age: [Patient's Age]
+Gender: [Patient's Gender]
+
+Medical History:
+
+* [Patient's Medical History, including any previous surgeries, illnesses, or injuries]
+* [Patient's Current Medical Condition, including symptoms and diagnosis]
+* [Patient's Allergies, if any]
+* [Patient's Current Medications, including dosages and frequency]
+* [Patient's Previous Surgeries, including dates and outcomes]
+
+Postoperative Course:
+
+* [Patient's Postoperative Course, including any complications or issues that arose during recovery]
+* [Patient's Length of Stay in the Hospital, if applicable]
+* [Patient's Postoperative Medications, including dosages and frequency]
+* [Patient's Follow-up Care, including appointments and tests]
+
+Complications:
+
+* [Patient's Complications, if any, including their severity and impact on recovery]
+
+Note: Acute renal failure is not included as a complication in this summary.
+
+[

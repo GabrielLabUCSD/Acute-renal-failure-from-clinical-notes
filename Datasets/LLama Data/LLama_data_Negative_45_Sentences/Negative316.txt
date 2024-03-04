@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents for [insert type of surgery]. They have a medical history of [insert relevant medical conditions, such as hypertension, diabetes, or asthma]. They are currently taking [insert medications] and have been compliant with their medication regimen.
+
+They were previously seen by their primary care physician for a pre-operative visit, where they were cleared for surgery. They have no known allergies to anesthesia or surgical materials. The patient does not have a history of bleeding disorders or previous surgical complications.
+
+On the day of surgery, the patient arrived at the hospital in stable condition and was taken to the operating room without any issues. The surgery was uneventful, and the patient tolerated the anesthesia well. They were extubated successfully and taken to the recovery room for post-operative care.
+
+During the post-operative period, the patient experienced [insert any complications that occurred, such as nausea, vomiting, or pain]. They were managed with [insert medications or interventions used to treat complications]. The patient's vital signs were closely monitored, and they were transferred to the ward once they were stable.
+
+The patient had an uneventful post-operative course and was discharged from the hospital on [insert date]. They were advised to follow up with their primary care physician for further care and to monitor their condition.
+
+The patient was seen in the clinic for a follow-up appointment on [insert date], where they reported feeling well and recovering as expected. They were advised to continue their medications and follow-up with their primary care physician as needed.
+
+Overall, the patient had a successful surgery and a smooth post-operative course, with no major complications noted.

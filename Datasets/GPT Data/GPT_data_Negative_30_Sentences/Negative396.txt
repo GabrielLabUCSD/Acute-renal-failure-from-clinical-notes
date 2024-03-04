@@ -1,0 +1,15 @@
+The patient is a [age]-year-old [gender] planning to have surgery for [reason] on [date]. They have a medical history significant for [conditions]. The patient takes [medications] for [indication]. They have a known allergy to [allergies]. 
+
+Their surgical history includes [previous surgeries]. Regarding their family history, they have a family member with a history of [condition]. They have a social history of [tobacco/alcohol/drug use]. The patient denies any recent travel or exposure to infectious diseases.
+
+In terms of their preoperative workup, the patient's laboratory tests showed [results]. Their imaging studies revealed [findings]. A consultation with [specialist] was obtained and they recommended [treatment/management plan]. The patient is scheduled to have [type of surgery] under the care of [surgeon name].
+
+Prior to surgery, the patient will need to stop taking certain medications such as [medications] due to their potential interactions or adverse effects. They were instructed to fast for [duration] before the surgery. Preoperative antibiotics were administered according to the hospital's protocol.
+
+After the surgery, the patient was provided with pain management through [analgesics]. They were closely monitored for any signs of postoperative complications including infection, bleeding, or changes in vital signs. The patient was encouraged to ambulate and perform respiratory exercises to reduce the risk of complications such as deep vein thrombosis and pneumonia.
+
+During the postoperative course, the patient experienced [complications / if any]. They were closely followed by the surgical team and received appropriate interventions to manage the complications. In addition, the patient had regular follow-up appointments scheduled to monitor their healing and progress. 
+
+The patient was discharged on [date] in a stable condition with instructions for wound care, medication management, and physical activity. They were advised to report any new or worsening symptoms to their healthcare provider. The patient was also provided with a follow-up appointment with their primary care physician to ensure continuity of care.
+
+Overall, the patient's surgical experience was successful, and they are recovering well from the procedure. They are adhering to the postoperative instructions and participating in their rehabilitation program. The patient is expected to have a good prognosis and return to their usual activities within the expected timeframe.

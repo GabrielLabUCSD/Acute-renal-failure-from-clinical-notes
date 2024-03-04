@@ -1,0 +1,73 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and bilateral leg pain. He has been diagnosed with spondylolisthesis and spinal stenosis. The patient has tried physical therapy and pain management without significant relief. He is now considering surgical intervention.
+
+The patient has a history of hypertension and hyperlipidemia. He is currently taking Lisinopril and Atorvastatin. He has no known allergies.
+
+The patient has a history of smoking but quit 5 years ago. He consumes moderate amounts of alcohol.
+
+The patient has a history of lung cancer and had a right upper lobectomy 2 years ago. He has been cancer-free since then.
+
+The patient has a history of obstructive sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+
+The patient is taking aspirin and Plavix as a platelet inhibitor.
+
+The patient has a history of peptic ulcer disease and takes prevacid daily.
+
+The patient has a history of gout and takes Allopurinol as prescribed.
+
+The patient has a history of frequent constipation and takes Metamucil daily.
+
+The patient has a history of hyperthyroidism and takes levothyroxine sodium.
+
+The patient has a history of seasonal allergies and takes Zyrtec as needed.
+
+The patient has a history of degenerative joint disease in both knees.
+
+The patient has a history of chronic prostatitis and takes Cipro as needed.
+
+The patient has a history of mild hearing loss in the right ear.
+
+The patient has a history of mild anemia and takes iron supplements as needed.
+
+The patient has a history of mild osteoporosis and takes Calcium and Vitamin D supplements.
+
+The patient has a history of mild depression and anxiety and takes sertraline daily.
+
+The patient has a history of mild sleep disturbance and takes melatonin as needed.
+
+The patient is currently single and lives alone.
+
+The patient works as an accountant and spends most of the day sitting at a desk.
+
+The patient has a history of frequent migraines and takes Topamax as needed.
+
+The patient has a history of mild carpal tunnel syndrome in both hands.
+
+The patient has a history of mild asthma and uses an albuterol inhaler as needed.
+
+The patient has a history of mild acid reflux and takes omeprazole daily.
+
+The patient has a history of mild bronchitis and takes augmentin as needed.
+
+The patient has a history of mild urinary incontinence and takes tamsulosin daily.
+
+The patient has a history of mild degenerative disc disease in the lumbar spine.
+
+The patient has a history of mild hyponatremia and takes salt tablets as needed.
+
+The patient has a history of mild hyperlipidemia and takes atorvastatin daily.
+
+The patient has a history of frequent nausea and takes ondansetron as needed.
+
+The patient has a history of mild sleep apnea and uses a bilevel positive airway pressure (BiPAP) machine at night.
+
+The patient has a history of mild glaucoma and takes latanoprost daily.
+
+After surgery, the patient experienced some postoperative pain, which was managed with pain medication. He had a smooth postoperative course otherwise and did not experience any complications. He was discharged from the hospital on the third postoperative day and continues to recover at home.
+
+Furthermore, the patient's history of smoking and chronic obstructive pulmonary disease (COPD) increases his risk for respiratory complications after surgery. It is important for him to follow up with his primary care physician for management of these conditions after discharge.
+
+In addition, the patient's history of sleep apnea, hyperthyroidism, and glaucoma should be monitored closely after surgery, and he should follow up with his specialists to ensure that these conditions are well-controlled.
+
+In summary, this patient's comprehensive medical history is significant for smoking history, lung cancer, chron

@@ -1,0 +1,50 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He has been a smoker for the past 40 years.
+4. He has a history of Non-ST-Segment Elevation Myocardial Infarction (NSTEMI) 5 years ago.
+5. He has been diagnosed with chronic kidney disease (CKD) stage 3.
+6. He is currently taking medication for his hypertension and hyperlipidemia.
+7. He has a history of bleeding gastric ulcer 10 years ago.
+8. He has a history of chronic obstructive pulmonary disease (COPD).
+9. He has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine.
+10. He has a history of lower back pain and has been taking opioids for the past year.
+11. He has a history of hypothyroidism and takes levothyroxine daily.
+12. He has a history of benign prostatic hyperplasia (BPH) and takes tamsulosin daily.
+13. He has a history of frequent urinary tract infections (UTIs).
+14. He has a history of right knee osteoarthritis and has been using a knee brace for the past year.
+15. He has a history of left shoulder rotator cuff tear and has been considering surgery.
+16. He has a history of glaucoma and takes eye drops daily.
+17. He has a history of mild cognitive impairment and has been seeing a neurologist for the past year.
+18. He has a history of vitamin D deficiency and takes supplements daily.
+19. He has a history of chronic low back pain and has been seeing a chiropractor for the past year.
+20. He has a history of depression and takes antidepressant medication daily.
+21. He has a history of anxiety and takes anxiolytic medication daily.
+22. He has a history of recent weight loss of 10 pounds in the past 3 months.
+23. He has a history of recent onset of fatigue and weakness.
+24. He has a history of recent onset of nausea and vomiting.
+25. He has a history of recent onset of abdominal pain.
+26. He has a history of recent onset of fever.
+27. He has a history of recent onset of chills.
+28. He has a history of recent onset of night sweats.
+29. He has a history of recent onset of weight loss.
+30. He is planning to undergo surgery for his left shoulder rotator cuff tear next week.
+
+Complication:
+
+1. The patient developed acute renal failure (ARF) post-operatively.
+2. He had decreased urine output and elevated serum creatinine levels.
+3. He had symptoms of nausea, vomiting, and weakness.
+4. He required intensive care unit (ICU) admission for close monitoring.
+5. He needed continuous renal replacement therapy (CRRT) for 3 days.
+6. He had a slow recovery and required prolonged hospital stay.
+7. He developed hypokalemia and hypomagnesemia.
+8. He required blood transfusions for anemia.
+9. He had a respiratory failure and required mechanical ventilation.
+10. He developed sepsis and required vasopressor support.
+11. He had a cardiac arrest and required cardiopulmonary resuscitation (CPR).
+12. He had a prolonged hospital stay and required rehabilitation therapy.
+13. He had a slow recovery and was unable to return to work for several months.
+14. He developed chronic kidney disease (CKD) stage 4.
+15. He required frequent hemodialysis and had a poor prognosis.

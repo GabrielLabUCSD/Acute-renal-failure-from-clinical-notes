@@ -1,0 +1,29 @@
+The patient is a [age]-year-old [gender] who is planning to have [type of surgery]. 
+
+Medical history:
+
+1. The patient has a history of [medical condition] diagnosed [year].
+2. They have been taking [medication or treatment] for [medical condition].
+3. The patient has had [number] previous surgeries, including [type of surgeries].
+4. They have a history of [allergies] to [specific allergen].
+5. The patient has a family history of [medical condition].
+6. They have a history of [smoking, alcohol or substance abuse].
+7. The patient's blood pressure has been consistently [normal, elevated, high].
+8. They have a history of [diabetes, hypertension, asthma, or any other chronic conditions].
+
+Preoperative course:
+
+9. The patient underwent several preoperative assessments, including blood tests and imaging studies.
+10. They have been instructed to withhold food and drink for [number] hours before the surgery.
+11. The patient has received education about the procedure, possible risks, and postoperative care.
+12. The surgical team has obtained informed consent from the patient.
+
+Postoperative course:
+
+13. The patient underwent surgery without any complications.
+14. They were closely monitored in the recovery room after the surgery.
+15. The patient's vital signs remained stable, and they were successfully weaned off anesthesia.
+
+Complications:
+
+The patient did not experience any complications during the postoperative period, and their recovery has been progressing well. However, it is important to note that this summary does not include the possibility of acute renal failure as a complication. It is recommended to continue monitoring the patient closely for any signs of complications specific to their surgery and to provide appropriate postoperative care accordingly.

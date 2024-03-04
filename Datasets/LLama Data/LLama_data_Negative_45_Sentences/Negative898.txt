@@ -1,0 +1,35 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presented for a preoperative evaluation for an elective laparoscopic cholecystectomy. The patient has a history of gallstones and symptomatic cholelithiasis, with persistent right upper quadrant abdominal pain and nausea. The patient has tried conservative management, including lifestyle changes and medications, without relief.
+
+The patient has no significant medical history, including no history of cardiovascular disease, respiratory disease, or gastrointestinal disease. The patient does not have a history of previous abdominal surgery.
+
+The patient's current medications include cephalexin for a recent urinary tract infection, and fenofibrate for hyperlipidemia. The patient has no known drug allergies.
+
+The patient's family history is unremarkable, with no history of gallstones or other surgical conditions.
+
+On physical examination, the patient's vital signs are normal, with a blood pressure of 120/80 mmHg, heart rate of 70 bpm, respiratory rate of 16/min, and temperature of 98.6°F. The patient's abdominal examination reveals tenderness to palpation in the right upper quadrant, with guarding and rigidity. There is no rebound tenderness or masses palpable.
+
+The patient's laboratory results are as follows:
+
+* WBC: 11,000 cells/mm3
+* Hemoglobin: 14.5 g/dL
+* Platelet count: 250,000 cells/mm3
+* Serum bilirubin: 1.2 mg/dL
+* AST: 45 IU/L
+* ALT: 55 IU/L
+* Alkaline phosphatase: 120 IU/L
+* Total bilirubin: 1.5 mg/dL
+* Direct bilirubin: 0.3 mg/dL
+* Urobilinogen: 0.5 mg/dL
+* Creatinine: 0.8 mg/dL
+
+The patient's imaging studies include an ultrasound of the gallbladder, which shows multiple gallstones and a contracted gallbladder. An ECG shows no evidence of cardiac disease.
+
+The patient's postoperative course was uneventful. The patient tolerated the procedure well and was discharged from the hospital on the second postoperative day. The patient did not experience any complications during the postoperative period.
+
+Follow-up appointment was scheduled for 2 weeks after discharge, and the patient was advised to follow a clear liquid diet for 1 week after discharge and then gradually advance to a bland diet. The patient was also advised to avoid heavy lifting, bending, or straining for 4-6 weeks after surgery.
+
+The patient's postoperative instructions included the use of pain medication as needed, and the patient was prescribed hydrocodone-acetaminophen for pain management. The patient was also advised to monitor for signs of infection, such as fever, chills, or worsening abdominal pain.
+
+In conclusion, the patient underwent a successful laparoscopic cholecystectomy, and the postoperative course was uneventful. The patient did not experience any complications during the postoperative period and was discharged from the hospital on the second postoperative day. The patient was advised to follow a clear liquid diet for 1 week after discharge and then gradually advance to a bland diet, and to avoid heavy lifting, bending, or straining for 4-6 weeks after surgery.

@@ -1,0 +1,28 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes mellitus.
+3. He has been scheduled for elective surgery to repair a hernia.
+4. The patient has no known allergies.
+5. He is currently taking aspirin and metformin.
+6. The patient has a history of smoking but quit 10 years ago.
+7. He has a history of alcohol use but denies excessive drinking.
+8. The patient has a history of chronic obstructive pulmonary disease (COPD).
+9. He has been experiencing shortness of breath and wheezing.
+10. The patient has a history of coronary artery disease and had a myocardial infarction (heart attack) 5 years ago.
+11. He underwent percutaneous coronary intervention (PCI) and has been compliant with his medications.
+12. The patient has a history of obesity with a body mass index (BMI) of 32.
+13. He has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine.
+14. The patient has a history of gastroesophageal reflux disease (GERD) and takes omeprazole.
+15. He denies any recent changes in urination or bowel habits.
+
+Complication:
+
+1. The patient developed acute renal failure (ARF) post-operatively.
+2. He had a rise in serum creatinine level from 1.5 mg/dL to 4.0 mg/dL.
+3. Urinalysis showed pyuria and hematuria.
+4. The patient had decreased urine output and complained of decreased urination.
+5. He was managed with intensive fluid management and hemodialysis.
+6. The patient had a temporary improvement in renal function but ultimately required ongoing dialysis.
+7. The patient developed a surgical site infection (SSI) and required adjunctive antibiotics.
+8. He had a prolonged hospital stay and required rehabilitation before being discharged home.

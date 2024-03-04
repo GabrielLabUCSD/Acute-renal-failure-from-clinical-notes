@@ -1,0 +1,27 @@
+The patient is a 55-year-old male who is planning to undergo surgery. He has a medical history of hypertension, diabetes mellitus type 2, hyperlipidemia, and atrial fibrillation. His blood pressure is well controlled on a combination of lisinopril and hydrochlorothiazide.
+His diabetes is managed with metformin and he has good blood glucose control. His lipid profile is within normal limits on atorvastatin.
+The patient also has a history of atrial fibrillation, for which he takes warfarin to maintain therapeutic anticoagulation.
+He reports occasional palpitations but denies any recent episodes of syncope or chest pain. He has no history of venous thromboembolism.
+The patient has a history of cigarette smoking for 30 years but quit five years ago. His lung function tests are normal.
+He has a family history of cardiac disease, with his father and brother having experienced heart attacks at ages 60 and 50, respectively.
+The patient is otherwise in good overall health, with no known drug allergies.
+On physical examination, he has a body mass index of 28 and a regular heart rate with no murmurs or irregularities. His lungs are clear to auscultation.
+Laboratory results reveal normal renal function with a creatinine clearance of 90 ml/min.
+He has no evidence of anemia or other hematological abnormalities.
+Cardiac stress testing performed six months ago showed no significant ischemia or arrhythmias.
+Electrocardiogram shows atrial fibrillation with a heart rate of 80 beats per minute and no evidence of acute ischemic changes.
+A transthoracic echocardiogram conducted two months ago showed preserved left ventricular systolic function with an ejection fraction of 60%. There were no valvular abnormalities, but mild left atrial enlargement was noted.
+The patient is scheduled to undergo elective surgery for hernia repair under general anesthesia. He has been advised to stop taking his warfarin three days before the surgery.
+He is to receive perioperative prophylactic antibiotics and deep vein thrombosis prophylaxis with subcutaneous heparin.
+The surgery proceeds uneventfully, and the patient is extubated in the post-anesthesia care unit.
+He is closely monitored for any signs of bleeding or thromboembolic complications.
+Over the next few days, the patient's pain is well controlled with oral analgesics, and he is able to perform activities of daily living.
+He is started on low molecular weight heparin for postoperative thromboprophylaxis.
+The patient is discharged home on the fifth postoperative day with no surgical site infection or wound complications.
+He is advised to continue his antihypertensive, antidiabetic, and lipid-lowering medications.
+Follow-up arrangements are made for one week after discharge to assess his postoperative course.
+At the follow-up visit, the patient is doing well with no complaints of pain, fever, or swelling at the surgical site.
+His surgical incision is healing and he is able to resume his regular activities without restrictions.
+The patient's warfarin is restarted and he is counseled on maintaining good anticoagulation control.
+He is scheduled for a repeat echocardiogram in six months, as per routine follow-up for his atrial fibrillation.
+In summary, the patient is a 55-year-old male with a medical history of hypertension, diabetes, hyperlipidemia, and atrial fibrillation. He is in good overall health and has normal renal function. He successfully undergoes elective surgery for hernia repair without complications. His postoperative course is uneventful, and he is discharged home with appropriate medications and follow-up plans.

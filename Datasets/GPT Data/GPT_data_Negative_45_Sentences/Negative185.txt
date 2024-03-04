@@ -1,0 +1,29 @@
+Patient is a [age]-year-old [gender] with a medical history significant for [medical conditions]. The patient is scheduled to undergo [type of surgery] for [reason]. 
+
+The patient was initially evaluated in the outpatient clinic due to [symptoms] and subsequent workup revealed [findings]. They were previously managed with [treatment] but unfortunately did not show significant improvement. 
+
+During the preoperative assessment, the patient's vital signs were [stable/unstable]. Laboratory investigations revealed [findings]. Imaging studies including [type of imaging] showed [results]. 
+
+The patient's medication history includes [list of medications] for [duration]. They have allergies to [allergies]. The patient has a significant family history of [medical condition]. 
+
+The patient's surgical team discussed the risks, benefits, and alternative treatment options with the patient. Informed consent was obtained, and the patient's questions and concerns were addressed. 
+
+Surgery was performed under [type of anesthesia] anesthesia without any complications. The procedure consisted of [details of surgery]. Intraoperative findings revealed [findings]. The surgical team utilized [surgical techniques] to achieve the desired outcome. 
+
+Postoperatively, the patient was initially admitted to the recovery room for [duration]. Vital signs were monitored closely. They were started on postoperative pain management with [medications]. 
+
+On the first postoperative day, the patient experienced [postoperative course]. The patient exhibited [postoperative complications, if any]. The complications were managed with [treatments]. 
+
+The patient's condition gradually improved over the next few days. They were able to tolerate a regular diet and ambulate without difficulty. Postoperative pain was controlled with [medications]. 
+
+During the hospital stay, the patient was visited daily by the surgical team to assess wound healing and manage any concerns. The patient received appropriate prophylactic antibiotics and deep vein thrombosis prophylaxis as recommended. 
+
+Throughout the hospitalization, the patient remained stable and showed signs of improvement. They were monitored for signs of infection, bleeding, and any other potential postoperative complications. 
+
+The patient's surgical wound was inspected daily and appropriate dressings were applied. The wound appeared to be healing well without signs of infection. 
+
+On the [number] postoperative day, the patient's condition was stable enough to be discharged. They were given instructions on wound care, activity restrictions, and medications. 
+
+A follow-up appointment was scheduled for [date] to assess the patient's progress and remove any sutures if necessary. The patient was advised to contact the surgical team if any concerns or new symptoms arise. 
+
+In summary, this [age]-year-old [gender] underwent [type of surgery] for [reason]. The surgery was performed without complications. Postoperatively, the patient experienced [postoperative course], and [postoperative complications] were successfully managed. The patient's condition improved throughout the hospital stay, and they were discharged on [date]. Follow-up is scheduled for [date].

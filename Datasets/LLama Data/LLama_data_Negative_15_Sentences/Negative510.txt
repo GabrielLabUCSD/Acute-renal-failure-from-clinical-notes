@@ -1,0 +1,24 @@
+Patient Summary:
+
+* Patient Name: John Doe
+* Age: 65
+* Gender: Male
+* Medical History: Hypertension, hyperlipidemia, non-insulin dependent diabetes mellitus, and obstructive sleep apnea.
+* Reason for Surgery: Elective laparoscopic cholecystectomy for symptomatic gallstones.
+* Past Surgeries: Appendectomy at age 25, circumcision as a child.
+* Medications: Lisinopril, atorvastatin, metformin, and continuous positive airway pressure (CPAP) therapy for sleep apnea.
+* Allergies: Penicillin, sulfa antibiotics.
+* Social History: Retired, smoker (1 pack per day for 30 years), drinks alcohol occasionally.
+* Family History: Father died of myocardial infarction at age 60, mother had hypertension and diabetes.
+* Current Symptoms: Right upper quadrant abdominal pain, nausea, vomiting, and fever.
+* Physical Examination: Temperature 100.4°F, blood pressure 160/90 mmHg, heart rate 80 beats per minute, respiratory rate 16 breaths per minute. Abdominal examination reveals tenderness to palpation in the right upper quadrant with guarding and rebound tenderness.
+* Laboratory Results: White blood cell count 12,000 cells/mm3, serum bilirubin 2.5 mg/dL, alanine transaminase (ALT) 150 U/L, aspartate transaminase (AST) 180 U/L, alkaline phosphatase 120 U/L.
+* Imaging Studies: Ultrasound of the gallbladder shows multiple gallstones with obstruction of the cystic duct.
+* Plan: Elective laparoscopic cholecystectomy.
+* Postoperative Course:
+	+ Day 1: Patient is awake, alert, and comfortable. Vital signs are stable.
+	+ Day 2: Patient is able to drink clear liquids and has a good appetite.
+	+ Day 3: Patient is able to ambulate and is discharged home.
+* Complications: None.
+
+Note: The patient's history of hypertension, hyperlipidemia, non-insulin dependent diabetes mellitus, and obstructive sleep apnea may increase the risk of postoperative complications such as cardiovascular events, respiratory problems, and wound infections.

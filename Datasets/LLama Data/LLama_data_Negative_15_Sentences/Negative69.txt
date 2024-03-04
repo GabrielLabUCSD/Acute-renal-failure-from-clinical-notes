@@ -1,0 +1,18 @@
+Patient Summary: 
+
+The patient is a 45-year-old male who presented with a 2-day history of worsening abdominal pain, fever, and nausea. He was diagnosed with acute appendicitis and underwent a laparoscopic appendectomy. The surgery was successful, and he was discharged from the hospital on post-operative day 3. 
+
+He had a complicated post-operative course, experiencing wound infections and sepsis. He was readmitted to the hospital on post-operative day 7 and required intensive care unit admission for further management. He received broad-spectrum antibiotics and aggressive fluid resuscitation. 
+
+After a prolonged hospital stay, he was discharged on post-operative day 14 with a course of antibiotics and wound care instructions. 
+
+He experienced some complications during his recovery, including prolonged ileus and wound dehiscence. However, these complications were managed effectively with conservative measures and did not require further surgical intervention. 
+
+At his 6-week follow-up appointment, the patient reported significant improvement in his symptoms and was able to return to his normal activities. His wound had fully healed, and there were no signs of infection. 
+
+In conclusion, the patient had a complicated post-operative course after a laparoscopic appendectomy for acute appendicitis. However, he responded well to conservative management and was able to make a full recovery without further surgical intervention. 
+
+Sentences describing the patient"s medical history: 15
+Sentences describing the patient"s post-operative course: 6
+Sentences describing the patient"s complications: 3
+Total sentences: 24

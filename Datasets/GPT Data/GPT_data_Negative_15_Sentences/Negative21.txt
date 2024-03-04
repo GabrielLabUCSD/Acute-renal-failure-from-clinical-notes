@@ -1,0 +1,15 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. Their past medical history is significant for [condition/disease], which was diagnosed [duration] ago. They have been managed with [medications/treatments]. Additionally, the patient has a history of [condition/disease] diagnosed [duration] ago, which has been controlled through [medications/treatments]. They are also being treated for [condition/disease] with the use of [medications/treatments].
+
+In terms of surgical history, the patient previously underwent [type of surgery] for [reason] [duration] ago. The procedure was uneventful, and they had a satisfactory postoperative recovery without any complications. The patient experienced [symptoms/issues] and sought medical help [duration] after the surgery, which was resolved with [treatment].
+
+It is important to note that the patient has a known allergy to [specific allergen], and they experience [symptoms] upon exposure. They are not currently taking any immunosuppressive medications. The patient denies smoking or alcohol/drug abuse.
+
+Preoperatively, the patient underwent a comprehensive workup, including [list of tests/procedures], which revealed [findings]. Their vital signs, including blood pressure, heart rate, respiratory rate, and oxygen saturation, were within normal limits. Laboratory tests, such as complete blood count, blood chemistry panel, and coagulation profile, were also within normal ranges.
+
+The patient was deemed an appropriate candidate for surgery and provided informed consent. They were advised about the risks and benefits of the procedure, as well as any potential complications that may arise.
+
+Postoperatively, the patient was closely monitored in the recovery room for [duration] before being transferred to their hospital room. They exhibited stable vital signs and were started on [postoperative medications/treatments]. Pain management was provided through [pain medication/administration method]. The patient was able to tolerate oral intake and was ambulating with assistance.
+
+During their hospital stay, the patient's recovery was uneventful, and they did not experience any complications directly related to the surgery. Their wound healing progress was satisfactory, and there were no signs of infection or other wound-related issues. The patient's pain was adequately controlled, and they were able to perform daily activities with minimal discomfort.
+
+In summary, the patient, who is planning to undergo [type of surgery], has a medical history that includes [conditions/diseases]. Their previous surgical procedure was successful, without any complications. Preoperatively, the patient's workup was normal, and they were deemed an appropriate candidate for surgery. Postoperatively, the patient had an uneventful course, and they did not experience any complications related to the surgery.

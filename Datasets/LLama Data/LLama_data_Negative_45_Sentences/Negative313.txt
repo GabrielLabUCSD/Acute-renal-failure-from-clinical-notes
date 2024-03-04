@@ -1,0 +1,123 @@
+Sure, here's a patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery. Also described is the patient's postoperative course and any complications that may have occurred, excluding acute renal failure.
+
+Patient Name: John Doe
+
+Age: 65
+
+Gender: Male
+
+Chief Complaint: Chronic back pain
+
+Medical History:
+
+* History of smoking
+* Hypertension
+* Hyperlipidemia
+* Diabetes mellitus
+* Obesity
+* Sleep apnea
+* History of benign prostatic hyperplasia (BPH)
+* History of bladder neck obstruction
+* History of urinary retention
+* History of chronic kidney disease (CKD) Stage III
+* History of coronary artery disease (CAD)
+* History of myocardial infarction (MI)
+* History of heart failure
+* History of chronic obstructive pulmonary disease (COPD)
+* History of gastroesophageal reflux disease (GERD)
+* History of peptic ulcer disease (PUD)
+* History of gallstones
+
+Surgical History:
+
+* Cholecystectomy
+* Hysterectomy
+* Bilateral knee replacement
+* Bilateral cataract surgery
+* History of surgical site infections (SSIs)
+
+Current Medications:
+
+* Aspirin
+* Metformin
+* Lisinopril
+* Amlodipine
+* Atorvastatin
+* Omeprazole
+* Alprazolam
+* Zolpidem
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Social History:
+
+* Married with two adult children
+* Retired
+* History of alcohol use disorder (AUD)
+* History of tobacco use disorder (TUD)
+* Lives alone
+* Has support system
+
+Family History:
+
+* Father died of MI at age 60
+* Mother died of CVA at age 70
+* One sibling with history of MI
+
+Reason for Surgery:
+
+* Chronic back pain
+
+Preoperative Workup:
+
+* Complete blood count (CBC)
+* Electrolyte panel
+* renal function tests (RFTs)
+* Lipid profile
+* Glucose tolerance test (GTT)
+* Pulmonary function tests (PFTs)
+* Echocardiogram (ECHO)
+* Electrocardiogram (ECG)
+* Urinalysis
+* Imaging studies (X-ray, CT scan, MRI)
+
+Intraoperative Course:
+
+* Uneventful
+
+Postoperative Course:
+
+* Patient experienced some pain, nausea, and vomiting in the immediate postoperative period
+* Pain managed with morphine and hydromorphone
+* Patient had some difficulty urinating, managed with bladder catheter
+* Patient developed minor wound infection, managed with antibiotics
+* Patient experienced some constipation, managed with laxatives and stool softeners
+* Patient had some episodes of hypotension, managed with fluids and vasopressors
+* Patient had some episodes of hypertension, managed with antihypertensives
+
+Complications:
+
+* Wound infection
+* Hypotension
+* Hypertension
+
+Current Status:
+
+* Patient is recovering well
+* Patient is tolerating oral pain medication
+* Patient is able to void and have bowel movements without difficulty
+* Patient is able to ambulate without assistance
+* Patient is able to perform activities of daily living (ADLs) without difficulty
+
+Planned Follow-up:
+
+* Follow-up appointment with surgeon in 2 weeks
+* Follow-up appointment with primary care physician in 4 weeks
+* Follow-up appointment with pain management specialist in 6 weeks
+
+Note:
+
+* Patient is at risk for development of acute renal failure due to chronic kidney disease (CKD) Stage III and history of urinary retention. However, patient's renal function has been stable, and patient has not experienced any recent decline in renal function.

@@ -1,0 +1,13 @@
+Patient Summary:
+
+This is a patient who is scheduled to have surgery. They have a history of hypertension, which is well-controlled on medication. The patient also has a history of diabetes and is on oral medication to manage it. No complications related to diabetes have been reported so far. The patient does not have any known allergies to medications. Their surgical history includes an appendectomy performed 5 years ago without any complications. 
+
+The patient has no history of chronic lung disease or asthma. They are a non-smoker and do not use any recreational drugs. The patient has never had a blood transfusion. They report a body mass index within the normal range. Their exercise tolerance is good, with no limitations reported. The patient's vital signs are stable, with a blood pressure of 120/80 mmHg, heart rate of 70 beats per minute, and respiratory rate of 14 breaths per minute. 
+
+Lab results reveal a hemoglobin level of 12 g/dL, within the normal range for their sex and age. Their fasting blood glucose level is well-controlled at 110 mg/dL. Renal function is within normal limits, with a serum creatinine level of 0.9 mg/dL. The patient has no known liver disease. Blood coagulation studies are normal, with a prothrombin time of 12 seconds and an international normalized ratio of 1.0. 
+
+The patient has received preoperative counseling and education regarding the procedure, including its risks and benefits. They have provided informed consent. They have been advised to continue taking their antihypertensive and antidiabetic medications on the morning of the surgery. They have been asked to fast for 8 hours prior to the surgery and have been given instructions regarding preoperative showering and cleansing.
+
+Postoperatively, the patient recovers well from the surgery and their vital signs remain stable. They do not experience any immediate complications such as bleeding, infection, or respiratory distress. The patient's pain is well-managed with analgesics. They are started on prophylactic antibiotics to prevent surgical site infection. The patient is able to ambulate, eat, and drink without difficulties. 
+
+Overall, the patient's postoperative course is uneventful. They do not experience any complications such as wound dehiscence, thromboembolism, or surgical site infection. The patient is discharged home with clear postoperative instructions and a follow-up appointment. They are advised to continue their regular medications and to monitor their blood glucose levels closely. The patient is instructed to report any signs of fever, worsening pain, or other concerning symptoms.

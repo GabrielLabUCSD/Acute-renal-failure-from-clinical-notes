@@ -1,0 +1,61 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [medical conditions]. They are planning to have [type of surgery] surgery. 
+
+In terms of their surgical history, they previously underwent [previous surgeries], [dates], without any major complications. 
+
+Their current medications include [medications], which they have been taking for [duration]. They are not on any anticoagulant medications. 
+
+In terms of allergies, the patient reports no known drug allergies. 
+
+The patient denies any history of smoking or alcohol use, and they do not use recreational drugs. 
+
+On review of systems, the patient reports [symptoms] but denies [other symptoms]. 
+
+Their physical examination reveals [relevant findings]. 
+
+Laboratory results show normal values for [relevant lab tests]. 
+
+A chest X-ray was performed and showed normal lung fields and heart size. 
+
+An electrocardiogram (ECG) was performed, showing a normal sinus rhythm without any significant abnormalities. 
+
+The patient's preoperative anesthesia evaluation was unremarkable. 
+
+The patient received appropriate preoperative education about the surgery itself, potential risks and benefits, and what to expect during the recovery period. 
+
+The patient understands the importance of following all preoperative instructions, including fasting guidelines before surgery. 
+
+The surgery is planned to be performed under general anesthesia. 
+
+The surgical team will utilize [surgical approach/techniques] for the procedure. 
+
+The patient will be monitored closely during the surgery, with appropriate measures taken to ensure their safety and comfort. 
+
+In the immediate postoperative period, the patient will be taken to the recovery room for close monitoring as they wake up from anesthesia. 
+
+Postoperatively, the patient will be started on [pain management regimen]. 
+
+They will also be given instructions regarding wound care, activity restrictions, and any necessary follow-up appointments. 
+
+Risk factors for potential complications during their postoperative course include factors such as [relevant risk factors]. 
+
+Close monitoring will be conducted postoperatively to evaluate for any signs of infection, bleeding, or other complications. 
+
+The patient will receive appropriate postoperative physical therapy or other interventions as necessary. 
+
+They will be provided with education on warning signs to look out for and when to seek additional medical attention. 
+
+During their hospital stay, the patient's vital signs will be closely monitored, and appropriate pain management will be provided. 
+
+Nurses will conduct regular assessments of the surgical site for any signs of infection or poor wound healing. 
+
+The patient's blood glucose levels will be closely monitored if they have a history of diabetes. 
+
+To prevent postoperative complications, the patient will be encouraged to ambulate early and practice deep breathing exercises. 
+
+The patient's postoperative course was uneventful, with no major complications reported. 
+
+They experienced a normal recovery period and were discharged from the hospital on [date] with appropriate home care instructions. 
+
+In the outpatient setting, the patient will continue with physical therapy and follow-up appointments to monitor their progress. 
+
+Overall, the patient successfully underwent [type of surgery] surgery and had an uneventful postoperative course without complications other than acute renal failure.

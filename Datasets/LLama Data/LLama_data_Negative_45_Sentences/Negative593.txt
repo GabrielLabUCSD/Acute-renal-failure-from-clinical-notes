@@ -1,0 +1,73 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemic
+* History of smoking
+* History of alcohol use disorder
+* Obese (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* Previous history of colon cancer (stage II)
+* Previous history of myocardial infarction (MI)
+* Previous history of atrial fibrillation
+* Currently taking aspirin, lisinopril, atorvastatin, and oxycodone
+
+Reason for Surgery:
+
+* Diagnosis of severe oseltamivir-resistant influenza
+* Need for emergency splenectomy
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+* Latex
+
+Current Medications:
+
+* Aspirin
+* Lisinopril
+* Atorvastatin
+* Oxycodone
+
+Preoperative Workup:
+
+* Lab work: WBC 12,000, Hb 10.2, platelets 80,000, INR 1.8, Cr 1.2, Na 138, K 4.2, Cl 102, HCO3 24, base excess -2
+* Imaging studies: CT scan showed splenomegaly with infarction
+* ECG: showed left bundle branch block (LBBB)
+* Echocardiogram: showed left ventricular hypertrophy and mild systolic dysfunction
+
+Intraoperative Course:
+
+* Induction: midazolam, fentanyl, and sufentanil
+* Maintenance: sevoflurane and nitrous oxide
+* Muscle relaxation: rocuronium
+* Blood loss: estimated 500 mL
+* Surgical procedure: splenectomy with ultrasonic device
+* Duration of surgery: 2 hours
+
+Postoperative Course:
+
+* Extubated and taken to ICU for close monitoring
+* Vitals stable, but tachycardic (HR 110) and hypertensive (BP 180/90)
+* Pain managed with oxycodone PCA
+* Received IV antibiotics (ceftriaxone and metronidazole) for 5 days
+* Gradually transitioned to oral antibiotics (amoxicillin and Flagyl)
+* Discharged from hospital on day 7
+
+Complications:
+
+* None
+
+Follow-up:
+
+* Followed up with primary care physician for wound check and removal of sutures
+* Followed up with cardiologist for management of hypertension and atrial fibrillation
+* Followed up with pain management for optimization of pain control
+
+I hope this sample patient summary helps! Please note that this is just an example and not meant to be used for actual patient care.

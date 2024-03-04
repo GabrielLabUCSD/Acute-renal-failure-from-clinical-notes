@@ -1,0 +1,79 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Diabetic
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Obese (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* Osteoarthritis of the knees
+* History of thyroid cancer (stage I)
+* History of colon cancer (stage II)
+* History of esophageal stricture
+* History of gastroesophageal reflux disease (GERD)
+
+Surgical History:
+
+* Cholecystectomy (open) 10 years ago
+* Hysterectomy (open) 15 years ago
+* Knee arthroscopy (arthroscopic) 5 years ago
+* Cataract surgery (phacoemulsification) 2 years ago
+* Colon cancer resection (open) 5 years ago
+
+Current Medications:
+
+* Lisinopril 40 mg daily
+* Metformin 500 mg daily
+* Atorvastatin 20 mg daily
+* Aspirin 81 mg daily
+* Omeprazole 20 mg daily
+* Alprazolam 0.5 mg daily
+* Ibuprofen 800 mg every 8 hours as needed
+* Naproxen 500 mg every 8 hours as needed
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with hypertension
+* One sibling with diabetes
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with no elevator
+* Has a dog that requires regular walking
+* Limited mobility due to chronic lower back pain
+* history of falls
+
+Postoperative Course:
+
+* Patient underwent a successful elective laparoscopic cholecystectomy
+* Postoperative day 1:
+	+ Patient had a stable vital signs
+	+ Patient was able to tolerate sips of water
+	+ Patient had a mild postoperative pain, controlled with IV acetaminophen and ibuprofen
+* Postoperative day 2:
+	+ Patient was able to eat a clear liquid diet
+	+ Patient had a moderate postoperative pain, controlled with oral pain medication
+	+ Patient had a mild nausea and vomiting
+* Postoperative day 3:
+	+ Patient was able to ambulate without assistance
+	+ Patient had a mild postoperative pain, controlled with oral pain medication
+	+ Patient was able to tolerate a regular diet
+* Postoperative day 4:
+	+ Patient was discharged home with a prescription for oral pain medication and instructions for wound care
+
+Complications:
+
+* None
+
+This patient summary includes information about the patient's medical history, surgical history, current medications, family history, and social history. It also describes the patient's postoperative course and outcome, including any complications that occurred. Note that this is a fictional patient and the information provided is for demonstration purposes only.

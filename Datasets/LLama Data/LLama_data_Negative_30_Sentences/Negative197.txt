@@ -1,0 +1,78 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* Previous history of colon cancer (stage II)
+* Previous history of left hip replacement
+* Previous history of cataract surgery
+
+Current Medications:
+
+* Lisinopril 20mg daily
+* Atorvastatin 20mg daily
+* Omeprazole 20mg daily
+* Aspirin 81mg daily
+* Meloxicam 15mg daily
+* Alprazolam 0.5mg as needed
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Operative Procedure:
+
+* Elective laparoscopic cholecystectomy
+
+Preoperative Workup:
+
+* Complete blood count with differential
+* Electrolyte panel
+* Lipase
+* Amylase
+* Urinalysis
+* Chest X-ray
+* EKG
+
+Postoperative Course:
+
+* Patient had an uneventful recovery
+* Started on clear liquids on postoperative day 1
+* Progressed to full liquids on postoperative day 2
+* Started on soft foods on postoperative day 3
+* No evidence of nausea or vomiting
+* No evidence of bleeding or hematoma
+* No evidence of wound infection
+* Patient was discharged home on postoperative day 4
+
+Potential Complications:
+
+* Respiratory:
+	+ Pneumonia
+	+ Respiratory failure
+	+ Pulmonary embolism
+* Cardiovascular:
+	+ Myocardial infarction
+	+ Cardiac arrhythmias
+	+ Hypotension
+* Surgical:
+	+ Wound infection
+	+ Hematoma
+	+ Intestinal obstruction
+* Other:
+	+ Sepsis
+	+ DVT/PE
+	+ Hypoglycemia
+	+ Hyperglycemia
+
+Note: This is just a sample summary, and the specifics of the patient's medical history, medications, and potential complications may vary. It is important to individualize the summary for each patient based on their unique medical history and planned surgical procedure. Additionally, this summary does not include acute renal failure as a complication, as you requested.

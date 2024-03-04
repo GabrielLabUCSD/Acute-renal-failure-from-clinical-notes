@@ -1,0 +1,62 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications. Please note that acute renal failure is not included as a complication.
+
+Patient Summary:
+
+1. The patient is a 55-year-old male who presents with a 2-year history of worsening left knee pain.
+2. He has a history of hypertension and hyperlipidemia.
+3. His BMI is 32.
+4. He has a history of smoking, but quit 5 years ago.
+5. He has no known allergies.
+6. His father had a history of coronary artery disease.
+7. He has never had any surgeries before.
+8. His current medications include atorvastatin, lisinopril, and aspirin.
+9. He denies any recent illnesses or hospitalizations.
+10. He has been using over-the-counter pain medications for his knee pain.
+11. The patient's knee pain has been gradually worsening over the past 2 years.
+12. He has difficulty walking, climbing stairs, and squatting.
+13. He has tried physical therapy and corticosteroid injections without relief.
+14. He has a history of patellofemoral pain syndrome.
+15. His knee pain is mainly located on the medial aspect of the knee.
+16. He has a limp and an antalgic gait.
+17. His knee is swollen and warm to the touch.
+18. He has a moderate effusion in his knee.
+19. His ACL and menisci are intact.
+20. He has mild osteoarthritis on his knee x-rays.
+21. The patient is interested in undergoing a total knee arthroplasty.
+22. His preoperative lab work shows an elevated ESR and CRP.
+23. His blood type is A+.
+24. His INR is slightly elevated at 1.2.
+25. His echocardiogram shows mild mitral regurgitation.
+26. The patient has a history of OSA and uses a CPAP machine at night.
+27. He denies any recent travel or exposure to illness.
+28. He lives alone and has a support system in place.
+29. He has a ride arranged for his postoperative care.
+30. The patient understands the risks and benefits of the procedure and provides informed consent.
+
+Postoperative Course:
+
+1. The patient underwent a successful total knee arthroplasty.
+2. He had a smooth anesthesia and recovery.
+3. He experienced some postoperative nausea and vomiting.
+4. He had mild postoperative pain, managed with pain medication.
+5. He had some difficulty ambulating in the immediate postoperative period.
+6. He was able to walk independently within 24 hours.
+7. He had some mild swelling and bruising at the surgical site.
+8. His wound was clean and dry.
+9. He did not develop any complications such as DVT or PE.
+10. He was discharged home on postoperative day 4.
+
+Complications:
+
+1. The patient did not experience any acute complications.
+2. He had some mild delayed gastric emptying.
+3. He developed mild hypertension in the postoperative period.
+4. He had some mild urinary retention.
+5. His wound was slightly slower to heal.
+6. He experienced some mild postoperative anxiety.
+7. He had some mild constipation.
+8. He developed mild bilateral foot drop.
+9. His knee pain was managed with pain medication.
+10. He had some mild postoperative sleep disturbances.
+
+Please note that this is just a sample summary, and the specific details and complications may vary based on the individual patient's history and postoperative course.

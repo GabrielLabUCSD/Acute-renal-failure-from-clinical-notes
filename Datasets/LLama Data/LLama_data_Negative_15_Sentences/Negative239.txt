@@ -1,0 +1,64 @@
+Patient Summary:
+
+Name: [insert name here]
+Age: [insert age here]
+Gender: [insert gender here]
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus type 2
+* History of asthma
+* GERD
+* Osteoarthritis of the knees
+* History of migraines
+* Depression
+* Sleep apnea
+* Chronic kidney disease stage 3
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Hysterectomy 5 years ago
+* Bilateral knee replacement 2 years ago
+
+Current Medications:
+
+* Lisinopril 40 mg daily
+* Atorvastatin 20 mg daily
+* Metformin 1000 mg daily
+* Omeprazole 20 mg daily
+* Albuterol inhaler as needed
+* Ibuprofen 800 mg daily
+* Aspirin 81 mg daily
+* Meloxicam 15 mg daily
+* Zolpidem 10 mg at bedtime
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies alcohol or illicit drug use
+* Lives independently
+* Has supportive family members
+* Able to perform activities of daily living (ADLs) independently
+
+Reason for Surgery:
+The patient is scheduled for a total knee replacement surgery due to severe osteoarthritis of the right knee that has not responded well to conservative management.
+
+Postoperative Course:
+The patient had a successful total knee replacement surgery and was discharged from the hospital on postoperative day 3. They experienced mild pain and discomfort that was well-controlled with pain medication. They were instructed to follow a rehabilitation program to strengthen the surrounding muscles and regain full mobility.
+
+Complications:
+None.
+
+Follow-up Plan:
+The patient will follow up with their surgeon in 2 weeks for a postoperative appointment and to remove sutures. They will also follow up with their primary care physician for routine check-ups and to monitor their chronic medical conditions. Physical therapy will be continued to ensure proper healing and mobility.

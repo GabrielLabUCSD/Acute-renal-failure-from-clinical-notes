@@ -1,0 +1,86 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. The patient has a history of smoking and alcohol use. The patient has tried physical therapy and medication without relief. The patient is awaiting surgical intervention.
+
+Preoperative medications include:
+
+* Naproxen 500mg orally twice a day
+* Prednisone 5mg orally daily
+* Gabapentin 300mg orally three times a day
+* Muscle relaxant 5mg orally three times a day
+
+Preoperative lab results:
+
+* WBC 12,000/mm3
+* HbA1c 7.5%
+* BUN 18mg/dL
+* Creatinine 1.2mg/dL
+* Electrolytes within normal limits
+* Urinalysis shows 1+ protein, 1+ blood, and 1+ nitrites
+
+Allergies:
+
+* Penicillin
+* Latex
+
+Surgical history:
+
+* Appendectomy at age 25
+* Inguinal hernia repair at age 30
+* Cholecystectomy at age 35
+
+Family history:
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 60
+* One sibling with history of hypertension
+
+Social history:
+
+* Married with two children
+* Works as a truck driver
+* Lives in a two-story house with no elevator
+* Has a cat
+
+Review of systems:
+
+* No recent weight loss or gain
+* No fever or chills
+* No night sweats or sleep disturbances
+* No recent travel or exposure to illness
+* No history of bleeding disorders
+
+Physical examination:
+
+* Temperature 98.6°F
+* Blood pressure 140/80mmHg
+* Heart rate 70bpm
+* Respiratory rate 12bpm
+* Oxygen saturation 98% on room air
+* No signs of acute distress
+* Muscle strength 5/5
+* Reflexes 2+
+* Sensation decreased in the left lower extremity
+* No signs of infection
+
+Imaging studies:
+
+* MRI lumbar spine shows multilevel degenerative disk disease and spinal stenosis
+* CT angiogram shows no significant vascular abnormalities
+
+Planned surgery:
+
+* Lumbar decompression and fusion
+
+Postoperative course:
+
+* Patient was taken to the PACU for observation
+* Patient was extubated and awake within 30 minutes
+* Patient experienced some nausea and vomiting, which was managed with ondansetron
+* Patient was able to ambulate and void within 2 hours
+* Patient has a patch of numbness on the left lower extremity, which is expected to resolve over time
+* Patient was discharged home on postoperative day 3 with a follow-up appointment in 2 weeks
+
+Complications:
+
+* None noted during the postoperative period.

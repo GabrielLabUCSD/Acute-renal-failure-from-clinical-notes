@@ -1,0 +1,50 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Smith
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker for 30 years, quit 5 years ago
+* Previous myocardial infarction 10 years ago
+* History of chronic back pain
+* Recent diagnosis of prostate cancer
+* No history of previous surgeries
+
+Preoperative Course:
+
+* Patient underwent a thoracic CT scan for lung nodule evaluation
+* CT scan showed a 1.5 cm lesion in the right lung
+* Patient underwent a bronchoscopy for further evaluation
+* Bronchoscopy revealed a malignant lesion in the right lung
+* Patient was referred for surgical resection
+
+Operative Course:
+
+* Patient underwent a right lower lobectomy via a thoracotomy approach
+* Surgery was performed under general anesthesia
+* No intraoperative complications occurred
+* Estimated blood loss was 250 mL
+* Patient received 2 units of packed red blood cells intraoperatively
+
+Postoperative Course:
+
+* Patient was transferred to the intensive care unit for close monitoring
+* Patient was extubated on postoperative day 1
+* Patient experienced mild postoperative pain, managed with non-steroidal anti-inflammatory drugs (NSAIDs) and opioids
+* Patient ambulated on postoperative day 2 and was able to eat a regular diet
+* Patient was discharged from the hospital on postoperative day 5
+
+Complications:
+
+* None
+
+Follow-up:
+
+* Patient followed up with his surgeon 2 weeks after discharge
+* Patient reported mild, persistent cough and fatigue
+* Surgeon recommended continuation of NSAIDs and close monitoring
+* Patient was referred for postoperative chemotherapy and radiation therapy
+
+The patient's postoperative course was uncomplicated, and he was discharged from the hospital on postoperative day 5. He followed up with his surgeon 2 weeks after discharge and reported mild, persistent cough and fatigue. The surgeon recommended continuation of NSAIDs and close monitoring, and the patient was referred for postoperative chemotherapy and radiation therapy. There were no complications during the postoperative period, and the patient's recovery was uneventful.

@@ -1,0 +1,17 @@
+Patient Summary:
+
+The patient is a xx-year-old, who is planning to undergo surgery. The patient has a medical history that includes hypertension, diabetes, and obesity. They have been managing these conditions with prescribed medications. Additionally, the patient has a history of smoking, which they are trying to quit prior to the surgery.
+
+The patient's hypertension has been well-controlled with medication, and they have not experienced any recent complications related to it. Their blood pressure has remained within normal limits. The patient's diabetes is also managed with medication and lifestyle modifications, including a controlled diet and regular exercise. Their blood glucose levels have been stable, and there have been no recent episodes of hyperglycemia or hypoglycemia.
+
+The patient's obesity is being addressed with a weight loss program, which includes dietary changes and regular physical activity. They have been making progress in their weight loss journey but still have a long way to go. Their body mass index (BMI) is currently in the obese range.
+
+Prior to the surgery, the patient underwent a thorough pre-operative evaluation, including a physical examination, laboratory tests, and imaging studies. The results of these tests were within normal limits, except for a slightly elevated cholesterol level. The patient has been advised to continue their medication regimen, and a statin medication has been prescribed to manage their cholesterol.
+
+After the surgery, the patient developed complications, including acute renal failure. This was likely a result of decreased kidney perfusion during the surgical procedure. The patient experienced a sudden decline in kidney function, with a significant increase in blood urea nitrogen (BUN) and creatinine levels. They also presented with symptoms such as decreased urine output, swelling in the legs, and difficulty concentrating.
+
+Management of the patient's acute renal failure involves optimizing fluid and electrolyte balance, as well as addressing the underlying cause. The patient has been started on intravenous fluids to maintain hydration. Diuretics may also be administered to increase urine output and promote kidney function. The healthcare team is closely monitoring the patient's laboratory values and vital signs to assess their renal function.
+
+The patient's surgical team is collaborating with a nephrologist to manage the acute renal failure. The nephrologist is closely monitoring the patient's kidney function and providing recommendations for appropriate interventions. The patient may require dialysis if their kidney function does not improve. The surgical team is also working to identify any potential complications related to the surgery that may have contributed to the development of acute renal failure.
+
+Overall, the patient's medical history indicates several chronic conditions that are being managed, including hypertension, diabetes, and obesity. While the patient has been stable prior to the surgery, they developed acute renal failure as a post-operative complication. The healthcare team is closely monitoring the patient's renal function and providing appropriate interventions to promote kidney recovery.

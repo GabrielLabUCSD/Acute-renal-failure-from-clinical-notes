@@ -1,0 +1,27 @@
+The patient is a 60-year-old male who is planning to have surgery to address a long-standing issue with chronic back pain. He has a medical history that is notable for hypertension, hyperlipidemia, and type 2 diabetes which are all well controlled with medications. 
+
+The patient has been experiencing chronic back pain for several years and conservative treatments, such as physical therapy and medication management, have not been successful in alleviating his symptoms. As a result, he has decided to pursue surgery as a potential solution to his pain.
+
+In preparation for the surgery, the patient underwent a series of pre-operative tests and evaluations. These included blood work to check his complete blood count (CBC), metabolic panel, and coagulation studies. His blood pressure and blood glucose levels were also carefully monitored to ensure that they were well controlled before the surgery.
+
+During the surgery, the patient was placed under general anesthesia and the procedure was completed without any complications. However, in the immediate post-operative period, the patient developed acute renal failure, which is a known complication in certain surgeries, particularly those that involve significant blood loss or prolonged periods of hypotension.
+
+The patient's acute renal failure was diagnosed based on his elevated serum creatinine levels and decreased urine output. Renal function tests, including blood urea nitrogen (BUN) and creatinine clearance, were also performed to evaluate the severity of the renal impairment.
+
+The patient was closely monitored by a multidisciplinary team consisting of a nephrologist, surgeon, and critical care physician. Intravenous fluids were administered to ensure adequate hydration and maintain hemodynamic stability. Diuretics were also given to promote urine output and aid in the clearance of waste products.
+
+In addition to the management of renal failure, the patient's pain was also closely monitored and addressed. Analgesic medications, such as opioids, were administered to ensure adequate pain control while considering the potential impact on renal function.
+
+Continuous renal replacement therapy (CRRT) was initiated to assist with the clearance of toxins and maintain electrolyte balance. This process involved the use of a specialized machine that performed hemodialysis continuously over a 24-hour period.
+
+The patient responded well to the CRRT and his renal function gradually improved over time. Daily laboratory tests were performed to monitor his renal function, including serum creatinine, BUN, and electrolyte levels.
+
+As the patient's renal function improved, he was weaned off the CRRT and transitioned to intermittent hemodialysis. Close monitoring continued to ensure that his renal function remained stable and that there were no further complications.
+
+Throughout the course of his hospital stay, the patient received extensive education on the management of his renal failure. This included information on dietary modifications, fluid restrictions, and medication adjustments to ensure optimal renal function.
+
+After a month of hospitalization, the patient was deemed stable enough to be discharged home. He was provided with a comprehensive care plan that outlined follow-up appointments with his primary care physician, nephrologist, and surgeon.
+
+At the follow-up appointments, the patient's renal function will continue to be closely monitored. Additional investigations, such as imaging studies and renal biopsies, may be performed to further evaluate the underlying cause of his acute renal failure.
+
+Overall, the patient's medical history, which includes hypertension, hyperlipidemia, and type 2 diabetes, puts him at increased risk for surgical complications. The development of acute renal failure following surgery was a significant concern, but with timely and appropriate interventions, the patient's renal function has shown improvement. Ongoing care and close monitoring will be essential in managing his post-operative complications and ensuring optimal renal function in the long term.

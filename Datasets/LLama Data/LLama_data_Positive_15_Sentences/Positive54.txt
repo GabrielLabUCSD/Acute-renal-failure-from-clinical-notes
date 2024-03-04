@@ -1,0 +1,21 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension, hyperlipidemia, and diabetes mellitus.
+3. He has been smoking for the past 40 years.
+4. He has a history of coronary artery disease and had a myocardial infarction 10 years ago.
+5. He has been diagnosed with chronic obstructive pulmonary disease (COPD).
+6. He has been taking aspirin, metformin, and atorvastatin for his medical conditions.
+7. He has a history of chronic kidney disease with a baseline creatinine level of 1.8 mg/dL.
+8. He recently underwent a surgical procedure for the removal of a benign tumor in his colon.
+9. After the surgery, he developed acute renal failure (ARF) and was admitted to the intensive care unit (ICU).
+10. His postoperative creatinine level increased to 4.5 mg/dL.
+11. Urinalysis showed pyuria and hematuria.
+12. Blood cultures were positive for E. coli.
+13. He was started on broad-spectrum antibiotics and underwent hemodialysis for ARF.
+14. His urine output and renal function improved gradually over the next few days.
+15. He was transferred out of the ICU and is currently recovering on the surgical ward.
+
+Complication: Acute Renal Failure (ARF)
+
+The patient developed ARF after surgery, which was likely caused by a combination of factors, including prerenal azotemia due to dehydration and sepsis-induced acute tubular necrosis. The patient's pre-existing chronic kidney disease and advanced age also contributed to the development of ARF. The patient required hemodialysis and broad-spectrum antibiotics to manage the complication. Close monitoring of renal function and fluid management are crucial to prevent further complications and optimizing recovery.

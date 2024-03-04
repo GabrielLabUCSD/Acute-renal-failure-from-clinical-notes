@@ -1,0 +1,21 @@
+Patient Summary:
+
+1. The patient is a 55-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He has been a smoker for the past 20 years.
+4. He has a history of alcohol abuse.
+5. He has been diagnosed with obstructive sleep apnea.
+6. He has a history of non-insulin-dependent diabetes.
+7. He has had multiple episodes of upper respiratory infections.
+8. He has a history of gastroesophageal reflux disease.
+9. He has been diagnosed with chronic kidney disease.
+10. He has a history of nephrolithiasis.
+11. He has been scheduled for elective surgery.
+12. He has been taking aspirin and ibuprofen regularly.
+13. He has a history of allergic reactions to penicillin.
+14. He has been experiencing acute renal failure after surgery.
+15. He is currently undergoing dialysis and has been admitted to the ICU for close monitoring.
+
+Complication: Acute Renal Failure
+
+The patient experienced acute renal failure after surgery, which was likely caused by a combination of factors, including his pre-existing chronic kidney disease, dehydration, and the use of certain medications during surgery. The patient"s kidney function deteriorated rapidly after surgery, leading to a build-up of waste products in his blood and a life-threatening situation. He is currently undergoing dialysis and is being closely monitored in the ICU to address this complication.

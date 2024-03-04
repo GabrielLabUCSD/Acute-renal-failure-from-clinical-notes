@@ -1,0 +1,19 @@
+This is a summary of the medical history of a patient who is planning to have surgery, as well as their postoperative course and any complications they may have experienced. Please note that acute renal failure is not mentioned as a complication:
+
+1. The patient is a 60-year-old male who has a history of hypertension.
+2. He has been taking antihypertensive medications for the past 10 years to control his blood pressure.
+3. The patient also has a history of type 2 diabetes, which has been well-managed with oral medications.
+4. He has had a previous surgery for an inguinal hernia repair without any complications.
+5. The patient has a known allergy to penicillin and is also sensitive to eggs.
+6. He has never smoked or consumed alcohol.
+7. His current medications include metformin for diabetes, lisinopril for hypertension, and a multivitamin.
+8. The patient has been advised to discontinue the metformin for 48 hours prior to the surgery.
+9. He has undergone preoperative tests, including blood work, chest x-ray, and EKG, which did not reveal any abnormalities.
+10. The patient has been informed about the upcoming surgery and has provided informed consent.
+11. The surgery is scheduled for a laparoscopic cholecystectomy to remove his gallbladder due to symptomatic gallstones.
+12. The patient underwent the surgery under general anesthesia without any complications.
+13. Postoperatively, he was closely monitored in the recovery area for potential complications such as bleeding, infection, or allergic reactions to anesthesia.
+14. The patient tolerated the surgery well and experienced minimal pain, which was controlled with intravenous analgesics.
+15. He was discharged home on postoperative day 2 and advised to follow-up with his surgeon in two weeks for a wound check.
+
+It is important to note that this patient's postoperative course was uneventful, and there were no complications reported in the given information.

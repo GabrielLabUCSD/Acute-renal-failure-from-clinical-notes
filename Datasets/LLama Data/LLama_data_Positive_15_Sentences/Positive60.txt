@@ -1,0 +1,30 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a description of the patient having acute renal failure complication after surgery:
+
+Patient Summary:
+
+1. The patient is a 65-year-old male who presents with a history of chronic back pain and sciatica.
+2. He has been experiencing worsening pain over the past year, with radiation to the left leg and difficulty ambulating.
+3. The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus.
+4. He had a myocardial infarction 10 years ago and has been compliant with medications and lifestyle modifications since then.
+5. The patient has a history of chronic obstructive pulmonary disease and uses oxygen therapy at home.
+6. He has a history of gastroesophageal reflux disease and takes antacids as needed.
+7. The patient has no known allergies to medications or anesthesia.
+8. He has had no previous surgeries or hospitalizations.
+9. The patient's family history is significant for coronary artery disease and stroke.
+10. He is currently taking aspirin, atorvastatin, lisinopril, and omeprazole.
+11. The patient is a current smoker and drinks alcohol occasionally.
+12. He has a body mass index of 32 and is considered obese.
+13. The patient has been educated on the risks and benefits of surgery and has provided informed consent.
+14. The patient is scheduled for a lumbar decompression surgery.
+15. The patient will require general anesthesia for the procedure.
+
+Complication:
+
+1. The patient developed acute renal failure post-surgery, with a rise in serum creatinine from 1.5 to 4.0 mg/dL.
+2. He also experienced oliguria and elevated blood urea nitrogen.
+3. The patient was fluid-overloaded and had a urine output of less than 50 mL/hr.
+4. He was started on continuous renal replacement therapy and his renal function gradually improved over 48 hours.
+5. The patient was transitioned to intermittent hemodialysis and was eventually able to discontinue dialysis altogether.
+6. The patient's creatinine level at discharge was 1.8 mg/dL, and he was advised to follow up with his nephrologist for further management.
+
+This summary provides a comprehensive overview of the patient's medical history, medications, and surgical plans, as well as a complication that arose post-surgery. It is important to note that this is a fictional summary, and patient information may vary depending on individual cases.

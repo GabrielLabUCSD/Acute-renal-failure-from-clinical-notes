@@ -1,0 +1,13 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] with a past medical history significant for [list of relevant medical conditions]. They are planning to undergo [type of surgery] for [reason for surgery]. Preoperatively, the patient's vital signs are stable, with a blood pressure of [value], heart rate of [value], respiratory rate of [value], and oxygen saturation of [value]% on room air. They report [associated symptoms] and have been [treatment/prevention measures taken].
+
+The patient's medication list includes [list of medications], and they have no known drug allergies. Laboratory investigations show [relevant findings like lab values]. The patient has a documented baseline estimated glomerular filtration rate of [value] indicating normal renal function. They are currently on the [list specific renal medications].
+
+The patient has undergone previous surgeries including [list previous surgeries] without any complications. However, they had a history of [relevant medical or surgical complications/risks]. During the preoperative evaluation, a thorough anesthesia assessment was conducted, considering the patient's comorbidities and potential perioperative risks.
+
+Following the surgery, the patient's postoperative course was generally uneventful. Their vital signs remained stable, and they were closely monitored in the recovery room. The patient was started on appropriate pain management based on their individual needs. The wound site was observed for signs of infection, and appropriate measures were taken to prevent complications, such as deep vein thrombosis prophylaxis.
+
+During hospitalization, the patient received physical therapy to facilitate early ambulation and prevent postoperative complications. Regular assessments were made for any signs of surgical site infections, urinary tract infections, or pneumonia. The patient demonstrated good postoperative recovery and was discharged on [date]. They were given detailed instructions regarding wound care, medication management, dietary restrictions, and follow-up appointments.
+
+Post-discharge, the patient reported [any relevant postoperative symptoms]. Follow-up appointments were scheduled to monitor the patient's progress and ensure appropriate healing. Long-term surgical outcomes were assessed during follow-up visits, with special attention to potential complications related to the surgical procedure performed. The patient is encouraged to maintain regular follow-ups to address any concerns or complications that may arise.

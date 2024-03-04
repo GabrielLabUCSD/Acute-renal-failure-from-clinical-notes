@@ -1,0 +1,21 @@
+The patient is a [age]-year-old [gender] who is planning to undergo surgery, details of which are not specified.
+
+In terms of their medical history, the patient has a past medical history significant for [list of relevant medical conditions]. They are currently being treated for [list of ongoing medical conditions] with regular medications that include [list of maintenance medications]. The patient has a known drug allergy to [specific drug or class of drugs].
+
+Their surgical history includes [list of previous surgeries] performed [timeframe] ago. The patient tolerated these previous surgeries well, without any major complications noted.
+
+The patient's preoperative workup reveals [results of specific diagnostic tests or procedures]. Lab investigations show [results of relevant lab tests]. The patient's vital signs, including blood pressure, heart rate, respiratory rate, and temperature, are within normal limits. Their preoperative EKG is unremarkable, with no evidence of cardiac abnormalities.
+
+Upon physical examination, the patient's general appearance is [well/nicely groomed/comfortable/relaxed/anxious]. The patient's pertinent findings include [list of relevant findings based on the surgical plan]. No significant abnormalities are noted in other systems on examination.
+
+In terms of the patient's postoperative course, they were transferred to the recovery room after the surgery. Their vital signs were stable, and their pain was managed with analgesics. The patient was closely monitored for any signs of complications, such as bleeding, infection, or respiratory distress. They were encouraged to ambulate and follow a specific postoperative care plan.
+
+During their hospital stay, the patient's condition remained stable, with no major complications observed. They were able to tolerate a regular diet and had no issues with fluid intake. Daily wound care was performed, and there were no signs of wound infection or dehiscence noted.
+
+The patient's pain was effectively managed with a combination of oral medications and, if needed, intravenous analgesics. They were regularly assessed for pain intensity and provided with suitable pain relief as per their comfort level.
+
+As part of their postoperative care, appropriate prophylaxis was given to prevent deep vein thrombosis (DVT) and infection. The patient was educated about the signs and symptoms of DVT, wound infection, and other complications to report promptly to the healthcare team.
+
+The patient showed good progress with their recovery and was gradually able to resume their normal activities of daily living. Physical therapy was initiated as needed to aid in their functional recovery. The patient was provided with appropriate counseling and resources for further support during their recovery period.
+
+Overall, the patient's postoperative course was uneventful, and they did not experience any major complications related to the surgery. They were advised to follow up with their surgeon for a postoperative evaluation and to address any ongoing concerns or questions.

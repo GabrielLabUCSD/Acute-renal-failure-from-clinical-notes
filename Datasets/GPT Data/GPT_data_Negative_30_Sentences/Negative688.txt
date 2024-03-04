@@ -1,0 +1,59 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. 
+
+In terms of medical history, the patient has a history of [medical condition], which has been managed with [medications/treatments]. 
+
+Additionally, the patient has a history of [medical condition], which has been controlled with [medications/treatments]. 
+
+The patient has a past surgical history of [previous surgeries], which were successful without any major complications. 
+
+Their family history is significant for [family medical history], which may impact their surgical outcome. 
+
+The patient's current medications include [medications], and the surgical team has been informed about these. 
+
+They have no known allergies to medications or latex. 
+
+The patient denies smoking or drinking alcohol. 
+
+They also follow a healthy diet and exercise regularly. 
+
+On physical examination, the patient appears generally well with no acute distress. 
+
+Their vital signs are stable, with blood pressure [BP] mmHg, heart rate [HR] beats per minute, respiratory rate [RR] breaths per minute, and oxygen saturation [SpO2]% on room air. 
+
+The patient's overall baseline laboratory values are within normal limits. 
+
+Preoperative laboratory tests including complete blood count, electrolytes, liver function tests, and coagulation profile were all within normal limits. 
+
+Imaging studies such as a chest X-ray or electrocardiogram were performed and showed no abnormalities. 
+
+An echocardiogram was also performed, which showed [normal findings]. 
+
+The patient has been adequately counseled about the risks, benefits, and alternatives to the planned surgical procedure. 
+
+Informed consent has been obtained from the patient. 
+
+The patient has been instructed to follow the preoperative fasting guidelines and will receive appropriate prophylactic antibiotics prior to surgery. 
+
+The surgical procedure will be performed under general anesthesia with the assistance of an experienced surgical team. 
+
+Intraoperative monitoring will include continuous monitoring of vital signs, EKG, oxygen saturation, and end-tidal CO2. 
+
+The surgical procedure was performed without any significant intraoperative complications. 
+
+Their postoperative course was uneventful. 
+
+The patient was transferred to the recovery room in stable condition. 
+
+Pain control measures were implemented, and the patient's pain was well managed. 
+
+The patient was encouraged to ambulate and perform deep breathing exercises to prevent postoperative complications. 
+
+The wound site was clean, dry, and intact with no signs of infection. 
+
+Postoperative laboratory tests, including a complete blood count and inflammatory markers, were within normal limits. 
+
+The patient's vital signs remained stable throughout their postoperative course. 
+
+They were discharged home on [postoperative day] and scheduled for a follow-up appointment in [number of weeks]. 
+
+To date, the patient has not reported any complications following the surgery.

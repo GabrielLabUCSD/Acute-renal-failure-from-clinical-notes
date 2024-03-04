@@ -1,0 +1,53 @@
+The patient is a 55-year-old male who is planning to have surgery.
+He has a history of hypertension for the past 10 years.
+The patient has been on antihypertensive medication for his hypertension.
+He has a family history of heart disease, with his father having a heart attack at the age of 60.
+The patient also has a history of smoking, with a 30 pack-year smoking history.
+He quit smoking 2 years ago.
+The patient has no known allergies to medications or any other substances.
+He has a history of alcohol use, consuming approximately 2-3 drinks per day.
+The patient denies any history of illicit drug use.
+He has a BMI of 30, putting him in the obese category.
+His current medications include lisinopril and hydrochlorothiazide for his hypertension.
+The patient's blood pressure has been well controlled with his current medication regimen.
+He has had regular follow-up appointments with his primary care physician.
+His last blood pressure reading was 120/80 mmHg.
+The patient has a history of dyslipidemia and is currently taking atorvastatin for cholesterol management.
+He has no history of heart disease or myocardial infarction.
+The patient has a sedentary lifestyle and does not engage in regular exercise.
+He has no history of diabetes mellitus or any other endocrine disorders.
+The patient's fasting blood glucose levels have always been within normal limits.
+He is not on any chronic pain medications or anti-inflammatory drugs.
+The patient has never had any surgeries in the past.
+He has never been hospitalized for any medical conditions.
+The patient denies any history of respiratory disorders such as asthma or chronic obstructive pulmonary disease.
+He has no known history of immunodeficiency or autoimmune diseases.
+The patient has a history of seasonal allergies, with symptoms primarily affecting his eyes.
+He has never had any adverse reactions or complications related to anesthesia.
+The patient has no history of bleeding disorders or abnormal clotting.
+He has a normal complete blood count and coagulation profile.
+The patient has a normal liver function test and kidney function test.
+He has no history of renal impairment or chronic kidney disease.
+The patient's creatinine levels have always been within the normal range.
+He has no history of urinary tract infections or kidney stones.
+The patient has a normal electrocardiogram (EKG) with a regular sinus rhythm.
+He has no history of arrhythmias or cardiac abnormalities.
+The patient has a normal chest radiograph with no evidence of pulmonary abnormalities.
+He has no history of gastrointestinal disorders or abnormalities.
+The patient has a normal colonoscopy and upper endoscopy.
+He has no history of cancer or any other malignant conditions.
+The patient has no known history of neurological disorders or psychiatric conditions.
+He has never been diagnosed with depression, anxiety, or any other mental health disorders.
+The patient has a good social support system and lives with his spouse.
+He does not require any assistance with activities of daily living.
+The patient has a good understanding of the surgical procedure he is planning to have.
+He has been thoroughly educated about the risks and benefits of the surgery.
+The patient's surgical history includes the need for general anesthesia.
+The patient has signed informed consent for the surgery.
+Post-surgery, the patient develops complications of acute renal failure.
+He presents with decreased urine output and elevated serum creatinine levels.
+The patient becomes increasingly fatigued and lethargic.
+He complains of generalized body swelling and shortness of breath.
+On examination, the patient is found to have elevated blood pressure.
+His potassium levels are found to be abnormally high.
+The patient is immediately started on hemodialysis for acute renal failure management.

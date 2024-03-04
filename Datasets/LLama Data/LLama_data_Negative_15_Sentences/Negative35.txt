@@ -1,0 +1,35 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemic
+* History of smoking
+* Obese (BMI 35)
+* Prior history of colon cancer (stage II)
+* Prior history of coronary artery disease (CABG x2)
+* Chronic obstructive pulmonary disease (COPD)
+* Sleep apnea
+* Osteoarthritis of the knees
+
+Planned Surgery:
+
+* Total knee replacement
+
+Postoperative Course:
+
+* Uneventful postoperative recovery
+* Patient mobilized and ambulated on postoperative day 1
+* Pain managed with patient-controlled analgesia (PCA)
+* No evidence of surgical site infection (SSI)
+* No respiratory complications
+* Patient discharged home on postoperative day 3
+
+Complications:
+
+* None
+
+This patient summary highlights the patient's medical history, including their history of hypertension, hyperlipidemia, smoking, and prior history of colon cancer and coronary artery disease. It also mentions their chronic obstructive pulmonary disease (COPD) and sleep apnea, which may impact their postoperative recovery. The planned surgery is a total knee replacement, and the postoperative course is described as uneventful, with the patient mobilizing and ambulating quickly and managing their pain effectively with PCA. The patient was discharged home without any complications.

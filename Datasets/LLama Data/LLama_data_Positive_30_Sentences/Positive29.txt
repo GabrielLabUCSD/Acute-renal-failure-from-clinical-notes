@@ -1,0 +1,50 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male with a medical history of hypertension, diabetes, and hyperlipidemia.
+2. He has been experiencing worsening left knee pain for the past year, consistent with osteoarthritis.
+3. Recently, the patient had a total knee replacement surgery.
+4. The patient"s surgery went well, and he was discharged from the hospital on postoperative day 3.
+5. However, on postoperative day 7, the patient developed acute renal failure.
+6. The patient"s serum creatinine level increased from 1.5 mg/dL preoperatively to 4.8 mg/dL on postoperative day 7.
+7. Urinalysis showed pyuria and hematuria.
+8. The patient was diagnosed with acute kidney injury (AKI) secondary to sepsis.
+9. Sepsis was caused by a urinary tract infection (UTI) that developed after surgery.
+10. The patient was started on broad-spectrum antibiotics for treatment of the UTI.
+11. The patient"s renal function began to improve, and his serum creatinine level decreased to 3.5 mg/dL by postoperative day 10.
+12. The patient was continued on antibiotics for a total of 2 weeks.
+13. Repeat urinalysis showed resolution of pyuria and hematuria.
+14. The patient"s knee pain had significantly improved by postoperative day 14.
+15. The patient was able to ambulate without assistance and had full range of motion in his knee.
+16. However, the patient developed a postsurgical wound infection on postoperative day 15.
+17. The wound infection was caused by Staphylococcus aureus, and the patient was started on antibiotics.
+18. The patient"s wound showed significant improvement within 3 days of starting antibiotics.
+19. The patient completed a full course of antibiotics and had no further complications.
+20. The patient"s renal function continued to improve, and his serum creatinine level returned to baseline by postoperative day 21.
+21. The patient was seen in follow-up 2 weeks after completion of antibiotics.
+22. The patient"s knee pain was minimal and manageable with medication.
+23. The patient had full range of motion in his knee and was able to ambulate without assistance.
+24. The patient was satisfied with the outcome of his surgery.
+25. The patient was advised to continue with wound care and to follow up with his surgeon as needed.
+26. The patient was also advised to follow up with his primary care physician for ongoing management of his medical conditions.
+27. The patient was discharged from the hospital with a follow-up appointment in 2 weeks.
+28. The patient"s surgical site was healing well, and there were no signs of infection.
+29. The patient"s serum creatinine level was stable, and there were no signs of ongoing renal dysfunction.
+30. The patient was advised to continue with his medications as prescribed and to follow up with his physicians as needed.
+
+Complications:
+
+1. Acute renal failure (AKI) secondary to sepsis
+2. Urinary tract infection (UTI)
+3. Postsurgical wound infection
+
+Resolution:
+
+1. The patient"s AKI resolved with treatment of the underlying UTI.
+2. The patient"s UTI was treated with antibiotics, and there were no further complications.
+3. The patient"s wound infection showed significant improvement within 3 days of starting antibiotics, and the patient completed a full course of antibiotics without further complications.
+
+Follow-up:
+
+1. The patient was seen in follow-up 2 weeks after completion of antibiotics.
+2. The patient"s knee pain was minimal and manageable with medication.
+3. The patient had full range of motion in his knee and was able to ambulate without assistance.

@@ -1,0 +1,25 @@
+The patient is a 60-year-old male who is scheduled to have surgery. His medical history reveals that he has a past medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia. He has a history of smoking for 30 years but quit 10 years ago. His blood pressure is well controlled on metoprolol 25 mg daily, and his HbA1c level is 7.2% with a current regimen of metformin 1000 mg twice daily and glipizide 5 mg daily. His cholesterol levels are well controlled with atorvastatin 40 mg daily. 
+
+The patient denies any personal history of cardiac disease or previous surgeries. He has never been diagnosed with chronic kidney disease and has a normal serum creatinine level of 1.0 mg/dL. However, he does have a family history of coronary artery disease, with his father suffering a heart attack at 65 years old.
+
+During the pre-operative assessment, the patient mentions occasional shortness of breath with exertion and occasional chest discomfort with exercise. An echocardiogram is ordered, revealing mild left ventricular hypertrophy with preserved systolic function and no valvular abnormalities. A stress test is also conducted, which is negative for ischemia.
+
+Further laboratory evaluations show a normal complete blood count, coagulation profile, and liver function tests. His electrolyte levels, including potassium and sodium, are within normal limits. His fasting blood glucose level is 120 mg/dL. The patient has a body mass index (BMI) of 28.5 kg/m², indicating he is overweight.
+
+The patient is deemed to be at an intermediate risk for surgical complications based on the American College of Surgeons' guidelines. Despite this, the patient is motivated to proceed with the surgery due to the increasing severity of symptoms related to the underlying condition being addressed.
+
+The surgical procedure is scheduled to be performed under general anesthesia for approximately 4 hours. The patient is educated about the procedure, the risks involved, and the expected postoperative care. Additionally, the patient is made aware of the need for postoperative pain management and the importance of early ambulation to prevent deep vein thrombosis.
+
+The patient undergoes the surgery successfully and is stable postoperatively. However, on the second day after surgery, he develops oliguria and dyspnea. A physical exam reveals elevated jugular venous pressure, rales in both lung bases, and pitting edema in the lower extremities. A urinalysis shows proteinuria and microscopic hematuria.
+
+The patient is diagnosed with acute renal failure likely secondary to pre-renal causes, such as hypotension during surgery or the use of nephrotoxic medications. The patient's urine output decreases to less than 0.5 mL/kg/hour over 6 hours. His serum creatinine level rises to 3.0 mg/dL, indicating a severe impairment of renal function.
+
+To address the acute renal failure, the patient is given aggressive fluid resuscitation. Intravenous fluids are administered to optimize intravascular volume. The patient is also started on a loop diuretic to increase urine output and promote the elimination of waste products.
+
+Further investigations are conducted, including ultrasound imaging, to rule out post-renal causes of acute renal failure. The renal ultrasound reveals normal-sized kidneys with no evidence of obstruction. Renal biopsy is not indicated at this time due to the patient's stable clinical condition and the likelihood of acute tubular necrosis.
+
+The patient's renal function gradually improves over the course of several days. His urine output increases to greater than 1 mL/kg/hour, and his serum creatinine level starts to normalize. The patient's fluid balance is closely monitored, and medications that can potentially worsen renal function are discontinued.
+
+The patient is able to be discharged from the hospital after a week of postoperative care. He is given instructions for follow-up with his primary care physician in two weeks to reassess his renal function. The patient is also counseled on the importance of maintaining adequate hydration and monitoring his blood pressure and blood glucose levels.
+
+In summary, the patient is a 60-year-old male with a history of hypertension, diabetes mellitus type 2, and hyperlipidemia. He is scheduled to undergo surgery and is at an intermediate risk for complications. The patient develops acute renal failure postoperatively, likely due to pre-renal causes. Aggressive fluid resuscitation and loop diuretics are initiated to address the acute renal failure, and the patient's renal function gradually improves over time. The patient is discharged with follow-up instructions for further monitoring and management of his medical conditions.

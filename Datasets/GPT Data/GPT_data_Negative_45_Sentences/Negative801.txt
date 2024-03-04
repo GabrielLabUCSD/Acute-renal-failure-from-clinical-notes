@@ -1,0 +1,19 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. They have a past medical history significant for [medical conditions]. Their surgical indication is [reason for surgery] with the goal of [surgical objective]. 
+
+In terms of their chronic medical conditions, the patient has been diagnosed with [condition 1], which is well-controlled with [medications/treatments]. They also have a history of [condition 2], which has been managed with [medication/treatment]. It is important to note that the patient does not have a significant history of acute renal failure or chronic kidney disease.
+
+Before the surgery, the patient underwent a thorough preoperative evaluation, including laboratory tests and imaging studies. Their preoperative blood work revealed [specific findings], which were within the normal range. Other investigations, such as [imaging study], showed [specific findings]. Overall, the patient's preoperative evaluation did not reveal any major concerns that would significantly impact the surgery.
+
+During the surgery, the patient was placed under [type of anesthesia] anesthesia. The procedure was performed by [surgeon's name] and lasted [duration]. The surgical team encountered [specific findings] during the procedure, which were managed appropriately without major complications. The surgical goal of [surgical objective] was achieved successfully.
+
+Postoperatively, the patient was closely monitored in the recovery room and then transferred to the surgical ward. They experienced the expected postoperative pain, which was managed with [pain medication]. The patient followed up with the surgical team in [number of days] after the surgery for a routine postoperative visit.
+
+The patient had an uneventful postoperative course without any major complications. They did not experience any wound infections, deep vein thrombosis, or pulmonary embolism. Postoperatively, the patient's laboratory values, including their renal function, remained stable. The surgical wound healed well without any signs of dehiscence or infection.
+
+In terms of mobility, the patient was encouraged to ambulate as tolerated. Physical therapy was involved in their care to assist with early mobilization and preventing postoperative complications such as pneumonia or deep vein thrombosis.
+
+During the postoperative period, the patient received appropriate postoperative care, including prophylactic antibiotics and deep vein thrombosis prophylaxis. Pain control was achieved with a combination of intravenous and oral medications. The patient's vital signs remained stable throughout their hospital stay, and they did not require any additional interventions or interventions such as blood transfusions.
+
+The patient's overall recovery was smooth, and they were discharged home with appropriate instructions for further recovery. They were advised to continue taking their regular medications for their chronic medical conditions and to follow up with the surgical team in [number of weeks or months] for a postoperative check-up.
+
+In summary, the patient, a [age]-year-old [gender], underwent [type of surgery] due to [reason for surgery]. They have a past medical history significant for [medical conditions] which were well-controlled preoperatively. The surgery was successful, and the patient had an uneventful postoperative course without any major complications. They are currently recovering well and are scheduled for a follow-up visit in [number of weeks or months].

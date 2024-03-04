@@ -1,0 +1,31 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history significant for hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient had a myocardial infarction (MI) four years ago and has been compliant with his medications since then. He currently takes aspirin, lisinopril, atorvastatin, and metformin. He has a history of smoking but quit five years ago. He denies any recent chest pain or shortness of breath. His family history is significant for coronary artery disease (CAD) and stroke.
+
+Preoperative Examination:
+
+On examination, the patient's vital signs are stable, with a blood pressure of 140/80 mmHg, heart rate of 70 beats per minute (bpm), respiratory rate of 16 breaths per minute (bpm), and oxygen saturation of 98% on room air. His height is 175 cm, weight is 86 kg, and body mass index (BMI) is 31.3. He has mild jugular venous distension (JVD) and normal cardiac sounds on Auscultation. His peripheral pulses are strong and symmetrical. There is no evidence of pedal edema.
+
+Laboratory Results:
+
+The patient's complete blood count (CBC) and chemistry profile have been reviewed, and the results are within normal limits. The patient's hemoglobin (Hb) level is 14.5 g/dL, hematocrit (Hct) is 44.7%, and platelet count is 210,000/mm3. His blood urea nitrogen (BUN) is 18 mg/dL, creatinine (Cr) is 0.9 mg/dL, and glucose is 124 mg/dL. His liver enzymes are within normal limits.
+
+Imaging Results:
+
+The patient underwent a chest X-ray and electrocardiogram (ECG) as part of his preoperative evaluation. The chest X-ray shows a possible opacity in the right lung field, which may represent a pulmonary embolism. The ECG shows no evidence of ischemia or infarction.
+
+Anesthesia Plan:
+
+The patient will undergo general anesthesia with endotracheal intubation. The planned anesthetic technique is a balanced anesthetic with propofol, fentanyl, and sevoflurane. The patient will also receive adequate analgesia with opioids and nonsteroidal anti-inflammatory drugs (NSAIDs) as needed.
+
+Postoperative Course:
+
+The patient tolerated the anesthesia well and had an uneventful postoperative course. He was extubated in the operating room and transferred to the recovery room. His vital signs were stable, and he had minimal nausea and vomiting. He was given adequate analgesia and discharged from the recovery room to the ward after two hours.
+
+Complications:
+
+The patient did not experience any complications during his postoperative course. He did not develop any respiratory or cardiac complications and did not require any unplanned interventions. He was discharged from the hospital on the third postoperative day and will follow up with his surgeon in one week.
+
+Conclusion:
+
+In conclusion, this patient with a history of hypertension, hyperlipidemia, NIDDM, and MI presented for elective surgery and had an uneventful postoperative course. His preoperative evaluation, anesthesia plan, and postoperative management were tailored to his individual needs, taking into account his medical history and planned surgery. The patient did not experience any complications during his postoperative course and was discharged from the hospital on the third postoperative day.

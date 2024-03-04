@@ -1,0 +1,40 @@
+Subject: Patient Summary for Surgery
+
+DOB: 02/05/1985
+
+Medical Record Number: 12345
+
+Patient Name: John Smith
+
+Chief Complaint: The patient presents with chronic back pain and degenerative disc disease.
+
+Medical History:
+
+1. The patient has a history of hypertension and hyperlipidemia.
+2. He had a myocardial infarction five years ago and has since been compliant with medication and lifestyle changes.
+3. He has a history of non-insulin-dependent diabetes mellitus and takes metformin.
+4. He has a history of obstructive sleep apnea and uses a continuous positive airway pressure (CPAP) machine.
+5. He has a history of degenerative joint disease of the knees and has had previous knee arthroscopic surgery.
+6. He has a history of chronic low back pain and has tried various treatments, including physical therapy and pain management.
+7. He is a former smoker and quit five years ago.
+8. He has a history of alcohol use disorder but has been sober for the past year.
+9. He has a history of depression and anxiety and takes fluoxetine and alprazolam as prescribed.
+10. He denies any recent trauma or illness.
+11. He is allergic to penicillin and cephalosporins.
+12. He is currently taking aspirin, metformin, fluoxetine, alprazolam, and tramadol.
+13. He has no known drug allergies.
+14. He has a history of constipation and takes docusate.
+15. He has a history of hypothyroidism and takes levothyroxine.
+
+Postoperative Course:
+
+The patient underwent a successful lumbar fusion surgery.
+
+Complications:
+
+1. Postoperative day one, the patient developed a fever of 101.3°F (38.5°C) and tachycardia, which resolved with antipyretic and fluid management.
+2. Postoperative day two, the patient experienced nausea and vomiting, which were managed with antiemetics.
+3. Postoperative day three, the patient developed a wound infection, which was treated with antibiotics.
+4. Postoperative day five, the patient had a minor bleeding episode from the wound site, which was managed with local pressure.
+
+The patient was discharged from the hospital on postoperative day seven and followed up with the surgeon's office for further management. He tolerated pain well with medication and had a smooth recovery. At his two-week follow-up appointment, his wound was healing well, and he had minimal complaints of pain. At his six-week follow-up appointment, he reported some improvement in his back pain but was still experiencing some discomfort. The surgeon recommended continued physical therapy and pain management. His most recent follow-up appointment was at three months post-op, and he reported significant improvement in his pain and function. He will continue to follow up with the surgeon's office for further management.

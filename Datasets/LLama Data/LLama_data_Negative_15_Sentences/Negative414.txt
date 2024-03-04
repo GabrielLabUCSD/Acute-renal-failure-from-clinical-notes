@@ -1,0 +1,63 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* History of smoking for 20 years, quit 5 years ago
+* History of alcohol abuse, stopped drinking 10 years ago
+* Obstructive sleep apnea, uses CPAP machine at night
+* History of non-insulin-dependent diabetes mellitus, controlled with diet and exercise
+* History of chronic low back pain, managed with physical therapy and medication
+* History of chronic obstructive pulmonary disease (COPD), controlled with medication
+* History of gastroesophageal reflux disease (GERD), managed with medication
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Hip replacement surgery at age 60
+* Previous surgical complications: None
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes
+* Celecoxib for arthritis
+* Alprazolam for anxiety
+* Omeprazole for GERD
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Social History:
+
+* Married with two adult children
+* Works as a retired accountant
+* Lives in a two-story house with no elevator
+* Has a pet dog that requires regular walking
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with a history of colon cancer
+
+Reason for Surgery:
+
+* Elective total knee replacement surgery for severe osteoarthritis
+
+Postoperative Course:
+
+* Patient had a smooth postoperative course
+* No complications noted during hospital stay
+* Patient was discharged home on postoperative day 3
+* Follow-up appointment with orthopedic surgeon scheduled for 1 week after discharge
+
+We hope this sample patient summary helps you in your medical practice. Please note that this is just an example, and you should always use your own clinical judgment and patient-specific information when creating a patient summary.

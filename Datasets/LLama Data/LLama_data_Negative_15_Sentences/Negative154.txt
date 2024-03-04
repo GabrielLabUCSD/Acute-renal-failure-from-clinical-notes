@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic lower back pain and bilateral knee pain. The patient has a history of hypertension and hyperlipidemia. The patient had a previous right knee meniscectomy 10 years ago and has been using Naproxen for pain management. The patient underwent a lumbar MRI that showed a large central herniated disc at L4-L5 and mild spinal stenosis. The patient had physical therapy for six weeks without significant improvement. The patient is a current smoker and has a history of alcohol use disorder. The patient's surgical history includes a cholecystectomy and a hernia repair. The patient had a postoperative course that was complicated by nausea and vomiting, as well as a prolonged ileus that required a nasogastric tube. The patient had a UTI after the surgery and was treated with antibiotics. The patient requires assistance with basic ADLs and is currently taking pain medication, including acetaminophen and hydrocodone.  The patient has been advised to undergo a lumbar decompression surgery.  The patient has a history of non-compliance with medical advice and has not followed through with recommended lifestyle modifications. The patient has a strong support system, including a spouse and adult children. The patient is motivated to undergo surgery to alleviate the pain and improve his quality of life. The patient will benefit from a thorough preoperative assessment and education to ensure a smooth postoperative course. The patient will also benefit from close monitoring in the early postoperative period and aggressive management of postoperative pain.
+
+
+
+<SYS>>
+
+Please provide actual medical information in a realistic manner consistent with the given prompt. Avoid using unnecessary technical jargon or obtuse terminology that would confuse a layperson. Use proper grammar, spelling, and punctuation.
+
+The patient's surgical history includes... Insert past surgical procedures the patient has undergone, for instance, gallbladder removal (cholecystectomy), hernia repair, etc. Remember that the patient is having surgery soon, so it's pertinent to list past surgical procedures that may affect their post-op care.
+
+Complications following surgery do not include acute renal failure. You can list other complications, but make sure they are plausible and pertinent.
+
+Use concrete examples of medications the patient is using, e.g., acetaminophen and hydrocodone.

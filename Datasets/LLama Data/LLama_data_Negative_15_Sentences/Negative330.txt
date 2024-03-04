@@ -1,0 +1,33 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male/female who presents with a medical history of [insert relevant medical conditions, such as hypertension, diabetes, sleep apnea, etc.]. The patient has been taking [insert medications relevant to the patient's conditions] and has been compliant with their medication regimen.
+
+The patient is scheduled to undergo [insert type of surgery, such as laparoscopic cholecystectomy] to address their [insert condition being treated by surgery, such as gallstones]. The patient is in good overall health and does not have any allergies.
+
+The patient's family medical history is significant for [insert relevant family medical history, such as a first-degree relative with coronary artery disease].
+
+The patient's social history includes [insert relevant social information, such as smoking status, alcohol use, occupation, etc.].
+
+The patient's review of systems is negative for any significant cardiovascular, respiratory, or gastrointestinal symptoms.
+
+The patient's surgical history includes [insert relevant previous surgeries, such as appendectomy, hernia repair, etc.].
+
+The patient's relevant lab results include [insert relevant lab results, such as blood count, electrolytes, liver function tests, etc.].
+
+The patient's relevant imaging studies include [insert relevant imaging studies, such as ultrasound, CT scan, MRI, etc.].
+
+The patient's preoperative instructions include [insert instructions, such as fasting, antibiotic prophylaxis, etc.].
+
+The patient's postoperative course was uneventful, with no complications noted.
+
+The patient was discharged [insert number of days after surgery] days after surgery and recovered well at home.
+
+The patient followed up with their surgeon [insert number of days after discharge] days after discharge and reported no complications or concerns.
+
+The patient returned to their normal activities [insert time frame, such as 2 weeks after surgery].
+
+The patient's final diagnosis was [insert final diagnosis, such as cholelithiasis].
+
+No complications were noted during the patient's postoperative course.
+
+Assistant: Is there anything else I can assist you with?

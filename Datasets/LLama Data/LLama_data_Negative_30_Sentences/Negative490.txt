@@ -1,0 +1,37 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker for 40 years, quit 5 years ago
+* Obese, BMI 35
+* History of sleep apnea, uses CPAP machine
+* History of degenerative joint disease, severe osteoarthritis in both knees
+* Previous surgical history includes cholecystectomy, hernia repair, and removal of skin lesions
+* Allergic to penicillin, sulfa drugs, and aspirin
+
+Postoperative Course:
+
+* Patient underwent a total knee replacement surgery
+* Procedure lasted 2 hours, performed under general anesthesia
+* Patient tolerated the procedure well, remained stable throughout
+* Postoperative pain managed with IV fentanyl and later switched to oral hydrocodone
+* Patient was able to ambulate with assistance on the first postoperative day
+* Patient was discharged home on postoperative day 3 with a ROM exerciser and pain medication
+
+Potential Complications:
+
+* Blood clots (deep vein thrombosis or pulmonary embolism)
+* Infection (wound or bloodstream)
+* Adhesions or bowel obstruction
+* Respiratory complications (pneumonia, atelectasis, or respiratory failure)
+* Cardiac complications (myocardial infarction, arrhythmia, or heart failure)
+* Nerve damage or neuropraxia
+* Postoperative fever or hyperthermia
+* Wound dehiscence or hernia
+* Patient may experience some temporary cognitive impairment or delirium
+
+This patient summary provides a comprehensive overview of the patient's medical history, postoperative course, and potential complications, excluding acute renal failure. It's important to note that this is just a sample and the specific details and complications may vary depending on the individual patient and their health status.

@@ -1,0 +1,102 @@
+Sure, here is a patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Main Complaint: Severe low back pain
+
+Medical History:
+
+* History of smoking, 10 years
+* Hypertension, controlled with medication
+* Hyperlipidemia, controlled with medication
+* Diabetes mellitus, controlled with medication and diet
+* Obesity, BMI 35
+* Sleep apnea, uses CPAP
+* History of alcohol abuse, stopped 5 years ago
+* History of cocaine use, stopped 10 years ago
+* History of previous back surgery, lumbar fusion 10 years ago
+* History of previous abdominal surgery, cholecystectomy 5 years ago
+* History of previous orthopedic surgery, left knee arthroscopy 3 years ago
+
+Current Medications:
+
+* Lisinopril 20mg daily
+* Simvastatin 40mg daily
+* Metformin 500mg bid
+* Oxycodone 10/325mg prn
+* Aspirin 81mg daily
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two children
+* Works as a construction worker
+* Denies recent travel or exposure to illness
+
+Family History:
+
+* Mother died of breast cancer at age 55
+* Father died of myocardial infarction at age 60
+* One sibling with hypertension
+
+Review of Systems:
+
+* Severe low back pain, 8/10, constant, radiating to both legs
+* Difficulty ambulating, uses a cane
+* Difficulty with activities of daily living
+* History of falls, denied recent falls
+* No recent fever, chills, or night sweats
+* No recent changes in bowel or bladder habits
+* No recent weight loss or gain
+
+Physical Examination:
+
+* BP 140/90 mmHg
+* HR 80 bpm
+* RR 18 breaths/min
+* Temp 98.6°F
+* BMI 35
+* Abdominal scar from previous cholecystectomy
+* Back scar from previous lumbar fusion
+* Left knee scar from previous arthroscopy
+* Decreased range of motion in the lower back
+* Decreased sensation in the lower extremities
+* Positive straight leg raise test
+* Negative Trousseau sign
+
+Lab Results:
+
+* WBC 10,000/mm3
+* HbA1c 7.5%
+* BUN 20 mg/dL
+* Creatinine 1.5 mg/dL
+* Sodium 140 mEq/L
+* Potassium 4.0 mEq/L
+* Chest X-ray: clear
+
+Imaging Studies:
+
+* MRI lumbar spine: multilevel degenerative disc disease, L4-L5 and L5-S1
+* MRI thoracic spine: thoracic spine degenerative changes
+
+Postoperative Course:
+
+* Patient underwent a successful lumbar decompression and fusion surgery
+* Spent 3 days in the hospital recovering
+* Experienced some postoperative pain, managed with medication
+* Followed up with surgeon 2 weeks postoperatively, doing well
+* Returned to work 4 weeks postoperatively, with restrictions
+
+Complications:
+
+* None
+
+I hope this patient summary helps you in planning the patient's surgery and postoperative care.

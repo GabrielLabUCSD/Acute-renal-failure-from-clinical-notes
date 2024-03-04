@@ -1,0 +1,79 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition] and is planned to undergo [insert type of surgery].
+
+The patient has a history of [insert relevant medical history], including [insert any previous surgeries or medical conditions that may be relevant to the upcoming surgery].
+
+The patient is currently taking [insert medications] and has been advised to stop taking [insert medications to be held before surgery] before the procedure.
+
+The patient has no known allergies to medications or materials commonly used in surgery.
+
+The patient's laboratory results are as follows:
+
+* White blood cell count: [insert value]
+* Hemoglobin: [insert value]
+* Platelet count: [insert value]
+* Blood urea nitrogen (BUN): [insert value]
+* Creatinine: [insert value]
+* Glucose: [insert value]
+* Liver function tests (LFTs): [insert values]
+
+The patient's electrocardiogram (ECG) shows [insert any abnormalities].
+
+The patient's chest x-ray is unremarkable.
+
+The patient's urinalysis shows [insert any abnormalities].
+
+The patient has been informed of the risks and benefits of the surgery, including the potential for [insert potential complications].
+
+The patient has been advised to follow a clear liquid diet for [insert time period] before the surgery and to abstain from alcohol and certain medications for [insert time period] before and after the surgery.
+
+The patient has been instructed to arrive at the hospital at [insert time] on the day of the surgery.
+
+The patient's postoperative course has been anticipated to be as follows:
+
+* The patient will be closely monitored in the recovery room for [insert time period] after the surgery.
+* The patient will be transferred to the ward once they are stable and will be monitored closely for any complications.
+
+The patient will be advised to:
+
+* Follow a postoperative diet that includes [insert diet instructions].
+* Avoid heavy lifting, bending, or straining for [insert time period].
+* Avoid alcohol and certain medications for [insert time period].
+* Attend follow-up appointments with their surgeon for postoperative check-ups.
+
+The patient has been Informed of the potential complications, including:
+
+* Infection
+* Bleeding
+* Adhesions
+* Injury to neighboring organs
+* Wound seroma
+* Wound hematoma
+* Delayed wound healing
+
+The patient has also been informed of the potential need for blood transfusion or conversion to open surgery if necessary.
+
+The patient has been instructed to contact their surgeon's office or emergency department if they experience any concern or complication after discharge.
+
+The patient has been advised to follow up with their primary care physician for further management of their medical condition after discharge.
+
+The patient's family has been informed of the surgical plan and postoperative care.
+
+The patient has been encouraged to ask any questions or express concerns about the surgery or postoperative care.
+
+The patient has been advised to have a responsible adult present during the early postoperative period to assist with their care.
+
+The patient has been advised to avoid driving or operating heavy machinery for [insert time period] after the surgery.
+
+The patient has been advised to avoid exposing the surgical site to water or wet conditions for [insert time period].
+
+The patient has been advised to avoid any strenuous activities that may interfere with the healing process.
+
+The patient has been advised to take pain medications as directed by their surgeon to minimize discomfort or pain.
+
+The patient has been advised to follow up with their surgeon for removal of sutures or staples, if applicable.
+
+The patient has been advised to report any unusual symptoms or complications to their surgeon or primary care physician immediately.
+
+The patient has been advised to keep their follow-up appointments with their surgeon to ensure proper healing and management of their medical condition.

@@ -1,0 +1,35 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+
+Chief Complaint: The patient presents with a 2-year history of worsening left knee pain and stiffness, which has limited his mobility and ability to perform daily activities.
+
+Medical History: The patient has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. He had a myocardial infarction 10 years ago and has been compliant with his medications and follow-up appointments.
+
+Surgical History: The patient underwent a left total knee arthroplasty 5 years ago, which provided significant pain relief but did not fully resolve his symptoms.
+
+Medications: The patient takes aspirin, lisinopril, atorvastatin, and metformin.
+
+Family History: The patient's mother had osteoporosis, and his father had coronary artery disease.
+
+Social History: The patient is a retired lawyer, married, and has two adult children. He enjoys playing golf and reading.
+
+Allergies: The patient is allergic to penicillin and has a history of mild allergic reactions to sulfa medications.
+
+Review of Systems: The patient reports no recent weight loss, fever, or night sweats. He has mild bilateral knee swelling and limited mobility.
+
+Physical Exam: The patient's blood pressure is 130/80 mmHg, pulse is 70/min, and respiratory rate is 16/min. His temperature is 98.6°F. The patient has mild tenderness to palpation over the left knee and limited range of motion.
+
+Lab Results: The patient's complete blood count, electrolyte panel, and renal function tests are within normal limits. His serum creatinine kinase level is mildly elevated.
+
+Imaging Studies: The patient's postoperative X-rays show a well-positioned prosthetic knee joint with no evidence of dislocation or loosening.
+
+Postoperative Course: The patient had an uncomplicated postoperative course and was discharged from the hospital on the fifth postoperative day. He attended physical therapy sessions regularly and achieved full knee extension and flexion within 6 weeks.
+
+Complications: The patient developed a seroma at the surgical site, which resolved spontaneously within 2 weeks. He also experienced mild postoperative nausea and vomiting, which were managed with antiemetics.
+
+Follow-up: The patient had a follow-up appointment 6 weeks after surgery, at which time he reported significant improvement in his symptoms and was able to ambulate without assistance. His knee mobility and strength had improved significantly, and he was able to resume his normal activities, including golfing and reading.
+
+Conclusion: This patient's postoperative course was generally uneventful, with a minor complication of a seroma at the surgical site. He experienced significant improvement in his symptoms and was able to resume his normal activities.

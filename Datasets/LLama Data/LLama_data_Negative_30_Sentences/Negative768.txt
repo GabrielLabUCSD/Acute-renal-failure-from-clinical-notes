@@ -1,0 +1,23 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male/female who presents with a medical history of [insert significant medical conditions, e.g., hypertension, diabetes, asthma]. The patient has been taking [insert medications] and has a history of [insert significant allergies]. The patient is schedule to undergo [insert type of surgery] and the surgical team has been informed of the patient's medical history.
+
+Preoperative Course:
+
+Prior to surgery, the patient underwent a thorough physical examination and laboratory tests, which revealed [insert relevant laboratory results]. The patient was also seen by a cardiologist and anesthesiologist to ensure that they were cleared for surgery.
+
+Postoperative Course:
+
+Following surgery, the patient was closely monitored in the recovery room for [insert duration of time]. During this time, the patient experienced [insert any complications or abnormalities, such as fever, nausea, or pain]. The patient's vital signs were closely monitored and remained stable.
+
+The patient was then transferred to the surgical ward, where they continued to recover from surgery. The patient was given [insert pain medication] to manage any postoperative discomfort, and they were encouraged to move around and perform deep breathing exercises to prevent pneumonia.
+
+The patient's postoperative course was uncomplicated, and they were discharged from the hospital after [insert length of stay].
+
+Complications:
+
+The patient did not experience any acute renal failure during their hospital stay. However, they did develop [insert any other complications, such as pneumonia, wound infection, or sepsis]. These complications were effectively managed with [insert treatment] and the patient made a full recovery.
+
+Conclusion:
+
+In summary, the patient underwent [insert type of surgery] and had an uncomplicated postoperative course. They were closely monitored and effectively managed throughout their hospital stay, and they were discharged in good health. The patient's medical history, including their significant medical conditions and medications, was taken into account during their care to ensure the best possible outcome.

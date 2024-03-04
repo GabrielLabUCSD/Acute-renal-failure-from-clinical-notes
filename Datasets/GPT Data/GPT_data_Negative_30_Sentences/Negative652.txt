@@ -1,0 +1,55 @@
+The patient is a ____-year-old male/female who is scheduled for surgery. 
+
+The patient has a medical history of _______, including _____. 
+
+They have a past surgical history of _______, which was performed _______.
+
+Their current medications include _______, and they are known to be allergic to _______.
+
+The patient's vital signs are within normal limits, with a blood pressure of _____ mmHg, heart rate of _____ beats per minute, respiratory rate of _____ breaths per minute, and temperature of _____°C.
+
+Laboratory results show _______ was within the normal range, while _______ was elevated/decreased.
+
+They have no known history of bleeding disorders or coagulopathies.
+
+Their preoperative chest X-ray revealed _______, and their electrocardiogram showed _______.
+
+An anesthetic consultation was performed, and they were deemed suitable for surgery under _______ anesthesia.
+
+The patient understands the risks and benefits of the surgery and has provided informed consent.
+
+They were instructed to stop taking _______ medication _______ days before surgery.
+
+The patient fasted for _____ hours prior to the surgery, as advised.
+
+Upon admission to the hospital, the patient was prepared for surgery in accordance with standard protocols.
+
+The surgery was performed successfully by _______ surgeon and lasted _______ hours.
+
+During the procedure, _______ was found/done _______.
+
+The patient tolerated the surgery well and was transferred to the post-anesthesia care unit (PACU) for recovery.
+
+They were closely monitored by nursing staff, with regular assessments of their vital signs.
+
+The patient received appropriate pain management with _______ medication.
+
+They were encouraged to ambulate and perform deep breathing exercises to prevent postoperative complications.
+
+The patient's postoperative course was uneventful, with no signs of surgical site infections or wound dehiscence.
+
+They were able to tolerate oral intake and were advanced to a regular diet.
+
+Postoperative medication regimen included _______ for pain control, _______ to prevent infection, and _______ to aid in wound healing.
+
+Daily wound care, such as dressing changes and assessment, was provided.
+
+Physical therapy was initiated to assist with functional recovery and prevent complications such as deep vein thrombosis.
+
+The patient's pain was well-managed, and they reported a pain score of _____ out of 10.
+
+They were discharged home on postoperative day _____ with appropriate instructions for follow-up care.
+
+No postoperative complications were reported, and the patient was advised to notify the surgeon if any arise.
+
+Overall, the patient underwent surgery without any notable complications and is expected to have a smooth recovery.

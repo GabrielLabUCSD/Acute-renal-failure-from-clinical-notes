@@ -1,0 +1,43 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and coronary artery disease.
+3. He had a myocardial infarction 10 years ago.
+4. He has been smoking for the past 40 years.
+5. He has a history of chronic obstructive pulmonary disease (COPD).
+6. He has been experiencing worsening shortness of breath for the past year.
+7. He has a history of peripheral artery disease.
+8. He had a left knee replacement 5 years ago.
+9. He has a history of migraines.
+10. He has a history of gastroesophageal reflux disease (GERD).
+11. He has been experiencing worsening abdominal pain for the past month.
+12. He has a history of hyperlipidemia.
+13. He has been taking atorvastatin for the past 5 years.
+14. He has a history of hypothyroidism.
+15. He has been taking levothyroxine for the past 3 years.
+16. He has a history of benign prostatic hyperplasia (BPH).
+17. He has been taking tamsulosin for the past year.
+18. He has a history of erectile dysfunction.
+19. He has been taking sildenafil for the past 2 years.
+20. He has a history of chronic kidney disease.
+21. His current creatinine level is 1.8 mg/dL.
+22. He has a history of urinary tract infections.
+23. He had a transurethral resection of the prostate (TURP) 5 years ago.
+24. He has a history of deep vein thrombosis.
+25. He has been taking warfarin for the past 5 years.
+26. He has a history of pulmonary embolism.
+27. He has been taking rivaroxaban for the past year.
+28. He has a history of osteoarthritis.
+29. He has been experiencing worsening left knee pain for the past year.
+30. He is planning to undergo a left knee arthroscopy.
+
+Complications:
+
+1. Acute renal failure: The patient developed acute renal failure 2 days after surgery, with a creatinine level of 3.5 mg/dL and a urine output of 30 mL in 6 hours.
+2. Postoperative pneumonia: The patient developed a fever of 101.3°F (38.5°C) and a productive cough with purulent sputum on the second postoperative day. Chest X-ray revealed a left lower lobe infiltrate.
+3. Wound infection: The patient developed a wound infection 5 days after surgery, with purulent drainage and a foul odor. Intravenous antibiotics were administered for 7 days, and the wound was closed with sutures.
+4. Septic shock: The patient developed septic shock on the third postoperative day, with a blood pressure of 60/30 mmHg, tachycardia, and tachypnea. vasopressors were administered, and the patient was transferred to the intensive care unit.
+5. Respiratory failure: The patient developed respiratory failure on the fourth postoperative day, with a PaO2 of 50 mmHg on 100% oxygen. He was intubated and mechanically ventilated for 48 hours.
+6. Cardiac arrest: The patient developed cardiac arrest on the fifth postoperative day, with a pulseless electrical activity rhythm. He was successfully resuscitated with CPR and defibrillation.
+7. Postoperative delirium: The patient developed postoperative delirium on the second postoperative day, with confusion, agitation, and hallucinations. He was treated with haloperidol and benzodiazepines.
+8. Postoperative nausea and vomiting: The patient developed postoperative n

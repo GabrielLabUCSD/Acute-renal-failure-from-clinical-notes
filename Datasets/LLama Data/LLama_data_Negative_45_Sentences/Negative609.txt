@@ -1,0 +1,79 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery. Please note that this is a fictional patient and the details are for demonstration purposes only.
+
+Patient Name: John Doe
+
+Chief Complaint: The patient presents with a 2-year history of chronic low back pain, radiating to the right leg, and numbness in the right foot. The pain is exacerbated by activity and relieved by rest.
+
+Medical History:
+
+* The patient has a history of smoking, with a 20-pack-year history.
+* He has hypertension and hyperlipidemia, for which he takes medication.
+* He has a history of non-insulin-dependent diabetes mellitus, for which he takes metformin.
+* He has a history of duodenal ulcer, for which he takes antacids.
+* He has a history of allergy to penicillin.
+* He has a history of asthma, for which he uses an inhaler.
+* He has a history of glaucoma, for which he uses eye drops.
+* He has a history of hypothyroidism, for which he takes levothyroxine.
+* He has a history of chronic obstructive pulmonary disease (COPD), for which he uses an inhaler.
+* He has a history of coronary artery disease, for which he takes medication.
+* He has a history of peripheral artery disease, for which he takes medication.
+* He has a history of benign prostatic hyperplasia (BPH), for which he takes medication.
+* He has a history of prostate cancer, for which he underwent radiation therapy.
+* He has a history of bladder cancer, for which he underwent transurethral resection of bladder tumor (TURBT).
+* He has a history of colon cancer, for which he underwent hemicolon resection.
+
+Surgical History:
+
+* The patient has a history of cholecystectomy.
+* He has a history of herniorrhaphy.
+* He has a history of cataract surgery.
+* He has a history of glaucoma surgery.
+* He has a history of coronary artery bypass grafting (CABG).
+* He has a history of percutaneous transluminal coronary angioplasty (PTCA).
+* He has a history of carotid endarterectomy.
+* He has a history of knee arthroscopy.
+* He has a history of knee replacement.
+* He has a history of hip replacement.
+* He has a history of shoulder arthroscopy.
+
+Current Medications:
+
+* Metformin
+* Levothyroxine
+* Lisinopril
+* Aspirin
+* Metoprolol
+* Omeprazole
+* Simvastatin
+* Celecoxib
+* Albuterol
+* Ipratropium
+* Furosemide
+* Spironolactone
+* Warfarin
+
+Allergies:
+
+* Penicillin
+
+Social History:
+
+* The patient is a retired construction worker.
+* He is married and has two adult children.
+* He has a history of heavy alcohol use but states that he quit drinking 10 years ago.
+* He has a history of tobacco use, with a 20-pack-year history.
+* He denies any recent travel or exposure to illness.
+
+Family History:
+
+* The patient's father died of myocardial infarction at age 65.
+* His mother died of breast cancer at age 70.
+* His brother has hypertension and diabetes.
+* His sister has hypertension and hyperlipidemia.
+
+Review of Systems:
+
+* Cardiovascular: Denies chest pain, shortness of breath, or palpitations.
+* Respiratory: Denies cough, wheezing, or shortness of breath.
+* Gastrointestinal: Denies abdominal pain, nausea, or vomiting.
+* Genitourinary: Denies dysuria, frequency, or hesitancy.

@@ -1,0 +1,53 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. The patient has been smoking for the past 15 years but quit smoking six months ago. He denies any alcohol or drug use.
+
+The patient's surgical history includes a cholecystectomy 10 years ago, and a hernia repair five years ago. He has no history of previous anesthesia complications.
+
+The patient's current medications include lisinopril, atorvastatin, metformin, and aspirin. He takes no herbal supplements.
+
+The patient allergy is sulfa antibiotics.
+
+The patient's family history is significant for coronary artery disease and stroke. His father died of myocardial infarction at age 55, and his mother had a stroke at age 60.
+
+The patient's social history reveals that he is married with two children, aged 12 and 15 years. He works as an accountant and has a high school education level.
+
+On physical examination, the patient's vital signs are stable. His height is 175cm, weight 80 kg, and BMI 27.
+
+The patient's cardiovascular system examination reveals a regular rhythm, no murmurs, and normal blood pressure. The respiratory and abdominal examinations are unremarkable.
+
+The patient's laboratory test results show:
+
+* Hemoglobin: 13.8 g/dL
+* White blood cell count: 7.5 x 10^9/L
+* Platelet count: 188 x 10^9/L
+* Creatinine: 0.9 mg/dL
+* Glucose: 114 mg/dL
+* Cholesterol: 180 mg/dL
+* Triglycerides: 150 mg/dL
+* Alanine transaminase (ALT): 25 IU/L
+* Aspartate transaminase (AST): 30 IU/L
+* Alkaline phosphatase (ALP): 70 IU/L
+* Prothrombin time (PT): 11.2 seconds
+* Partial thromboplastin time (PTT): 32 seconds
+
+The patient's electrocardiogram (ECG) shows no acute changes.
+
+The patient's echocardiogram shows left ventricular hypertrophy and mild mitral regurgitation.
+
+The patient's preoperative instructions include:
+
+* No food or drink for eight hours before surgery
+* No smoking for 24 hours before and after surgery
+* No alcohol for 24 hours before and after surgery
+* No aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs) for seven days before surgery
+* Clear liquids until two hours before surgery
+* Bring all current medications to the hospital
+
+The patient's postoperative course was uneventful. He had no complications and was discharged from the hospital on the fifth postoperative day.
+
+The patient's follow-up appointment is scheduled for two weeks after discharge.
+
+Complications: None
+
+This patient summary provides a comprehensive overview of the patient's medical history, current health status, and postoperative course. It highlights several important factors that may impact the patient's surgical outcome, such as his history of hypertension, hyperlipidemia, and smoking. The patient's family history of coronary artery disease and stroke also suggests an increased risk for cardiovascular complications. However, the patient's recent quit smoking and stable vital signs are positive factors that may reduce his surgical risk. The patient's electrocardiogram and echocardiogram results are also reassuring, showing no acute changes. Overall, this patient summary provides essential information for anesthesiologists and surgeons to make informed decisions about the patient's care and minimize potential risks during surgery.

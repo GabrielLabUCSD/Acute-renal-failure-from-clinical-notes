@@ -1,0 +1,15 @@
+Patient X is a 62-year-old male who has been diagnosed with coronary artery disease (CAD) and is scheduled to undergo cardiac bypass surgery. He has a history of hypertension, dyslipidemia, and smoking, and has been on medications such as aspirin, beta blockers, and statins to manage his conditions. The patient has had multiple episodes of chest pain in the past, necessitating angioplasty and stenting.
+
+In addition to his cardiovascular concerns, Patient X has also been diagnosed with type 2 diabetes mellitus. He is on a regimen of oral antidiabetic medication and has learned to manage his blood sugar levels through diet and exercise. He has not experienced any severe complications from his diabetes, such as neuropathy or retinopathy.
+
+The patient's preoperative lab workup indicates normal complete blood count, electrolytes, and kidney function, with a glomerular filtration rate of 85 mL/min/1.73m². He has no history of acute renal failure. His echocardiogram shows moderate left ventricular dysfunction, with an ejection fraction of 40%.
+
+During the surgery, Patient X was placed under general anesthesia and underwent a triple coronary artery bypass grafting procedure successfully. The bypass grafts were done using the left internal mammary artery and saphenous vein grafts. The surgery lasted approximately four hours, and the patient tolerated it well without any intraoperative complications.
+
+Postoperatively, the patient was transferred to the cardiac intensive care unit for monitoring and management of pain, infection prevention, and maintaining adequate hemodynamic stability. Continuous ECG monitoring, arterial pressure monitoring, and hourly urine output assessment were performed. Patient X received intravenous medications such as opioids, beta blockers, and antiplatelet agents as per protocol.
+
+During the postoperative course, the patient experienced mild atrial fibrillation, which was managed with rate control medications and resolved within 48 hours. There were no signs of wound infection, and the patient's chest incision healed well. He was started on physical therapy and gradually progressed with mobility and breathing exercises to prevent postoperative complications like pneumonia and deep vein thrombosis.
+
+Patient X continued to be closely monitored for blood pressure control, glucose management, and signs of myocardial ischemia. He was gradually weaned off the mechanical ventilator and successfully extubated on postoperative day three. His pain levels were tolerable with oral analgesics.
+
+Despite the surgical intervention and delicate postoperative period, Patient X did not experience any immediate complications such as myocardial infarction, stroke, or acute kidney injury. His recovery progressed steadily, and he was discharged home on postoperative day seven with prescriptions for beta blockers, antiplatelet agents, and statins and a referral to cardiac rehabilitation.

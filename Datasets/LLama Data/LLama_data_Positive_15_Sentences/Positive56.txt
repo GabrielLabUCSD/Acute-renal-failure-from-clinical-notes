@@ -1,0 +1,48 @@
+Sure, here's a sample patient summary:
+
+Patient Name: John Doe
+
+Age: 65
+
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Diabetes mellitus
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Previous myocardial infarction
+* Previous coronary artery bypass grafting
+* Chronic obstructive pulmonary disease (COPD)
+* Sleep apnea
+* History of alcohol abuse
+
+Current Complaints:
+
+* Severe back pain
+* Difficulty ambulating
+* History of falls
+* Urinary retention
+
+Planned Surgery:
+
+* Lumbar spinal fusion
+
+Acute Renal Failure Complication:
+
+* Developed acute renal failure post-surgery
+* Requires continuous renal replacement therapy (CRRT)
+* Elevated creatinine levels
+* Oliguria
+
+Additional Information:
+
+* Allergic to penicillin
+* Takes aspirin and metformin
+* History of non-compliance with medications
+* Lives alone and has limited support system
+* Works as a retired electrician
+
+This patient summary provides a comprehensive overview of the patient's medical history, including his chronic conditions, previous surgeries, and current complaints that led to the planned surgery. It also highlights the acute renal failure complication that developed post-surgery, which requires close monitoring and management. Additionally, the summary includes information about the patient's medication regimen, allergies, and living situation, which can impact his post-surgical care and recovery.

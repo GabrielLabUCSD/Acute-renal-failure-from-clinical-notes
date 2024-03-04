@@ -1,0 +1,15 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. They have a medical history significant for [list conditions]. 
+The patient's surgical indication is [reason for surgery], and the procedure is aimed at [purpose of surgery].
+Their preoperative laboratory investigations revealed [lab values], which are within normal limits, except for [mention abnormal findings].
+Their vital signs including blood pressure, heart rate, respiratory rate, and body temperature are stable before the surgery.
+The patient's surgical team includes [list members of the team], and they have been adequately informed about the procedure and its potential complications. 
+They have been counseled about the need for anesthesia and received appropriate preoperative sedation.
+During surgery, the patient tolerated the procedure well under general anesthesia without any intraoperative complications.
+Postoperatively, the patient was taken to the recovery room in stable condition and was monitored closely.
+They were started on appropriate postoperative pain management, including [mention medications or techniques used].
+The patient gradually recovered and remained hemodynamically stable with no signs of infection postoperatively.
+They were encouraged to early mobilization and deep breathing exercises to prevent postoperative complications.
+Regular postoperative assessments were performed to monitor their progress, including monitoring wound healing.
+The patient's laboratory investigations on postoperative day [day number] were unremarkable, demonstrating a normal recovery process.
+They were discharged home [number of days] days after the surgery without any complications or concerns.
+During their follow-up visits, the patient exhibited no signs of delayed healing, wound infection, or other postoperative complications.

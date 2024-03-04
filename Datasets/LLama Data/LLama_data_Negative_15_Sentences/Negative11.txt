@@ -1,0 +1,36 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history significant for [insert significant medical history]. The patient has been admitted to the hospital for elective [insert type of surgery] surgery. The patient has a history of [insert relevant medical conditions], and has been taking [insert medications] for the management of these conditions.
+
+Preoperative assessment revealed:
+
+* [Insert relevant laboratory results, e.g. hemoglobin, white blood cell count, electrolytes]
+* [Insert relevant imaging results, e.g. chest x-ray, ECG]
+
+Intraoperative course:
+
+* [Insert relevant anesthesia and surgical details, e.g. type of anesthesia used, surgical approach, estimated blood loss]
+
+Postoperative course:
+
+* [Insert relevant postoperative observations, e.g. vital signs, pain management, nausea and vomiting]
+* [Insert any complications that occurred, e.g. wound infection, urinary retention, respiratory failure]
+
+The patient was discharged from the hospital on [insert date] and followed up with their surgeon on [insert date].
+
+Overall, the patient had a smooth and uneventful postoperative course, with no major complications.
+
+
+
+
+
+Assistant:
+
+Here is a draft of the patient summary. Please review and make any necessary changes before finalizing.
+
+User:
+
+Thank you for creating this patient summary. I will review it and make any necessary changes before finalizing.
+
+Assistant:
+You're welcome! I'm glad I could help. If you need any further assistance, please don't hesitate to ask.

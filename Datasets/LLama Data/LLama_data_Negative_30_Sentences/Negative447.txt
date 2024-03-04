@@ -1,0 +1,37 @@
+Patient Summary: 
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [list relevant medical conditions, e.g., hypertension, diabetes, asthma]. The patient has been taking [list current medications] and has had [list previous surgeries or procedures].
+
+The patient is scheduled to undergo [type of surgery] and the expected postoperative course is [length of hospital stay, type of anesthesia, etc.]. The patient is at risk for [list potential complications, e.g., infection, bleeding, pneumonia].
+
+The patient has a history of [relevant medical events, e.g., myocardial infarction, stroke, COPD exacerbation]. The patient has also experienced [relevant symptoms, e.g., pain, nausea, dyspnea].
+
+The patient's surgical history includes [list previous surgeries or procedures, including dates and outcomes]. The patient has had [list any previous complicated surgeries or procedures].
+
+The patient's current medications include [list medications, dosages, and frequency]. The patient is allergic to [list any medication allergies].
+
+The patient's social history includes [list relevant social history information, e.g., smoking status, alcohol use, living situation]. The patient has a support system consisting of [list support system, e.g., spouse, family members, friends].
+
+The patient's family medical history includes [list relevant family medical history information, e.g., parents, grandparents, siblings with medical conditions].
+
+The patient's surgical site is [list surgical site, e.g., abdomen, chest, joint]. The patient will be monitored closely for [list potential complications] during their postoperative course.
+
+The patient's postoperative course has been complicated by [list complications that have occurred, e.g., infection, bleeding, pneumonia]. The patient has required [list interventions or treatments, e.g., antibiotics, blood transfusions, oxygen therapy].
+
+The patient's current status is [list current status, e.g., stable, improving, declining]. The patient is expected to [list expected outcome, e.g., make a full recovery, require ongoing therapy, have a prolonged hospital stay].
+
+The patient's prognosis is [list prognosis, e.g., good, fair, guarded]. The patient is at risk for [list potential complications or long-term effects].
+
+The patient is being discharged home with [list instructions, e.g., wound care instructions, medication instructions, follow-up appointments]. The patient will follow up with [list healthcare providers, e.g., primary care physician, surgeon, specialist].
+
+The patient's follow-up appointments are scheduled for [list dates, times, and healthcare providers]. The patient is expected to make a full recovery and return to their normal activities in [list timeframe, e.g., 6 weeks, 3 months, 6 months].
+
+The patient has been advised to [list instructions, e.g., avoid heavy lifting, follow a specific diet, avoid smoking]. The patient has been prescribed [list medications, dosages, and frequency]. The patient has been referred to [list any specialists or therapists, e.g., physical therapist, occupational therapist].
+
+The patient's overall health is expected to improve with [list interventions or treatments, e.g., surgery, medication, lifestyle changes]. The patient is encouraged to [list healthy habits, e.g., exercise regularly, eat a healthy diet, get enough sleep].
+
+The patient is considered high risk for [list potential complications or long-term effects]. The patient is monitored closely for [list potential complications] and is being managed with [list interventions or treatments].
+
+The patient's current treatment plan includes [list medications, dosages, and frequency]. The patient's medications have been adjusted to [list changes, e.g., dose increases, dose decreases, medication discontinuation]. The patient is being monitored closely for [list potential medication side effects or interactions].
+
+The patient's follow-up appointments are necessary to [list

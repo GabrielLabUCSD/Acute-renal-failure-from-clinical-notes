@@ -1,0 +1,96 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a complication of acute renal failure after surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension (high blood pressure) for 10 years
+* Hyperlipidemia (high cholesterol) for 5 years
+* History of smoking (pack-years: 20)
+* History of alcohol use disorder (alcoholic hepatitis)
+* Diabetes mellitus (type 2) for 5 years
+* Obstructive sleep apnea
+* History of colon cancer (stage II) 5 years ago
+* History of chronic low back pain
+
+Recent Symptoms:
+
+* Sudden onset of severe abdominal pain 3 days ago
+* vomiting x 2 days
+* Abdominal tenderness to palpation
+* Fever (100.4°F)
+* Decreased urine output
+
+Current Medications:
+
+* Lisinopril (Zestril) 20mg orally daily
+* Simvastatin (Zocor) 40mg orally daily
+* Metformin (Glucophage) 500mg orally twice daily
+* Oxycodone (Roxicodone) 5mg orally every 6 hours as needed for pain
+* Aspirin (Ecotrin) 81mg orally daily
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 10 years ago
+* Colon resection (colon cancer) 5 years ago
+* Hysterectomy (uterine cancer) 2 years ago
+
+Family History:
+
+* Father died of myocardial infarction (heart attack) at age 55
+* Mother died of breast cancer at age 68
+* One sibling with history of hypertension
+
+Social History:
+
+* Married with two adult children
+* Retired from work 2 years ago
+* Lives in a two-story house with no elevator
+* Has a pet dog that requires daily walking
+* Denies any recent travel or exposure to illnesses
+
+Review of Systems:
+
+* No significant cardiovascular, respiratory, or neurological symptoms
+* No history of allergies or previous adverse reactions to anesthesia
+* No history of bleeding disorders or significant gastrointestinal bleeding
+
+Physical Exam:
+
+* Temp: 100.4°F
+* Pulse: 110/min
+* BP: 180/90 mmHg
+* Respiratory rate: 18/min
+* Oxygen saturation: 96% on room air
+* Abdominal tenderness to palpation, guarding and rigidity present
+* No signs of surgical site infection
+
+Lab Results:
+
+* WBC count: 18,000/mm3
+* Serum creatinine: 2.5 mg/dL
+* Blood urea nitrogen (BUN): 50 mg/dL
+* Glucose: 250 mg/dL
+* Lipase: 150 U/L
+* Amylase: 200 U/L
+* Alkaline phosphatase: 150 U/L
+* Bilirubin: 2.0 mg/dL
+* International normalized ratio (INR): 1.8
+* Partial thromboplastin time (PTT): 60 seconds
+
+Imaging Results:
+
+* CT scan of abdomen and pelvis shows acute appendicitis
+
+Plan:
+
+* Emergency appendectomy
+* Intravenous fluids and antibiotics to be started in the operating room
+* Close monitoring of blood pressure and fluid status during surgery
+* Consultation with anesthesiologist for appropriate anesthesia plan
+
+Complication:
+
+* Acute renal failure (ARF) developed postoperatively, likely due to sepsis and hypovolemia from surg

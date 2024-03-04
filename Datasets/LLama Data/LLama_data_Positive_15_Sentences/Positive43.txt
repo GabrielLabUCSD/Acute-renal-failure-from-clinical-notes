@@ -1,0 +1,35 @@
+Patient Summary:
+
+The patient is a 65-year-old male, who presents with a history of chronic back pain and bilateral leg pain. The pain has been gradually worsening over the past year, limiting his ability to perform daily activities and impacting his quality of life. The patient has a history of hypertension, hyperlipidemia, and diabetes mellitus, which have been managed with medication. He has a history of smoking but has been smoke-free for the past five years. The patient does not have a history of previous surgeries.
+
+Preoperative Examination:
+
+The patient underwent a thorough preoperative examination, which included a physical examination, laboratory tests, and imaging studies. The patient's blood pressure was 150/80 mmHg, heart rate was 70 beats per minute, and respiratory rate was 18 breaths per minute. His temperature was 37.2°C (99°F). The patient's laboratory results were within normal limits, except for a creatinine level of 1.5 mg/dL. The patient's electrocardiogram (ECG) showed no signs of cardiac abnormalities.
+
+Operative Findings:
+
+The patient underwent a lumbar decompression surgery, which involved the removal of a herniated disc and the fusion of two vertebrae. The surgery was performed under general anesthesia and took approximately two hours to complete. The patient's vital signs were stable throughout the procedure.
+
+Postoperative Course:
+
+The patient was transferred to the post-anesthesia care unit (PACU) for recovery. His vital signs were monitored closely, and he was given oxygen therapy and pain medication as needed. The patient was able to ambulate independently within the first 24 hours after surgery.
+
+Complications:
+
+On the second postoperative day, the patient developed acute renal failure (ARF) with a serum creatinine level of 3.5 mg/dL and a urine output of 30 mL/hour. The patient's blood pressure was 180/100 mmHg, and he complained of decreased urine output and nausea. The patient was admitted to the intensive care unit (ICU) for close monitoring and management.
+
+Diagnostic Tests:
+
+The patient underwent a urinalysis, which showed pyuria and proteinuria. A kidney ultrasound revealed hydronephrosis and impaired renal function. The patient's blood cultures were positive for Escherichia coli (E. coli).
+
+Treatment:
+
+The patient was treated with intravenous fluids, antibiotics, and supporting therapy for ARF. The patient's blood pressure was managed with medication, and his urine output improved gradually over the next 48 hours. The patient's creatinine level decreased to 2.5 mg/dL within three days.
+
+Recovery:
+
+The patient remained in the ICU for five days and was then transferred to the surgical ward for further recovery. He continued to receive antibiotics and supportive care for ARF. The patient's renal function improved gradually, and his creatinine level returned to baseline within two weeks after surgery. The patient was discharged from the hospital one month after surgery and was followed up with by a nephrologist for further management of his ARF.
+
+Conclusion:
+
+This patient's case highlights the importance of close postoperative monitoring and management of patients with preexisting medical conditions. The patient's acute renal failure was promptly identified and treated, resulting in a successful outcome. The patient's recovery was uneventful, and he was discharged from the hospital with follow-up appointments with a nephrologist to manage his chronic kidney disease.

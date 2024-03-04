@@ -1,0 +1,11 @@
+The patient is a 55-year-old male who is planning to have surgery for an undisclosed condition. His medical history includes hypertension, diabetes mellitus type 2, and hyperlipidemia. He has been on medication for these conditions for the past 10 years.
+
+The patient's hypertension is well controlled with a combination of beta-blockers and diuretics. His diabetes is managed with oral hypoglycemic agents and his HbA1c levels have been consistently below 7%. His hyperlipidemia is also controlled with statins, resulting in normal lipid profile levels.
+
+He has no known allergies to any medications or previous adverse reactions to anesthesia. In terms of surgical history, the patient had a minor procedure to remove a ganglion cyst from his wrist five years ago, which went smoothly with no complications.
+
+The patient's renal function has been normal, with no previous episodes of acute kidney injury or chronic kidney disease. However, post-operatively, the patient develops acute renal failure, which is determined based on increased serum creatinine and decreased urine output. The etiology of his renal failure is yet to be determined, but could be attributed to hypotension during surgery, fluid imbalance, or medication-related complications.
+
+The initial management of his acute renal failure includes discontinuing any nephrotoxic medications, optimizing his fluid balance, and implementing measures to improve renal perfusion. Monitoring of renal function with serial serum creatinine levels and urine output will be crucial in assessing his response to treatment.
+
+Given the patient's medical history and his acute renal failure complication, appropriate consultations will be made to a nephrologist and a renal dietitian to provide specialized care for his condition. Close monitoring, supportive care, and appropriate interventions will be necessary to manage his acute renal failure and prevent further complications.

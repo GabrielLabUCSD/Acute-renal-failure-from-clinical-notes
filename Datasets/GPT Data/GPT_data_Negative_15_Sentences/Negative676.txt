@@ -1,0 +1,23 @@
+The patient is a [age]-year-old [gender] who has a past medical history of [list relevant medical conditions such as diabetes, hypertension, etc.]. The patient is scheduled to undergo [type of surgery] for [reason for surgery].
+
+Their surgical history includes [list previous surgeries, if any]. They have undergone [describe any previous surgeries with emphasis on relevance to the upcoming procedure].
+
+The patient's medication history includes [list current medications]. They are taking [name of medication] for [indication]. The patient has no known drug allergies.
+
+In terms of family history, the patient reports [list any relevant family medical history such as heart disease, cancer, etc.].
+
+At the preoperative evaluation, the patient was found to be [stable, with controlled blood pressure and normal laboratory values], except for [mention any abnormal findings like anemia or elevated blood sugar levels].
+
+Their preoperative workup included [relevant diagnostic tests] which revealed [findings, if any, that may influence the surgery or anesthesia].
+
+The patient was advised to [follow a specific preoperative diet or medication regimen, or avoid certain activities] in preparation for the surgery.
+
+The patient's postoperative course was uneventful. They were monitored closely in the recovery room and vital signs remained stable. They experienced minimal pain or discomfort, which was managed effectively with analgesics.
+
+The patient was instructed on postoperative care, including [describe postoperative care instructions such as wound care, physical therapy, etc.]. They were advised to follow up with their surgeon in [number of days/weeks] for further evaluation.
+
+During the postoperative period, the patient did not experience any complications such as wound infections, bleeding, or respiratory distress. They were discharged [number] days after surgery in a stable condition.
+
+The surgical wound was healing well at the follow-up visit. The patient reported minimal pain or discomfort and was able to perform activities of daily living independently.
+
+Overall, the patient had a successful surgical outcome without any complications. They were satisfied with their care and reported an improved quality of life following the surgery.

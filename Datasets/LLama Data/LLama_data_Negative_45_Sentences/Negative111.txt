@@ -1,0 +1,67 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and complications following surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Right shoulder rotator cuff tear
+* Chronic lower back pain
+* Previous left knee arthroscopy
+* Previous cholecystectomy
+* History of non-insulin dependent diabetes mellitus
+* History of sleep apnea
+* Uses a continuous positive airway pressure (CPAP) machine
+* Allergic to penicillin
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy
+* Previous abdominal surgeries include appendectomy and hernia repair
+
+Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 40 mg daily
+* simvastatin 40 mg daily
+* Metformin 500 mg twice daily
+* Oxycodone 5 mg as needed for pain
+* Diazepam 5 mg as needed for anxiety
+
+Lab Results:
+
+* WBC count: 12,000/mm3
+* Hemoglobin: 14.2 g/dL
+* Platelet count: 220,000/mm3
+* INR: 1.2
+* AST/ALT: 40/30 IU/L
+* Alkaline phosphatase: 120 IU/L
+* Total bilirubin: 1.0 mg/dL
+* Creatinine: 1.2 mg/dL
+* Glucose: 120 mg/dL
+
+Imaging Studies:
+
+* Ultrasound of the gallbladder showed multiple stones and a thickened gallbladder wall.
+* Chest X-ray showed an enlarged heart and clear lungs.
+
+Postoperative Course:
+
+* Patient underwent laparoscopic cholecystectomy under general anesthesia.
+* Procedure was uneventful, and patient was transferred to the post-anesthesia care unit (PACU) for recovery.
+* Patient experienced some discomfort and nausea in the PACU, which was managed with oxycodone and ondansetron.
+* Patient was transferred to the surgical floor once fully awake and stable.
+* Patient ambulated independently on the first postoperative day and tolerated a clear liquid diet.
+* Patient was discharged home on the second postoperative day with instructions to avoid heavy lifting, bending, or strenuous activity for 4-6 weeks.
+
+Complications:
+
+* Patient developed a superficial wound infection at the incision site, which was treated with oral antibiotics and local wound care.
+* Patient experienced some postoperative nausea and vomiting, which was managed with antiemetics.
+* Patient had a slight increase in pain in the right shoulder, which was managed with oxycodone.
+
+The patient's postoperative course was otherwise uneventful, and they were able to return to their normal activities without any further complications.

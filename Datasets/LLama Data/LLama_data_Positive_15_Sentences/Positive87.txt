@@ -1,0 +1,30 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. The patient has a history of hypertension and hyperlipidemia.
+3. The patient had a myocardial infarction 10 years ago and has been manageing it with medication.
+4. The patient has a history of non-insulin-dependent diabetes mellitus.
+5. The patient has been experiencing worsening left knee pain over the past year.
+6. The patient was diagnosed with severe osteoarthritis of the left knee.
+7. The patient's pain has been managed with physical therapy, analgesics, and corticosteroid injections.
+8. However, the patient's pain has persisted and surgical intervention is being considered.
+9. The patient's BMI is 32, which increases the risk of complications during surgery.
+10. The patient has a history of asthma, which may increase the risk of respiratory complications during anesthesia.
+11. The patient has a history of allergic reactions to penicillin.
+12. The patient is currently taking aspirin, lisinopril, atorvastatin, and tramadol.
+13. The patient has been advised to stop taking aspirin and lisinopril 7 days before surgery.
+14. The patient had a recent episode of acute renal failure due to sever hydration and AKI.
+15. The patient's kidney function has improved but will need close monitoring during surgery.
+
+Acute Renal Failure Complication:
+
+1. The patient developed acute renal failure (ARF) postoperatively.
+2. The patient's creatinine level increased from 1.5mg/dL preoperatively to 4.5mg/dL on the first postoperative day.
+3. The patient's urine output decreased significantly, and they had elevated blood urea nitrogen (BUN) levels.
+4. The patient's ARF was likely caused by a combination of factors, including prerenal azotemia due to dehydration, intrinsic renal damage from the surgery, and possible sepsis.
+5. The patient was started on intravenous fluids and diuretics to manage fluid balance and improve renal function.
+6. The patient's urine output and creatinine level improved over the next few days, but the patient required continued close monitoring and supportive care.
+7. The patient developed a urinary tract infection, which further complicated their recovery.
+8. The patient required prolonged hospitalization and intensive care unit admission to manage their ARF and related complications.
+9. Close monitoring of the patient's renal function and fluid balance was crucial in preventing further complications and ensuring a successful recovery.
+10. The patient's ARF was a serious complication that required prompt and appropriate management to prevent long-term renal damage and other complications.

@@ -1,0 +1,65 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* History of smoking for 20 years, quit 5 years ago
+* History of alcohol use disorder, currently in remission
+* Diagnosed with colon cancer 2 years ago, treated with chemotherapy and radiation therapy
+* Developed a pulmonary embolism 1 year ago, treated with anticoagulation therapy
+* History of chronic lower back pain, managed with physical therapy and medication
+* Recent onset of left knee pain, diagnosed with osteoarthritis
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Bilateral inguinal hernia repair at age 50
+* Colon resection for colon cancer 2 years ago
+
+Current Medications:
+
+* Amlodipine for hypertension
+* Atorvastatin for hyperlipidemia
+* Oxycodone for chronic lower back pain
+* Acetaminophen for knee pain
+
+Allergies:
+
+* Penicillin
+
+Social History:
+
+* Married with two adult children
+* Retired from work 5 years ago
+* Enjoys outdoor activities such as hiking and fishing
+* Lives in a two-story house with his wife
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with a history of colon cancer
+
+Reason for Surgery:
+
+* Elective left knee arthroplasty for osteoarthritis
+
+Postoperative Course:
+
+* Patient had an uneventful surgery and recovery
+* Was discharged from the hospital on postoperative day 3
+* Completed a course of physical therapy and was able to ambulate without assistance
+* Experienced mild postoperative pain, managed with medication
+* Followed up with surgeon and primary care physician for routine appointments
+
+Complications:
+
+* None
+
+Assistant:  I hope this sample patient summary helps you in creating a comprehensive medical history for your patient. Please note that this is just a sample and you should customize it according to your patient's specific medical history and surgical plan. Also, remember to include any relevant information that may impact the patient's surgical outcome or postoperative course.

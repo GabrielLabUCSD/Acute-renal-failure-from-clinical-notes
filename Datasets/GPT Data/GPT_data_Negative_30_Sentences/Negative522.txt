@@ -1,0 +1,33 @@
+The patient is a 45-year-old male with a medical history of hypertension and type 2 diabetes.
+They are planning to have surgery, type unspecified, and have no known allergies to medications.
+Their blood pressure is well controlled on a regimen of lisinopril 20mg daily.
+They have been taking metformin 1000mg twice daily for diabetes management.
+The patient's most recent HbA1c level was 6.8%, indicating good glycemic control.
+They have a BMI of 32 and are classified as obese.
+The patient reports no current symptoms related to their medical conditions.
+Their preoperative laboratory results show normal renal function with a creatinine level of 0.9 mg/dL.
+They have no history of acute renal failure or chronic kidney disease.
+Their urine analysis is unremarkable, with no proteinuria or hematuria detected.
+The patient has previously undergone surgery for appendicitis and had an uneventful postoperative recovery.
+They did not experience any complications such as wound infections or hernias after the appendectomy.
+The patient currently takes aspirin 81mg daily for cardiovascular prophylaxis.
+They have never experienced any adverse effects from aspirin or other NSAIDs.
+Their echocardiogram showed no evidence of significant cardiac abnormalities.
+The patient is a non-smoker and does not consume alcohol regularly.
+They deny any history of bleeding disorders or abnormal clotting.
+The patient has a family history of hypertension but no significant family history of other medical conditions.
+They do not take any other regular medications or supplements.
+The patient underwent a preoperative consultation with an anesthesiologist and received clearance for surgery.
+They were advised to continue taking their antihypertensive and antidiabetic medications on the morning of surgery.
+The patient was instructed to fast for a minimum of 8 hours before the surgery.
+They were also advised to withhold their morning dose of metformin to minimize the risk of hypoglycemia.
+Postoperatively, the patient was closely monitored for any signs of complications such as wound infections or bleeding.
+They experienced mild postoperative pain, which was managed with oral opioids.
+The patient's blood pressure remained stable throughout the postoperative period.
+They did not develop any signs of infection at the surgical site.
+The patient's glycemic control was closely monitored, and their blood glucose levels remained within the target range.
+They did not experience any episodes of hypoglycemia or hyperglycemia.
+The patient's renal function was monitored postoperatively, and their creatinine levels remained stable.
+They did not experience any complications related to their kidneys.
+Overall, the patient had an uneventful postoperative course without any significant complications.
+They were discharged from the hospital on the third postoperative day in stable condition.

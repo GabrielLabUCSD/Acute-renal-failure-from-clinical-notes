@@ -1,0 +1,95 @@
+The patient is a __ year old male/female who is planning to have surgery. 
+
+The patient has a medical history of ___. This includes conditions such as ___, ___, and ___. 
+
+The patient has a history of surgical procedures including ___. 
+
+The patient's past surgical procedures were performed at ___, ___, and ___. 
+
+The patient has a family history of ___. 
+
+The patient's medications include ___. 
+
+The patient has received anesthesia in the past. 
+
+The patient has allergies to ___. 
+
+The patient's vital signs are stable. 
+
+The patient has a normal body mass index of ___. 
+
+The patient has been cleared for surgery by their primary care physician. 
+
+The patient has completed all necessary pre-operative tests including ___. 
+
+The patient has been advised of the risks and benefits of the surgery. 
+
+The patient understands the pre-operative instructions and has followed them accordingly. 
+
+The patient has been counseled on the importance of proper nutrition and hydration before surgery. 
+
+The patient has a history of smoking. 
+
+The patient has been advised to quit smoking prior to surgery. 
+
+The patient is on a smoking cessation program. 
+
+The patient has received counseling on the potential complications associated with smoking before and after surgery. 
+
+The patient's surgical procedure will be performed at ___. 
+
+The patient has been informed of the expected duration of the surgery. 
+
+The patient has been informed of the possibility of blood transfusion during surgery. 
+
+The patient has received prophylactic antibiotics prior to surgery. 
+
+The patient has been placed on a clear liquid diet prior to surgery. 
+
+The patient has been advised to refrain from eating or drinking after midnight on the day of surgery. 
+
+The patient has been advised to remove all jewelry and piercings before surgery. 
+
+The patient has signed the necessary consent forms for the surgery. 
+
+The patient's surgery has been scheduled for ___. 
+
+The patient has arrived at the hospital the morning of the surgery. 
+
+The patient received intravenous fluids before surgery. 
+
+The patient has been prepared for surgery by the nursing staff. 
+
+The patient has met with the anesthesiologist to discuss the anesthesia plan. 
+
+The patient will have general anesthesia for the surgery. 
+
+The patient's surgery proceeded as planned. 
+
+The patient did not experience any complications during surgery. 
+
+The patient's surgical incision was closed without any issues. 
+
+The patient was transferred to the post-anesthesia care unit (PACU) after surgery. 
+
+The patient was closely monitored in the PACU. 
+
+The patient's vital signs remained stable in the PACU. 
+
+The patient's pain was managed effectively in the PACU. 
+
+The patient was able to eat and drink in the PACU. 
+
+The patient was discharged from the PACU to the surgical unit. 
+
+The patient's postoperative course was uneventful. 
+
+The patient's incision site was monitored for signs of infection. 
+
+The patient was provided with appropriate postoperative instructions for wound care. 
+
+The patient's postoperative pain was managed with analgesics. 
+
+The patient was given antibiotics to prevent infection. 
+
+The patient did not experience any complications during their postoperative course.

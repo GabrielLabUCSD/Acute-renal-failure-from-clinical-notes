@@ -1,0 +1,13 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] with a medical history of [medical conditions]. They have [surgical procedure] planned, and it is important to consider their medical history in the preoperative evaluation. The patient's past surgeries include [previous surgeries]. 
+
+Their medications include [medications] for [medical conditions]. The patient has a known allergy to [allergies]. In terms of family history, they have a family member with a history of [relevant family history]. 
+
+The patient's recent lab results are within normal limits, and their vital signs are stable. Their preoperative evaluation shows [relevant findings]. They have no documented history of acute renal failure. 
+
+In terms of their postoperative course, the patient experienced [postoperative events/complications]. The management included [treatment/interventions]. Overall, their recovery went well, and they were discharged on [date]. 
+
+The patient is advised to follow up with [specialty] [time frame] post-discharge. Further monitoring of [relevant parameters] may be necessary. 
+
+In conclusion, this patient with a medical history including [medical conditions] is planning to undergo [surgical procedure]. Their postoperative course was complicated by [postoperative events/complications], but they have been managed appropriately. Acute renal failure was not documented as a complication.

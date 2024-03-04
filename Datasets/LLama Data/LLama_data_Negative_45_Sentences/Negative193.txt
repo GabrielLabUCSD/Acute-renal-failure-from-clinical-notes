@@ -1,0 +1,85 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and degenerative disc disease. He has been smoking 1 pack of cigarettes per day for the past 20 years and has a history of hypertension and hyperlipidemia. The patient has tried physical therapy and conservative management without significant relief. He is now planning to undergo a lumbar fusion surgery.
+
+Medical History:
+
+* Chronic back pain and degenerative disc disease
+* Hypertension
+* Hyperlipidemia
+* Smoker (1 pack/day for 20 years)
+
+Surgical History:
+
+* None
+
+Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 20 mg daily
+* Simvastatin 20 mg daily
+* Alprazolam 0.5 mg as needed
+
+Allergies:
+
+* Penicillin
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and diabetes
+
+Social History:
+
+* Married with two children (ages 10 and 12)
+* Works as a software engineer
+* Denies alcohol or illicit drug use
+
+Review of Systems:
+
+* No significant respiratory, cardiovascular, or neurological symptoms
+* Reports occasional nausea and vomiting, possibly related to smoking
+
+Physical Exam:
+
+* Blood pressure: 140/90 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F (37°C)
+* BMI: 28 kg/m2
+* No significant abnormalities on examination of the head, neck, chest, abdomen, or extremities
+
+Lab Results:
+
+* WBC: 11,000 cells/mm3
+* Hemoglobin: 14 g/dL
+* Platelets: 250,000 cells/mm3
+* BUN: 18 mg/dL
+* Creatinine: 1.2 mg/dL
+* Glucose: 120 mg/dL
+* Cholesterol: 220 mg/dL
+* Triglycerides: 150 mg/dL
+* ASA: 100 mg/dL
+
+Imaging Studies:
+
+* MRI lumbar spine: Degenerative disc disease and spinal stenosis
+
+Plan:
+
+* The patient will undergo a lumbar fusion surgery.
+* Preoperative instructions include:
+	+ Stop smoking 2 weeks before surgery
+	+ Stop aspirin and non-steroidal anti-inflammatory drugs (NSAIDs) 1 week before surgery
+	+ No food or drink after midnight the night before surgery
+* Postoperative course:
+	+ Patient will be admitted to the hospital for 3-4 days
+	+ Pain management with intravenous pain medication and patient-controlled analgesia (PCA)
+	+ Early mobilization and physical therapy
+	+ Follow-up appointment with the surgeon in 2 weeks
+
+Complications:
+
+* None
+
+The patient's postoperative course was uneventful, and he was discharged from the hospital on the fourth day. He was advised to continue with pain management and physical therapy. Follow-up appointment with the surgeon showed good progress, and the patient was able to return to work after 6 weeks.

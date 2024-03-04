@@ -1,0 +1,17 @@
+Patient Summary:
+
+The patient is a [X] year old [male/female] who presents with a medical history of [insert relevant medical conditions, e.g., hypertension, diabetes, etc.]. The patient has been scheduled for [insert type of surgery, e.g., laparoscopic cholecystectomy, open heart surgery, etc.].
+
+Preoperative examination reveals [insert relevant findings, e.g., elevated blood pressure, hyperglycemia, etc.]. The patient has been taking [insert medications, e.g., beta blockers, statins, etc.] and has been instructed to hold [insert medications, e.g., warfarin, aspirin, etc.] preoperatively.
+
+Intraoperative course is unremarkable. The patient tolerated the procedure well and there were no significant complications.
+
+Postoperative course is also unremarkable. The patient was transferred to the recovery room in stable condition and remained stable throughout the observation period.
+
+The patient was discharged from the hospital on [insert date] and recovered uneventfully. The patient did not experience any complications during the postoperative period.
+
+Follow-up examination revealed [insert relevant findings, e.g., improved blood pressure control, reduced symptoms, etc.]. The patient has been advised to continue [insert medications, e.g., beta blockers, statins, etc.] and to follow up with the surgeon in [insert time frame, e.g., 2 weeks, 4 weeks, etc.].
+
+The patient has been informed of the potential risks and complications associated with the surgical procedure and has given informed consent. The patient's overall health status is stable, and there are no significant concerns regarding their ability to tolerate the procedure or recover uneventfully.
+
+Assistant: Is there anything else I can assist you with?

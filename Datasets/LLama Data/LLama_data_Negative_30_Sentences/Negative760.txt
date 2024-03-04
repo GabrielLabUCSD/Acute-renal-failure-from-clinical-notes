@@ -1,0 +1,31 @@
+PatientSummary:
+
+The patient is a 45-year-old male who presents for a preoperative evaluation for a planned laparoscopic cholecystectomy.
+The patient has a history of gallstones and symptomatic cholelithiasis for the past year.
+He has experienced intermittent right upper quadrant abdominal pain, nausea, and vomiting.
+The patient has a history of hypertension and hyperlipidemia.
+He is currently taking lurbinectedin and atorvastatin.
+The patient has no allergies to medications.
+He has a history of smoking but quit 5 years ago.
+The patient consumes alcohol occasionally.
+His family history is significant for his father dying from a myocardial infarction at the age of 55.
+The patient"s surgical history includes a tonsillectomy at the age of 10.
+He has no history of previous abdominal surgeries.
+On physical examination, the patient"s vital signs are within normal limits.
+His abdominal examination reveals a positive Murphy"s sign.
+Lab results show a WBC count within normal limits.
+The patient"s liver function test shows a mild elevation in AST and ALT.
+An ultrasound of the gallbladder shows a pseudocyst.
+The patient"s cardiac risk assessment shows a low risk for postoperative cardiac complications.
+The patient"s anesthesia plan includes general anesthesia with endotracheal intubation.
+The patient underwent a laparoscopic cholecystectomy uneventfully.
+The patient tolerated the procedure well and had no immediate postoperative complications.
+He was transferred to the postanesthesia care unit for recovery.
+The patient"s postoperative pain was managed with IV fentanyl and transitioned to oral pain medication as needed.
+He was discharged from the hospital on postoperative day 3 without any complications.
+The patient followed up with his surgeon 1 week after discharge and reported no symptoms.
+The patient"s pathology report showed no evidence of malignancy.
+
+
+
+Is there anything else I can assist you with?

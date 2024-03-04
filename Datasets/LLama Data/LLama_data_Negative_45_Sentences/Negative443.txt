@@ -1,0 +1,75 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient has a history of smoking but quit 5 years ago. He denies any alcohol or illicit drug use.
+
+The patient has had a cholecystectomy and an appendectomy in the past. He has also had a history of recurrent lower back pain and has undergone multiple lumbar fusion surgeries.
+
+The patient's current medications include lisinopril, atorvastatin, metformin, and oxycodone as needed for pain. He has no known allergies to medications.
+
+The patient's surgical history includes a lap cholecystectomy, appendectomy, and a lumbar fusion.
+
+The patient's current surgical plan includes a elective surgery.
+
+The patient's postoperative course has been uneventful. He has been recovering well and has not experienced any complications.
+
+The patient has been adherent to his medication regimen and has not experienced any adverse effects.
+
+The patient has been following his postoperative instructions and has not had any issues with wound care or infection.
+
+The patient has been seen in follow-up appointments and has been doing well.
+
+The patient has not experienced any new onset medical conditions or complications since his last surgery.
+
+The patient's current vital signs are stable and within normal limits.
+
+The patient's current pain level is minimal and well controlled with medication.
+
+The patient's surgical site is healing well and there are no signs of infection or dehiscence.
+
+The patient has not experienced any respiratory, cardiovascular, or neurological complications since his last surgery.
+
+The patient has not experienced any unexpected symptoms or complications since his last surgery.
+
+The patient's lab results are within normal limits and do not indicate any acute renal failure.
+
+The patient's urine output has been adequate and there are no signs of urinary retention or bladder dysfunction.
+
+The patient's wound care has been appropriate and there are no signs of wound infection or dehiscence.
+
+The patient has been able to tolerate oral intake without any issues.
+
+The patient's pain management has been effective and he has not required any additional analgesics.
+
+The patient's recovery has been uneventful and he has not experienced any unexpected complications.
+
+The patient has been compliant with his postoperative instructions and has not had any issues with wound care or infection.
+
+The patient's surgical site is clean and well-cared for, with no signs of infection or dehiscence.
+
+The patient's lab results are within normal limits and do not indicate any evidence of infection or sepsis.
+
+The patient's vital signs are stable and within normal limits, with no signs of respiratory, cardiovascular, or neurological compromise.
+
+The patient has not experienced any new onset medical conditions or complications since his last surgery.
+
+The patient's postoperative course has been straightforward and uncomplicated.
+
+The patient's pain level has been well controlled and he has not required any additional analgesics.
+
+The patient's surgical site is healing well and there are no signs of infection or dehiscence.
+
+The patient's recovery has been uneventful and he has not experienced any unexpected complications.
+
+The patient's lab results are within normal limits and do not indicate any acute renal failure.
+
+The patient's urine output has been adequate and there are no signs of urinary retention or bladder dysfunction.
+
+The patient's wound care has been appropriate and there are no signs of wound infection or dehiscence.
+
+The patient has been able to tolerate oral intake without any issues.
+
+The patient's pain management has been effective and he has not required any additional analgesics.
+
+The patient's recovery has been uneventful and he has not experienced any unexpected complications.
+
+The patient has been compli

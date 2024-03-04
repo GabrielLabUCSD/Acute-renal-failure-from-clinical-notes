@@ -1,0 +1,94 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and complications without acute renal failure:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemic
+* History of smoking
+* History of alcohol abuse
+* Chronic lower back pain
+* Previous history of colon cancer (stage II)
+* Previous history of pulmonary embolism
+* Previous history of deep vein thrombosis
+* Chronic obstructive pulmonary disease (COPD)
+* Gastroesophageal reflux disease (GERD)
+* Obstructive sleep apnea
+* History of non-insulin-dependent diabetes mellitus (NIDDM)
+
+Surgical History:
+
+* Cholecystectomy (laparoscopic) 10 years ago
+* Colon resection (open) 8 years ago
+* Hysterectomy (abdominal) 5 years ago
+* Right knee arthroscopy (arthroscopic) 3 years ago
+* Left knee arthroscopy (arthroscopic) 2 years ago
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Metformin 500 mg twice daily
+* Lisinopril 40 mg daily
+* Omeprazole 20 mg daily
+* Alprazolam 0.5 mg as needed
+* Ibuprofen 800 mg every 6 hours as needed
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two adult children
+* Retired from work
+* Living in a two-story house with no elevator
+* Able to ambulate independently
+* No history of substance abuse
+
+ familial History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with hypertension
+
+Reason for Surgery:
+
+* Elective total hip replacement for osteoarthritis
+
+Preoperative Examination:
+
+* BP: 140/90 mmHg
+* HR: 75 bpm
+* Resp: 20 breaths/min
+* Temp: 37.2°C
+* O2 saturation: 95% on room air
+* HbA1c: 8.2%
+* BUN: 18 mg/dL
+* Cr: 1.2 mg/dL
+* alb: 3.5 g/dL
+* platelet count: 250,000/ul
+* INR: 1.8
+
+Operative Course:
+
+* Total hip replacement performed under general anesthesia
+* Uneventful surgery
+* Patient stable throughout the procedure
+
+Postoperative Course:
+
+* Patient transferred to PACU without complications
+* Pain managed with IV and oral medications
+* Patient started on prophylactic anticoagulation therapy with enoxaparin
+* No evidence of bleeding or hematoma
+* Patient mobilized and ambulated on the first postoperative day
+* Patient discharged home on postoperative day 3
+
+Complications:
+
+* None
+
+I hope this sample patient summary helps you in creating a comprehensive perioperative plan for your patient. Good luck!

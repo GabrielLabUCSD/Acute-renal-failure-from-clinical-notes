@@ -1,0 +1,106 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a description of the patient experiencing acute renal failure complication after surgery:
+
+Patient Summary:
+
+Name: [Patient's Name]
+Date of Birth: [Patient's Date of Birth]
+Gender: [Patient's Gender]
+
+Chief Complaint:
+
+* [Patient's Chief Complaint]
+
+Medical History:
+
+* History of hypertension for the past 10 years
+* History of diabetes mellitus for the past 5 years
+* History of hyperlipidemia for the past 3 years
+* History of obesity (BMI 35)
+* History of smoking (1 pack per day for the past 15 years)
+* History of alcohol consumption (2-3 drinks per day for the past 10 years)
+* History of family history of coronary artery disease
+* History of history of stroke in the family
+* History of thyroid disorder (hypothyroidism)
+
+Surgical History:
+
+* None
+
+Medication History:
+
+* Current medications:
+	+ Lisinopril (for hypertension)
+	+ Metformin (for diabetes mellitus)
+	+ Simvastatin (for hyperlipidemia)
+	+ Aspirin (for prevention of cardiovascular disease)
+	+ Alprazolam (for anxiety)
+* Allergies:
+	+ Penicillin
+	+ Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at the age of 55
+* Mother has hypertension and diabetes mellitus
+* One sibling with hypertension
+
+Social History:
+
+* Married with two children (ages 10 and 12)
+* Works as an accountant
+* Has a sedentary lifestyle
+* Lives in a two-story house with no elevator
+* Has a support system of family and friends
+
+Reason for Visit:
+
+* Planning to undergo surgery for [insert surgical procedure]
+
+Physical Exam:
+
+* Blood Pressure: 140/90 mmHg
+* Pulse: 80/min
+* Respiratory Rate: 16/min
+* Temperature: 98.6 degrees Fahrenheit
+* Weight: 250 lbs
+* Height: 5'10"
+* BMI: 37.3
+
+Lab Results:
+
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte Panel: Within normal limits
+* Renal Function Panel: Within normal limits
+* Liver Function Panel: Within normal limits
+* Glucose: 180 mg/dL
+* HbA1C: 7.5%
+* Lipid Profile: Within normal limits
+* Thyroid Function Tests: Within normal limits
+
+Imaging Studies:
+
+* None
+
+Acute Renal Failure Complication After Surgery:
+
+* Post-operative day 2:
+	+ Patient developed oliguria (urine output < 400 mL in 24 hours)
+	+ Blood urea nitrogen (BUN) and creatinine levels increased
+	+ Patient complained of nausea and vomiting
+	+ Fluid and electrolyte imbalance
+	+ Decreased urine specific gravity
+* Post-operative day 3:
+	+ Patient's oliguria persisted
+	+ BUN and creatinine levels continued to rise
+	+ Patient developed perioral numbness and muscle weakness
+	+ Decreased consciousness
+* Post-operative day 4:
+	+ Patient's urine output increased to 1000 mL in 24 hours
+	+ BUN and creatinine levels began to trend downwards
+	+ Patient's electrolyte imbalance resolved
+	+ Patient's consciousness improved
+
+Course in the Hospital:
+
+* Patient was admitted to the hospital for surgery
+* Patient underwent surgery

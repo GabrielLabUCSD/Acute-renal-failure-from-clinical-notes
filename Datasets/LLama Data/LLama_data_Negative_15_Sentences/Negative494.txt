@@ -1,0 +1,51 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obstructive sleep apnea
+* Morbid obesity (BMI 45)
+* History of gestational diabetes in a previous pregnancy
+* Family history of heart disease
+* Allergies: Penicillin, sulfa drugs
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 10 years ago
+* Inguinal hernia repair 5 years ago
+
+Current Medications:
+
+* Lisinopril (Zestril) 40 mg daily
+* Atorvastatin (Lipitor) 20 mg daily
+* Omeprazole (Prilosec) 20 mg daily
+* aspirin 81 mg daily
+* Metformin (Glucophage) 1000 mg daily
+
+Preoperative Course:
+
+* Patient presents for elective total knee arthroplasty
+* Preoperative evaluation reveals a mild increase in blood pressure and mild troponin elevation
+* ECG shows changes consistent with left ventricular hypertrophy
+* Patient is scheduled for stress echocardiography to rule out cardiac ischemia
+
+Postoperative Course:
+
+* Patient undergoes successful total knee arthroplasty
+* Postoperative day 1: Patient experiences mild pain and discomfort, managed with IV pain medication
+* Postoperative day 2: Patient is able to sit up and walk with assistance, no complications noted
+* Postoperative day 3: Patient is able to ambulate independently and experiences minimal pain
+* Postoperative day 5: Patient is discharged home with instructions for wound care and pain management
+
+Complications:
+
+* Postoperative day 7: Patient presents to the emergency department with a 2-day history of fever and chills, concern for wound infection
+* Postoperative day 8: Patient is diagnosed with a deep wound infection and is treated with antibiotics
+* Postoperative day 14: Patient experiences a fall and fractures left humerus, requiring surgical intervention
+
+This patient summary outlines the patient's medical history, surgical history, current medications, preoperative course, postoperative course, and any complications that may have occurred during their hospital stay. It is important to note that this is just a sample patient summary and the specific details of a patient's information may vary.

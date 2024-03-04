@@ -1,0 +1,15 @@
+Patient Summary: 
+
+The patient is a [insert age]-year-old male who presents with a medical history of [insert medical condition(s)]. He has been experiencing [insert symptoms] and has tried [insert treatments] without relief. The patient"s surgical history includes [insert previous surgeries]. He is currently taking [insert medications] and has no known allergies. The patient is a smoker and has a history of [insert other relevant medical conditions]. 
+
+The patient underwent [insert type of surgery] on [insert date] with the following postoperative course: 
+
+* [Insert number] days in the hospital
+* [Insert any complications or issues that arose during this time, such as pneumonia or wound infections]
+* [Insert any medications or treatments given during this time]
+
+The patient was discharged on [insert date] with instructions to [insert any follow-up appointments or care instructions]. He experienced a smooth recovery with no acute renal failure or other major complications. 
+
+Follow-up appointment was on [insert date] and the patient is doing well. 
+
+[

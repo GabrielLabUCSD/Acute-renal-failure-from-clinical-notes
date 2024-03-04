@@ -1,0 +1,75 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemic
+* Smoker (20 pack-years)
+* History of non-insulin-dependent diabetes mellitus
+* Obstructive sleep apnea
+* History of colon cancer (stage II)
+* History of chronic low back pain
+* History of osteoarthritis in both knees
+* Previous appendectomy
+* Previous cholecystectomy
+* History of peptic ulcer disease
+* History of hypothyroidism
+* History of allergies (penicillin, pollen)
+* No history of bleeding disorders or previous surgeries
+
+Current Medications:
+
+* Lisinopril (40mg daily)
+* Atorvastatin (20mg daily)
+* Glipizide (10mg daily)
+* Metformin (1000mg daily)
+* Oxycodone (as needed for pain)
+* Aspirin (81mg daily)
+* Alprazolam (0.5mg daily)
+
+Allergies:
+
+* Penicillin
+* Pollen
+
+Social History:
+
+* Retired
+* Lives alone
+* No alcohol use
+* No tobacco use for past 10 years
+* Has a cat
+
+Family History:
+
+* Mother died of breast cancer at age 68
+* Father died of myocardial infarction at age 72
+* One sibling alive and healthy
+
+Surgical History:
+
+* Appendectomy ( Lauparoscopic) 10 years ago
+* Cholecystectomy (Laparoscopic) 8 years ago
+
+Preoperative Course:
+
+* No significant changes in medical history since last surgery
+* No recent illnesses or injuries
+* No new medications or allergies
+* No known risks or complications anticipated for upcoming surgery
+
+Postoperative Course:
+
+* Patient experienced some postoperative nausea and vomiting
+* Patient had a minimal amount of pain, well-controlled with oxycodone
+* Patient was able to ambulate and move around without difficulties
+* Patient was discharged from the hospital on postoperative day 2
+
+Complications:
+
+* None
+
+This patient summary provides a comprehensive overview of the patient's medical history, current medications, allergies, social history, family history, surgical history, preoperative course, postoperative course, and any complications that may have arisen during the surgery. It is important to note that this is a sample summary and the specific details of a patient's medical history and current health status may vary. The summary should be tailored to the individual patient and should highlight any relevant medical information that may impact the patient's care during and after surgery.

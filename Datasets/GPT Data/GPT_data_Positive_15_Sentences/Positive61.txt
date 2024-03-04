@@ -1,0 +1,15 @@
+The patient, a 67-year-old male, has a significant medical history that includes hypertension, diabetes mellitus type 2, and dyslipidemia. He has been managed for these conditions for the past 10 years. The patient has a body mass index (BMI) of 32, indicating obesity. He has a family history of cardiovascular disease, with his father having suffered a heart attack.
+
+The patient is scheduled to undergo surgery to treat a herniated disc in his lumbar spine. Prior to the surgery, he underwent a thorough pre-operative evaluation, including lab tests, electrocardiogram, and chest X-ray. The lab results revealed a slightly elevated fasting blood glucose level, indicating poorly controlled diabetes.
+
+During the surgery, the patient received general anesthesia without any complications. The procedure lasted for approximately two hours and was deemed successful. Post-operatively, the patient was transferred to the recovery room and closely monitored for signs of complications such as infection, bleeding, or adverse reactions to anesthesia.
+
+Unfortunately, within 24 hours after the surgery, the patient developed acute renal failure, characterized by a sudden decline in renal function. He presented with oliguria, creatinine level of 2.5 mg/dL, and elevated blood urea nitrogen (BUN) level of 45 mg/dL. Urinalysis revealed presence of granular casts, indicating kidney damage.
+
+The patient's acute renal failure was likely a result of multiple factors. His pre-existing conditions, such as diabetes and hypertension, may have contributed to compromised renal function. Additionally, the surgery itself and possible use of nephrotoxic medications during the perioperative period may have further exacerbated the renal injury.
+
+Management of the patient's acute renal failure involved discontinuation of any potentially nephrotoxic medications, such as non-steroidal anti-inflammatory drugs (NSAIDs). He was started on intravenous fluids to maintain adequate hydration and enhance renal perfusion. A nephrology consult was obtained, and the patient began receiving renal replacement therapy in the form of hemodialysis.
+
+The patient's post-operative recovery has been complicated by the development of acute kidney injury, which requires close monitoring and management. The healthcare team will work to stabilize his renal function, prevent further damage, and promote his overall recovery. Frequent laboratory tests, including renal function tests, will be performed to assess his progress.
+
+The patient's medical history, including his chronic conditions and post-operative complications, underscore the importance of proper pre-operative assessment and close monitoring after surgery. The interdisciplinary healthcare team will continue to collaborate to provide optimal care for the patient and ensure the best possible outcomes.

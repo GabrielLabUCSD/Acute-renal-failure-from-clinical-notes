@@ -1,0 +1,15 @@
+The patient, a 58-year-old male, has a significant medical history leading up to his planned surgery. He has a history of hypertension, which has been managed with medication for the past five years. The patient also reports a past surgical history of an appendectomy 10 years ago. He does not have any known drug allergies. The patient has a family history of heart disease, with his father experiencing a heart attack at the age of 60.
+
+In terms of lifestyle factors, the patient is a smoker and has been smoking approximately one pack of cigarettes per day for the past 25 years. He acknowledges that quitting smoking would be beneficial for his overall health but has been unable to successfully quit in the past. In terms of alcohol consumption, the patient reports occasional social drinking but denies any regular or excessive use.
+
+The patient's vital signs are within normal limits, with a blood pressure of 130/80 mmHg, heart rate of 78 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Physical examination reveals no significant abnormalities or findings.
+
+Laboratory test results indicate normal complete blood count (CBC) with no signs of anemia or infection. The patient's liver function tests are within normal range, indicating no significant liver disease. His kidney function tests, however, show elevated creatinine levels, suggestive of impaired renal function. The patient's serum creatinine level is 2.5 mg/dL, with a reference range of 0.6-1.3 mg/dL. The estimated glomerular filtration rate (eGFR) is 30 mL/min/1.73m², indicating moderate renal insufficiency.
+
+Further investigation reveals that the patient has acute renal failure as a complication of the surgery. This may be due to multiple factors, including pre-existing renal impairment, the effects of anesthesia, intraoperative hypotension, and potential nephrotoxic medications used during and after the surgery.
+
+As a result of the renal failure, the patient experiences decreased urine output and an increase in blood urea nitrogen (BUN) and serum creatinine levels. Other symptoms may include fluid retention, electrolyte imbalances, and fatigue. The patient is closely monitored and receives supportive care, including intravenous fluids to maintain hydration and diuretics to improve urine output.
+
+The surgical team collaborates with the nephrology team to manage the patient's renal complications and ensure optimal renal function. Close monitoring of the patient's fluid balance, electrolyte levels, and renal function is vital to prevent further deterioration and optimize recovery.
+
+In summary, the patient with a history of hypertension and smoking is scheduled to undergo surgery. Postoperatively, the patient develops acute renal failure as a complication. Further investigation reveals pre-existing renal impairment and multiple potential contributing factors to the renal failure. The patient receives appropriate management and support from the surgical and nephrology teams to optimize renal function and overall recovery.

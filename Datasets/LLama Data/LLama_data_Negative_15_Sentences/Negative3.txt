@@ -1,0 +1,11 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a history of [medical condition] and is scheduled for [type of surgery]. The patient has a history of [relevant medical history], including [number] previous surgeries. The patient"s current medications include [list medications]. The patient has no known allergies to medications.
+
+Preoperative examination reveals [lab results, vital signs]. The patient is in good health overall, with no significant cardiovascular or respiratory issues. The patient is at high risk for [specific complication(s)].
+
+Intraoperatively, the patient tolerated the procedure well, with no significant hemodynamic changes or complications. The patient received [list medications, fluids] during the procedure.
+
+Postoperatively, the patient had a uneventful course, with no significant complications. The patient was monitored closely for [specific complications]. The patient was transferred to the recovery room and then discharged home.
+
+The patient had a follow-up appointment [number] days after discharge, and the patient was doing well. The patient reported [list any symptoms or complications]. The patient was advised to continue [list medications, follow-up instructions]. There were no concerns or complications during the follow-up period.

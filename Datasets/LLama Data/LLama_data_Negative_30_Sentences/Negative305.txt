@@ -1,0 +1,39 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker, 1 pack per day for 30 years
+* Positive family history of coronary artery disease
+* Previous myocardial infarction (MI) 10 years ago
+* Previous coronary artery bypass surgery (CABG) 5 years ago
+* Chronic obstructive pulmonary disease (COPD)
+* Gastroesophageal reflux disease (GERD)
+* History of non-melanoma skin cancer, treated with Mohs surgery
+* History of benign prostatic hyperplasia (BPH), treated with finasteride
+* History of erectile dysfunction, treated with sildenafil
+* History of osteoarthritis of the knees, treated with non-steroidal anti-inflammatory drugs (NSAIDs)
+* History of migraines, treated with sumatriptan
+* History of back pain, treated with muscle relaxants and physical therapy
+* History of hypothyroidism, treated with levothyroxine
+* History of anxiety, treated with alprazolam
+* History of depression, treated with selective serotonin reuptake inhibitors (SSRIs)
+* History of sleep apnea, treated with continuous positive airway pressure (CPAP)
+* History of glaucoma, treated with topical beta blockers
+* History of cataracts, treated with surgery
+* History of degenerative joint disease, treated with lubricants and orthotics
+* History of carotid artery disease, treated with carotid endarterectomy
+* History of peripheral artery disease, treated with angioplasty
+* History of heart failure, treated with ACE inhibitors and beta blockers
+* History of atrial fibrillation, treated with warfarin
+* History of Chronic kidney disease, treated with diuretics and blood pressure control
+* History of liver cirrhosis, treated with beta blockers and monitored closely
+* History of anemia, treated with iron supplements and erythropoietin
+
+Postoperative Course:
+* Patient had a smooth postoperative course
+* No complications noted
+* Patient was discharged home on postoperative day 3
+
+It is important to note that this is just a sample summary and the specific medical history and postoperative course will vary depending on the individual patient and their unique medical conditions. Additionally, acute renal failure is not included as a complication in this example, as it was specifically excluded in the prompt.

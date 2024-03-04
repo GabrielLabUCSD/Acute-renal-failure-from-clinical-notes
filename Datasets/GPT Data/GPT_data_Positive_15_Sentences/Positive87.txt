@@ -1,0 +1,21 @@
+The patient is a 55-year-old male who is planning to have surgery. He has a medical history significant for hypertension, diabetes mellitus type 2, and hyperlipidemia. The patient has been managing these conditions with medication.
+
+He is a non-smoker and does not consume alcohol. The patient has a sedentary lifestyle and reports occasional lower back pain, for which he takes over-the-counter pain medication, as needed.
+
+His surgical history includes an appendectomy performed 10 years ago. He has not had any major complications with previous surgeries and has a good tolerance for anesthesia.
+
+The patient takes metformin for diabetes, lisinopril for hypertension, and simvastatin for hyperlipidemia. He reports good compliance with his medications and is not on any other herbal or over-the-counter supplements.
+
+In terms of allergies, the patient reports an allergic reaction to penicillin, resulting in an itchy rash.
+
+He has a family history of heart disease, with his father having a history of myocardial infarction at the age of 60.
+
+Laboratory results show well-controlled blood glucose levels, with an HbA1c of 6.5%. His lipid profile is within normal limits. The patient's renal function, as indicated by serum creatinine, is also within normal range at 0.9 mg/dL.
+
+The patient is scheduled to have surgery in two weeks. His surgical team has been informed of his medical history and allergies. Pre-operative assessments, including an ECG and chest X-ray, were performed and showed no significant abnormalities.
+
+Post-operatively, the patient experiences complications in the form of acute renal failure. His urine output decreases significantly, and his serum creatinine levels rise to 2.1 mg/dL. The most likely cause of his acute renal failure is peri-operative hypoperfusion and subsequent ischemia to the kidneys.
+
+The patient is managed with intravenous fluids to increase his intravascular volume and improve renal perfusion. Close monitoring of his fluid balance, electrolytes, and renal function is initiated. Renal replacement therapy, such as hemodialysis, may be necessary if there is no improvement in his renal function.
+
+Overall, the patient's medical history, allergies, and post-operative complication of acute renal failure will need to be carefully considered and managed during his surgical journey.

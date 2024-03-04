@@ -1,0 +1,22 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension, hyperlipidemia, and smoking. He has no allergies and takes no medications. He denies any respiratory or cardiovascular symptoms. His surgical history includes a cholecystectomy 10 years ago. 
+
+On the day of surgery, his vital signs are:
+
+BP: 120/80 mmHg
+HR: 70 bpm
+RR: 12 breaths/min
+O2 Sat: 98% on room air
+
+The patient underwent a successful surgery and was transferred to the post-anesthesia care unit (PACU) for recovery. During the immediate postoperative period, he experiences some nausea and vomiting but responds well to antiemetics. He is extubated and transferred to the surgical ward after approximately 90 minutes. 
+
+On the first postoperative day, he experiences mild pain, which is managed with patient-controlled analgesia (PCA) and oral analgesics. He is able to ambulate independently and tolerates oral intake well. His wound is clean and dry with no signs of infection. Urine output is adequate. 
+
+On the second postoperative day, he complains of worsening pain in his abdomen and right shoulder. On examination, there is mild tenderness in the abdomen and right shoulder. His blood work shows elevated white blood cell count and C-reactive protein, suggestive of a mild surgical site infection. 
+
+The patient is started on antibiotics and continues to receive PCA and oral analgesics for pain management. He is also advised to rest and avoid heavy lifting or bending.
+
+On the third postoperative day, the patient reports improvement in his pain and is able to ambulate independently. His wound is clean and dry, and there are no signs of further complications. He is discharged home with a follow-up appointment in 2 weeks. 
+
+Throughout his postoperative course, the patient receives standard surgical care, which includes fluid and electrolyte management, respiratory physiotherapy, and prevention of deep vein thrombosis. He does not experience any further complications and makes a smooth and uneventful recovery.

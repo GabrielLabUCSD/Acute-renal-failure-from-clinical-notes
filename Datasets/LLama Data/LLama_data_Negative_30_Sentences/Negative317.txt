@@ -1,0 +1,62 @@
+Patient Summary:
+
+Name: [Insert name here]
+Age: [Insert age here]
+Gender: [Insert gender here]
+
+Medical History:
+
+* History of hypertension
+* History of hyperlipidemia
+* History of diabetes mellitus
+* History of obstructive sleep apnea
+* History of chronic lower back pain
+* Previous appendectomy
+* Previous cholecystectomy
+* Previous hernia repair
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes mellitus
+* CPAP for obstructive sleep apnea
+* Oxycodone for chronic lower back pain
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+
+Social History:
+
+* Active smoker
+* Moderate alcohol consumption
+* works as a construction worker
+
+Reason for Admission:
+
+* Elective lumbar fusion surgery
+
+Operative Course:
+
+* Patient underwent lumbar fusion surgery without any complications.
+* Patient tolerated the procedure well and had minimal postoperative pain.
+* Patient was discharged home on postoperative day 3.
+
+Postoperative Course:
+
+* Patient had a smooth and uneventful postoperative course.
+* Patient was advised to follow a routine of gradual mobilization and physical therapy.
+* Patient had minimal pain and discomfort, controlled with oxycodone.
+* Patient did not develop any complications such as infection, DVT, or pulmonary embolism.
+* Patient had a follow-up appointment with the surgeon one week after discharge, and the wound was healing properly.
+
+Conclusion:
+
+This patient had a successful lumbar fusion surgery and an uneventful postoperative course. The patient had a history of various medical conditions and was taking multiple medications, but these were well-controlled during the perioperative period. The patient was advised to continue with physical therapy and Gradual mobilization to achieve optimal recovery.

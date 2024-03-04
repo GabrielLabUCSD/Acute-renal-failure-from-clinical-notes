@@ -1,0 +1,31 @@
+The patient is a (age) year old (gender) who is planning to undergo (type of surgery). 
+The patient's medical history is significant for (list of significant medical conditions or illnesses). 
+They have been diagnosed with (specific diagnoses and their duration), and have been managed with (specific medications or treatments).
+They have a history of (allergies or adverse reactions to medications) and are allergic to (specific allergens).
+The patient's surgical history includes (previous surgeries performed), the most recent being (most recent surgery and date).
+Their most recent preoperative laboratory results include (specific lab values or abnormalities) and are within the normal range.
+They are currently taking (list of current medications), including (specific medications and their dosage).
+The patient has been advised to discontinue (specific medications) prior to the surgery, as per the surgeon's instructions.
+They do not have a history of smoking or alcohol abuse.
+The patient's preoperative assessments include (specific assessments performed), which were found to be (normal or abnormal).
+They have provided their informed consent for the surgery and anesthesia, and have been informed of the potential risks and complications.
+The patient's surgical team includes (list of surgeons, anesthesiologists, and other medical professionals involved).
+The surgery is scheduled for (date) and will be performed at (specific facility).
+During the surgery, it is expected that (specific surgical procedures and interventions) will be performed.
+The anesthesia plan includes (specific type of anesthesia and any adjuncts or precautions).
+Postoperatively, the patient will be monitored closely in the recovery room for (specific time period), and then transferred to a hospital room.
+Pain management postoperatively will be addressed with (specific analgesics and their dosing schedule).
+The patient will be encouraged to ambulate and participate in respiratory exercises to prevent complications.
+Wound care instructions include (specific instructions for wound care and any restrictions or precautions).
+The patient's postoperative course was uneventful, with no immediate complications noted.
+They tolerated the surgery well and experienced an expected level of pain, which was managed with analgesics.
+The patient's vital signs remained stable throughout the postoperative period, and their urinary output was within normal limits.
+They were able to tolerate a regular diet and had no reported issues with bowel movements or nausea.
+The patient's planned length of stay in the hospital is (specific duration), barring any unforeseen complications.
+They were discharged with appropriate instructions for follow-up care and appointments.
+No immediate complications or concerns regarding wound healing, infection, or other surgical site issues were noted.
+The patient was advised to contact the surgical team if they experienced any unexpected or worsening symptoms.
+They were instructed on signs of potential complications, such as fever, increased pain, or rapid swelling, and when to seek medical attention.
+At their follow-up appointment (specific duration after surgery), the patient had no significant concerns or complications.
+Overall, the patient's surgical experience was successful, resulting in the resolution or improvement of their initial medical condition.
+No acute renal failure was observed during the patient's postoperative course.

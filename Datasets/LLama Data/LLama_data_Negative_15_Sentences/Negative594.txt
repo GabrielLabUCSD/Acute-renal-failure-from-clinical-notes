@@ -1,0 +1,22 @@
+Patient Summary:
+
+* The patient is a 55-year-old male.
+* He has a history of hypertension, hyperlipidemia, and diabetes mellitus.
+* He had a myocardial infarction 10 years ago and has been compliant with medications since then.
+* He has a history of chronic lower back pain and had undergone a previous lumbar fusion surgery 5 years ago.
+* He currently complains of worsening left knee pain and limited mobility.
+* He has been a smoker for the past 30 years but stopped 2 months ago.
+* He has a history of sleep apnea and uses a continuous positive airway pressure machine.
+* He had a gastroscopic surgery 2 years ago for a peptic ulcer.
+* He has a history of hypercoagulability and takes warfarin.
+* He has no history of bleeding disorders or previous surgical complications.
+* He takes metformin, atorvastatin, aspirin, lisinopril, and warfarin.
+* He denies alcohol or drug abuse.
+* He works as a desk clerk and lives alone.
+* He walks with a cane and has a history of falls.
+* Postoperatively, the patient had a complicated course with pneumonia on day 3 and respiratory failure requiring intubation on day 5.
+* He remained intubated for 3 days and was successfully extubated on day 8.
+* He developed a wound infection on day 10, which was treated with antibiotics and a wound vac.
+* He had a delayed return to baseline mobility but eventually recovered fully.
+
+No acute renal failure occurred in this patient's postoperative course.

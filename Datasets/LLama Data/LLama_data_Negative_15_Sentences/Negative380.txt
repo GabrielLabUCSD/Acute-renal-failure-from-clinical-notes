@@ -1,0 +1,39 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+Medical History:
+
+* Hypertension, diagnosed 10 years ago
+* Hyperlipidemia, diagnosed 8 years ago
+* History of smoking, quit 5 years ago
+* Obesity, BMI 35
+* Sleep apnea, diagnosed 3 years ago
+* History of non-insulin-dependent diabetes mellitus, diagnosed 5 years ago
+* History of knee osteoarthritis, managed with physical therapy and pain medication
+* History of chronic lower back pain, managed with physical therapy and pain medication
+* History of GERD, managed with medication
+* History of colon cancer, stage II, treated with surgery and chemotherapy 2 years ago
+* History of atrial fibrillation, diagnosed 1 year ago
+* History of left shoulder rotator cuff tear, managed with physical therapy and injections
+* History of right carpal tunnel syndrome, managed with surgery 2 years ago
+* History of left knee meniscal tear, managed with surgery 1 year ago
+
+Postoperative Course:
+
+* Patient underwent a successful surgery and was transferred to the recovery room in stable condition
+* Patient experienced some postoperative nausea and vomiting, managed with medication
+* Patient's pain was well-controlled with medication and patient-controlled analgesia (PCA)
+* Patient's blood sugar levels were closely monitored and managed with insulin and oral medication
+* Patient's blood pressure and heart rate were closely monitored and managed with medication
+* Patient experienced some postoperative constipation, managed with laxatives and stool softeners
+* Patient was discharged from the hospital 3 days after surgery and referred to a skilled nursing facility for rehabilitation
+
+Complications:
+
+* Patient developed a superficial surgical site infection, managed with antibiotics and wound care
+* Patient experienced some postoperative respiratory compromise, managed with oxygen therapy and chest physiotherapy
+* Patient's left shoulder rotator cuff tear re-tore during postoperative physical therapy, managed with surgical repair
+* Patient developed a urinary tract infection, managed with antibiotics
+* Patient experienced some postoperative anxiety and depression, managed with medication and counseling.

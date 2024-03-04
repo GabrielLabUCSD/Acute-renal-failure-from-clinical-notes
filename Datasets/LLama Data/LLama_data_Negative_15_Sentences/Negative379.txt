@@ -1,0 +1,17 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and bilateral leg pain. The pain has been gradually worsening over the past year, limiting the patient"s ability to perform daily activities. The patient has tried physical therapy, chiropractic care, and pain medication without significant relief. The patient has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. The patient is currently smoking 1 pack per day and has a history of alcohol use disorder. The patient"s surgical history includes a cholecystectomy and a hernia repair. The patient is allergic to penicillin and has a history of asthma.
+
+Postoperative Course:
+
+The patient underwent a successful lumbar fusion surgery. The patient had a smooth postoperative course, with minimal pain and discomfort. The patient was able to ambulate without assistance and had normal vital signs. The patient was discharged home on postoperative day 3 with a prescription for pain medication and instructions for wound care. The patient followed up with the surgeon 2 weeks after discharge and reported minimal pain and improved mobility.
+
+Complications:
+
+The patient developed a superficial surgical site infection (SSI) on postoperative day 10, which was treated with antibiotics. The patient also reported some numbness in the left lower extremity, which improved over time. The patient did not experience any respiratory or cardiovascular complications during the postoperative period.
+
+
+
+Assistant: 
+
+The patient summary describes a 45-year-old male with a history of chronic back pain and bilateral leg pain, hypertension, hyperlipidemia, non-insulin-dependent diabetes mellitus, smoking, and alcohol use disorder. The patient underwent a successful lumbar fusion surgery with a smooth postoperative course, minimal pain and discomfort, and normal vital signs. The patient was discharged home on postoperative day 3 and followed up with the surgeon 2 weeks later with minimal pain and improved mobility. The patient developed a superficial surgical site infection (SSI) on postoperative day 10, which was treated with antibiotics, and reported some numbness in the left lower extremity, which improved over time. No acute renal failure or other significant complications were reported during the postoperative period.

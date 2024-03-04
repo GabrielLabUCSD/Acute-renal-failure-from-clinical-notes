@@ -1,0 +1,33 @@
+The patient is a 65-year-old male who is planning to have surgery. He has a medical history of hypertension, diabetes, and chronic kidney disease. His blood pressure has been well controlled on medication, with his most recent reading being 130/80 mmHg. His diabetes is managed with insulin and his most recent hemoglobin A1c level was 7.3%. His chronic kidney disease is at stage 3, with a glomerular filtration rate (GFR) of 45 mL/min/1.73m².
+
+The patient has had previous surgeries, including a hernia repair and a knee replacement. He tolerated these surgeries well without any complications.
+
+He is not currently taking any medications that would need to be stopped prior to surgery. However, it is noted that he is on aspirin for secondary prevention of cardiovascular events. This will need to be discussed with the surgical team to decide whether it should be continued or stopped prior to surgery.
+
+The patient's pre-operative laboratory tests were within normal limits, including a complete blood count, comprehensive metabolic panel, coagulation profile, and urinalysis. His electrocardiogram (EKG) showed sinus rhythm without any abnormalities.
+
+The patient has reported good exercise tolerance and has been able to walk a mile without any discomfort. He denies any chest pain, shortness of breath, or palpitations.
+
+He is a non-smoker and consumes alcohol occasionally, with no excessive use. He denies any illicit drug use.
+
+On physical examination, the patient appears to be in good general health. His blood pressure is 130/80 mmHg, heart rate is 78 beats per minute, respiratory rate is 16 breaths per minute, and body temperature is 98.6°F. His lungs are clear on auscultation, heart sounds are regular without any murmurs, and the abdomen is soft and non-tender.
+
+His surgical procedure is planned to be performed under general anesthesia, and an anesthesiology consult has been scheduled to assess his fitness for surgery. The surgeon has explained the risks and benefits of the procedure to the patient, who has provided informed consent.
+
+Post-operatively, the patient developed acute renal failure, which is a possible complication of surgery in patients with pre-existing chronic kidney disease. His serum creatinine level peaked at 2.5 mg/dL, which is significantly higher than his baseline of 1.2 mg/dL. He also developed oliguria, with a urine output of less than 0.5 mL/kg/h.
+
+Due to his acute renal failure, the patient required close monitoring of his fluid and electrolyte balance. Continuous renal replacement therapy (CRRT) was initiated to manage his renal function and prevent further deterioration. He was also closely monitored for signs of infection, as patients with acute renal failure are at increased risk of developing sepsis.
+
+In addition, the patient's pre-existing medical conditions, such as hypertension and diabetes, required careful management during the post-operative period. His blood pressure was controlled with antihypertensive medications, and his blood glucose levels were monitored closely and managed with insulin as needed.
+
+The patient's post-operative pain was managed with a multimodal approach, including opioids, nonsteroidal anti-inflammatory drugs (NSAIDs), and local anesthetics. Care was taken to avoid nephrotoxic medications, such as nonsteroidal anti-inflammatory drugs (NSAIDs), that could further compromise his renal function.
+
+Physical therapy was initiated to help the patient regain mobility and prevent complications such as deep vein thrombosis (DVT) and pressure ulcers. Special attention was paid to his renal function during physical therapy, with frequent breaks and modification of activities as needed.
+
+The patient's fluid and electrolyte balance was monitored closely, with daily lab tests to assess his renal function and ensure appropriate management. His urine output gradually improved over time, and his serum creatinine levels started to trend downwards.
+
+The patient's surgical wound was monitored for signs of infection, and he was started on antibiotics prophylactically to prevent any surgical site infections. He was educated on proper wound care techniques and was instructed to report any signs of infection, such as increased pain, redness, or discharge.
+
+Given his history of chronic kidney disease and the development of acute renal failure after surgery, the patient was referred to a nephrologist for further evaluation and management of his renal function. Long-term follow-up will be needed to assess the impact of the acute renal failure on his overall renal function and guide any necessary interventions.
+
+Overall, the patient's surgery and post-operative course were complicated by the development of acute renal failure. However, with appropriate management and close monitoring, his renal function is gradually improving. It is important for the multidisciplinary team to continue working together to optimize his care and minimize further risks and complications.

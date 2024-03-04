@@ -1,0 +1,31 @@
+The patient, Mr. X, is a 65-year-old male who is planning to undergo surgery. He has a medical history of hypertension, diabetes mellitus type 2, and coronary artery disease. 
+
+He has been taking medications including lisinopril for hypertension and metformin for diabetes, as well as aspirin and atorvastatin for his coronary artery disease. He has been compliant with his medications and has experienced improvement in his blood pressure and blood glucose levels. 
+
+On examination, the patient's blood pressure is well controlled at 130/80 mmHg, and he has a body mass index (BMI) of 28.7, indicating overweight status. He has no signs of organ dysfunction and his laboratory results including blood glucose, lipid profile, and renal function tests have been within normal limits.
+
+However, Mr. X does have a history of smoking, which he quit 10 years ago. He has undergone previous surgeries including a coronary artery bypass grafting (CABG) procedure three years ago, which was successful without any complications. 
+
+During the pre-operative evaluation, his cardiac status was assessed with an electrocardiogram and echocardiogram, revealing preserved left ventricular function. 
+
+The patient is scheduled for surgery and is advised to continue his medications, with the exception of metformin which is discontinued prior to the surgery due to the risk of lactic acidosis. 
+
+During surgery, Mr. X develops acute renal failure, characterized by a sudden decrease in kidney function. This complication can occur due to a variety of reasons including perioperative hypotension, reduced blood flow to the kidneys, and the use of certain medications such as non-steroidal anti-inflammatory drugs (NSAIDs).
+
+The patient presents with elevated serum creatinine levels and decreased urinary output. He is promptly treated with intravenous fluids to restore adequate kidney perfusion. The surgical team also consults a nephrologist for further management.
+
+Additional investigations are performed to determine the underlying cause of the acute renal failure, including ultrasound imaging of the kidneys to assess for any obstructive causes such as kidney stones. 
+
+Fluid balance is closely monitored, and the patient is initially kept on a conservative fluid regimen to avoid overhydration. 
+
+The nephrologist recommends discontinuing any potentially nephrotoxic medications and replacing them with alternative agents. Renal replacement therapy, such as hemodialysis or continuous renal replacement therapy, may be considered if the renal function does not improve.
+
+The patient's overall recovery is closely monitored, with regular assessments of kidney function, electrolyte levels, and fluid balance. The goal is to optimize his renal function and prevent any further complications.
+
+Post-operatively, the patient may require rehabilitation services to regain his strength and mobility. Physical therapy and occupational therapy may be recommended to aid in his recovery and improve his functional abilities.
+
+Long-term management for Mr. X will involve close monitoring of his blood pressure, blood glucose levels, and lipid profile to prevent any cardiovascular complications. Lifestyle modifications, including maintaining a healthy diet, regular exercise, and smoking cessation, will also be advised.
+
+Regular follow-up visits with his primary care physician, cardiologist, and nephrologist will be necessary to ensure optimal management of his conditions and to monitor his renal function.
+
+In conclusion, Mr. X is a 65-year-old male with a medical history including hypertension, diabetes mellitus type 2, and coronary artery disease. He has successfully undergone previous surgeries, including a CABG procedure. However, during his current surgery, he developed acute renal failure, likely due to perioperative factors. He is being closely monitored and managed by a multidisciplinary team to optimize his renal function and prevent any further complications.

@@ -1,0 +1,19 @@
+Patient's medical history:
+1. The patient is a 50-year-old male who is planning to undergo surgery.
+2. He has a history of hypertension, which is well-controlled with antihypertensive medication.
+3. The patient also has type 2 diabetes mellitus, managed with oral hypoglycemic medications.
+4. He has a past medical history of coronary artery disease and has undergone angioplasty with stent placement four years ago.
+5. The patient has a history of hyperlipidemia and is on statin therapy to manage his cholesterol levels.
+6. He has a sedentary lifestyle and is overweight with a BMI of 31.
+7. The patient is a nonsmoker and denies any history of alcohol or illicit drug abuse.
+8. He has no known drug allergies.
+9. The patient's family history is significant for coronary artery disease, with his father having a myocardial infarction at the age of 55.
+10. His preoperative laboratory investigations, including complete blood count and coagulation profile, are within normal limits.
+11. The patient's electrocardiogram shows sinus rhythm with no acute changes.
+12. He underwent an echocardiogram, which revealed normal left ventricular function with an ejection fraction of 60%.
+13. The patient's renal function is normal, with a creatinine level of 0.9 mg/dL.
+14. He has been counseled regarding the risks and benefits of surgery and has provided informed consent.
+15. Preoperatively, the patient is optimized for surgery with appropriate medication adjustments and is given instructions for preoperative fasting.
+
+Postoperative course and complications:
+The patient had an uneventful postoperative course following the surgery. He was closely monitored for vital signs, pain control, and wound healing. The patient was started on prophylactic antibiotics to prevent surgical site infection. Regular physiotherapy was initiated to prevent postoperative complications such as deep vein thrombosis and respiratory complications. The patient was mobilized early and advised to perform deep breathing exercises to prevent pulmonary complications. He was also started on low molecular weight heparin to prevent venous thromboembolism. There were no signs of wound infection or wound dehiscence. The patient's blood glucose levels were closely monitored, and his antidiabetic medications were adjusted as necessary. He received appropriate analgesia to manage postoperative pain. The patient's postoperative echocardiogram showed no significant changes in his cardiac function. No postoperative cardiac events or arrhythmias were observed. The patient was discharged home after a few days, with appropriate postoperative instructions and follow-up. He was advised to continue his medications, maintain a healthy lifestyle, and closely monitor his blood glucose levels. Overall, the patient had a smooth postoperative recovery without any complications.

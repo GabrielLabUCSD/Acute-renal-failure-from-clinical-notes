@@ -1,0 +1,84 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol abuse
+* Chronic obstructive pulmonary disease (COPD)
+* Gastroesophageal reflux disease (GERD)
+* Hypothyroidism
+* History of non-insulin-dependent diabetes mellitus (NIDDM)
+* Peripheral artery disease (PAD)
+* History of heart failure
+* History of myocardial infarction (MI)
+* History of atrial fibrillation (AFib)
+* Chronic kidney disease (CKD) Stage 3
+* History of stroke
+* History of transient ischemic attack (TIA)
+* History of seizures
+* History of migraines
+* History of osteoarthritis
+* History of chronic lower back pain
+* History of asthma
+* History of allergic rhinitis
+* History of chronic obstructive sleep apnea (OSA)
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 10 years ago
+* Hernia repair 5 years ago
+* Knee arthroscopy 2 years ago
+* Cataract surgery 1 year ago
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Omeprazole for GERD
+* Levothyroxine for hypothyroidism
+* Metformin for NIDDM
+* Aspirin for PAD
+* Metoprolol for heart failure
+* Warfarin for AFib
+* Amlodipine for hypertension
+* Olanzapine for chronic lower back pain
+* Albuterol for asthma
+* Fluticasone for allergic rhinitis
+* Continuous positive airway pressure (CPAP) for OSA
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Social History:
+
+* Married with two adult children
+* Retired from full-time work
+* Enjoys gardening and walking
+* Lives independently
+* Has supportive family members
+
+Reason for Surgery:
+
+* Elective total hip replacement
+
+Postoperative Course:
+
+* Patient had an uncomplicated postoperative course
+* Was discharged home on postoperative day 3
+* Followed up with orthopedic surgeon and primary care physician
+* Had physical therapy for rehabilitation
+* Recovered fully and returned to normal activities
+
+Complications:
+
+* None
+
+This summary includes relevant medical history, surgical history, current medications, allergies, social history, reason for surgery, postoperative course, and complications. However, it does not include acute renal failure as a complication, as per your request.

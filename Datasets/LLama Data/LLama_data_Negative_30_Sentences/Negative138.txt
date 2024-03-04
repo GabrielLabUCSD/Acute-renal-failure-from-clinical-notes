@@ -1,0 +1,68 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Diabetes mellitus
+* Hyperlipidemia
+* History of smoking
+* Obstructive sleep apnea
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Hip replacement at age 60
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Metformin for diabetes mellitus
+* Simvastatin for hyperlipidemia
+* CPAP for obstructive sleep apnea
+
+Allergies:
+
+* Penicillin
+* Latex
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with a dog
+* Has a history of heavy alcohol use, but stopped drinking 10 years ago
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with a history of cancer
+
+Reason for Surgery:
+
+* Elective knee replacement surgery for osteoarthritis
+
+Expected Postoperative Course:
+
+* Patient will be discharged from the hospital within 3-5 days after surgery
+* Patient will need physical therapy to regain strength and mobility in the affected knee
+* Patient will need assistance with basic activities of daily living for the first week after discharge
+* Patient will need to follow a postoperative rehabilitation program to ensure proper healing
+
+Potential Complications:
+
+* Bleeding
+* Infection
+* Deep vein thrombosis
+* Pulmonary embolism
+* Respiratory failure
+* Cardiac arrhythmias
+* Wound dehiscence
+* Nerve damage
+
+Note: This is just a sample patient summary, and the specific details and complications may vary depending on the individual patient's medical history and surgical procedure.

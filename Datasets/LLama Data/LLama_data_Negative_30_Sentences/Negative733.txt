@@ -1,0 +1,76 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Summary
+
+Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension for 10 years
+* Diabetes mellitus for 5 years
+* Hyperlipidemia for 3 years
+* History of smoking for 20 years
+* Obesity (BMI 35)
+* Sleep apnea
+* History of non-steroidal anti-inflammatory drug (NSAID) use for joint pain
+* History of alcohol use disorder
+
+Surgical History:
+
+* Cholecystectomy 5 years ago
+* Inguinal hernia repair 3 years ago
+* Left knee arthroscopy 2 years ago
+* Right knee arthroscopy 1 year ago
+
+Current Symptoms:
+
+* Worsening left knee pain for 6 months
+* Limited mobility and flexion in left knee
+* Swelling and warmth in left knee
+
+Physical Examination:
+
+* Temperature: 37.2°C (99°F)
+* Blood Pressure: 150/90 mmHg
+* Heart Rate: 80 bpm
+* Respiratory Rate: 16 breaths/min
+* Oxygen Saturation: 98% on room air
+
+Lab Results:
+
+* White Blood Cell Count: 12,000 cells/mm3
+* Hemoglobin A1C: 8.5%
+* Creatinine: 1.5 mg/dL
+* Alanine Transaminase (ALT): 40 IU/L
+* Aspartate Transaminase (AST): 30 IU/L
+* Alkaline Phosphatase: 120 IU/L
+* Total Bilirubin: 0.8 mg/dL
+
+Imaging Results:
+
+* Left knee MRI showed severe osteoarthritis with bone-on-bone contact and a large Baker's cyst.
+
+Plan:
+
+* Left knee total arthroplasty
+
+Postoperative Course:
+
+* Patient had an uneventful surgery and was transferred to the recovery room in stable condition.
+* Patient experienced some postoperative nausea and vomiting, which was managed with antiemetics.
+* Patient had some pain in the left knee, which was managed with pain medication.
+* Patient was able to ambulate with assistance on the first postoperative day.
+* Patient was discharged home on postoperative day 2 with a total knee brace and crutches.
+
+Complications:
+
+* Patient developed a superficial surgical site infection (SSI) on postoperative day 5, which was treated with oral antibiotics.
+* Patient experienced some delayed wound healing, but it eventually healed completely.
+
+Follow-up:
+
+* Patient had a follow-up appointment 2 weeks after discharge, at which point the knee brace and crutches were removed.
+* Patient was able to ambulate independently and had significant improvement in pain and mobility.
+* Patient was satisfied with the surgical outcome and had no further complications at 6-month follow-up.

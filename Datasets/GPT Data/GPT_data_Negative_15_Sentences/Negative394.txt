@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery] surgery. They have a past medical history significant for [medical conditions, such as hypertension or diabetes]. The patient's surgical indication is [reason for surgery, such as chronic pain or dysfunction]. 
+
+Regarding their preoperative workup, the patient underwent [relevant diagnostic tests, such as blood work or imaging studies]. The test results showed [findings, such as abnormal lab values or imaging findings]. The patient's preoperative physical examination revealed [relevant findings, such as a hernia or joint instability].
+
+The patient's preoperative medications include [list of medications, such as antihypertensives or anticoagulants]. They have been informed about the medication adjustments that may be necessary before and after the surgery. Preoperative clearance was obtained from specialists, such as [cardiologist or pulmonologist], to ensure the patient is optimally prepared for the surgery.
+
+In terms of lifestyle choices, the patient is a [non-]smoker and reports consuming [amount] of alcohol per week. They exercise [frequency] and eat a [description of their diet]. The patient has been counseled regarding lifestyle modifications that might aid in their recovery and reduce the risk of complications.
+
+During the surgery, the patient received [type of anesthesia, such as general anesthesia or spinal anesthesia]. The procedure went smoothly without any intraoperative complications.
+
+Postoperatively, the patient was closely monitored in the recovery area. They were managed with [pain management protocol, such as oral analgesics or intravenous patient-controlled analgesia]. The patient's pain scores remained within the desired range throughout the postoperative period. Adequate nutrition and hydration were maintained through [method, such as oral intake or intravenous fluids].
+
+The patient's postoperative course was uneventful, with normal vital signs and routine wound care. They were ambulating independently and meeting milestones for recovery. The patient was discharged on [postoperative day] with appropriate discharge instructions, including information about activity restrictions, wound care, and medications.
+
+No major complications were reported during the postoperative period. The patient did not experience acute renal failure as a postoperative complication. They were advised to follow up with their [specialty] and primary care physicians for long-term management and any necessary postoperative evaluations.
+
+In summary, the [age]-year-old [gender] patient is planning to undergo [type of surgery]. Their preoperative workup was unremarkable, and they have been optimized for the surgery. The patient's postoperative course was uncomplicated, demonstrating good recovery and meeting expected milestones. The patient was discharged home with appropriate follow-up instructions.

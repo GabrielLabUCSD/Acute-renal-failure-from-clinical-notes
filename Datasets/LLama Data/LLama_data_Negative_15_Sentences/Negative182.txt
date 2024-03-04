@@ -1,0 +1,56 @@
+patient summary: 
+
+Patient Name: John Doe
+Age: 55
+Sex: Male
+Medical Record Number: 12345
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 10 years ago
+* Hernia repair 5 years ago
+
+Current Medications:
+
+* Lisinopril (Zestril) 20mg orally daily
+* Simvastatin (Zocor) 40mg orally daily
+* Omeprazole (Prilosec) 20mg orally daily
+* Aspirin 81mg orally daily
+* Alprazolam (Xanax) 0.5mg orally daily
+
+Allergies: 
+
+* Penicillin
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Lives in a two-story house
+* Has a pet dog
+
+Reason for Surgery: 
+
+* Elective total hip replacement
+
+Postoperative Course: 
+
+* The patient had a successful total hip replacement surgery and was transferred to the post-anesthesia care unit (PACU) for recovery.
+* He was extubated and remained stable in the PACU for 2 hours before being transferred to the surgical floor.
+* He experienced some postoperative pain, nausea, and vomiting, which were managed with analgesics and antiemetics.
+* He was able to ambulate with assistance on the first postoperative day and started physical therapy.
+* He developed a superficial surgical site infection (SSI) on the third postoperative day, which was treated with antibiotics.
+* He was discharged home on the fifth postoperative day with a follow-up appointment in 2 weeks.
+
+Complications: 
+
+* Superficial surgical site infection (SSI)

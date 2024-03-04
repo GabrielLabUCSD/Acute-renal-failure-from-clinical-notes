@@ -1,0 +1,61 @@
+Patient Summary:
+
+* Patient Name: John Doe
+* Age: 65 years old
+* Gender: Male
+* Date of Birth: January 1, 1957
+* Medical Record Number: 123456
+* Current Doctor: Dr. Jane Smith
+* Reason for Visit: Pre-operative evaluation for upcoming surgery
+* Medical History:
+	+ Hypertension
+	+ Hyperlipidemia
+	+ History of smoking
+	+ Obesity (BMI 35)
+	+ Sleep apnea
+	+ Diabetes mellitus type 2
+	+ History of heart disease
+	+ Previous myocardial infarction (MI)
+	+ Peripheral artery disease (PAD)
+	+ Chronic obstructive pulmonary disease (COPD)
+	+ History of stroke
+	+ Chronic kidney disease (CKD) stage 3
+* Current Medications:
+	+ Lisinopril for hypertension
+	+ Atorvastatin for hyperlipidemia
+	+ Oxygen therapy for COPD
+	+ Metformin for diabetes mellitus type 2
+	+ Aspirin for MI prevention
+	+ Pantoprazole for gastroesophageal reflux disease (GERD)
+* Allergies:
+	+ Penicillin
+	+ Sulfa drugs
+* Surgeries:
+	+ Appendectomy at age 25
+	+ Cholecystectomy at age 40
+	+ Hip replacement at age 55
+* Family Medical History:
+	+ Father died of MI at age 55
+	+ Mother died of stroke at age 65
+	+ One sibling with history of MI
+* Social History:
+	+ Married with two adult children
+	+ Retired
+	+ Lives in a two-story house with no elevator
+	+ Drives a car
+	+ Has a cat
+* Pre-operative Instructions:
+	+ Stop aspirin 7 days prior to surgery
+	+ Stop lisinopril 24 hours prior to surgery
+	+ Stop pantoprazole 24 hours prior to surgery
+	+ Clear liquids only for 24 hours prior to surgery
+	+ No alcohol or nicotine for 24 hours prior to surgery
+* Complications:
+	+ Acute renal failure developed post-operatively
+	+ Requires continuous renal replacement therapy (CRRT)
+	+ Electrolyte imbalance
+	+ Fluid overload
+	+ Respiratory failure
+	+ Cardiovascular instability
+
+Note: The above summary is a fictional patient summary, and any resemblance to real patients is purely coincidental.

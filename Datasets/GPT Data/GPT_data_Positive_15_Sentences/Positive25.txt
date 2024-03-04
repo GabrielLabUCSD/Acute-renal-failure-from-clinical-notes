@@ -1,0 +1,19 @@
+The patient is a 55-year-old male with a past medical history of hypertension, diabetes mellitus type 2, and obesity. He presents to the hospital for surgery, specifically a cholecystectomy, due to symptomatic gallstone disease. The patient has been experiencing recurrent episodes of abdominal pain for the past six months, with associated nausea and vomiting.
+
+The patient's hypertension has been well controlled with medication, and his diabetes is managed through diet and exercise. His obesity, however, has posed challenges in achieving optimal glycemic control. His body mass index (BMI) is 35, indicating class II obesity.
+
+Preoperative investigations reveal elevated liver function tests, which are likely related to his gallstone disease. Additionally, the patient's renal function tests are within normal limits, with a baseline estimated glomerular filtration rate (eGFR) of 90 ml/min/1.73m2.
+
+The surgery is planned under general anesthesia with laparoscopic technique. The patient's surgical risk is assessed as moderate due to his comorbidities.
+
+Following the surgery, the patient develops acute renal failure, characterized by an abrupt drop in his eGFR to 20 ml/min/1.73m2. His creatinine levels rise from a baseline of 1.0 mg/dL preoperatively to 2.5 mg/dL postoperatively.
+
+The etiology of the acute renal failure is likely multifactorial, with possible contributions from intraoperative hypotension, renal hypoperfusion, and exposure to nephrotoxic medications.
+
+The patient is managed conservatively with fluid resuscitation, correction of electrolyte abnormalities, and avoidance of potentially nephrotoxic medications. He undergoes daily renal function monitoring to assess for any improvement in his renal function.
+
+Despite the initial decline in renal function, the patient's eGFR gradually improves over the course of seven days, reaching a level of 50 ml/min/1.73m2.
+
+The patient's postoperative course is otherwise uneventful, and he is discharged home on oral pain medications and advised to follow up for further evaluation of his renal function.
+
+Overall, the patient's medical history includes hypertension, diabetes mellitus type 2, obesity, and symptomatic gallstone disease. He undergoes a cholecystectomy and develops acute renal failure postoperatively, which is managed conservatively and shows gradual improvement.

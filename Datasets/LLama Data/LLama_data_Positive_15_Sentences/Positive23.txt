@@ -1,0 +1,30 @@
+Patient Summary:
+
+1. The patient is a 55-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He has been smoke-free for the past 5 years.
+4. He has a history of non-insulin dependent diabetes mellitus.
+5. He has had a myocardial infarction 10 years ago.
+6. He has been diagnosed with chronic obstructive pulmonary disease (COPD).
+7. He has a history of gastroesophageal reflux disease (GERD).
+8. He has been taking aspirin and atorvastatin for the past 5 years.
+9. He has been scheduled for a coronary artery bypass graft (CABG) surgery.
+10. He has been advised to stop taking aspirin and atorvastatin 7 days before surgery.
+11. He has been prescribed ranitidine and omeprazole for his GERD.
+12. He has been advised to stop eating and drinking 8 hours before surgery.
+13. He has been advised to avoid alcohol and nicotine for 24 hours before surgery.
+14. He has been prescribed enoxaparin for thromboprophylaxis.
+15. He has been advised to follow a clear liquid diet for 24 hours before surgery.
+
+Complication:
+
+1. The patient developed acute renal failure (ARF) post-operatively.
+2. He had an elevated serum creatinine level of 2.5 mg/dL.
+3. He had a reduced urine output of less than 500 mL in 24 hours.
+4. He had a history of sepsis and shock.
+5. He was started on intravenous furosemide and hydration therapy.
+6. He was monitored closely for fluid and electrolyte imbalance.
+7. He was advised to follow a low-protein diet.
+8. He was discharged from the hospital after 7 days with stable renal function.
+
+This patient summary and complication description provide a comprehensive overview of the patient's medical history and the complication that arose after surgery. It includes relevant information about the patient's medical conditions, medications, and surgical history, as well as the development of acute renal failure and the treatment plan. This summary would be useful for healthcare providers involved in the patient's care to ensure that they are aware of the patient's medical history and the necessary steps to take to manage his condition effectively.

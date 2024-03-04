@@ -1,0 +1,21 @@
+Patient Summary:
+
+* Patient is a 45-year-old male
+* Patient has history of hypertension, hyperlipidemia, and obesity
+* Patient had a myocardial infarction 5 years ago and has been compliant with medications since
+* Patient has been experiencing worsening left knee pain for the past year consistent with osteoarthritis
+* Patient has tried physical therapy and conservative management without relief
+* Patient is scheduled to undergo a total knee replacement
+* Patient is an anxious individual and has been started on anxiolytics preoperatively
+* Patient has been optimized for surgery with normal blood work and imaging studies
+* Patient had a successful surgery with no intraoperative complications
+* Patient"s postoperative course was uneventful for the first 24 hours
+* Patient experienced some nausea and vomiting on the second postoperative day
+* Patient was treated with ondansetron and the symptoms resolved
+* Patient was discharged home on the third postoperative day with a pain score of 4/10
+* Patient had a follow-up appointment with the surgeon 2 weeks after discharge and the wound was healing well
+* Patient continued physical therapy and had improved range of motion and pain reduction at 6 weeks post-op
+
+Complications:
+
+* None

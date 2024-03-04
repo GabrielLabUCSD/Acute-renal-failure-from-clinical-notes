@@ -1,0 +1,23 @@
+The patient is a 45-year-old female who is planning to have surgery. She has a medical history of hypertension, diabetes mellitus type 2, and obesity. Her blood pressure has been well controlled with antihypertensive medication. She is on oral hypoglycemic agents for her diabetes and has been maintaining good glycemic control. She has a body mass index (BMI) of 32, indicating obesity.
+
+The patient has a history of smoking but quit two years ago. She denies any current respiratory symptoms. She has no history of cardiovascular disease, stroke, or peripheral vascular disease. Her renal function has been within normal limits, and she has no history of kidney disease.
+
+The patient is currently asymptomatic and reports no specific complaints. She does experience occasional episodes of back pain, which she attributes to her sedentary lifestyle and excess weight. She does not have any other significant medical conditions or previous surgeries.
+
+Lab work reveals slightly elevated fasting blood glucose levels and HbA1c levels consistent with her known diabetes. Her renal function tests are within normal range, with a creatinine level of 0.9 mg/dL and estimated glomerular filtration rate (eGFR) of 85 mL/min/1.73m².
+
+The patient is scheduled to undergo surgery for a gallbladder removal due to complications from gallstones. She has been provided with the necessary pre-operative instructions, such as fasting prior to surgery and stopping medications as advised by her surgeon. She has consented to the procedure and understands the potential risks and benefits.
+
+Postoperatively, the patient develops acute renal failure, which is characterized by a sudden decline in renal function. This could be due to several factors, including decreased renal perfusion during surgery, the use of nephrotoxic medications, or underlying kidney disease.
+
+The patient's creatinine levels begin to rise, and her eGFR drops to 30 mL/min/1.73m². Her urine output decreases, and she develops fluid retention and electrolyte imbalances. The surgical team promptly notifies the nephrologist who recommends starting hemodialysis to support her renal function and remove waste products from her body.
+
+The patient's pre-existing medical conditions, such as hypertension and obesity, may have contributed to her increased risk of postoperative renal complications. The surgical team closely monitors her fluid balance, electrolyte levels, and renal function throughout her hospital stay.
+
+The patient is started on appropriate antibiotics to prevent infection and is given intravenous fluids and diuretics to promote diuresis. She undergoes daily hemodialysis to manage her acute renal failure and prevent further complications.
+
+The patient's renal function gradually improves over the course of several weeks, and her creatinine levels begin to decline. She is discharged from the hospital with a prescription for continuing hemodialysis as an outpatient.
+
+The patient will require close follow-up with her nephrologist and primary care physician to monitor her renal function and manage her chronic medical conditions. Lifestyle modifications, including weight loss and blood pressure control, will be emphasized to reduce the risk of further renal complications.
+
+In summary, the patient is a 45-year-old female with a medical history of hypertension, diabetes mellitus type 2, and obesity. She is planning to undergo gallbladder removal surgery. She develops acute renal failure postoperatively, requiring hemodialysis for several weeks. Her renal function gradually improves, but she will require ongoing monitoring and management of her chronic medical conditions to prevent further complications.

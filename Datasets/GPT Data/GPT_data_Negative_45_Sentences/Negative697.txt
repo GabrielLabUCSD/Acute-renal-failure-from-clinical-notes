@@ -1,0 +1,37 @@
+The patient is a (age) year old (gender) who is planning to have surgery. They have a medical history significant for (list of relevant medical conditions), (list of relevant surgeries/procedures), and (list of relevant medications). They do not have a history of acute renal failure.
+
+Their current medications include (list of medications), which they take orally (orally, at a specified dose) and (list of medications) which they take (route of administration and frequency).
+
+The patient's surgical history includes (list of previous surgeries or procedures), which were performed (dates and locations).
+
+Their medical conditions include (list of relevant medical conditions) which are managed with (list of current treatments or medications). They also have a history of (list of relevant past medical conditions) which are currently not active.
+
+They have a family history of (list of relevant genetic or hereditary conditions) which may impact their surgical outcome.
+
+The patient recently underwent (list of preoperative tests or evaluations) to assess their overall health and suitability for surgery. These tests revealed (results of tests or evaluations).
+
+They were seen by various specialists including (list of relevant specialists), who provided additional recommendations and care.
+
+The patient has been adequately informed about the surgical procedure, including the risks, benefits, and potential complications. They have consented to the surgery and have a good understanding of the recovery process.
+
+Postoperatively, the patient experienced (describe the postoperative course and any complications). The surgical wound is healing well, and there are no signs of infection or other complications. They are currently receiving appropriate postoperative care and pain management.
+
+The patient's recovery is progressing well, and they are being monitored closely by the healthcare team. Their vital signs, such as blood pressure, heart rate, and oxygen saturation, are stable.
+
+They are following a postoperative care plan, including (list any specific instructions or precautions given to the patient). The patient is adhering to their medication regimen and attending follow-up appointments as recommended.
+
+The patient's pain is being adequately managed with (list pain medications or interventions). They are encouraged to report any changes in pain levels or other concerns to the healthcare team.
+
+The patient's renal function remains stable, with no signs of acute renal failure. Routine laboratory tests, including kidney function markers, have been within normal limits throughout the postoperative period.
+
+They are mobilizing well and have been encouraged to engage in light physical activity to aid in their recovery. The patient's surgical site is intact, with no signs of wound dehiscence or other complications.
+
+The patient's nutritional needs are being met during the postoperative period, with appropriate intake of fluids, electrolytes, and nutrients. They are receiving assistance from the healthcare team and dietary specialists as needed.
+
+The patient's overall condition and recovery are considered satisfactory, and they are expected to continue making progress. They have a positive attitude towards their recovery and are actively participating in their care.
+
+They have been provided with resources and information regarding potential postoperative complications, such as infection, bleeding, or pneumonia, and have been advised to seek immediate medical attention if any concerning symptoms arise.
+
+As of the most recent follow-up, the patient has reported feeling well and satisfied with their surgical outcome. They have returned to their usual activities, including (list specific activities) without difficulty or limitations.
+
+In summary, the patient is a (age) year old (gender) with a significant medical history including (list of relevant medical conditions and surgeries). They underwent surgery and had a (describe postoperative course) without complications. Their renal function remained stable throughout the postoperative period. The patient's recovery is progressing well, and they are actively engaging in their care and following recommended postoperative instructions. They are satisfied with the surgical outcome and have resumed their normal activities.

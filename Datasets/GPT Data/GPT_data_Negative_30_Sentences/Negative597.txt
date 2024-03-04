@@ -1,0 +1,41 @@
+The patient is a (age) (gender) presenting for (type of surgery). Pertaining to their medical history, the patient has a past diagnosis of (disease/condition) and has been managing it with (treatment/medication). They also have a history of (disease/condition) treated with (treatment/medication).
+
+In terms of medications, the patient is currently taking (list of medications). These include (medication names) which are essential for managing their (disease/condition). Additionally, they take (supplements/over-the-counter medications). The patient reports being compliant with their medication regimen.
+
+The patient has a known allergy to (allergen) that was confirmed during a previous allergic reaction, resulting in symptoms such as (symptoms). Appropriate precautions have been taken to avoid exposure to this allergen during the hospital stay.
+
+During the preoperative evaluation, routine laboratory tests were performed. These revealed (lab results) which were within normal limits, except for (lab result) which was slightly (high/low). This may be attributed to (reason) and will be closely monitored during the postoperative period.
+
+The patient has a history of smoking, consuming (number of packs) of cigarettes per day for (number of years). This habit may increase the risk of complications during and after surgery, including delayed wound healing and postoperative respiratory issues. Smoking cessation counseling was provided, and the patient expressed willingness to quit smoking.
+
+The patient has a body mass index (BMI) of (BMI value) indicating (underweight/normal/overweight/obese). An increased BMI can potentially pose challenges during surgery, such as difficulty with anesthesia management and wound healing. The surgical team is aware of this and will take appropriate measures to ensure patient safety.
+
+Cardiovascular-wise, the patient has a history of (heart condition), managed with (treatment/medication). The patient undergoes periodic cardiac evaluations and has been stable on their current treatment regimen.
+
+Respiratory-wise, the patient has a history of (respiratory condition) which requires daily use of (inhaler/treatment). The patient reports good control of symptoms.
+
+The patient has a history of (gastrointestinal condition) and has undergone (previous surgeries) related to this condition. They've also experienced occasional episodes of (symptoms) for which they've been taking (medication). These symptoms have been stable recently.
+
+Regarding their musculoskeletal system, the patient has (specific conditions/injuries) that may require particular attention during surgery, such as optimized positioning and joint protection techniques.
+
+The patient does not have a history of acute renal failure. However, they have a history of (kidney condition), which is managed through (treatment/medication/diet). The patient's renal function has been stable with no recent changes.
+
+Endocrine-wise, the patient has (endocrine condition) which is controlled with (treatment/medication). The patient's most recent endocrine evaluation showed (lab results) indicating good control.
+
+Neurologically, the patient has a history of (neurological condition) that is managed with (treatment/medication). They have been stable and report no recent exacerbations.
+
+The patient's immunization status is up to date, including (relevant vaccinations) which help prevent complications during the perioperative period.
+
+Psychologically, the patient has been assessed for anxiety and depression, which are important considerations before surgery. They have exhibited (mild/moderate/severe) symptoms of (anxiety/depression) and are undergoing (therapy/medication/supportive care) for these conditions.
+
+The patient is accompanied by a supportive family member during their hospital stay, which may positively impact their postoperative course and recovery.
+
+Postoperatively, the patient was initially admitted to the post-anesthesia care unit (PACU) for recovery and close monitoring. They were then transferred to the surgical ward for continued postoperative care.
+
+The patient's postoperative course has been uneventful, with stable vital signs and adequate pain control. Surgical wound healing has been progressing well, with no signs of infection or complications.
+
+Routine postoperative laboratory tests were conducted, revealing (lab results). These were within normal limits, except for (lab result) which was (high/low). It is important to note that this change is expected due to the surgical procedure and will be monitored closely.
+
+The patient has been actively participating in their postoperative care, following instructions for proper wound care, physical therapy, and ambulation.
+
+As of now, there have been no complications reported following the surgery. The patient's recovery is progressing satisfactorily, and they are expected to be discharged soon. Postoperative follow-up appointments have been scheduled to ensure continued monitoring and optimal recovery.

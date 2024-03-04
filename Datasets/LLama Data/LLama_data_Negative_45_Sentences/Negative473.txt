@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient had a myocardial infarction (MI) seven years ago and has been compliant with medications and lifestyle modifications since the event. He has a history of hyperkeratosis and has been treated for actinic keratosis.
+
+The patient had a cholecystectomy ten years ago and has been asymptomatic since the procedure. He has a history of dyslipidemia and has been treated with statins. He had a colonoscopy five years ago that revealed polyps, which were removed during the procedure. The patient had a left shoulder arthroscopy three years ago for a rotator cuff tear. He also has a history of osteoarthritis in his knees and hips.
+
+The patient is currently taking aspirin, metformin, lisinopril, and atorvastatin. He has no known drug allergies. The patient is a current smoker and drinks alcohol occasionally. He works as a construction worker.
+
+The patient's vital signs are within normal limits. The patient's height is 175 cm, weight is 86 kg, and body mass index (BMI) is 31. His temperature is 36.8 degrees Celsius, heart rate is 78 beats per minute, blood pressure is 138/88 mmHg, and oxygen saturation is 98% on room air.
+
+The patient had a recent complete blood count (CBC) and blood chemistry, which revealed a white blood cell count (WBC) of 4.5 x 10^9/L, hemoglobin (Hb) of 13.8 g/dL, hematocrit (Hct) of 43%, platelet count of 188 x 10^9/L, sodium (Na) of 138 mmol/L, potassium (K) of 4.1 mmol/L, chloride (Cl) of 101 mmol/L, bicarbonate (HCO3) of 24 mmol/L, blood urea nitrogen (BUN) of 7.1 mmol/L, creatinine (Cr) of 69 umol/L, and glucose (Glu) of 5.5 mmol/L.
+
+The patient had a preoperative electrocardiogram (ECG) that showed normal sinus rhythm. The patient also had a preoperative echocardiogram that showed left ventricular (LV) ejection fraction of 60%. The patient had a preoperative urinalysis that showed no proteinuria or hematuria.
+
+The patient's surgical course was uneventful. He tolerated the anesthesia well and had no complications during the procedure. The patient's postoperative course was also uneventful. He had no nausea, vomiting, or pain. The patient's wound healed without any complications.
+
+The patient was discharged from the hospital on the second postoperative day. He was advised to continue his medications and follow up with his primary care physician and surgeon.
+
+Complications: None

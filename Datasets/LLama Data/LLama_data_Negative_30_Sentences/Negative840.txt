@@ -1,0 +1,40 @@
+Patient Summary:
+
+1. The patient is a 45-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He has been a smoker for the past 20 years.
+4. He has a history of chronic lower back pain.
+5. He had a previous lumbar fusion surgery 10 years ago.
+6. He has been experiencing worsening left knee pain for the past year.
+7. He was diagnosed with a torn meniscus and osteoarthritis.
+8. He underwent a left knee arthroscopy and meniscectomy six months ago.
+9. He has been experiencing persistent left knee pain and swelling since the surgery.
+10. He has been using a cane for ambulation assistance.
+11. He has been taking over-the-counter pain medication for his knee pain.
+12. He has not had any recent illnesses or infections.
+13. He has not had any surgeries within the past 12 months.
+14. He has no known allergies to medications.
+15. He is currently taking medication for his hypertension and hyperlipidemia.
+16. He denies any recent or history of substance abuse.
+17. He has a supportive family and social network.
+18. He is planning to have a total knee replacement surgery.
+19. He is aware of the risks and benefits of the surgery.
+20. He has a negative preoperative COVID-19 test.
+21. He has no history of bleeding disorders or previous blood transfusions.
+22. He has not had any recent significant injuries or traumas.
+23. He has a normal preoperative electrocardiogram (EKG).
+24. He has a normal preoperative echocardiogram.
+25. He has a normal preoperative chest X-ray.
+26. He has a normal preoperative complete blood count (CBC).
+27. He has a normal preoperative basic metabolic panel (BMP).
+28. He has a normal preoperative lipase and amylase.
+29. He has a normal preoperative INR and PTT.
+30. He is scheduled for a total knee replacement surgery under general anesthesia.
+
+Postoperative Course:
+
+The patient had an uncomplicated postoperative course. He was transferred to the recovery room after surgery and received standard postoperative care, including pain management with IV patient-controlled analgesia (PCA) and continuous passive motion (CPM) of the knee. He was monitored closely for any signs of bleeding, infection, or other complications. He was able to ambulate independently with a cane on the first postoperative day and was discharged home on the second postoperative day.
+
+Complications:
+
+There were no complications during the patient's postoperative course. He did not experience any infections, bleeding, or other adverse events. His pain was well-managed with the PCA and CPM, and he was able to mobilize and perform exercises as instructed. He did not require any blood transfusions or additional surgical interventions.

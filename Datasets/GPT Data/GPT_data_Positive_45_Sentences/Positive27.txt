@@ -1,0 +1,43 @@
+The patient is a 65-year-old male who is planning to have surgery. His medical history includes hypertension, diabetes, and coronary artery disease. He has been on medications to control his blood pressure and blood sugar levels. He has had a previous myocardial infarction and has undergone coronary artery bypass graft surgery.
+
+The patient also has a history of chronic kidney disease, with his renal function steadily declining over the past few years. He is currently at stage 3 chronic kidney disease. He has been referred to a nephrologist for management of his kidney disease.
+
+His baseline renal function has been relatively stable, with a glomerular filtration rate (GFR) of around 45 ml/min/1.73m2. However, there have been episodes of acute kidney injury in the past, mostly related to medication toxicity or dehydration.
+
+The patient has a family history of heart disease, with several relatives experiencing myocardial infarctions at a young age. He is a non-smoker and does not have any known drug allergies.
+
+During his pre-operative evaluation, the patient's cardiac workup showed stable coronary artery disease with no significant changes on his stress test. His echocardiogram showed a preserved left ventricular ejection fraction and no significant valvular abnormalities.
+
+Given his complex medical history, the patient is considered to be at high risk for perioperative complications. The surgical team plans to optimize his medical management prior to surgery to minimize any potential risks.
+
+In preparation for surgery, the patient underwent a thorough pre-operative assessment. His bloodwork showed relatively stable blood glucose levels, with an HbA1c of 7.2%. His blood pressure has been well-controlled on his current antihypertensive medications.
+
+The patient's renal function was closely monitored, and his serum creatinine levels were within acceptable limits. His electrolyte balance, including potassium and sodium levels, were also within normal range.
+
+Following the surgery, however, the patient experienced acute renal failure as a post-operative complication. His serum creatinine levels increased significantly, and his urine output decreased. Acute kidney injury was confirmed by a decrease in his glomerular filtration rate.
+
+The patient was carefully monitored for any signs of renal distress, such as fluid overload or electrolyte imbalances. He was put on strict fluid restriction and received intravenous diuretics to enhance urinary output.
+
+The cause of his acute renal failure was multifactorial. The surgery itself, along with the associated anesthesia, can contribute to kidney injury. In addition, the patient's underlying chronic kidney disease and comorbidities such as diabetes and hypertension put him at increased risk.
+
+The patient's post-operative course was complicated by the need for renal replacement therapy. He required continuous renal replacement therapy (CRRT) to support his renal function and manage any fluid and electrolyte imbalances.
+
+The nephrology team closely monitored his renal function, adjusting the CRRT settings to optimize the clearance of waste products and maintain electrolyte balance. The goal was to stabilize his renal function and prevent any further deterioration.
+
+The patient also received pharmacological interventions to support his renal function, such as medications to manage his blood pressure, diuretics to enhance urine output, and medications to protect against further kidney injury.
+
+Throughout his hospitalization, the patient was closely monitored for any signs of infection or other complications that could further worsen his renal function.
+
+To address the underlying causes of his acute renal failure, further diagnostic workup was performed. This included imaging studies of the kidneys to rule out any obstructive causes. The patient also underwent a renal biopsy to determine the extent of renal injury and guide further management.
+
+The renal biopsy showed evidence of acute tubular necrosis, which is a common cause of acute kidney injury. The findings correlated with the patient's clinical presentation and provided guidance for his ongoing treatment.
+
+The patient underwent a multidisciplinary approach to his care, with involvement from the surgical, anesthesia, nephrology, and critical care teams. Regular interdisciplinary meetings were held to discuss his progress and make necessary adjustments to his treatment plan.
+
+Throughout his hospitalization, the patient's condition gradually improved. His urine output increased, and his serum creatinine levels started to decrease. Continuous renal replacement therapy was gradually tapered off as his renal function improved.
+
+The patient's renal function continued to improve after discharge, with regular follow-up visits to the nephrologist. He was advised to continue taking his medications as prescribed and to adhere to a strict dietary regimen to manage his blood pressure and blood sugar levels.
+
+The patient's surgical team also provided post-operative care to address his surgical incision and monitor any potential complications. He was instructed on wound care techniques and signs of infection to watch for.
+
+In conclusion, this 65-year-old male patient with a history of hypertension, diabetes, coronary artery disease, and chronic kidney disease is planning to have surgery. He experienced acute renal failure as a post-operative complication, likely multifactorial in nature. His renal function gradually improved with close monitoring, renal replacement therapy, and pharmacological interventions. Regular follow-up with the nephrologist and the surgical team was advised to manage his ongoing medical condition and surgical incision.

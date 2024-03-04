@@ -1,0 +1,61 @@
+Patient Summary:
+
+Name: [Insert Patient Name Here]
+Date of Birth: [Insert Date of Birth Here]
+Gender: [Insert Gender Here]
+
+Medical History:
+
+* History of hypertension, controlled with medication
+* Hyperlipidemia, controlled with medication
+* Smoker, 20 pack-years
+* History of non-insulin-dependent diabetes mellitus
+* Obstructive sleep apnea, uses continuous positive airway pressure (CPAP)
+* history of gastroesophageal reflux disease (GERD)
+* history of non-melanoma skin cancer, treated with excision
+* History of knee osteoarthritis
+
+Surgical History:
+
+* Cholecystectomy, open, 10 years ago
+* Hysterectomy, abdominal, 5 years ago
+* Bilateral inguinal hernia repair, laparoscopic, 2 years ago
+* Right knee arthroscopy, 1 year ago
+
+Current Medications:
+
+* Lisinopril, 40 mg daily
+* Atorvastatin, 20 mg daily
+* Glipizide, 10 mg daily
+* Metformin, 1000 mg daily
+* Omeprazole, 20 mg daily
+* CPAP, as needed
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+ Lab Results:
+
+* HbA1C, 7.4% (2 months ago)
+* Fasting blood glucose, 120 mg/dL (2 months ago)
+* Total cholesterol, 180 mg/dL (2 months ago)
+* Triglycerides, 150 mg/dL (2 months ago)
+* Creatinine, 0.9 mg/dL (2 months ago)
+* eGFR, 80 mL/min/1.73 m2 (2 months ago)
+
+Postoperative Course:
+
+* Planned surgery: total knee arthroplasty
+* Date of surgery: [Insert Date Here]
+* Anesthesia: Spinal anesthesia with sedation
+* Length of stay: 2 days
+* Postoperative complications: none
+* Discharge medications:
+	+ Oxycodone, 5 mg every 6 hours as needed for pain
+	+ Aspirin, 325 mg every 8 hours for 30 days
+	+ Keflex, 500 mg every 8 hours for 2 weeks
+* Follow-up appointment: 2 weeks after discharge
+
+This patient has a history of several medical conditions, including hypertension, hyperlipidemia, non-insulin-dependent diabetes mellitus, obstructive sleep apnea, gastroesophageal reflux disease, and history of non-melanoma skin cancer. They have a history of previous surgeries, including cholecystectomy, hysterectomy, and bilateral inguinal hernia repair. They are currently taking several medications, including lisinopril, atorvastatin, glipizide, metformin, omeprazole, and uses CPAP. They have allergies to penicillin and sulfa. Their lab results show controlled hypertension, hyperlipidemia, and diabetes. They are planned to undergo total knee arthroplasty, and their postoperative course is expected to be uneventful. They will be discharged with pain medication, aspirin, and antibiotics, and will have follow-up appointment 2 weeks after discharge.

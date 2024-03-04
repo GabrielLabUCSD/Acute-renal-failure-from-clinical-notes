@@ -1,0 +1,31 @@
+The patient is a __-year-old ___ (gender) who is planning to undergo surgery for ____________ (type of surgery).
+
+The patient has a past medical history significant for ____________ (list relevant medical conditions such as diabetes, hypertension, heart disease, etc.), which have been well-controlled with medications/therapy.
+
+They have a history of allergies to ____________ (list any known allergies).
+
+The patient's current medications include ____________ (list all current medications including dosage, frequency, and route of administration).
+
+They have a history of previous surgeries, including ____________ (list any significant surgeries).
+
+Lab results show normal/near-normal values for complete blood count (CBC), liver function tests (LFTs), kidney function tests, and coagulation profile.
+
+They are a non-smoker and have no history of alcohol or substance abuse.
+
+The patient's preoperative testing and investigations, including electrocardiogram (ECG), chest X-ray, and/or echocardiogram, were unremarkable/negative for any abnormalities.
+
+During the procedure, the patient was placed under general/regional anesthesia and remained stable throughout.
+
+The surgical procedure was successfully completed without any intraoperative complications.
+
+Postoperatively, the patient was monitored closely in the recovery room for signs of respiratory distress, pain, or infection.
+
+They were given appropriate analgesia and prophylactic antibiotics as per the surgical protocol.
+
+The patient's postoperative course was uneventful, and they exhibited a normal response to the surgery.
+
+They were discharged from the hospital on ____________ (list postoperative day) in stable condition.
+
+No complications such as bleeding, infection, or wound dehiscence were observed during the follow-up period.
+
+In conclusion, the patient had a successful surgical procedure with an uneventful postoperative course and no significant complications.

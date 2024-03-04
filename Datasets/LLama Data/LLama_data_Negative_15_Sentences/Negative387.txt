@@ -1,0 +1,63 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/05/1980
+
+Gender: Male
+
+Medical History:
+
+* Hypertension, controlled with medication
+* Hyperlipidemia, controlled with medication
+* History of smoking, quit 5 years ago
+* History of alcohol use disorder, in remission for 10 years
+* Right shoulder rotator cuff repair surgery 5 years ago
+* Left knee menisectomy surgery 10 years ago
+* No history of cardiovascular disease or pulmonary disease
+* No history of bleeding disorders or taking anticoagulant medications
+* No history of previous anesthesia complications
+
+Current Medications:
+
+* Lisinopril 20mg daily
+* Simvastatin 20mg daily
+* Omeprazole 20mg daily
+* Acetaminophen 500mg as needed for pain
+
+Allergies:
+
+* Penicillin
+* Sulfa antibiotics
+
+Family History:
+
+* Father died of myocardial infarction at age 65
+* Mother has hypertension and hyperlipidemia
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies any recent travel or exposure to illness
+
+Reason for Surgery:
+
+* Elective lumbar spine fusion surgery for chronic low back pain
+
+Expected Postoperative Course:
+
+* Patient will be admitted to the hospital for 3-4 days
+* Patient will have a thoracic epidural catheter for pain management
+* Patient will be mobilized and ambulate with assistance on the first postoperative day
+* Patient will progress to oral pain medication and discharge home on the fourth postoperative day
+
+Potential Complications:
+
+* Wound infection
+* Urinary retention
+* Postoperative nausea and vomiting
+* Respiratory depression
+* Seizures (remote history of seizure disorder)
+
+Note: This is just a sample patient summary, and the specific details may vary depending on the individual patient and their medical history.

@@ -1,0 +1,41 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male/female with a medical history of [insert relevant medical conditions, e.g., hypertension, diabetes, asthma]. The patient has been experiencing [insert symptoms, e.g., abdominal pain, shortness of breath] and has been diagnosed with [insert diagnosis, e.g., gallstones, Chronic Obstructive Pulmonary Disease (COPD)].
+
+The patient has had a previous surgical history, including [insert previous surgeries, e.g., cholecystectomy, hernia repair]. The patient is currently taking [insert medications, e.g., atenolol, metoprolol] and has allergies to [insert allergens, e.g., penicillin, latex].
+
+The patient"s lab results show [insert lab results, e.g., elevated white blood cell count, elevated liver enzymes]. The patient has been instructed to stop taking [insert medications, e.g., aspirin, ibuprofen] prior to the surgery.
+
+The patient is scheduled to undergo [insert type of surgery, e.g., laparoscopic cholecystectomy, lung resection]. The surgery is expected to take [insert duration of surgery, e.g., 2 hours].
+
+Postoperative Course:
+
+The patient will be closely monitored in the recovery room for [insert duration, e.g., 1-2 hours] after the surgery. The patient will be given [insert medications, e.g., morphine, oxygen] to manage pain and discomfort.
+
+The patient will be encouraged to mobilize and sit in a chair on the first postoperative day. The patient will be able to eat a light diet and drink fluids as tolerated.
+
+The patient will have a drain inserted to remove any fluids that accumulate during the surgery. The drain will be removed after [insert duration, e.g., 24-48 hours].
+
+The patient will have a follow-up appointment with the surgeon after [insert duration, e.g., 1-2 weeks] to assess the wound and remove any sutures or staples.
+
+Complications:
+
+The patient may experience some discomfort, pain, and swelling at the surgical site. The patient may also experience nausea and vomiting after the anesthesia.
+
+The patient is at risk of developing a wound infection or bleeding at the surgical site. The patient is also at risk of experiencing respiratory complications, such as pneumonia or respiratory failure.
+
+The patient may experience a delay in gastric emptying, which can lead to nausea, vomiting, and abdominal discomfort.
+
+The patient may experience a change in bowel habits, such as constipation or diarrhea, after the surgery.
+
+The patient may experience some numbness or weakness at the surgical site, which may take several weeks to resolve.
+
+The patient may experience some discomfort or pain during the recovery period, which can be managed with pain medication.
+
+In rare cases, the patient may experience a severe allergic reaction to the anesthesia or other medications used during the surgery.
+
+In rare cases, the patient may experience difficulty urinating or passing urine after the surgery.
+
+In rare cases, the patient may experience a cardiac complication, such as an irregular heartbeat or heart attack, during the surgery.
+
+In rare cases, the patient may experience a neurological complication, such as seizures or stroke, during the surgery.

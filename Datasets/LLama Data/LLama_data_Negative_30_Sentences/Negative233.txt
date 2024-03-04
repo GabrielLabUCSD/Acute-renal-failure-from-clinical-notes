@@ -1,0 +1,63 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history and postoperative course:
+
+Patient Name: John Doe
+Age: 55
+Gender: Male
+
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* Obesity (BMI 35)
+* History of smoking (20 pack-years)
+* History of alcohol use disorder (alcohol abuse for 5 years)
+* Family history of CAD and stroke
+* History of sleep apnea
+* Allergic to penicillin and sulfa drugs
+
+Preoperative Laboratory Tests:
+
+* HbA1c 7.5%
+* Serum creatinine 1.5 mg/dL
+* eGFR 60 mL/min/1.73m2
+* Total cholesterol 250 mg/dL
+* Triglycerides 150 mg/dL
+* HDL-C 35 mg/dL
+* LDL-C 180 mg/dL
+* INR 1.2
+* PTT 32 seconds
+
+Preoperative Medications:
+
+* Lisinopril 20 mg daily
+* Amlodipine 5 mg daily
+* Atorvastatin 20 mg daily
+* Omeprazole 20 mg daily
+* Aspirin 81 mg daily
+* Metoclopramide 10 mg three times a day
+* Ibuprofen 800 mg three times a day
+
+Surgical Procedure:
+
+* Elective laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Successful surgery with no intraoperative complications
+* Postoperative day 1: Patient had some nausea and vomiting, managed with ondansetron and fluids
+* Postoperative day 2: Patient had some discomfort and pain, managed with hydromorphone and acetaminophen
+* Postoperative day 3: Patient had some constipation, managed with docusate and lactulose
+* Postoperative day 4: Patient was discharged home in stable condition
+
+Complications:
+
+* None
+
+Additional Information:
+
+* Patient was advised to continue all preoperative medications perioperatively
+* Patient was advised to follow a clear liquid diet for 24 hours preoperatively
+* Patient was advised to abstain from alcohol and heavy lifting for 2 weeks postoperatively
+* Patient was advised to follow up with PCP and surgeon within 1-2 weeks postoperatively.
+
+I hope this summary helps! Let me know if you have any questions or if you'd like to simulate a different patient scenario.

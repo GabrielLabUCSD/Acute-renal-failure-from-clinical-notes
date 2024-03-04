@@ -1,0 +1,17 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient had a myocardial infarction (MI) five years ago and subsequently underwent percutaneous coronary intervention (PCI) with a drug-eluting stent. His current medications include atorvastatin, lisinopril, metformin, and aspirin.
+
+The patient has a history of chronic lower back pain and has been smoke-free for the past 10 years. He denies any recent significant weight loss or gain, fever, chest pain, or shortness of breath. His family history includes hypertension and cancer.
+
+The patient underwent a thorough preoperative evaluation, which included a physical examination, electrocardiogram (EKG), echocardiogram, and blood work. His blood work revealed an elevated white blood cell count (WBC) of 12,000 cells/mL and a mildly elevated creatinine level of 1.3 mg/dL.
+
+The patient had a uneventful postoperative course. He did not experience any significant complications, including nausea, vomiting, or pain. He was monitored closely for signs of myocardial infarction, cardiac arrhythmias, and respiratory compromise.
+
+On the first postoperative day (POD1), the patient developed a mild fever (100.4°F) and mild tachycardia (110 beats per minute). His WBC count increased to 15,000 cells/mL. The fever and tachycardia resolved with appropriate management, and the patient's WBC count trended downwards over the next few days.
+
+On POD2, the patient reported mild oozing from the surgical site, which was managed with local wound care and antibiotics. He also experienced some nausea and vomiting, which were controlled with antiemetics.
+
+The patient remained hemodynamically stable throughout his postoperative course, with stable vital signs and no signs of cardiac or respiratory distress. He was discharged on POD4 in stable condition, with instructions to follow up with his primary care physician and surgeon as needed.
+
+The patient did not experience any significant long-term complications, such as pneumonia, sepsis, or wound infections, and did not require any unplanned hospital readmissions. Overall, the patient had a successful surgical outcome and an uncomplicated postoperative course.

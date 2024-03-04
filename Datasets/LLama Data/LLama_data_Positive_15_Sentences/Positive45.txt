@@ -1,0 +1,9 @@
+Patient Summary:
+
+The patient is a 55-year-old male who presents with a history of chronic back pain and bilateral leg pain. He has been diagnosed with degenerative disc disease and spinal stenosis. He has tried conservative management, including physical therapy and medication, but has not found significant relief. He is currently smoking 1 pack of cigarettes per day and has a history of alcohol use disorder. His surgical history includes a cholecystectomy and a hernia repair. He takes aspirin, oxycodone, and alprazolam daily. He has a history of hypertension and hyperlipidemia. He is allergic to penicillin and has a history of MRSA infection. He denies any recent illnesses or injuries. He is planning to undergo a lumbar fusion surgery.
+
+Complication:
+
+The patient experienced acute renal failure post-operatively, which was likely due to a combination of prerenal azotemia from dehydration and obstructive uropathy from a retroperitoneal hematoma. He developed symptoms of nausea, vomiting, and oliguria within 24 hours of surgery. His creatinine level increased from 1.5 to 4.8 mg/dL and his urine output decreased to less than 200 mL in 8 hours. He was transferred to the intensive care unit and was managed with intravenous fluids, antibiotics, and dialysis. The patient's renal function gradually improved over the next few days, and he was eventually able to recover full renal function. However, the patient experienced a prolonged hospital stay and required additional surgical interventions to manage the complications.
+
+Is there anything else I can help with?

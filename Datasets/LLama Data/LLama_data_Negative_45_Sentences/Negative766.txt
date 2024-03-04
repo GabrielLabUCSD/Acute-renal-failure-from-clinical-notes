@@ -1,0 +1,70 @@
+Sure, here is a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, controlled with medication
+* History of hyperlipidemia, controlled with medication
+* History of diabetes mellitus, controlled with medication and insulin
+* History of chronic obstructive pulmonary disease (COPD), controlled with medication
+* History of coronary artery disease, status post coronary artery bypass grafting (CABG)
+* History of peripheral artery disease, status post peripheral artery angioplasty
+* History of benign prostatic hyperplasia (BPH), controlled with medication
+* History of bladder cancer, status post transurethral resection of bladder tumor (TURBT)
+* History of colon cancer, status post colectomy
+* History of chronic lower back pain, controlled with medication and physical therapy
+
+Surgical History:
+
+* None
+
+Medications:
+
+* Amlodipine for hypertension
+* Atorvastatin for hyperlipidemia
+* Insulin and metformin for diabetes mellitus
+* Albuterol and ipratropium for COPD
+* Aspirin and clopidogrel for coronary artery disease
+* Tamsulosin for BPH
+* Tramadol for chronic lower back pain
+
+Allergies:
+
+* None
+
+Social History:
+
+* Married with two adult children
+* Retired from work
+* Denies smoking or alcohol use
+* Lives independently
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Reason for Surgery:
+
+* Elective surgery for removal of a benign skin lesion on the arm
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Was discharged from the hospital on postoperative day 2
+* Followed up with his surgeon and primary care physician for routine check-ups
+
+Complications:
+
+* None
+
+Additional Information:
+
+* Patient had a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night
+* Patient has a history of osteoarthritis and uses a cane for ambulation
+* Patient has a history of degenerative joint disease and has had bilateral knee replacements
+* Patient has a history of chronic obstructive sleep apnea and uses a BiPAP machine at night
+* Patient is interested in alternative medicine and has tried acupuncture and herbal supplements in the past.

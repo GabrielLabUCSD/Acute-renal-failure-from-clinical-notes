@@ -1,0 +1,99 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Summary:
+
+Name: John Doe
+
+Age: 55
+
+Gender: Male
+
+Chief Complaint: Chronic lower back pain and sciatica
+
+Medical History:
+
+* History of smoking
+* Hypertension
+* Hyperlipidemia
+* Obesity (BMI 35)
+* Diabetes mellitus (well-controlled)
+* History of non-cardiac surgery (cholecystectomy)
+* History of anterior cervical discectomy and fusion
+* History of lumbar spinal stenosis
+* History of chronic lower back pain and sciatica
+
+Surgical History:
+
+* Anterior cervical discectomy and fusion (C5-6)
+* Lumbar spinal stenosis surgery (decompression and fusion)
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Metoprolol 50 mg daily
+* Lisinopril 40 mg daily
+* Atorvastatin 20 mg daily
+* Glipizide 10 mg daily
+* Metformin 1000 mg daily
+* Omeprazole 20 mg daily
+
+Allergies:
+
+* Penicillin
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies alcohol or illicit drug use
+* Lives independently
+* Has a support system in place
+
+Family History:
+
+* Father died of myocardial infarction at age 65
+* Mother died of breast cancer at age 72
+* One sibling with a history of hypertension
+
+Review of Systems:
+
+* No recent weight loss or fever
+* No night sweats or recent travel
+* No history of lung disease or sleep apnea
+* No history of cardiac disease or arrhythmias
+* No history of gastrointestinal disease or hematuria
+* No history of genitourinary disease or kidney stones
+* No history of neurological symptoms or seizures
+
+Physical Examination:
+
+* Blood pressure: 130/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F (37°C)
+* BMI: 35
+* No obvious deformities or scars
+* No signs of acute distress
+
+Laboratory Results:
+
+* Complete Blood Count (CBC): WBC 12,000/mm3, Hg 14.5 g/dL, Hct 40%
+* Electrolyte Panel: Na 138 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO2 24 mEq/L
+* Lipid Panel: TC 200 mg/dL, LDL 120 mg/dL, HDL 50 mg/dL, TG 150 mg/dL
+* Glycated Hemoglobin (A1C): 7.5%
+* Urinalysis: No proteinuria, blood, or white blood cells
+
+Imaging Studies:
+
+* MRI lumbar spine: Multilevel degenerative disc disease and spinal stenosis
+* CT thoracolumbar spine: No evidence of fracture or malalignment
+
+Plan:
+
+* The patient will undergo a lumbar decompression and fusion surgery.
+* Preoperative workup will include clearance from the patient's primary care physician, cardiology consult, and pulmonology consult.
+* The patient will be optimized for surgery with appropriate medication management and weight optimization.
+* Postoperative care will include pain management, physical therapy, and wound care.
+* Potential complications include wound infection, urinary retention, and narcotic addiction.
+
+This patient summary provides a comprehensive overview of the patient's medical history, surgical history, current medications, allerg

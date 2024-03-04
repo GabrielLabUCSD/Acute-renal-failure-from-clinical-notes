@@ -1,0 +1,15 @@
+The patient is a (age) year old (gender) who is scheduled to undergo (type of surgery). In their medical history, it is noted that they have a history of (conditions/surgeries). They have also been diagnosed with (chronic conditions) and are currently taking medications for these conditions.
+
+The patient's preoperative evaluation revealed (physical findings or laboratory results). Despite these findings, the patient is in generally good health and deemed suitable for the planned surgery.
+
+During the surgery, (specific details of the procedure) were performed. The procedure was carried out without any significant complications, and the patient tolerated the anesthesia well.
+
+In the postoperative period, the patient was closely monitored for any signs of complications. They were given appropriate pain management medication and encouraged to mobilize as soon as possible. Following the surgery, the patient developed (specific complications, if present). (Note: Exclude acute renal failure as a complication.)
+
+The patient's vital signs remained stable throughout the postoperative course, and they were closely monitored for any signs of infection or other complications. Wound care was performed according to protocol, and the patient's incision site showed signs of appropriate healing.
+
+In terms of functionality, the patient experienced (specific changes or improvements). They were provided with necessary postoperative instructions and educated on self-care measures to aid in their recovery.
+
+The patient's postoperative recovery was uneventful, with no major complications identified. They were discharged from the hospital on (date), with a scheduled follow-up appointment in (number of days/weeks).
+
+Overall, the patient's surgical procedure was successful, and their postoperative course was characterized by an unremarkable recovery. They did not experience any major complications or adverse events during their hospital stay. The patient's medical team will continue to monitor their progress during their follow-up visits.

@@ -1,0 +1,17 @@
+The patient is a _____-year-old male/female with a medical history significant for _____, _______, and _______. They are currently planning to undergo _______ surgery. In the past, they have had _____ surgeries for ________. Their previous surgical procedures include ______ and ______.
+
+The patient's preoperative evaluation revealed _______. Their baseline vital signs were within normal limits, and they had a body mass index of ______. Laboratory investigations showed ______. Their renal function tests were within normal range, with a creatinine of ______ and an estimated glomerular filtration rate of ______. They do not have a history of acute renal failure or chronic kidney disease.
+
+Their preoperative anesthesia evaluation indicated _______. There were no contraindications to anesthesia, and they were cleared for surgery. They were also deemed to be at low risk for postoperative complications.
+
+During the surgical procedure, _______. The surgery was performed by _______ and lasted ______ hours. Intraoperative complications were minimal, and the patient tolerated the procedure well.
+
+Postoperatively, the patient was transferred to the recovery room and closely monitored for vital signs and pain control. They received _______ for pain management, and their pain was adequately controlled. The patient was encouraged to ambulate and practice deep breathing exercises to prevent postoperative complications.
+
+In the immediate postoperative period, the patient's vital signs remained stable, and they were able to tolerate oral intake. They were closely monitored for any signs of infection, bleeding, or respiratory complications.
+
+The patient's postoperative course was uneventful, with no significant complications noted. They had an uncomplicated recovery and were discharged from the hospital on postoperative day ______. They were given postoperative instructions, including wound care, activity restrictions, and medication management.
+
+During follow-up appointments, the patient reported ________. Their wound healed well, with no signs of infection or dehiscence. They did not experience any respiratory complications or delayed healing.
+
+Overall, the patient had a successful surgical outcome with a smooth postoperative course and no complications noted. They will continue to follow up with their healthcare provider for further evaluation and management as needed.

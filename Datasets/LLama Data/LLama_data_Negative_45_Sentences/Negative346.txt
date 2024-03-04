@@ -1,0 +1,89 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and complications excluding acute renal failure:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+
+Chief Complaint: The patient presents with a 2-month history of worsening abdominal pain and difficulty swallowing.
+
+Medical History:
+
+* The patient has a history of stage III colon cancer, diagnosed 5 years ago.
+* He underwent colon resection and adjuvant chemotherapy at that time.
+* He has been cancer-free since then.
+* He has a history of hypertension and hyperlipidemia.
+* He denies any cardiovascular disease.
+* He has a history of non-insulin-dependent diabetes mellitus.
+
+Surgical History:
+
+* The patient underwent an open cholecystectomy 10 years ago.
+* He had a laparoscopic sigmoid colectomy 5 years ago for diverticulitis.
+
+Medications:
+
+* The patient takes aspirin, lisinopril, atorvastatin, and metformin.
+
+Allergies:
+
+* The patient is allergic to penicillin.
+
+Family History:
+
+* The patient's mother died of breast cancer at the age of 68.
+* His father died of myocardial infarction at the age of 72.
+
+Social History:
+
+* The patient is a retired construction worker.
+* He denies any smoking history.
+* He drinks alcohol occasionally.
+
+Review of Systems:
+
+* The patient reports a 2-month history of worsening abdominal pain, mainly in the upper right quadrant.
+* He also reports difficulty swallowing, especially with solid foods.
+* He has had no vomiting, fever, or chills.
+* He has experienced some constipation.
+* He denies any urinary symptoms.
+* He has had no chest pain or shortness of breath.
+
+Physical Examination:
+
+* The patient's blood pressure is 150/80 mmHg.
+* His heart rate is 80 beats per minute.
+* His respiratory rate is 18 breaths per minute.
+* His temperature is 98.8°F (37.1°C).
+* His abdomen is distended and tender to palpation, especially in the upper right quadrant.
+* There is no rebound tenderness or guarding.
+* His bowel sounds are normal.
+* His cardiovascular and respiratory examinations are unremarkable.
+
+Laboratory Tests:
+
+* His complete blood count shows a white blood cell count of 12,000 cells/μL, with a neutrophil count of 8,000 cells/μL.
+* His serum chemistry profile shows elevated liver enzymes, including alanine transaminase (ALT) of 120 U/L and aspartate transaminase (AST) of 100 U/L.
+* His serum albumin is 3.5 g/dL.
+* His prothrombin time is 12 seconds.
+* His partial thromboplastin time is 30 seconds.
+* His INR is 1.2.
+
+Imaging Studies:
+
+* A CT scan of the abdomen and pelvis shows a possible obstruction in the small bowel, likely due to adhesions.
+* There is no evidence of intra-abdominal bleeding or fluid collections.
+
+Procedure:
+The patient underwent a laparoscopic small bowel resection to relieve the obstruction.
+
+Postoperative Course:
+The patient had an uneventful postoperative course.
+
+Complications:
+
+* The patient experienced some postoperative nausea and vomiting, which were managed with antiemetics.
+* He had some pain in the abdomen, which was managed with opioids.
+* He developed a seroma at the incision site, which was managed with compression dressings.
+
+Follow-up:
+The patient was discharged from

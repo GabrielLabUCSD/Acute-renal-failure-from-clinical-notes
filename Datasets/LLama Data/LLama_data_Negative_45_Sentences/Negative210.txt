@@ -1,0 +1,73 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Date of Birth: January 1, 1970
+
+Gender: Male
+
+Chief Complaint: Severe lower back pain and numbness in the left leg
+
+Medical History:
+
+* History of smoking (20 cigarettes per day for the past 20 years)
+* Hypertension (controlled with medication)
+* Hyperlipidemia (controlled with medication)
+* Obesity (BMI 35)
+* History of left knee injury (status post ACL repair)
+* History of right shoulder injury (status post rotator cuff repair)
+* History of cervical spine strain
+* History of lumbar spine strain
+* History of bilateral lower extremity peripheral neuropathy
+* History of sleep apnea (using CPAP machine)
+
+Medications:
+
+* Amlodipine 10 mg oral daily
+* Lisinopril 40 mg oral daily
+* Atorvastatin 20 mg oral daily
+* Aspirin 81 mg oral daily
+* Oxycodone 10 mg oral every 4-6 hours as needed for pain
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Social History:
+
+* Married with two adult children
+* Works as a truck driver (heavy lifting and bending)
+* Denies recent travel or exposure to illness
+* Lives alone and has a pet dog
+* Smokes marijuana occasionally
+
+Review of Systems:
+
+* Cardiovascular: Denies chest pain, shortness of breath, or palpitations
+* Respiratory: Denies cough, wheezing, or shortness of breath
+* Gastrointestinal: Denies abdominal pain, nausea, or vomiting
+* Genitourinary: Denies changes in urination or voiding symptoms
+* Neurological: Denies changes in cognitive function, headache, or tremors
+* Musculoskeletal: Reports severe lower back pain and numbness in the left leg
+
+Postoperative Course:
+
+* Patient underwent a successful L4-L5 lumbar fusion with instrumentation
+* Postoperative day 1: Patient had adequate pain control with oxycodone and was able to ambulate with assistance
+* Postoperative day 2: Patient had a successful wound check and was started on gabapentin for neuropathic pain
+* Postoperative day 3: Patient complained of nausea and vomiting, which were managed with ondansetron
+* Postoperative day 4: Patient was discharged home with a wound vac and instructions for wound care
+
+Complications:
+
+* Postoperative day 5: Patient presented to the emergency department with a fever of 101.3°F and chills
+* Patient was diagnosed with a surgical site infection and was started on IV antibiotics
+* Patient underwent a wound revision and debridement procedure
+* Patient remained hospitalized for 3 days for further management of the infection
+
+ Follow-up:
+
+* Patient had a follow-up appointment with the surgeon 2 weeks after discharge
+* Wound was healing well, and patient was able to ambulate without assistance
+* Patient was continued on gabapentin for neuropathic pain and had a follow-up appointment with the primary care physician for further management of hypertension, hyperlipidemia, and sleep apnea.

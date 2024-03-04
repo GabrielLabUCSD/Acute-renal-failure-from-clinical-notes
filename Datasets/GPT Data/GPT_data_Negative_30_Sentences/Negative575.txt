@@ -1,0 +1,23 @@
+The patient is a [age]-year-old [gender] who is scheduled for [type of surgery]. They have a significant past medical history of [medical condition(s)] and have been managed with [medications/treatments]. The patient's surgical history includes [previous surgeries, if any].
+
+In terms of their current medical conditions, the patient has been diagnosed with [medical conditions such as hypertension, diabetes, heart disease]. They are being treated with [medications] to manage these conditions. The patient's vital signs are stable, with a blood pressure of [BP], heart rate of [HR], respiratory rate of [RR], and oxygen saturation of [O2 sat].
+
+Laboratory results show a [normal/abnormal] complete blood count, renal function panel, liver function panel, and coagulation profile. Chest X-ray shows [normal/abnormal findings]. An electrocardiogram reveals [normal/abnormal findings]. Other diagnostic imaging and tests such as [MRI, CT scan, echocardiogram] have also been performed and reveal [normal/abnormal findings].
+
+The patient is a [smoker/non-smoker] with a pack-year history of [X]. They do not have a history of alcohol or substance abuse. The patient reports a prior history of complications with general anesthesia, such as [postoperative nausea/vomiting, difficult intubation].
+
+Preoperatively, the patient has received appropriate counseling regarding the surgery, including the risks, benefits, and alternatives. They have also been educated about the importance of compliance with preoperative instructions, such as fasting and medication adjustments. The patient's surgical consent has been obtained following a detailed discussion.
+
+The patient was admitted to the hospital [preoperative day] and started on [NPO, bowel preparation, prophylactic antibiotics]. Intraoperatively, the patient received [type of anesthesia] under the supervision of an anesthesiologist. The surgery was uneventful and lasted [duration].
+
+Postoperatively, the patient was transferred to the post-anesthesia care unit (PACU) for further monitoring. Their vital signs were stable, with frequent assessments of blood pressure, heart rate, respiratory rate, oxygen saturation, and temperature. Pain management was optimized using multimodal analgesia, including [type of pain medication]. The patient was able to tolerate a clear liquid diet without any signs of postoperative nausea or vomiting.
+
+The patient's surgical wound/incision is [clean/dry/intact] with no signs of erythema, swelling, or drainage. Serial wound examinations have been done to monitor for signs of infection. Surgical drain output [if applicable] is within expected limits. The patient's incisional pain is well controlled with [type of pain medication].
+
+Physical therapy and early mobilization have been initiated to prevent complications such as deep vein thrombosis and atelectasis. The patient is compliant with the incentive spirometer and is able to ambulate with assistance. Their urine output is within normal limits, with no signs of urinary retention or catheter-related complications.
+
+The patient's postoperative course has been uncomplicated, and their recovery is progressing as expected. They are able to tolerate a regular diet. They have been provided with discharge instructions, including wound care, medications, activity restrictions, and follow-up appointments. They have also been counseled regarding potential postoperative complications such as infection, bleeding, and delayed wound healing. The patient's pain is well controlled with oral pain medication.
+
+To monitor their postoperative progress, the patient will have follow-up appointments with their surgeon in [timeline]. They have been advised to report any concerning symptoms such as fever, wound changes, chest pain, or shortness of breath. Follow-up laboratory tests or imaging studies may be ordered as part of their postoperative management.
+
+In summary, the patient is a [age]-year-old [gender] with a history of [medical conditions and surgeries] who underwent [type of surgery] without any acute renal failure. Their postoperative course has been uneventful, with pain control, wound healing, and progress towards normal physical activities.

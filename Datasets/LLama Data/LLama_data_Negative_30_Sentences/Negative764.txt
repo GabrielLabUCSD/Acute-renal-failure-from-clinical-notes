@@ -1,0 +1,20 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and complications following surgery:
+
+Patient Name: John Doe
+
+* Chief Complaint: Abdominal pain and swelling
+* History of Present Illness: The patient has been experiencing worsening abdominal pain and swelling over the past several months.
+* Past Medical History: The patient has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus.
+* Medications: The patient takes lisinopril, atorvastatin, and metformin.
+* Allergies: The patient is allergic to penicillin.
+* Family History: The patient's mother had breast cancer.
+* Social History: The patient is a 55-year-old male who works as an accountant. He is married with two adult children. He denies smoking or alcohol use.
+* Review of Systems: The patient reports fatigue, nausea, and vomiting. He also reports a 10-pound weight loss over the past month.
+* Physical Exam: The patient's blood pressure is 150/90 mmHg, pulse is 80/min, respirations are 20/min, and temperature is 98.6°F. The patient's abdomen is distended and tender to palpation.
+* Diagnostic Tests: The patient has undergone a CT scan, which revealed a mass in the pancreas.
+* Procedure: The patient is scheduled for a pancreatectomy.
+* Postoperative Course: The patient had a successful pancreatectomy. He spent 2 days in the ICU and 5 days on the surgical floor.
+* Complications: The patient developed a wound infection on postoperative day 3, which was treated with antibiotics. He also experienced some postoperative nausea and vomiting, which was managed with antiemetics.
+* Follow-up: The patient followed up with his surgeon 2 weeks after discharge and reported improved abdominal pain and swelling. His wound was healing well, and he was started on chemotherapy for adjuvant treatment of the pancreatic cancer.
+
+I hope this sample patient summary is helpful! Let me know if you have any questions or need further clarification.

@@ -1,0 +1,89 @@
+Patient Summary:
+
+Patient Name: [Insert name here]
+
+Age: [Insert age here]
+
+Gender: [Insert gender here]
+
+Chief Complaint: [Insert chief complaint here, e.g. abdominal pain]
+
+Medical History:
+
+* History of hypertension, managed with medication
+* History of hyperlipidemia, managed with medication
+* History of diabetes mellitus, managed with medication and diet
+* History of obesity, BMI 35
+* History of smoking, 10 pack-years
+* History of alcohol use disorder, currently in remission
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Medications:
+
+* Current medications include:
+	+ Antihypertensives: lisinopril
+	+ Statins: atorvastatin
+	+ Metformin for diabetes
+	+ Pain management: oxycodone as needed
+
+Allergies:
+
+* None known
+
+Social History:
+
+* Married with two adult children
+* Works as an office manager
+* Denies any recent travel or exposure to illness
+
+Family History:
+
+* Mother died of breast cancer at age 65
+* Father died of myocardial infarction at age 55
+* One sibling with history of hypertension
+
+Review of Systems:
+
+* No significant changes in urination or bowel habits
+* No shortness of breath or chest pain
+* No neurological symptoms such as headache, dizziness, or loss of consciousness
+
+Physical Exam:
+
+* Blood pressure: 130/80 mmHg
+* Heart rate: 75 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F (37°C)
+* BMI: 35
+
+Lab Results:
+
+* Complete Blood Count (CBC): within normal limits
+* Electrolyte panel: within normal limits
+* Lipid profile: within normal limits
+* Glucose: 120 mg/dL (fasting)
+* HbA1c: 7.5%
+
+Imaging Studies:
+
+* Ultrasound of the gallbladder shows multiple gallstones
+
+Plan:
+
+* Proceed with elective laparoscopic cholecystectomy
+* Monitor patient's blood sugar levels perioperatively
+* Monitor patient's pain management perioperatively
+* Consider prophylactic antibiotics perioperatively
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Patient was discharged home on postoperative day 2
+* Follow-up appointment was scheduled for 2 weeks after discharge
+
+Complications:
+
+* None noted.

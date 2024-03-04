@@ -1,0 +1,55 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus (well-controlled)
+* Chronic obstructive pulmonary disease (COPD)
+* History of coronary artery disease (CAD)
+* History of heart failure (EF 40%)
+* Chronic kidney disease (CKD) Stage 3
+
+Surgical History:
+
+* Cholecystectomy (laparoscopic) 10 years ago
+* Hip replacement surgery (left) 5 years ago
+
+Current Medications:
+
+* Lisinopril (Zestril) 20mg daily
+* Atorvastatin (Lipitor) 20mg daily
+* Metformin (Glucophage) 500mg daily
+* Oxygen therapy (nasal cannula) as needed
+* Albuterol (ProAir HFA) inhaler as needed
+
+Allergies:
+
+* Penicillin
+
+Social History:
+
+* Retired
+* Lives with wife
+* Has two adult children
+* No recent travel or exposure to illness
+
+Postoperative Course:
+
+* Patient had a successful surgery and was transferred to the post-anesthesia care unit (PACU) for recovery.
+* Patient experienced some discomfort and nausea in the PACU, which was managed with medication.
+* Patient was transferred to the surgical floor for further recovery and monitored closely for any complications.
+* Patient experienced some difficulty with pain management on the first postoperative day, but this was resolved with adjustments to the pain medication regimen.
+* Patient was able to eat and drink without any issues and had normal output from the wound.
+* Patient had a uneventful postoperative course and was discharged home on the third postoperative day.
+
+Complications:
+
+* None
+
+Note: This is just a sample patient summary, and the specific details may vary depending on the individual patient and their medical history.

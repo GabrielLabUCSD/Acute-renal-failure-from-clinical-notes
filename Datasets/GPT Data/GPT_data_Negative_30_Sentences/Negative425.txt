@@ -1,0 +1,32 @@
+The patient is planning to undergo surgery and has a history of asthma.
+They also have a past medical history of hypertension and type 2 diabetes.
+The patient's hypertension is well-controlled with medication.
+Their diabetes is managed with diet and exercise.
+The patient is a non-smoker and does not consume alcohol.
+They have a BMI within the normal range.
+The patient has no known drug allergies.
+They have had previous surgeries including an appendectomy and a tonsillectomy.
+Their appendectomy was performed eight years ago without complications.
+The patient's tonsillectomy was performed two years ago without complications.
+They have a family history of heart disease.
+The patient's preoperative labs are within normal limits.
+They have a CBC, BMP, liver function tests, and coagulation studies done.
+The patient's EKG is normal.
+They have a normal chest X-ray.
+The patient's surgical procedure is a laparoscopic cholecystectomy.
+The patient is anxious but motivated to undergo the surgery.
+They sign the informed consent and understand the risks and benefits.
+The anesthesia team evaluates the patient and determines they are low risk for surgery.
+The patient is instructed to stop all medications that thin the blood prior to surgery.
+They are given instructions to shower with antiseptic soap the night before the surgery.
+The patient's surgery is performed without any intraoperative complications.
+They are monitored closely in the post-anesthesia care unit following surgery.
+The patient is initially started on a clear liquid diet and advances as tolerated.
+They have no immediate postoperative complications such as wound infection or bleeding.
+The patient is able to walk within 24 hours of surgery.
+They receive postoperative pain medication that adequately controls their discomfort.
+Their surgical incisions are healing well without signs of infection.
+The patient has a follow-up appointment scheduled with their surgeon in one week.
+They are instructed to monitor their incisions for signs of infection or complication.
+The patient is advised to resume their normal activities gradually, as tolerated.
+Overall, the patient's postoperative course has been uneventful without complications.

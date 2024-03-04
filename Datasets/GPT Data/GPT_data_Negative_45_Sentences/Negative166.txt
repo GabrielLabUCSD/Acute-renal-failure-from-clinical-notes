@@ -1,0 +1,21 @@
+The patient is a ___-year-old male/female who is planning to undergo surgery of ____ type. The patient has a medical history significant for _____, _____, and _______. They have a past surgical history of _____, ______, and ______.
+
+In terms of their medical conditions, the patient has a known diagnosis of _______. They have been managing this condition with _____ medications, including _____. The patient also has a history of _____. Additionally, they have been diagnosed with ____ and have been taking ______ for its management. They have a history of ______ and are taking _____ to control it. It is important to note that the patient has a known allergy to ______.
+
+Regarding their lifestyle, the patient is a _____-pack-year smoker and has been smoking for _____ years. They consume _____ alcoholic drinks per week. Their height is _____ cm and weight is _____ kg, resulting in a body mass index of _____. They have been sedentary for _____ but recently started regular exercise.
+
+Upon physical examination, the patient's vital signs are stable, with a blood pressure of _____ mmHg, heart rate of _____ beats per minute, respiratory rate of _____ breaths per minute, and temperature of _____. The general appearance is _____, with _______. The cardiovascular examination reveals _____, and the lungs are clear on auscultation. The abdomen is _____ with no organomegaly or tenderness.
+
+Laboratory test results show a hemoglobin level of _____ g/dL, hematocrit _____%, and platelet count of _____. The white blood cell count is _____, with a normal differential count. Liver function tests demonstrate _____. Renal function tests show _______. Electrolyte levels are ______. Coagulation panel results are _____. The patient's preoperative electrocardiogram demonstrates _______.
+
+In preparation for surgery, the patient has been instructed to discontinue certain medications, including _____ and ______. They are scheduled to receive thromboprophylaxis with ______. Pre-anesthetic assessment and counseling have been completed, and consents for the surgery and anesthesia have been obtained.
+
+The patient underwent surgery _____ days ago. The operative course was uneventful, with no intraoperative complications reported. The surgical procedure performed was _____. The anesthesia duration was _____. Intraoperative monitoring included _____.
+
+Postoperatively, the patient was transferred to the recovery room and subsequently to the surgical ward. Pain control was managed with _____, and the patient’s pain scores were between _____ and _____. The vital signs throughout the postoperative course have remained stable, with blood pressure ranging from _____ to _____ mmHg, heart rate _____ to _____ beats per minute, respiratory rate _____ to ______ breaths per minute, and temperature _____ to _____.
+
+There were no signs of infectious complications postoperatively, with normal white blood cell count and no evidence of a surgical site infection. There were no wound complications such as dehiscence or hematoma formation. The patient’s urine output remained within the normal range, and they did not experience any episode of acute renal failure.
+
+The patient started ambulation on postoperative day ____ and was able to tolerate the activity well. They have been adhering to their postoperative dietary regimen, including _____. Bowel movements have resumed on postoperative day _____. The patient has been diligently following their medication regimen, including ______. They have been advised to follow up with their primary care physician in ____ weeks for a postoperative check-up.
+
+Overall, the patient's postoperative course has been uneventful without any complications. They have been recovering steadily and are expected to make a full recovery.

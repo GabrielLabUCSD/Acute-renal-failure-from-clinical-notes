@@ -1,0 +1,53 @@
+The patient is a [age] year old [gender] who is scheduled to have surgery [date].
+
+Their medical history includes hypertension, for which they are taking [medication]. They were diagnosed with hypertension [number] years ago and it is currently controlled with medication.
+
+The patient also has a history of diabetes, which was diagnosed [number] years ago. They manage their diabetes with [insulin/oral medication] and are currently in good control.
+
+They have a family history of [condition], with [number] close relatives being affected. However, the patient has not been diagnosed with the condition.
+
+In terms of allergies, the patient reports being allergic to [specific allergen]. The reaction they experience is [symptoms].
+
+As for surgical history, the patient has had [previous surgeries] in the past. These surgeries were performed [years] ago and were successful without any complications.
+
+In terms of medications, the patient is currently taking [list of medications] for various conditions. They are also taking over-the-counter medications such as [medication names] as needed.
+
+The patient does not smoke and does not consume alcohol. They lead a healthy lifestyle, engaging in regular exercise and maintaining a well-balanced diet.
+
+During the pre-surgical evaluation, the patient's vital signs were stable. They had a blood pressure reading of [number], heart rate of [number], respiratory rate of [number], and oxygen saturation of [number].
+
+Laboratory tests conducted pre-surgery revealed normal values for complete blood count (CBC), liver function tests (LFTs), and lipid profile. However, their kidney function tests showed elevated creatinine levels, indicating reduced kidney function.
+
+The patient's creatinine level was [number], which is significantly higher than the normal range. This suggests that they have acute renal failure.
+
+In addition to the elevated creatinine, the patient's urine output has been reduced since the surgery. This is another sign of acute renal failure.
+
+The patient's surgeon has consulted a nephrologist to manage the acute renal failure. They have recommended close monitoring of the patient's kidney function and initiating appropriate treatment, such as administering intravenous fluids and diuretics.
+
+The patient is currently receiving intravenous fluids to maintain proper hydration and to support kidney function.
+
+The surgical team has adjusted the patient's medication regimen to ensure that their kidneys are not further affected. They have discontinued medications that may be harmful to the kidneys and have adjusted the doses of other medications accordingly.
+
+The patient's surgical site is healing well, with no signs of infection or complications.
+
+The patient is experiencing some pain post-surgery, which is being managed with [pain medication]. They report their pain level as [number] out of 10.
+
+The patient is mobilizing well and is able to perform activities of daily living without significant difficulty.
+
+The surgical team is closely monitoring the patient's vital signs, including blood pressure, heart rate, respiratory rate, and oxygen saturation.
+
+The patient has been instructed to follow a restricted diet to support kidney function. They are advised to limit their sodium and protein intake.
+
+The patient has been educated about the signs and symptoms of worsening kidney function, such as increased fatigue, decreased urine output, and swelling in the extremities. They have been instructed to seek medical attention immediately if they experience any of these symptoms.
+
+The patient's family has been involved in their care and is supportive throughout the process. They have been educated about the patient's condition and have been provided with the necessary information to assist with the patient's recovery.
+
+The patient's surgical wound has been regularly assessed for signs of infection, such as redness, swelling, or discharge. They have been instructed on proper wound care and are vigilant about keeping the area clean and dry.
+
+The patient's pain has been well-controlled with medication. They report that the pain has decreased to [number] out of 10 and they are able to manage their daily activities comfortably.
+
+The patient's kidney function has shown some improvement since the initiation of treatment. Their creatinine level has decreased to [number], which is within the acceptable range.
+
+The patient is scheduled for follow-up appointments with both the surgeon and the nephrologist to monitor their progress and ensure that their kidney function continues to improve.
+
+Overall, the patient's surgical recovery is progressing well, with appropriate management of their acute renal failure. They are on track for a successful recovery and are optimistic about their future health.

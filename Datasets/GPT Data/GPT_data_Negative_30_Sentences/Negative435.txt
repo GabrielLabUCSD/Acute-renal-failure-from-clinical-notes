@@ -1,0 +1,15 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. Their medical history includes [list of relevant medical conditions, such as hypertension, diabetes, heart disease, etc.]. They have a history of [any previous surgeries or hospitalizations], with no known complications.
+
+The patient is currently on the following medications: [list of medications], including [specific medications relevant to the surgery, such as blood thinners, antihypertensives, etc.]. They have been administered [specific preoperative instructions, such as fasting or specific medication adjustments] in preparation for the surgery.
+
+During the preoperative evaluation, the patient's vital signs were stable, with a blood pressure of [BP], heart rate of [HR], and oxygen saturation of [O2 Sat]. Their physical examination revealed [any specific findings relevant to the surgery or underlying medical conditions]. Lab tests including [specific labs, such as complete blood count, electrolytes, coagulation profile, etc.] were within normal limits, except for [any abnormalities, if present].
+
+The patient's surgical team included [list of surgeons and other healthcare professionals involved]. The surgery was performed under [type of anesthesia], with [specific details about the surgical procedure, such as incision site, any implants used, etc.]. Intraoperatively, the patient tolerated the procedure well, with [any specific details, such as estimated blood loss, duration of the surgery, etc.].
+
+Postoperatively, the patient was transferred to the recovery room and closely monitored for [specific duration]. Their vital signs remained stable, with adequate pain control achieved through [specific pain medications or techniques]. The patient was able to tolerate oral medications and ambulate without difficulty.
+
+During the postoperative course, the patient experienced [describe any complications or adverse events that occurred, if any]. However, there were no instances of acute renal failure noted. The patient's wound healing was uneventful, with no signs of infection. They were closely monitored for signs of deep vein thrombosis and received appropriate prophylaxis.
+
+The patient was provided with thorough discharge instructions, including wound care, activity restrictions, medication regimen, and follow-up appointments. They were advised to seek medical attention if they developed any signs of infection, bleeding, or worsening pain.
+
+In summary, the [age]-year-old [gender] patient with a history of [list of medical conditions] underwent [type of surgery] without any complications. Their postoperative course was uneventful, with adequate pain control and wound healing. They received appropriate discharge instructions and were advised to follow up for further evaluation and management as needed.

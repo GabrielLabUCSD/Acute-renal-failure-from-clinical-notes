@@ -1,0 +1,31 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history significant for [insert significant medical conditions, e.g., hypertension, diabetes, sleep apnea]. The patient has been taking [insert medications] and has a history of [insert relevant surgical procedures].
+
+The patient is scheduled to undergo [insert type of surgery] and the expected postoperative course includes [insert expected length of stay, medications, and follow-up appointments]. The patient has been informed of the potential risks and complications associated with the procedure, including [insert potential complications, e.g., infection, bleeding, adhesions].
+
+The patient's current medications include [insert medications] and they have been instructed to hold [insert medications to be held] prior to surgery. They have also been advised to avoid [insert items to avoid, e.g., alcohol, certain foods] before and after the procedure.
+
+The patient's surgical history includes [insert relevant surgeries], and they have experienced [insert complications, e.g., infection, bleeding] in the past. The patient's family history is significant for [insert relevant medical conditions in family members].
+
+The patient's social history includes [insert relevant information, e.g., smoking status, living situation, support system]. They have a history of [insert relevant psychological or behavioral factors, e.g., anxiety, substance abuse].
+
+The patient's review of systems includes [insert relevant positive and negative symptoms, e.g., pain, nausea, vomiting]. They have experienced [insert relevant recent symptoms, e.g., fever, chills] and have had [insert relevant recent hospitalizations or emergency department visits].
+
+The patient's physical examination reveals [insert relevant positive and negative findings, e.g., abdominal tenderness, cardiovascular stability]. Their laboratory results show [insert relevant results, e.g., blood count, electrolytes].
+
+The patient's blood type is [insert blood type] and their cross-match is negative. They have a history of allergies to [insert allergies, e.g., penicillin].
+
+The patient has been instructed to follow up with their surgeon at [insert time frame, e.g., 1-2 weeks] following surgery. They have also been advised to seek immediate medical attention if they experience [insert complications or concerning symptoms, e.g., fever, increased pain].
+
+The patient has been counseled on the risks and benefits of the procedure, and they have given their informed consent. They understand that [insert information, e.g., the potential for blood transfusion, the possibility of conversion to an open procedure].
+
+The patient's postoperative course has been uneventful, with [insert any relevant positive or negative findings, e.g., minimal postsurgical pain, no complications]. They were discharged from the hospital on [insert date] and have been recovering well at home.
+
+The patient has not experienced any complications to date, and they have been advised to continue following up with their surgeon for postoperative check-ups. They have also been encouraged to maintain a healthy lifestyle, including [insert relevant lifestyle modifications, e.g., regular exercise, balanced diet].
+
+The patient's prognosis is good, and they are expected to make a full recovery. They have been informed that they may need additional procedures in the future, depending on their condition.
+
+The patient has been provided with appropriate discharge instructions, including [insert relevant information, e.g., wound care, pain management, follow-up appointments]. They have also been advised to seek immediate medical attention if they experience any concerning symptoms or complications.
+
+The patient's postoperative recovery has been successful, and they have been able to return to their normal activities without any issues. They have been encouraged to continue monitoring their health and seeking medical attention if they experience any concerning symptoms in the future.

@@ -1,0 +1,29 @@
+The patient is a __ year old male/female planning to undergo surgery for _______ (type of surgery). The patient's medical history reveals a number of prior health conditions, including _______. They have a history of _______ (e.g., hypertension, diabetes, asthma, etc.). 
+
+The patient's baseline vitals are stable, with a blood pressure of _____ mmHg, heart rate of _____ bpm, respiratory rate of _____ breaths/minute, and oxygen saturation of _____%. The patient is currently not experiencing any symptoms related to their medical conditions.
+
+The patient's preoperative labs reveal _______. Their complete blood count (CBC) shows _______. The comprehensive metabolic panel (CMP) demonstrates _______. The coagulation profile is within normal limits.
+
+The patient's surgical history includes _______. They have previously undergone _______ (e.g., appendectomy, cholecystectomy, etc.). The patient tolerated these procedures well without any significant complications.
+
+The patient has a known drug allergy to _______. They are currently on the following medications: _______. The patient also takes over-the-counter medications including _______.
+
+The patient has no known family history of surgical complications or adverse reactions to anesthesia. They do not smoke or consume alcohol regularly. The patient reports following a balanced diet and engaging in regular exercise.
+
+The patient's physical exam is unremarkable, except for _______. The patient is in generally good health and has a body mass index (BMI) of _______.
+
+During the surgical procedure, the patient is placed under general anesthesia. The surgery is performed successfully without any notable complications. The estimated blood loss during the procedure is _______ mL.
+
+Postoperative care involves close monitoring of the patient's vital signs and pain management. The patient is prescribed _______ (name of analgesics) for pain relief. They are also placed on prophylactic antibiotics, including _______.
+
+The patient's postoperative course is uncomplicated. They demonstrate a smooth recovery and regain consciousness without any issues. Their vitals remain stable, and they report minimal pain. The patient is able to tolerate oral intake without nausea or vomiting.
+
+The patient is ambulated on the first postoperative day without difficulty. They receive appropriate wound care and dressings. The patient's incision site shows no signs of infection or dehiscence.
+
+The patient's postoperative labs are as follows: _______. Their CBC demonstrates _______. The CMP shows _______. Coagulation studies are within normal range.
+
+The patient is advised on appropriate postoperative care, including incision care, pain management, and activity limitations. They are counseled on the importance of continuing their prescribed medications and following up with their primary care provider.
+
+The patient is seen for follow-up _______ weeks later. They report feeling well and are pleased with the surgical outcome. The patient's vital signs are stable, and their incision site is healing nicely without signs of infection or abnormal scarring.
+
+Complication(s): The patient did not experience any complications during their postoperative course.

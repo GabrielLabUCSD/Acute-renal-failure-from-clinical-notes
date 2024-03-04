@@ -1,0 +1,47 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and bilateral knee pain. He has tried various conservative treatments, including physical therapy and medications, but has not experienced significant relief. The patient is schedule to undergo a bilateral knee replacement surgery.
+
+Medical History:
+
+The patient has a history of hypertension and hyperlipidemia, for which he takes medication regularly. He had a myocardial infarction 10 years ago and has been compliant with his medication regimen since then. He has no history of bleeding disorders or previous surgeries.
+
+Allergies: 
+
+The patient is allergic to penicillin and has a history of anaphylaxis. He is also allergic to non-steroidal anti-inflammatory drugs (NSAIDs) and has experienced gastrointestinal bleeding with their use.
+
+Medications: 
+
+The patient currently takes lisinopril for hypertension, simvastatin for hyperlipidemia, and clopidogrel for platelet aggregation.
+
+Family History:
+
+The patient's father died of a myocardial infarction at the age of 55. His mother has a history of hypertension and hyperlipidemia.
+
+Social History:
+
+The patient is a retired smoker and drinks alcohol occasionally. He is married and has two adult children. He is currently working part-time as a consultant.
+
+Review of Systems: 
+
+The patient experiences chronic back pain and bilateral knee pain, which has limited his mobility and ability to perform daily activities. He also reports occasional numbness and tingling in his hands and feet. He has no history of respiratory or gastrointestinal disease.
+
+Physical Examination: 
+
+On examination, the patient's blood pressure is 130/80 mmHg, and his heart rate is 70 beats per minute. His respiratory and cardiovascular examinations are unremarkable. There is mild swelling in his knees, and his gait is slow and unsteady.
+
+Laboratory Results: 
+
+The patient's complete blood count and electrolyte levels are within normal limits. His lipid profile shows a high level of low-density lipoprotein cholesterol. The patient's renal function is normal.
+
+Imaging Studies: 
+
+The patient's X-rays reveal severe osteoarthritis in both knees, with narrowing of the joint space and evidence of bone-on-bone contact.
+
+Postoperative Course: 
+
+The patient underwent successful bilateral knee replacement surgery. He had a smooth postoperative course, with minimal pain and nausea. He was able to ambulate with assistance on the first postoperative day and gradually improved his mobility over the next few days. He was discharged home on postoperative day 5 with a regimen of pain medication and physical therapy.
+
+Complications: 
+
+The patient did not experience any postoperative complications, including surgical site infections, deep vein thrombosis, or pulmonary embolism. He did not require blood transfusions or have any cardiovascular or respiratory complications.

@@ -1,0 +1,39 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and bilateral leg pain. He has been diagnosed with degenerative disc disease and spinal stenosis. The patient has tried physical therapy and conservative management, but has not found relief. He is planning to undergo a lumbar fusion surgery.
+
+Preoperative medications include blood thinners, hypertension medication, and nonsteroidal anti-inflammatory drugs (NSAIDs). The patient has no known allergies.
+
+The patient's surgical history includes a cholecystectomy and a hernia repair.
+
+The patient's medical history includes hypertension, hyperlipidemia, and a history of smoking.
+
+The patient's family history includes a first-degree relative with a history of heart disease.
+
+The patient is currently taking no medications for the surgery.
+
+The patient is allergic to no medications.
+
+The patient's blood work and imaging studies are notable for mild anemia and mild renal insufficiency.
+
+The patient's postoperative course is anticipated to be uneventful.
+
+The patient will require a short stay in the hospital after the surgery.
+
+The patient will be discharged home with a pain management plan that includes oral medications and physical therapy.
+
+The patient will need to follow up with the surgeon and primary care physician within one week after discharge.
+
+The patient will need to avoid heavy lifting, bending, and twisting for at least six weeks after surgery.
+
+The patient will need to avoid smoking for at least two weeks before and after the surgery.
+
+The patient is at low risk for postoperative complications.
+
+The patient is likely to experience some discomfort and pain after the surgery, but this can be managed with the prescribed pain medication.
+
+The patient is likely to have a speedy recovery and return to full activity within eight weeks after surgery.
+
+There are no anticipated postoperative complications.
+
+Assistant: Is there anything specific you would like me to add or change in the summary?

@@ -1,0 +1,19 @@
+The patient is a [age] year old [gender] with a medical history significant for [list of relevant medical conditions]. They are currently scheduled to undergo [type of surgery] as a treatment for [underlying condition or indication]. 
+
+The patient has a history of [list of relevant surgeries] performed in the past, which include [specific details regarding previous surgeries]. Furthermore, they have been diagnosed with [list of relevant chronic medical conditions] and have been managing them with [treatment plan such as medications or lifestyle modifications].
+
+In terms of allergies and medication intolerances, the patient does not have any known drug allergies and has not experienced any adverse reactions to medications in the past. They are currently taking the following medications: [list of medications, including dosages and frequency].
+
+Laboratory studies conducted prior to surgery indicate that the patient has normal kidney function and there are no signs of kidney disease. Their preoperative lab results are within normal range, including complete blood count, renal function tests, liver function tests, and coagulation profile.
+
+The patient's preoperative assessment includes a review of their vital signs, which are [specific values], as well as their BMI [body mass index] of [value], indicating their weight is within a healthy range. [Additional relevant information from preoperative assessment may be included.]
+
+During the surgery, the patient was administered [type of anesthesia] by a/an [anesthesiologist/certified registered nurse anesthetist] who monitored the patient's vital signs closely throughout the procedure. The surgery was successful, and the patient tolerated the procedure well.
+
+In the postoperative period, the patient was closely monitored for any signs of complications. They were started on appropriate pain management medications and encouraged to mobilize as tolerated. The incision site was assessed regularly for signs of infection or delayed healing.
+
+Fortunately, the patient's postoperative course was uneventful, and they did not experience any significant complications such as surgical site infection or wound dehiscence. Additionally, they did not develop any postoperative complications related to their preexisting medical conditions.
+
+The patient was discharged [number of days] after the surgery in a stable condition. They were provided with clear instructions regarding wound care, pain management, activity restrictions, and any necessary follow-up appointments. Additionally, they were educated on warning signs that may indicate the need for immediate medical attention.
+
+Overall, the patient's recovery has been progressing well, and they have not reported any concerning symptoms or complications since their discharge. They are scheduled for a follow-up appointment in [number of weeks] to assess their healing progress and determine the next steps in their postoperative care.

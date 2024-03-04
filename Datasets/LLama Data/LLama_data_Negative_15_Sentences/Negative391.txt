@@ -1,0 +1,35 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and lumbar degenerative disc disease. He has tried conservative management, including physical therapy and pain medication, without significant relief. The patient is a candidate for lumbar fusion surgery.
+
+The patient has a history of hypertension and hyperlipidemia, which are well-controlled with medication. He is a non-smoker and drinks alcohol rarely.
+
+The patient has no allergies to medications or Latex.
+
+The patient has a history of previous surgery, including a cholecystectomy and a hernia repair.
+
+The patient's family history is significant for heart disease and cancer.
+
+The patient's current medications include atorvastatin, lisinopril, and oxycodone.
+
+The patient's review of systems reveals no significant respiratory, cardiovascular, or neurological symptoms.
+
+The patient's physical examination reveals tenderness to palpation over the lumbar spine and limited range of motion.
+
+The patient's MRI revealed a large L4-L5 disc herniation and spinal stenosis.
+
+The patient's surgical plan includes a L4-L5 lumbar fusion with instrumentation.
+
+The patient's postoperative course was uneventful, and he was discharged home on postoperative day 3.
+
+The patient followed up with his surgeon at 2 weeks and 6 weeks postoperatively, and his wound was healing well.
+
+At 6 weeks postoperatively, the patient reported some improved back pain, but not complete relief.
+
+The patient was recommended to continue with physical therapy and pain management.
+
+The patient did not experience any complications during his postoperative course.
+
+The patient's follow-up appointment was scheduled for 3 months postoperatively to reassess his progress.
+
+Assistant: Is there anything else I can help you with?

@@ -1,0 +1,31 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [list of relevant medical conditions]. They are scheduled to undergo [type of surgery] due to [reason for surgery]. 
+
+In terms of their medical conditions, the patient has been managing [condition 1] with [medication/treatment] for [duration]. They also have a history of [condition 2], which has been controlled with [medication/treatment]. 
+
+Regarding medications, the patient takes [list of medications] on a daily basis. They are not allergic to any medications and have had no adverse reactions in the past. 
+
+In terms of surgical history, the patient previously underwent [previous surgical procedures], which were successful without any complications. 
+
+The patient's preoperative evaluation reveals normal vital signs and laboratory results, including a normal creatinine level ruling out acute renal failure. Their overall physical condition is assessed as [good/fair/poor]. 
+
+Prior to the surgery, the patient received [specific preparations] to ensure optimal surgical outcomes. They also received counseling on the procedure, including the risks and benefits. 
+
+During the surgery, there were [specific details] performed under general anesthesia. The procedure was completed without any intraoperative complications. 
+
+Postoperatively, the patient was monitored closely in the recovery room and then transferred to the surgical ward. They exhibited [expected/unexpected] postoperative symptoms, including [list of symptoms]. 
+
+Pain management was achieved using [specific pain management strategy], which provided adequate relief. The patient was able to tolerate oral intake [immediately/after a specified time] and was encouraged to ambulate as tolerated. 
+
+Routine postoperative medications included [list of medications], and the patient complied with the prescribed regimen. They were closely monitored for signs of infection, thrombosis, or any other surgical complications. 
+
+During their hospital stay, the patient received appropriate wound care and experienced no wound-related issues. They underwent regular physical therapy sessions to aid in their recovery and mobility. 
+
+Their postoperative course was unremarkable, and they did not experience any unexpected complications. Their vital signs remained stable throughout their hospital stay. 
+
+In terms of their renal function, the patient's creatinine level remained within the normal range postoperatively, ruling out acute renal failure. They did not experience any signs or symptoms suggestive of renal complications. 
+
+To ensure a successful recovery, the patient was provided with postoperative care instructions, including follow-up appointments with their surgeon. They were advised to report any concerning symptoms promptly. 
+
+Upon discharge, the patient was in stable condition, with no evidence of any surgical complications. They were able to resume their usual activities gradually and were given a timeline for expected recovery milestones. 
+
+Overall, the patient's surgical experience was successful, and they did not encounter any complications related to the surgery itself or acute renal failure. They are expected to have a full recovery and will continue to be monitored closely during their follow-up visits.

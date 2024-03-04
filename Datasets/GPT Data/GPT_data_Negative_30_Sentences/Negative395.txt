@@ -1,0 +1,19 @@
+The patient is a ___-year-old male/female who is scheduled to undergo surgery. They have a medical history that includes (list of relevant medical conditions, such as hypertension, diabetes, etc.). They have no known allergies. 
+
+The patient regularly takes medications including (list of current medications). They have a surgical history that includes (previous surgeries, if any). The patient does not smoke and does not consume alcohol. They have a sedentary lifestyle and do not engage in regular exercise. 
+
+The preoperative assessment reveals normal vital signs with blood pressure of ___/___ mmHg, heart rate of ___ beats per minute, temperature of ___°C, and oxygen saturation of ___%. Physical examination findings are unremarkable, with no abnormal heart or lung sounds. Routine blood work, including complete blood count, electrolyte panel, and coagulation profile, is within normal limits. 
+
+The patient is scheduled for (type of surgery) under general/regional anesthesia. The surgical team consists of (names of surgeon and anesthetist). The surgery is planned for (date) at (time). The patient has signed the informed consent and has been explained the potential risks and benefits of the procedure. 
+
+In the postoperative period, the patient received appropriate pain management with (describe pain medication regimen). They were monitored in the recovery room for (time period) and then transferred to the surgical ward. Vital signs were stable throughout the recovery period. 
+
+The patient was encouraged to ambulate and engage in deep breathing exercises to prevent postoperative complications. They experienced minimal postoperative pain, which was well-controlled with the prescribed pain medication. 
+
+On the following days, the patient's wound was inspected and showed no signs of infection. The patient reported minimal swelling and no drainage from the surgical site. They were able to tolerate regular diet and maintain normal bowel movements. 
+
+The postoperative course was uneventful, and the patient was discharged from the hospital on (date). They were advised to continue taking their regular medications and to follow up in the outpatient clinic in (time period) for further evaluation. 
+
+No complications were observed during the postoperative period. The patient did not develop any signs of wound dehiscence, surgical site infection, deep vein thrombosis, pulmonary embolism, or urinary tract infection. There were no issues with anesthesia, and the patient did not experience any adverse reactions to medication. 
+
+Overall, the patient had a successful surgery with a smooth postoperative course. They tolerated the procedure well and did not experience any complications. Their recovery was uneventful, and they were able to resume their normal activities within the expected timeframe.

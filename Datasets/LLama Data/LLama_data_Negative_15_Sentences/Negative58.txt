@@ -1,0 +1,29 @@
+Patient Summary:
+
+* Age: 65
+* Gender: Male
+* History of smoking: 40 pack-years, quit 10 years ago
+* Hypertension: controlled with medication
+* Hyperlipidemia: controlled with medication
+* Diabetes mellitus: controlled with medication and diet
+* Obstructive sleep apnea: uses CPAP machine at night
+* Chronic back pain: managed with physical therapy and medication
+* Previous abdominal surgery: cholecystectomy 20 years ago
+* Previous cardiovascular surgery: coronary artery bypass grafting 15 years ago
+* Pulmonary embolism: treated with anticoagulation 5 years ago
+* Current medications: atenolol, lisinopril, metformin, glipizide, aspirin
+
+Surgical History:
+
+* Planning to undergo elective lumbar spinal fusion surgery
+* Reason for surgery: severe degenerative disc disease and spinal stenosis causing chronic back pain and decreased mobility
+* Surgeon: Dr. John Smith
+* Anesthesia: general anesthesia
+* Expected length of stay: 3-4 days
+* Expected postoperative course: patient will be transferred to the intensive care unit for close monitoring of vital signs and pain management. Will be placed on mechanical ventilation for 24 hours. Will receive IV morphine for pain management. Will be encouraged to mobilize and sit in a chair on the first postoperative day. Will have a urinary catheter in place for 24-48 hours. Will receive prophylactic antibiotics and DVT prevention medication.
+
+Complications:
+
+* None anticipated
+
+This patient summary provides a comprehensive overview of the patient's medical history and current health status, which is essential for informed surgical decision-making and optimal postoperative care. The surgical history section outlines the planned surgical procedure, the reason for surgery, the surgeon's name, and the expected anesthesia and length of stay. The postoperative course section describes the expected management of pain, ventilation, and mobilization, as well as the use of prophylactic antibiotics and DVT prevention medication. By noting that the patient has a history of pulmonary embolism and is taking aspirin, the summary highlights the need for careful management of thromboembolic risk during the postoperative period. Overall, this summary provides a concise and informative snapshot of the patient's medical history and surgical plan.

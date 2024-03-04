@@ -1,0 +1,11 @@
+The patient is a [age]-year-old [gender] who is planning to have [type of surgery]. Their medical history includes [condition] for [duration] and has been managed with [treatment]. They have also been diagnosed with [condition] for [duration], which is currently under control with [medication]. The patient is a non-smoker and does not have any known drug allergies.
+
+In terms of surgical risk factors, the patient has a [condition] which may affect the procedure outcome. Additionally, they have a family history of [condition] and have been advised to inform the surgical team about it. The patient's pre-operative laboratory results show normal blood counts, renal function, and liver enzymes. Chest X-ray and electrocardiogram findings are within normal limits.
+
+During the surgery, the patient experienced a minor complication, such as [complication], which was promptly managed by the surgical team. However, post-operatively, the patient developed acute renal failure due to [reason], leading to impaired kidney function. This was indicated by an increase in serum creatinine levels, decreased urine output, and electrolyte imbalances.
+
+The patient was promptly started on intravenous fluid resuscitation and diuretics to support renal function. Additionally, measures were taken to closely monitor the patient's fluid balance, electrolyte levels, and urine output. Renal function slowly improved over the next few days, and the patient's serum creatinine levels began to normalize. They were closely monitored for any signs of further complications or deterioration.
+
+The patient's medications were adjusted to ensure renal protection, including holding certain medications that may further compromise kidney function. The patient was also provided with dietary modifications to help support renal recovery. The healthcare team collaborated with a nephrologist to guide the patient's care and ensure optimal renal management.
+
+Overall, the patient's surgical procedure was successful, despite the acute renal failure complication. They were discharged from the hospital with a plan for close outpatient follow-up to monitor kidney function and ensure continued recovery. The importance of adherence to medications, regular follow-up, and lifestyle modifications was emphasized to the patient to prevent future complications and maintain overall health.

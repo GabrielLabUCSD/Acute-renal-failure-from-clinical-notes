@@ -1,0 +1,31 @@
+The patient is a ___-year-old male/female who is planning to undergo surgery for ________. The patient's medical history is significant for ________. They have a past surgical history of ________.
+Their current medications include ________.
+Allergies: ________.
+Family history: ________.
+Social history: ________.
+The patient's vital signs are stable, with blood pressure ________, heart rate ________, respiratory rate ________, and temperature ________.
+The physical examination reveals ________.
+Laboratory results show ________ within normal limits/abnormal, including ________.
+Imaging studies, such as ________, were obtained and demonstrated ________.
+The patient has received preoperative counseling, explanation of the procedure, and risks/benefits have been discussed in detail. Informed consent has been obtained.
+The patient is scheduled for surgery on ________.
+The surgical procedure is planned to be ________.
+Anesthesia: ________.
+Intraoperative blood loss/fluids: ________.
+The patient tolerated the procedure well/encountered some difficulties during surgery but these were appropriately managed by the surgical team.
+The patient's postoperative course has been generally uneventful/complicated by ________.
+Complications encountered include ________.
+The patient is currently recovering in the post-anesthesia care unit/intensive care unit/general hospital ward.
+Pain management: ________.
+Nutrition: ________.
+Fluid management: ________.
+Vital signs monitoring: ________.
+The patient's pain is well controlled/well managed with ________.
+The patient's laboratory results show ________.
+The patient has been able to tolerate oral intake and has started ambulating.
+The patient is monitored closely for signs of infection, such as fever, wound drainage, and redness.
+The patient is also being monitored for other potential complications, such as ________.
+The patient received postoperative instructions and education on wound care, medications, activity restrictions, and follow-up appointments.
+The patient is expected to be discharged home on ________.
+Follow-up appointments have been scheduled with ________.
+Overall, the patient's postoperative course has been smooth and uncomplicated/complicated by ________.

@@ -1,0 +1,16 @@
+The patient is a __-year-old male/female (gender) with a medical history significant for (list relevant medical conditions such as hypertension, diabetes, coronary artery disease) who presents for (type of surgery).
+They have a history of (specific surgeries previously undergone, if applicable).
+The patient's current medications include (list current medications and dosages).
+They have a known allergy to (specific medication or substance).
+Their vital signs on admission were stable, with a blood pressure of (measurement), heart rate of (measurement), respiratory rate of (measurement), and oxygen saturation of (measurement).
+Laboratory studies showed (relevant lab results such as complete blood count, basic metabolic panel, coagulation profile).
+Imaging studies revealed (results of relevant imaging studies such as X-rays, ultrasounds, CT scans).
+On physical examination, the patient was (briefly describe general appearance and findings, such as well-nourished, alert, oriented, no obvious deformities, etc.).
+The patient was evaluated by (relevant specialists such as anesthesiologist, cardiologist, pulmonologist) and received medical clearance for surgery.
+They had appropriate preoperative preparations including (list any specific interventions or consultations such as dental evaluations, optimization of blood sugar control, etc.).
+The patient underwent (type of surgery) under general anesthesia.
+During the procedure, (briefly describe any significant intraoperative events or findings such as blood loss, changes in vital signs, etc.).
+Postoperatively, the patient was transferred to the recovery room in stable condition and was monitored closely.
+They received appropriate pain management including (list specific medications or modalities used).
+The patient's postoperative course was uneventful, and they were discharged (number of days) after surgery in stable condition.
+There were no immediate or delayed complications observed during the hospital stay.

@@ -1,0 +1,25 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [medical condition 1], [medical condition 2], and [medical condition 3]. The patient has been experiencing [symptom 1], [symptom 2], and [symptom 3] and has tried [treatment 1], [treatment 2], and [treatment 3] without significant relief.
+
+The patient is scheduled to undergo [type of surgery] and the surgical team includes [surgeon], [anesthesiologist], and [nurse]. The patient is allergic to [medication 1] and has a history of adverse reactions to [medication 2].
+
+Preoperative lab results reveal [lab result 1], [lab result 2], and [lab result 3]. The patient's blood type is [blood type].
+
+The patient has a history of [ previous surgery 1], [previous surgery 2], and [previous surgery 3] and has experienced [complication 1], [complication 2], and [complication 3] in the past.
+
+Intraoperative course:
+
+The patient was brought to the operating room and administered [anesthesia type]. The surgery began at [time] and lasted for [duration]. The patient's vital signs were stable throughout the procedure, with [temperature], [blood pressure], [pulse], and [oxygen saturation].
+
+There were no intraoperative complications.
+
+Postoperative course:
+
+The patient was transferred to the recovery room and remained stable. The patient experienced [postoperative symptom 1], [postoperative symptom 2], and [postoperative symptom 3].
+
+The patient was discharged from the hospital on [day] and advised to follow up with [follow-up appointment].
+
+The patient experienced no complications during the postoperative period.
+
+This summary provides a comprehensive overview of the patient's medical history, surgical plan, and postoperative course, highlighting important details such as allergies, lab results, and previous surgeries. It also outlines the surgical team's responsibilities and the patient's expected recovery. By omitting acute renal failure as a complication, the summary focuses on other potential risks and factors that may impact the patient's care.

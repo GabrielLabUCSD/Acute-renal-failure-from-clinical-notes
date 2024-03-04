@@ -1,0 +1,36 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes.
+3. He has been smoking for the past 40 years.
+4. He has a history of chronic obstructive pulmonary disease (COPD).
+5. He has had multiple episodes of pneumonia in the past.
+6. He has a history of heart disease and has had a myocardial infarction (heart attack) in the past.
+7. He has undergone percutaneous coronary intervention (PCI) to treat his heart disease.
+8. He has a history of chronic kidney disease (CKD) and is currently stage 4.
+9. He has been experiencing worsening left knee pain for the past year.
+10. He has been diagnosed with osteoarthritis of the left knee.
+11. He has tried physical therapy and medication for his knee pain but has not had relief.
+12. He has decided to undergo a total knee replacement surgery.
+13. His surgical history includes a cholecystectomy (gallbladder removal) and a hernia repair.
+14. He has no known allergies.
+15. He is currently taking several medications, including blood thinners, for his various medical conditions.
+16. He has a history of bleeding disorders and has had a splenectomy (removal of the spleen).
+17. He has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+18. He has a history of gastroesophageal reflux disease (GERD) and takes medication for it.
+19. He has a history of frequent urinary tract infections (UTIs).
+20. He has a history of benign prostatic hyperplasia (BPH) and takes medication for it.
+21. He has a history of colon polyps and has had a colonoscopy in the past.
+22. He has a history of melanoma and has had surgical removal of the affected skin.
+23. He has a history of chronic low back pain.
+24. He has been experiencing worsening shortness of breath for the past month.
+25. He has been diagnosed with acute renal failure and is currently undergoing dialysis.
+26. He has been admitted to the hospital several times in the past for various medical conditions.
+27. He has a history of alcohol use disorder but has been sober for the past 10 years.
+28. He has a history of depression and anxiety and takes medication for it.
+29. He has a history of schizophrenia and has been hospitalized several times in the past.
+30. He is currently taking several medications, including blood thinners, for his various medical conditions.
+
+Complication: Acute Renal Failure
+
+The patient developed acute renal failure (ARF) postoperatively after his total knee replacement surgery. He had been experiencing worsening shortness of breath for the past month, which was found to be due to ARF. He is currently undergoing dialysis and his kidney function is being closely monitored. The patient's history of chronic kidney disease (CKD) and stage 4 kidney disease puts him at higher risk for developing ARF. The patient's hypertension and diabetes also contribute to his risk of developing ARF. The patient's history of smoking and alcohol use disorder may also have contributed to his risk of developing ARF. The patient is being closely monitored and managed by a nephrologist and his care team to ensure the best possible outcome.

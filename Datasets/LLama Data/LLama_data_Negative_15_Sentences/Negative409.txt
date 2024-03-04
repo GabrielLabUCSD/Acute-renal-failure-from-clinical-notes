@@ -1,0 +1,13 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. The patient had a myocardial infarction 3 years ago and has been compliant with medications and lifestyle modifications since then. He is currently taking aspirin, metformin, amlodipine, and atorvastatin. The patient has a history of chronic lower back pain and has tried various treatments, including physical therapy, chiropractic care, and pain medication. He currently uses a TENS unit for pain management. The patient has a history of GERD and takes omeprazole daily. He denies any allergies to medications or foods.
+
+The patient's surgical history includes a cholecystectomy 10 years ago, and he had an uneventful postoperative course. He has no history of bleeding disorders or previous anesthesia complications. The patient is a former smoker, having quit 5 years ago, and he consumes moderate amounts of alcohol. He is married and works as an accountant.
+
+The patient's physical examination reveals a blood pressure of 130/80 mmHg, heart rate of 70 bpm, and respiratory rate of 16 breaths/min. His temperature is 98.6 degrees Fahrenheit. The patient has a healthy appearance, with good muscle mass and no signs of dehydration or malnutrition. His cardiovascular examination reveals a normal heart sound, without any murmurs or gallops. His respiratory examination is unremarkable. The patient's abdominal examination reveals mild tenderness to palpation in the lower back region, without any rebound tenderness or guarding.
+
+The patient's laboratory results are within normal limits, except for a mildly elevated BUN/creatinine ratio (15/1.2). His ECG shows a normal sinus rhythm, without any arrhythmias or ischemic changes. His chest x-ray is also normal. The patient's urinalysis shows a pH of 6.0, specific gravity of 1.012, and no evidence of infection or blood.
+
+The patient's postoperative course is uncomplicated. He experiences some mild postoperative pain, which is managed effectively with his TENS unit and occasional opioid medication. The patient is able to return to his normal activities within 2 weeks after surgery, including resuming his medications and TENS unit as needed. He experiences no complications related to surgery or anesthesia.
+
+Assistant: Is there anything else I can assist you with?

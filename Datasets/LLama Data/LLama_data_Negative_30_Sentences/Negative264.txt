@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for surgical consultation. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). He previously had a myocardial infarction (MI) 5 years ago and has been compliant with his medications since then. He has a history of chronic left lower extremity pain and swelling, which has been managed with non-steroidal anti-inflammatory drugs (NSAIDs) and physical therapy.
+
+The patient has a body mass index (BMI) of 35 kg/m2 and has been a non-smoker for the past 10 years. He drinks occasional alcohol but has no history of substance abuse. He works as a software engineer and leads a sedentary lifestyle.
+
+The patient's surgical history includes a cholecystectomy 10 years ago, and he has no history of previous anesthesia complications. His family history includes a mother with type 2 diabetes, and a father with hypertension and hyperlipidemia.
+
+The patient's current medications include atorvastatin, lisinopril, metformin, and naproxen. He has no known drug allergies. His preoperative physical examination reveals a blood pressure of 140/80 mmHg, heart rate of 82 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. His lung fields are clear, and his heart sounds are normal without any murmurs. His abdominal examination shows a scar from the previous cholecystectomy, and his extremities have no evidence of peripheral edema or varicose veins.
+
+The patient's postoperative course uneventful, and he is discharged on the second postoperative day. He is advised to continue his medications and to follow up with his primary care physician for further wound care and monitoring of his medical conditions.
+
+Complications: None
+
+This summary provides a comprehensive overview of the patient's medical history, surgical history, current medications, and postoperative course. It highlights the patient's risk factors for surgery, such as his history of MI, hypertension, hyperlipidemia, and diabetes, as well as his obesity and sedentary lifestyle. This information is essential for the surgical team to make an informed decision about the patient's surgical plan and to ensure that he receives appropriate care perioperatively.

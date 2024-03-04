@@ -1,0 +1,89 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient: John Doe
+
+Age: 55
+
+Sex: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol abuse
+* Obesity (BMI 35)
+* Sleep apnea
+* Gastroesophageal reflux disease (GERD)
+* History of peptic ulcer disease
+* Chronic lower back pain
+* Previous history of colon cancer (stage II)
+* Previous history of gallstones
+* Previous history of hernia repair
+
+Medications:
+
+* Lisinopril 40mg daily
+* Simvastatin 20mg daily
+* Pantoprazole 40mg daily
+* Aspirin 81mg daily
+* Metformin 500mg daily
+* Oxycodone 10mg PRN for pain
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Social History:
+
+* Married with two adult children
+* Retired from full-time work
+* Enjoys golfing and hiking
+* Lives alone
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Preoperative Exam:
+
+* Unremarkable physical exam
+* Normal complete blood count (CBC) and chemistry panel
+* Negative blood culture
+* No evidence of acute renal failure
+
+Intraoperative Course:
+
+* Surgery performed under general anesthesia
+* No intraoperative complications
+* Estimated blood loss 200cc
+* No need for blood transfusion
+
+Postoperative Course:
+
+* Patient recovered well from anesthesia
+* Experienced some postoperative nausea and vomiting
+* Managed with antiemetics
+* tolerated oral pain medication well
+* ambulated independently on postoperative day 1
+* Discharged home on postoperative day 2
+
+Complications:
+
+* None
+
+Follow-up:
+
+* Follow-up appointment scheduled for 2 weeks post-discharge
+* Instructed to continue medications as prescribed
+* Advised to avoid heavy lifting, bending, or strenuous activity for 4 weeks
+* Encouraged to gradually resume normal activities
+
+This summary provides a comprehensive overview of the patient's medical history, postoperative course, and potential complications. It highlights the patient's medical conditions, medications, allergies, family history, and social history. The summary also outlines the reason for surgery, preoperative exam, intraoperative course, postoperative course, and follow-up plan.

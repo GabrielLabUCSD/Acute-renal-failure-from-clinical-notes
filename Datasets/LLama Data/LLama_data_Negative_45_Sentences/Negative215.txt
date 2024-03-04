@@ -1,0 +1,95 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Diabetic
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Obese (BMI 35)
+* Sleep apnea
+* History of asthma
+* Allergic to penicillin
+* History of gastroesophageal reflux disease (GERD)
+
+Previous Surgeries:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Inguinal hernia repair at age 50
+
+Current Symptoms:
+
+* Abdominal pain
+* Nausea and vomiting
+* Fever
+* Constipation
+* Difficulty urinating
+
+Diagnostic Tests:
+
+* Complete blood count (CBC)
+* Blood chemistry panel
+* Urinalysis
+* Computed tomography (CT) scan of the abdomen and pelvis
+* Endoscopy
+
+Diagnosis:
+
+* Diverticulitis
+* Chronic kidney disease (CKD) stage 3
+
+Treatment Plan:
+
+* Elective sigmoid colectomy with colostomy
+* Preoperative bowel preparation
+* Intravenous (IV) antibiotics
+* Postoperative pain management
+
+Surgical Procedure:
+
+* Sigmoid colectomy with colostomy
+* Laparoscopic approach
+* Intraoperative IV antibiotics
+
+Postoperative Course:
+
+* Remained stable in the intensive care unit (ICU) overnight
+* Transfer to the surgical ward on postoperative day (POD) 2
+* Progression to a regular diet on POD 3
+* Ambulation and deep breathing exercises on POD 4
+* Removal of surgical drain on POD 5
+* Discharge home on POD 6
+
+Complications:
+
+* Postoperative wound infection
+* Urinary retention
+* Respiratory failure
+* Hyperglycemia
+* Hypotension
+* Delayed gastric emptying
+
+Interventions:
+
+* IV antibiotics for wound infection
+* Foley catheter insertion for urinary retention
+* Non-invasive ventilation for respiratory failure
+* Insulin sliding scale for hyperglycemia
+* Vasopressors for hypotension
+* Prokinetics for delayed gastric emptying
+
+Resolution:
+
+* Wound infection resolved with antibiotics
+* Urinary retention resolved with catheter removal
+* Respiratory failure resolved with non-invasive ventilation
+* Hyperglycemia resolved with insulin sliding scale
+* Hypotension resolved with vasopressors
+* Delayed gastric emptying resolved with prokinetics
+
+Patient was discharged home on POD 6 without any further complications. Follow-up appointment was scheduled for 2 weeks after discharge.

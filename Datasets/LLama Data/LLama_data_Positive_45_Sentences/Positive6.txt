@@ -1,0 +1,48 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient: John Doe
+
+* Chief Complaint: Abdominal pain
+* History of Present Illness: 55-year-old male presents with worsening abdominal pain over the past week, associated with nausea and vomiting.
+* Past Medical History: Hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus.
+* Medications: Lisinopril, atorvastatin, and metformin.
+* Family History: Father died of myocardial infarction at age 55, mother has hypertension and diabetes.
+* Social History: Married, two adult children, works as an accountant, smokes 10 cigarettes per day, drinks alcohol occasionally.
+* Review of Systems: No significant cardiovascular, respiratory, or neurological symptoms.
+* Allergies: Penicillin
+* Surgical History: Appendectomy at age 25, cholecystectomy at age 40.
+* Current Medications: Lisinopril, atorvastatin, metformin, and aspirin.
+* Lab Results: WBC 12,000/mm3, hemoglobin 14.2 g/dL, hematocrit 42%, platelets 200,000/mm3, Na 138 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO2 24 mEq/L, glucose 200 mg/dL, BUN 25 mg/dL, creatinine 1.5 mg/dL, alanine transaminase (ALT) 50 IU/L, aspartate transaminase (AST) 70 IU/L, alkaline phosphatase (ALP) 120 IU/L, total bilirubin 1.0 mg/dL.
+* Urinalysis: Proteinuria 2+, blood 1+, RBC 2+, WBC 1+.
+* Imaging Studies: CT scan of the abdomen and pelvis shows a possible inflammatory mass in the retroperitoneum.
+* Procedure: Exploratory laparotomy with possible nephrectomy.
+* Anesthesia: General anesthesia.
+
+Complications:
+
+* Acute renal failure (ARF): Developed postoperatively, likely due to hypovolemia and sepsis.
+* Respiratory failure: Requires mechanical ventilation.
+* Cardiovascular instability: Requires vasopressors.
+* Sepsis: Secondary to urinary tract infection.
+
+Postoperative Course:
+
+* Day 1: Patient taken to ICU for close monitoring.
+* Day 2: Patient remains hemodynamically unstable, requires vasopressors and mechanical ventilation.
+* Day 3: Patient shows improvement, vasopressors and mechanical ventilation weaned.
+* Day 4: Patient develops acute renal failure, requires dialysis.
+* Day 5: Patient remains on dialysis, shows improvement in renal function.
+* Day 6: Patient is extubated and transferred to a regular recovery room.
+* Day 7: Patient is discharged from the hospital with a follow-up appointment in the clinic.
+
+This patient summary includes essential information about the patient's medical history, medications, allergies, surgical history, and current symptoms. It also includes lab results, imaging studies, and a description of the planned procedure. Finally, it includes a list of potential complications and the patient's postoperative course. This information is vital for anesthesia providers to make informed decisions about the patient's care.
+
+As for the sample patient summary with 45 sentences, here's a breakdown of the sentences:
+
+1. Chief Complaint
+2. History of Present Illness
+3. Past Medical History
+4. Medications
+5. Family History
+6. Social History
+7.

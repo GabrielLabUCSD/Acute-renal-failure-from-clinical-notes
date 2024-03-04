@@ -1,0 +1,45 @@
+Patient Summary:
+
+The patient is a 55-year-old male who presents with a history of chronic low back pain and left lower extremity radiculopathy. The patient has a history of smoking and has been using nicotine replacement therapy for the past year. The patient"s medical history also includes hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. The patient has tried physical therapy, chiropractic care, and pain management with mixed results.
+
+Preoperative Evaluation:
+
+The patient underwent a thorough preoperative evaluation, including blood work, imaging studies, and consultations with cardiology and anesthesia. The patient"s blood work revealed minimal elevations in liver function tests, likely related to alcohol consumption. The patient"s imaging studies showed mild degenerative changes in the lumbar spine, and a left L4-L5 herniated disc. The patient"s echocardiogram was normal, and the patient was cleared for surgery by the anesthesiologist.
+
+Surgical Procedure:
+
+The patient underwent a successful L4-L5 laminectomy and discectomy. The operation was performed under general anesthesia, and the patient tolerated the procedure well.
+
+Postoperative Course:
+
+The patient experienced some expected postoperative discomfort, including pain, nausea, and vomiting. The patient was managed with a PCA pump for pain control and antiemetics as needed. The patient was able to ambulate and void without difficulty.
+
+Complications:
+
+The patient developed a postoperative wound infection, which was treated with antibiotics. The patient also experienced some constitutional symptoms, including fever, chills, and myalgias, which resolved with supportive care. The patient did not develop acute renal failure.
+
+Conclusion:
+
+Overall, the patient had a successful surgical procedure and postoperative course, except for a wound infection and constitutional symptoms. The patient was managed appropriately, and there were no long-term sequelae. The patient"s nicotine replacement therapy was continued throughout the postoperative period, and the patient was counseled about the importance of smoking cessation. The patient was discharged home on postoperative day 3 and followed up with the surgeon and primary care physician as needed.
+
+<Sys><![CDATA[
+
+<p>Patient Summary:</p>
+
+<p>The patient is a 55-year-old male who presents with a history of chronic low back pain and left lower extremity radiculopathy. The patient has a history of smoking and has been using nicotine replacement therapy for the past year. The patient"s medical history also includes hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. The patient has tried physical therapy, chiropractic care, and pain management with mixed results.</p>
+
+<p>Preoperative Evaluation:</p>
+
+<p>The patient underwent a thorough preoperative evaluation, including blood work, imaging studies, and consultations with cardiology and anesthesia. The patient"s blood work revealed minimal elevations in liver function tests, likely related to alcohol consumption. The patient"s imaging studies showed mild degenerative changes in the lumbar spine, and a left L4-L5 herniated disc. The patient"s echocardiogram was normal, and the patient was cleared for surgery by the anesthesiologist.</p>
+
+<p>Surgical Procedure:</p>
+
+<p>The patient underwent a successful L4-L5 laminectomy and discectomy. The operation was performed under general anesthesia, and the patient tolerated the procedure well.</p>
+
+<p>Postoperative Course:</p>
+
+<p>The patient experienced some expected postoperative discomfort, including pain, nausea, and vomiting. The patient was managed with a PCA pump for pain control and antiemetics as needed. The patient was able to ambulate and void without difficulty.</p>
+
+<p>Complications:</p>
+
+<p>The patient developed a post

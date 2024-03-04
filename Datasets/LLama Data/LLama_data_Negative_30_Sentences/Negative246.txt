@@ -1,0 +1,72 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+Age: 55
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* Obesity (BMI 35)
+* Sleep apnea
+* Gastroesophageal reflux disease (GERD)
+* Chronic lower back pain
+* History of non-insulin-dependent diabetes mellitus (NIDDM)
+* History of asthma
+
+Current Medications:
+
+* Lisinopril 40mg daily
+* Simvastatin 80mg daily
+* Aspirin 81mg daily
+* Alprazolam 0.5mg as needed
+* Omeprazole 20mg daily
+* Metformin 1000mg daily
+* Levothyroxine 100mcg daily
+* Albuterol inhaler as needed
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Preoperative Workup:
+
+* Complete blood count (CBC) within normal limits
+* Electrolyte panel within normal limits
+* Lipid profile elevated
+* Urinalysis within normal limits
+* Chest X-ray clear
+* ECG within normal limits
+
+Intraoperative Course:
+
+* General anesthesia with endotracheal intubation
+* Surgery lasted 2 hours without any complications
+* Estimated blood loss 200ml
+* Patient remained stable throughout the procedure
+
+Postoperative Course:
+
+* Patient transferred to the recovery room in stable condition
+* Pain managed with iv morphine
+* Patient experiences some nausea and vomiting
+* Patient remains afebrile
+* Wound dressing clean and dry
+* Patient discharged home on postoperative day 3
+
+Potential Complications:
+
+* Wound infection
+* Respiratory complications (e.g. pneumonia, atelectasis)
+* Cardiovascular complications (e.g. MI, arrhythmias)
+* Renal complications (e.g. acute kidney injury) NOT include acute renal failure as a complication.
+* Sepsis
+* DVT/PE
+* Pulmonary embolism
+* Urinary retention
+* Postoperative bleeding
+
+I hope this helps! Please note that this is just a sample and the specifics of the patient's history and course will vary. It's important to use the patient's actual medical history and medications when creating a patient summary.

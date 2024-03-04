@@ -1,0 +1,45 @@
+The patient, a 65-year-old male, has an extensive medical history that needs to be evaluated prior to any type of surgery. His past medical conditions include hypertension, diabetes mellitus type 2, and hyperlipidemia. These conditions have been moderately controlled with the use of medications.
+
+He has a history of hypertension for the past 10 years, and is currently taking a combination of antihypertensive medications including lisinopril and amlodipine. His blood pressure is typically well controlled, averaging around 130/80 mmHg.
+
+The patient was diagnosed with diabetes mellitus type 2 around 15 years ago. He takes metformin and glipizide to manage his blood glucose levels. He monitors his blood sugars at home and reports occasional episodes of hypoglycemia, usually self-treated with oral glucose tablets.
+
+Hyperlipidemia was diagnosed 5 years ago, and he has been on a statin medication, atorvastatin, to control his cholesterol levels. His last lipid panel showed total cholesterol of 180 mg/dL, LDL cholesterol of 100 mg/dL, HDL cholesterol of 45 mg/dL, and triglycerides of 150 mg/dL.
+
+The patient has a sedentary lifestyle due to a previous myocardial infarction that he had 5 years ago. He underwent stenting of the left anterior descending artery and has been on a regimen of aspirin, clopidogrel, and a beta-blocker, metoprolol, since then. He reports occasional chest pain with exertion, but overall his angina is well-controlled.
+
+In addition to his pre-existing conditions, the patient has a history of chronic kidney disease, stage 3, which was diagnosed around 2 years ago. His serum creatinine levels have been stable within the range of 1.5-2.0 mg/dL, indicating mild-to-moderate renal impairment. He does not have any significant proteinuria or hematuria.
+
+The patient is a non-smoker with no history of respiratory illnesses or asthma. His lungs are clear on examination and he does not have any symptoms of cough or shortness of breath. His oxygen saturation is consistently above 95% on room air.
+
+On physical examination, the patient's heart has regular rate and rhythm with no murmurs or extra sounds. His blood pressure at the clinic is 140/90 mmHg, but at home, it is consistently around 130/80 mmHg. There are no signs of peripheral edema, and pedal pulses are intact bilaterally.
+
+The patient's surgical history includes a laparoscopic cholecystectomy performed 10 years ago for symptomatic gallstones. He recovered uneventfully from the surgery and has been asymptomatic since then. He also had a right knee arthroscopy performed 3 years ago for meniscal tear with subsequent physical therapy.
+
+Allergies and medication intolerances include a reported allergy to penicillin, resulting in a rash, and intolerance to non-steroidal anti-inflammatory drugs (NSAIDs), causing gastritis and dyspepsia.
+
+The patient's current medications, including the ones mentioned previously for his chronic conditions, also include supplements such as a multivitamin, calcium, and vitamin D. He occasionally uses acetaminophen for pain relief.
+
+In terms of family history, the patient's father had a history of hypertension and died from a stroke. His mother had type 2 diabetes and passed away from complications related to the disease. He has two siblings who are both healthy.
+
+The patient's weight is 180 lbs, height is 5'9", and body mass index (BMI) is 26.6 kg/m². He is slightly overweight but does not have any significant physical limitations.
+
+Laboratory tests conducted prior to surgery show a hemoglobin level of 13.4 g/dL, white blood cell count of 7,800/mm³, platelet count of 250,000/mm³, and international normalized ratio (INR) of 1.1. Liver function tests, electrolytes, and thyroid-stimulating hormone (TSH) are all within normal limits.
+
+Given the patient's medical history, it is important to assess his cardiovascular risk prior to any surgical procedure. An electrocardiogram (ECG) and a stress test were ordered to evaluate his cardiac function. The ECG shows normal sinus rhythm with no evidence of ischemic changes. The stress test, performed using a treadmill, yielded negative results with good exercise tolerance.
+
+In terms of renal function, the patient's preoperative labs show a serum creatinine level of 2.0 mg/dL and an estimated glomerular filtration rate (eGFR) of 45 mL/min/1.73m², consistent with stage 3 chronic kidney disease. However, his urine output is within normal limits indicating adequate kidney function.
+
+To optimize his renal function prior to surgery, his medications were adjusted. The doses of metformin and glipizide were reduced to minimize the risk of hypoglycemia and lactic acidosis. The use of iodinated contrast media during the surgery was also discussed with the patient, as it has the potential to further impair his renal function.
+
+During the surgical procedure, the patient tolerated anesthesia well and had stable vital signs throughout. The surgery was uncomplicated, and the patient was transferred to the recovery room.
+
+However, postoperatively, the patient developed acute renal failure. His urine output decreased to less than 300 mL in 24 hours, and his serum creatinine increased to 3.0 mg/dL. The suspected etiology of acute renal failure is acute tubular necrosis due to ischemic injury following the surgery.
+
+The patient was promptly started on intravenous fluids, including normal saline, to maintain adequate hydration and improve renal perfusion. Diuretics such as furosemide were administered to promote diuresis and increase urine output.
+
+Kidney function was monitored closely with repeated blood tests to assess response to treatment. The patient's serum creatinine gradually decreased, and his urine output improved over the course of several days.
+
+Aside from the acute renal failure, the patient's postoperative recovery was unremarkable. He did not have any cardiac complications, and his pain was well controlled with acetaminophen. The patient was discharged home with close follow-up and instructions to continue his medications as prescribed.
+
+Acute renal failure after surgery can be a significant complication, and it is important to monitor renal function closely in patients with pre-existing kidney disease. Additionally, interventions to optimize renal perfusion and avoid nephrotoxic agents are crucial in preventing further kidney damage.

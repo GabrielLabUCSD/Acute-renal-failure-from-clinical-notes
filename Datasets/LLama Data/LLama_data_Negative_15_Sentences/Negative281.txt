@@ -1,0 +1,19 @@
+Patient Summary:
+
+1. The patient is a 45-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He suffered an acute myocardial infarction (AMI) 5 years ago and underwent percutaneous coronary intervention (PCI) with stent placement.
+4. He has been smoking 1 pack of cigarettes per day for the past 20 years.
+5. He has a history of non-alcoholic fatty liver disease (NAFLD).
+6. He is allergic to penicillin and sulfa drugs.
+7. He has a history of chronic lower back pain for which he takes hydrocodone.
+8. He has been diagnosed with sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+9. He has a history of chronic obstructive pulmonary disease (COPD) and uses an inhaler as needed.
+10. He has a history of gastroesophageal reflux disease (GERD) and takes omeprazole daily.
+11. He has a history of migraines and takes sumatriptan as needed.
+12. He has a history of chronic prostatitis and takes tamsulosin and finasteride.
+13. He has been scheduled for a elective laparoscopic cholecystectomy.
+14. The patient had an uneventful postoperative course and was discharged home on postoperative day 3.
+15. He had some nausea and vomiting on the first postoperative day, but it resolved with antiemetics.
+
+No complications were encountered during the postoperative period.

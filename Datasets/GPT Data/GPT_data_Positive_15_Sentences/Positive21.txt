@@ -1,0 +1,17 @@
+The patient is a (age) year old (gender) with a medical history of (list relevant medical conditions or surgeries). They are currently planning to have surgery for (describe the type of surgery) due to (explain reason for surgery, such as a diagnosis or injury).
+
+The patient's past medical history includes (list relevant medical conditions such as diabetes, hypertension, heart disease, etc.) and surgeries (list previous surgeries including dates and reasons). They have been taking (list current medications and dosages) for their medical conditions.
+
+The patient has also experienced acute renal failure as a complication after a previous surgery (describe surgery and dates). This was likely a result of (describe the cause of the renal failure, such as anesthesia complications or medication side effects). They required (describe treatment received, such as dialysis or medication) to manage the renal failure.
+
+In terms of allergies, the patient has a known allergy to (list allergens) which has been documented in their medical records. They have also experienced adverse reactions to certain medications, including (list medications and reactions).
+
+The patient smokes (if applicable) and consumes alcohol (if applicable), which may impact their surgical outcome. They have been advised to stop smoking and limit alcohol consumption prior to surgery to reduce the risk of complications.
+
+Their vital signs are within normal limits, including blood pressure, heart rate, respiratory rate, and temperature. The patient also does not have any significant physical limitations that would impact their ability to undergo surgery.
+
+The patient has been informed about the risks and benefits of the surgery, including potential complications such as bleeding, infection, and anesthesia-related complications. They have provided informed consent for the procedure and understand the necessary preoperative preparations and postoperative care.
+
+The surgical team will closely monitor the patient during and after surgery to minimize the risk of complications. They will also consult with nephrology to develop a plan for renal function monitoring and management in order to prevent a recurrence of acute renal failure.
+
+Overall, the patient's medical history and previous complication with acute renal failure after surgery pose additional considerations for the surgical team. However, with the proper precautions and management, the patient should be able to undergo the planned surgery successfully.

@@ -1,0 +1,19 @@
+The patient is a [AGE]-year-old [GENDER] who is planning to undergo [TYPE OF SURGERY]. They have a past medical history significant for [DISORDERS]. The patient's surgical history includes [PREVIOUS SURGERIES] but is otherwise unremarkable. They are on [CURRENT MEDICATIONS] with no known drug allergies.
+
+In terms of their systemic health, the patient has [ANY CHRONIC CONDITIONS, SUCH AS DIABETES, HYPERTENSION, ETC.]. Their vital signs are stable, with a blood pressure of [BP], heart rate of [HR], respirations [RESP], and oxygen saturation of [O2 SAT] on room air. The patient has [ANY RELEVANT PHYSICAL EXAM FINDINGS].
+
+Laboratory results show [ANY ABNORMAL RESULTS]. Hemoglobin is [HB], white blood cell count [WBC], and platelet count [PLT]. Their liver function tests are within normal limits, with a total bilirubin of [TB], alkaline phosphatase [ALP], and aminotransferases [AST/ALT]. Renal function tests show a blood urea nitrogen [BUN] and a serum creatinine [SCr].
+
+The patient had a preoperative EKG that shows [ANY RELEVANT FINDINGS]. Their echocardiogram demonstrates [ANY RELEVANT FINDINGS]. They have a normal ejection fraction of [EF]% with no significant valvular abnormalities. Their chest x-ray reveals [ANY RELEVANT FINDINGS].
+
+To optimize the patient's surgical outcome, they have been advised to [PREOPERATIVE INSTRUCTIONS, SUCH AS NPO STATUS, BOWEL PREPARATION, ETC.]. Prophylactic antibiotics with [ANTIBIOTIC AGENT, ROUTE, AND DOSING] were administered within [TIMEFRAME]. The patient was also given a DVT prophylaxis with [PROPHYLACTIC AGENT AND DOSING].
+
+During the surgical procedure, the patient received [ANESTHETIC AGENT AND MANAGEMENT]. The surgery was [ROUTINE/COMPLEX/BRIEF/LONG] and went without any complications. The patient tolerated the procedure well and was hemodynamically stable throughout. Estimated blood loss was approximately [AMOUNT], and [BLOOD PRODUCTS USED (IF ANY)] were given.
+
+Postoperatively, the patient was transferred to the recovery room and subsequently to the surgical ward. Their pain was managed with [PAIN MANAGEMENT STRATEGY]. The patient ambulated on the [DAY] postoperative day and reached their preoperative activity level by [DAY]. They were able to tolerate a regular diet without any nausea or vomiting. Bowel and bladder function remained normal.
+
+Complications during the postoperative course were minimal. The patient did not experience any wound infections, dehiscence, or evisceration. There were no signs of surgical site bleeding. The patient had no signs or symptoms of deep vein thrombosis or pulmonary embolism. They did not require a blood transfusion.
+
+The patient made satisfactory progress and showed signs of improvement. They were discharged on [DATE] in stable condition. The patient was provided with [POST-DISCHARGE INSTRUCTIONS], including medications, follow-up appointments, and activity restrictions. They were advised to closely monitor their incision site for any signs of infection such as redness, swelling, or discharge.
+
+Overall, the patient's surgical experience was uncomplicated, and they had an uneventful postoperative course. They are expected to have a complete recovery and resume their daily activities without significant limitation.

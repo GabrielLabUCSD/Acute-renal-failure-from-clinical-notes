@@ -1,0 +1,36 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Previous myocardial infarction (MI) 10 years ago
+* Previous coronary artery bypass grafting (CABG) 5 years ago
+* History of non-insulin dependent diabetes mellitus (NIDDM)
+* History of sleep apnea
+* History of degenerative joint disease (DJD)
+* History of osteoarthritis
+* History of chronic low back pain
+
+Planned Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Did not require any blood transfusions
+* Experienced some discomfort and pain in the abdomen, which was managed with pain medication
+* Was able to tolerate a clear liquid diet on the first postoperative day
+* Was discharged from the hospital on the second postoperative day
+
+Complications:
+
+* None
+
+Assistant:  I hope this patient summary helps! Please note that this is just a sample and the specific details of the patient's medical history, surgery, and postoperative course may vary depending on the individual patient.

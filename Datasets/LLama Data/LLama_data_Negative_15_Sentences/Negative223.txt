@@ -1,0 +1,34 @@
+Sure, here's a sample patient summary:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus type II
+* History of non-insulin-dependent diabetes mellitus
+* History of coronary artery disease
+* History of myocardial infarction (MI)
+* History of percutaneous coronary intervention (PCI)
+* History of atrial fibrillation
+* History of chronic obstructive pulmonary disease (COPD)
+* History of sleep apnea
+* History of osteoarthritis
+
+Planned Surgery: Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative period
+* Was discharged from the hospital on the 3rd postoperative day
+* Followed up with surgeon and primary care physician without any complications
+
+Complications: None
+
+I hope this helps!
+
+Do you have any questions or need further assistance?

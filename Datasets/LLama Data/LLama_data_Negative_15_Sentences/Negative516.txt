@@ -1,0 +1,41 @@
+Patient Summary:
+
+* Patient Name: John Smith
+* Date of Birth: 02/05/1980
+* Gender: Male
+* Height: 5"10"
+* Weight: 220 lbs
+* ASA Physical Status: III
+* Medical History:
+	+ Hypertension
+	+ Hyperlipidemia
+	+ History of smoking
+	+ Obstructive sleep apnea
+	+ Gastroesophageal reflux disease (GERD)
+	+ Chronic lower back pain
+* Allergies:
+	+ Penicillin
+	+ Pollen
+* Medications:
+	+ Amlodipine
+	+ Simvastatin
+	+ Omeprazole
+	+ Alprazolam
+	+ Hydrocodone
+* Preoperative Lab Results:
+	+ WBC: 12,000/uL
+	+ Hb: 14.2 g/dL
+	+ Platelet Count: 250,000/uL
+	+ BUN: 20 mg/dL
+	+ Creatinine: 1.2 mg/dL
+	+ Glucose: 120 mg/dL
+* Surgeon: Dr. Jane Doe
+* Anesthesia Plan: General anesthesia with endotracheal intubation
+* Surgical Procedure: Laparoscopic cholecystectomy
+* Postoperative Course:
+	+ Patient was taken to the PACU and recovered well
+	+ Patient had some nausea and vomiting, which was managed with ondansetron
+	+ Patient had mild postoperative pain, which was managed with hydrocodone
+	+ Patient was able to drink clear liquids on the first postoperative day
+	+ Patient was discharged on the second postoperative day
+* Complications: None

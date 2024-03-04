@@ -1,0 +1,74 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker for 30 years, quit 5 years ago
+* History of alcohol use disorder, currently in remission
+* No significant surgical history
+
+Current Symptoms:
+
+* Abdominal pain and distension for 6 months
+* Nausea and vomiting
+* Fever and chills
+* Difficulty passing stool
+
+Physical Exam:
+
+* Temperature 101.5°F
+* Blood pressure 180/100 mmHg
+* Heart rate 110 beats per minute
+* Respiratory rate 24 breaths per minute
+* Abdominal tenderness to palpation
+* No rebound tenderness or guarding
+
+Lab Results:
+
+* White blood cell count 18,000 cells/mcL
+* Serum bilirubin 3.5 mg/dL
+* Alkaline phosphatase 150 IU/L
+* Lipase 300 IU/L
+* Amylase 200 IU/L
+* Blood urea nitrogen 25 mg/dL
+* Creatinine 1.5 mg/dL
+
+Imaging Studies:
+
+* CT scan of the abdomen and pelvis shows a large pancreatic mass
+* No evidence of metastatic disease
+
+Procedure:
+
+* Open pancreatectomy with splenectomy
+* Pathology report shows a well-differentiated pancreatic neuroendocrine tumor
+
+Postoperative Course:
+
+* Patient tolerated the procedure well
+* No immediate postoperative complications
+* Patient was transferred to the surgical ICU for close monitoring
+* Pain managed with morphine and scheduled analgesics
+* Patient was able to tolerate a clear liquid diet on postoperative day 1
+* Patient was discharged home on postoperative day 7
+
+Complications:
+
+* Patient developed a wound infection on postoperative day 10
+* Treated with oral antibiotics and wound care
+* No signs of sepsis or organ dysfunction
+* Patient also developed a pulmonary embolism on postoperative day 14
+* Treated with heparin andwarfarin
+* No signs of stroke or other bleeding complications
+
+Follow-up:
+
+* Patient followed up with the surgeon and oncologist
+* No evidence of recurrence at 6 months
+* Patient continued to smoke, but was counseled on smoking cessation strategies
+* Patient was also referred to a nutritionist for optimization of nutritional intake
+
+Note: This patient's postoperative course and complications are fictional and for demonstration purposes only. The patient's medical history and lab results are based on common comorbidities and lab values seen in surgical patients.

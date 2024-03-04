@@ -1,0 +1,80 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Date of Birth: 02/05/1980
+Gender: Male
+
+Chief Complaint: The patient presents with a 2-year history of chronic low back pain, radiating to the left leg, and associated with numbness and weakness in the left foot.
+
+Medical History:
+
+* History of smoking (20 cigarettes per day) for the past 10 years
+* Hypertension, currently managed with lifestyle modifications and medication
+* Hyperlipidemia, currently managed with statin therapy
+* History of non-insulin-dependent diabetes mellitus, managed with diet and metformin
+* History of gastroesophageal reflux disease, managed with proton pump inhibitors
+* History of mild bronchiectasis, managed with inhalers
+* Allergies: Penicillin, Sulfa drugs
+* No known drug allergies
+
+Surgical History:
+
+* Appendectomy at age 10
+* Cholecystectomy at age 30
+* Inguinal hernia repair at age 40
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 65
+* One sibling with a history of asthma
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies alcohol or illicit drug use
+* Lives in a two-story house with no elevator
+* Able to ambulate independently but with difficulty
+* Uses a cane for assistance
+* Denies recent travel or exposure to illness
+
+Review of Systems:
+
+* No recent weight loss or gain
+* No fever or chills
+* No night sweats or recent infections
+* No history of neurological symptoms such as seizures, weakness, or paresthesias
+* No history of gastrointestinal bleeding or recent changes in bowel habits
+* No history of genitourinary symptoms such as hematuria or dysuria
+* No history of skin changes or lesions
+
+Physical Examination:
+
+* Vital signs: Blood pressure 140/80 mmHg, Heart rate 70 beats per minute, Temp 37.2°C (99°F)
+* Body Mass Index (BMI): 29 kg/m2
+* Alert and oriented x3, cognitively intact
+* No thyromental distance or jaw tenderness
+* No lymphadenopathy or palpable masses
+* No edema or erythema of the lower extremities
+* No obvious deformities or abnormalities of the spine
+* Moderate tenderness to palpation over the lower back
+* Decreased sensation to light touch and pinprick in the L5-S1 dermatome
+* Weakness in the left foot and ankle (3/5)
+* No other notable neurological findings
+
+Lab Results:
+
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte panel: Within normal limits
+* Lipid profile: Elevated triglycerides (200 mg/dL), otherwise within normal limits
+* Glucose: 120 mg/dL (fasting)
+* Hemoglobin A1C: 6.5%
+* Urinalysis: Within normal limits
+* Imaging studies: MRI of the lumbar spine shows a large central herniated disc at L5-S1 with extrusion of disc material and compression of the left S1 nerve root.
+
+Plan:
+The patient will undergo a lumbar discectomy at L5-S1. Preoperative preparation includes optimization of his medical conditions, including hypertension and hyperlipidemia. The patient will be scheduled for a preoperative anesthesia evaluation. Postoperative course will include close monitoring of vital signs, pain management, and early mobilization.
+
+Postoperative Course:
+The patient had an uneventful surgery and was transferred

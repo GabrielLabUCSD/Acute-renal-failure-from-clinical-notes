@@ -1,0 +1,8 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery.  He has a history of hypertension and hyperlipidemia.  He is an ex-smoker, having quit 5 years ago, and drinks occasionally.  He has no known drug allergies.  His family history reveals a positive history of heart disease and stroke.  The patient weighs 105 kg and is 1.83 meters tall.  His BMI is 33.
+
+Preoperative laboratory tests reveal the following: Hemoglobin - 14.2 g/dL, Hematocrit - 40.8%, White Blood Cell Count - 10.5 x 10^9/L, and Platelet Count - 238 x 10^9/L.  His electrolytes, creatinine, and liver enzymes are within normal limits.  A preoperative ECG and echocardiogram were performed, showing no abnormalities.
+His surgery went well, without any intraoperative complications.  He recovered uneventfully in the postanesthesia care unit and was transferred to the ward on the first postoperative day.  He experienced some nausea and vomiting on the second postoperative day but responded well to antiemetics.  He was started on clear liquids and advanced to a soft diet as tolerated.  He ambulated independently and did not require respiratory therapy.  He had a uneventful postoperative course and was discharged home on the fifth postoperative day.
+
+<</

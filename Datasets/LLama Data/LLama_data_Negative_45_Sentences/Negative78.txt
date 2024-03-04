@@ -1,0 +1,25 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and decreased mobility. He has tried various conservative treatments, including physical therapy and medication, without significant relief. The patient has a history of smoking and alcohol use but has no significant medical comorbidities.
+
+On physical examination, the patient has limited mobility and tenderness to palpation over the lumbar spine. Range of motion is limited in all planes, and there is evidence of muscle spasm.
+
+Imaging studies show degenerative changes at L4-L5 and L5-S1, with associated spinal stenosis and herniated discs.
+
+The patient is scheduled for a lumbar decompression and fusion surgery. The planned procedure includes a left-sided L4-L5 and L5-S1 decompression, as well as a posterior lumbar interbody fusion at the L5-S1 level.
+
+The patient's postoperative course is uneventful, with adequate pain management and improved mobility. He ambulates independently on postoperative day 1 and is discharged home on postoperative day 3.
+
+At 2-week follow-up, the patient reports significant improvement in pain and mobility, with minimal discomfort at the surgical site. He is able to resume light duties at work and is advised to continue with physical therapy to optimize his recovery.
+
+At 6-week follow-up, the patient has regained full mobility and strength in his lower back and legs. He reports occasional mild discomfort, but no significant pain or numbness/tingling.
+
+The patient is satisfied with the outcome of the surgery and reports significant improvement in his quality of life.
+
+There were no complications during the patient's postoperative course.
+
+
+
+
+
+Assistant: Would you like me to add or change anything in the summary?

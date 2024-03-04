@@ -1,0 +1,13 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history of [insert significant medical conditions, such as diabetes, hypertension, or heart disease]. The patient has been taking [insert medications] and has had [insert number] hospitalizations in the past for [insert reasons]. The patient"s surgical history includes [insert previous surgeries, if any]. The patient is scheduled to undergo [insert type of surgery] and the expected duration of the procedure is [insert expected duration].
+
+Postoperative Course:
+
+The patient had a uneventful postoperative course and was able to recover well. They were able to tolerate oral pain medication and did not require any respiratory support. They were able to ambulate on the first postoperative day and were discharged home on [insert day of discharge].
+
+Complications:
+
+The patient did not experience any significant complications during their hospital stay. They did have some minor side effects from the anesthesia, such as nausea and vomiting, but these were managed effectively with medication. The patient did not develop any wound infections or other complications related to the surgery. They were followed up in the clinic after discharge and were recovering well.
+
+Note: This is a sample patient summary, please make sure to customize it to the specific patient and surgery. Also, this summary does not include acute renal failure as a complication as per your request.

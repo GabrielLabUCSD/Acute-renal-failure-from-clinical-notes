@@ -1,0 +1,91 @@
+I understand. Here"s a sample patient summary with 45 sentences describing a patient"s medical history who is planning to have any type of surgery:
+
+Patient name: John Doe
+Age: 65
+Gender: Male
+Medical history:
+
+* Hypertension for 10 years
+* Diabetes mellitus for 5 years
+* Hyperlipidemia for 3 years
+* Obstructive sleep apnea for 2 years
+* History of smoking for 30 pack-years, quit 5 years ago
+* History of alcohol use disorder, currently in remission
+* Chronic low back pain for 10 years
+* History of left knee pain for 5 years
+* History of right shoulder pain for 3 years
+* History of GERD for 5 years
+* History of migraines for 10 years
+* History of allergies: seasonal, dust, and pet allergies
+* History of asthma, controlled with medication
+* History of hypothyroidism, controlled with medication
+* History of COPD, controlled with medication
+* History of peripheral neuropathy, controlled with medication
+
+Surgical history:
+
+* Cholecystectomy 10 years ago
+* Hysterectomy 5 years ago
+* bilateral cataract surgery 3 years ago
+* Left knee arthroscopy 2 years ago
+* Right shoulder arthroscopy 1 year ago
+
+Current medications:
+
+* Lisinopril for hypertension
+* Metformin for diabetes mellitus
+* Simvastatin for hyperlipidemia
+* CPAP for obstructive sleep apnea
+* Celecoxib for chronic low back pain
+* Naproxen for left knee pain
+* Meloxicam for right shoulder pain
+* Omeprazole for GERD
+* Sumatriptan for migraines
+* Fluticasone for allergies
+* Levothyroxine for hypothyroidism
+* Albuterol for asthma
+* Pregabalin for peripheral neuropathy
+
+Lab results:
+
+* HbA1c: 7.5%
+* BUN: 18 mg/dL
+* Creatinine: 1.2 mg/dL
+* eGFR: 85 mL/min
+* Total cholesterol: 180 mg/dL
+* LDL: 100 mg/dL
+* HDL: 40 mg/dL
+* Triglycerides: 150 mg/dL
+* TSH: 2.5 mIU/L
+* Free T4: 1.2 ng/dL
+
+Allergies:
+
+* Penicillin
+* Sulfa
+* Latex
+
+Social history:
+
+* Married with two adult children
+* Retired from a desk job
+* Living in a two-story house with no elevator
+* Able to ambulate independently
+* Able to perform activities of daily living (ADLs) independently
+* No recent travel or exposure to illness
+
+Postoperative course:
+
+* Patient tolerated the surgery well
+* No complications during surgery
+* Patient was transferred to the recovery room and monitored closely for the first 24 hours
+* Patient experienced some nausea and vomiting, which were managed with medication
+* Patient had some pain and discomfort, which were managed with pain medication
+* Patient was able to ambulate and perform ADLs independently
+* Patient was discharged home on the second postoperative day
+
+Complications:
+
+* None
+
+I hope this sample patient summary helps you create a detailed and informative summary for your patient. Please note that this is just a sample and you should customize it according to your patient"s specific needs and medical history.

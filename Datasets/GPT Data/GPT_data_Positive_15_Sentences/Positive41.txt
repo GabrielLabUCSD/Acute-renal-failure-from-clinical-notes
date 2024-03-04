@@ -1,0 +1,29 @@
+The patient is a {age}-year-old male/female who is scheduled to undergo {type of surgery}. They have a past medical history significant for {chronic illnesses such as hypertension, diabetes, etc.}.
+
+Their current medications include {list of all medications including dosage and frequency}.
+
+They have previously undergone {list any past surgeries}.
+
+The patient's family history is unremarkable for any significant diseases or conditions.
+
+They have a known allergy to {specific drug or substance}.
+
+The patient does not smoke, consume alcohol, or use any recreational drugs.
+
+They have a body mass index (BMI) of {BMI value}.
+
+Their preoperative lab work showed {results of relevant lab tests, such as complete blood count, renal function tests, etc.}.
+
+The patient does not have any preexisting renal conditions or kidney disease.
+
+They have been adequately prepared for surgery including {relevant preoperative instructions such as fasting, bowel preparation, etc.}.
+
+The patient's surgery will be performed under general anesthesia.
+
+During the procedure, the patient is expected to have an uneventful course with no intraoperative complications.
+
+Postoperatively, the patient will be monitored closely for any signs of infection, bleeding, or other complications.
+
+On {specific postoperative day}, the patient developed acute renal failure, characterized by {signs and symptoms such as decreased urine output, fluid overload, electrolyte abnormalities, etc.}.
+
+The cause of the acute renal failure is currently under investigation, and the patient has been started on appropriate interventions to manage the condition.

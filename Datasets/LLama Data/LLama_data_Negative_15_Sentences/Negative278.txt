@@ -1,0 +1,25 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition] and is planned for [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert any previous surgeries or procedures]. The patient is currently taking [insert medications] and has allergies to [insert allergens].
+
+Preoperative tests show [insert results of relevant tests, such as blood work or imaging studies]. The patient is at risk for [insert potential complications, such as respiratory or cardiovascular issues].
+
+Intraoperatively, the patient experienced [insert any events that occurred during surgery, such as hypotension or hypertension]. The patient received [insert medications or interventions used during surgery].
+
+Postoperatively, the patient had a complicated course. On day [insert day], the patient developed [insert complication, such as pneumonia or wound infection]. This was treated with [insert interventions, such as antibiotics or wound care]. The patient also experienced [insert additional complications, such as nausea or vomiting].
+
+The patient was discharged on [insert date] with instructions to follow up with their primary care physician and to continue taking their medications as prescribed.
+
+Assessment:
+
+Based on the patient's medical history and postoperative course, it is important to monitor their condition closely and address any complications promptly. The patient should be advised to follow up with their primary care physician for ongoing care and to report any concerning symptoms immediately.
+
+Recommendations:
+
+* Continue medications as prescribed
+* Follow up with primary care physician within 1 week
+* Monitor for signs of complications, such as fever, increased pain, or difficulty breathing
+* Address any complications promptly and appropriately
+* Consider scheduling follow-up appointments with specialists as needed
+
+This summary provides an overview of the patient's medical history and postoperative course, as well as recommendations for ongoing care and monitoring. It is important to individualize the plan of care based on the patient's unique needs and medical condition.

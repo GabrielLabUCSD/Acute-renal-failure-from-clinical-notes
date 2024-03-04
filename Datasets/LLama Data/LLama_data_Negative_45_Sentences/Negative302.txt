@@ -1,0 +1,77 @@
+Patient Summary:
+
+Patient Name: [Insert name here]
+Age: [Insert age here]
+Gender: [Insert gender here]
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Obesity (BMI 35)
+* Sleep apnea
+* Gastroesophageal reflux disease (GERD)
+* History of colon polyps
+* Family history of colon cancer
+* History of migraines
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 10 years ago
+* appendectomy 5 years ago
+* Bilateral knee arthroscopy 2 years ago
+
+Current Medications:
+
+* Amlodipine 10mg daily
+* Simvastatin 40mg daily
+* Lisinopril 40mg daily
+* Aspirin 81mg daily
+* Omeprazole 20mg daily
+* Alprazolam 0.5mg as needed for anxiety
+* Ibuprofen 800mg as needed for pain
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Laboratory Results:
+
+* WBC: 12,000/mm3
+* Hemoglobin: 14.2g/dL
+* Platelet Count: 250,000/mm3
+* BUN: 20mg/dL
+* Creatinine: 1.2mg/dL
+* Glucose: 110mg/dL
+* AST: 35U/L
+* ALT: 40U/L
+* Alkaline Phosphatase: 120U/L
+* Total Bilirubin: 0.8mg/dL
+
+Imaging Results:
+
+* Chest X-ray: Normal
+* EKG: Normal sinus rhythm
+
+Other Relevant Information:
+
+* The patient has a history of complications during previous surgeries, including atelectasis and respiratory failure.
+* The patient has a history of bleeding disorders and takes aspirin and warfarin.
+* The patient has a history of anxiety and depression and takes alprazolam and sertraline.
+
+Postoperative Course:
+
+* The patient had a successful surgery and was transferred to the recovery room in stable condition.
+* The patient experienced some postoperative nausea and vomiting, which was managed with ondansetron.
+* The patient had a drop in blood pressure and tachycardia on the first postoperative day, which was managed with fluid bolus and vasopressors.
+* The patient experienced some mild postoperative pain, which was managed with ibuprofen and fentanyl.
+* The patient was discharged from the hospital on postoperative day 3 in stable condition.
+
+Complications:
+
+* None
+
+I hope this patient summary helps you in planning the patient's surgery and postoperative care. Please let me know if you have any further questions or concerns.

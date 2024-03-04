@@ -1,0 +1,35 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Chief Complaint: The patient presents with a 2-year history of chronic lower back pain and sciatica
+
+Medical History: The patient has a history of hypertension, hyperlipidemia, and diabetes mellitus
+
+Surgical History: The patient has had a cholecystectomy and a hernia repair in the past
+
+Current Medications: The patient is taking aspirin, metformin, atorvastatin, and lisinopril
+
+Allergies: The patient is allergic to penicillin and sulfa drugs
+
+Family History: The patient's father had a history of coronary artery disease
+
+Social History: The patient is a retired smoker and drinks alcohol occasionally
+
+Review of Systems: The patient reports no recent weight loss, fever, or night sweats. The patient has a history of sleep apnea and uses a CPAP machine at night.
+
+Physical Examination: The patient's blood pressure is 150/80 mmHg, pulse 70/min, and respiratory rate 16/min. The patient has a scar on his abdomen from his previous surgery.
+
+Lab Results: The patient's labs show a creatinine level of 1.5 mg/dL, hemoglobin A1c of 7.5%, and a total cholesterol of 220 mg/dL.
+
+Imaging Studies: The patient has undergone an MRI of his lumbar spine, which shows degenerative disc disease and spinal stenosis.
+
+Plan: The patient is scheduled for a lumbar decompression surgery.
+
+Postoperative Course: The patient had an uneventful postoperative course. He was discharged on postoperative day 3 with a prescription for pain medication and instructions to follow up with his surgeon in 2 weeks.
+
+Complications: The patient did not experience any complications during his postoperative course.
+
+Assistant:  I hope this sample patient summary helps you in creating a comprehensive summary for your patient. Please note that this is just a sample and you should tailor it to your patient's specific needs and medical history.

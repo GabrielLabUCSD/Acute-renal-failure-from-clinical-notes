@@ -1,0 +1,68 @@
+Patient Summary:
+
+Name: [Patient Name]
+Age: [Patient Age]
+Gender: [Patient Gender]
+
+Medical History:
+
+* History of hypertension
+* Hyperlipidemia
+* Non-insulin-dependent diabetes mellitus (NIDDM)
+* Obstructive sleep apnea (OSA)
+* Chronic obstructive pulmonary disease (COPD)
+* History of smoking
+* History of alcohol use disorder
+
+Surgical History:
+
+* Cholecystectomy
+* Hysterectomy
+* Cesarean section
+
+Current Medications:
+
+* Lisinopril
+* Atorvastatin
+* Metformin
+* Oxycodone
+* Alprazolam
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Laboratory Results:
+
+* Hemoglobin A1C: 7.5%
+* Serum creatinine: 1.2 mg/dL
+* Alanine transaminase (ALT): 45 U/L
+* Aspartate transaminase (AST): 30 U/L
+* Alkaline phosphatase: 150 U/L
+* Total bilirubin: 1.0 mg/dL
+
+Preoperative Orders:
+
+* Clear liquids until 8 hours before surgery
+* No solid foods or alcohol for 8 hours before surgery
+* No aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs) for 1 week before surgery
+* No smoking for 2 weeks before surgery
+
+Postoperative Course:
+
+* Patient had a successful surgery and was transferred to the postanesthesia care unit (PACU) for recovery.
+* Patient experienced some nausea and vomiting in the PACU, which was managed with ondansetron.
+* Patient was transferred to the surgical floor and continued to recover well.
+* Patient was able to eat solid foods and drink liquids without any issues.
+* Patient did not experience any complications during their hospital stay.
+
+Discharge Instructions:
+
+* Patient was discharged home with instructions to rest and avoid heavy lifting or bending for 2 weeks.
+* Patient was advised to take their medications as directed and to follow up with their surgeon in 2 weeks.
+* Patient was also advised to avoid smoking and alcohol for at least 2 weeks after discharge.
+
+Complications:
+
+* None

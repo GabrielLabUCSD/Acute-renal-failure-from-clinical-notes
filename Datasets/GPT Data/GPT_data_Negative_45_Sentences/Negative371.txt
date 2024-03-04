@@ -1,0 +1,23 @@
+Patient Summary:
+
+The patient is a (age)-year-old (gender) with a medical history significant for (list relevant medical conditions). The patient is currently scheduled to undergo (type of surgery) and has provided informed consent for the procedure.
+
+Regarding their medical conditions, the patient has been diagnosed with (list conditions such as hypertension, diabetes, hyperlipidemia, asthma, etc.). They have been managing these conditions with (medications, lifestyle modifications, etc.). It is important to mention that (any special considerations related to the patient's medical conditions or medications may impact the surgery or anesthesia).
+
+The patient has a surgical history including (list previous surgeries or procedures) and experienced (any complications or adverse events related to previous surgeries, if applicable). Their current medications include (list all current medications, including prescribed medications, over-the-counter products, and supplements).
+
+Preoperative assessments have been performed, including (list necessary exams or tests conducted prior to surgery such as blood work, imaging studies, or consultations with other specialists). The patient's vital signs are within normal limits, and their physical examination demonstrates (briefly note any significant findings).
+
+The patient's understanding of the surgical procedure and expectations have been discussed, as well as the risks and benefits involved. They have been advised to follow the preoperative instructions provided, including fasting guidelines and medication management.
+
+Postoperatively, the patient will be monitored closely in the recovery area for the immediate effects of anesthesia. Pain management measures, including the use of analgesics, will be implemented as needed. The patient will also be encouraged to ambulate early to prevent complications such as deep vein thrombosis.
+
+Routine postoperative care will involve monitoring vital signs, wound inspection, and ensuring adequate pain control. The patient will continue their regular medications unless advised otherwise. Routine laboratory tests, such as complete blood count and electrolyte levels, may be ordered to assess for any changes or complications.
+
+Specific postoperative instructions will be discussed with the patient, including wound care, activities of daily living, and signs and symptoms to watch for. The patient will be educated about symptoms that should prompt them to seek immediate medical attention.
+
+To evaluate the success of the surgical procedure, follow-up appointments have been scheduled for (date) with the surgeon. The patient will be seen by appropriate specialists as needed based on the type of surgery performed.
+
+As for complications, (mention any complications that occurred during the postoperative course, if applicable). However, it is essential to highlight that the patient did not experience acute renal failure as a complication.
+
+Overall, the patient is recommended to have the surgery and has been adequately prepared for the procedure. They will receive optimal postoperative care to ensure a smooth recovery and prevent complications.

@@ -1,0 +1,31 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+
+Chief Complaint: The patient presents with a 2-year history of persistent lower back pain and difficulty ambulating, which has been gradually worsening over time.
+
+Medical History: The patient has a history of hypertension, hyperlipidemia, and diabetes mellitus type 2, which are well-controlled with medication. He also had a myocardial infarction 10 years ago and has been compliant with his cardiac medications.
+
+Surgical History: The patient has had a cholecystectomy and a hernia repair in the past.
+
+Medications: The patient is currently taking aspirin, lisinopril, atorvastatin, metformin, and tramadol as needed for pain.
+
+Allergies: The patient is allergic to penicillin and has a mild allergy to latex.
+
+Family History: The patient's father died of a myocardial infarction at the age of 60, and his mother has a history of hypertension and hyperlipidemia.
+
+Social History: The patient is a retired smoker and drinks alcohol occasionally. He has a supportive family and is independent in his daily activities.
+
+Review of Systems: The patient reports a history of constant lower back pain, which is exacerbated by activity and relieved by rest. He also experiences numbness and tingling in his lower extremities. He has no history of urinary or fecal incontinence.
+
+Physical Examination: On examination, the patient's vital signs are stable. His abdomen is soft and non-tender, with no evidence of a hernia. His lower extremities have decreased sensation to light touch and decreased reflexes. His gait is unsteady, and he requires assistance with ambulation.
+
+Diagnostic Tests: The patient has had an MRI of the lumbar spine, which shows a large central herniated disc at L4-L5 with compression of the spinal cord and nerve roots. He has also had an electrocardiogram, which shows normal sinus rhythm.
+
+Planned Surgery: The patient is scheduled for a L4-L5 lumbar fusion with instrumentation to address his severe back pain and neurological symptoms.
+
+Postoperative Course: The patient's postoperative course was uneventful. He experienced some pain and discomfort in the immediate postoperative period, which was managed with pain medication. He was able to ambulate independently within the first 24 hours and was discharged home on postoperative day 3.
+
+Complications: The patient did not experience any complications during his hospital stay or in the immediate postoperative period. However, he did develop a superficial wound infection at the incision site 2 weeks after discharge, which was managed with antibiotics and local wound care.

@@ -1,0 +1,90 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* Diabetes mellitus
+* History of smoking
+* Obesity (BMI 35)
+* Sleep apnea
+* Osteoarthritis of the knees
+* Previous history of colon cancer ( stage II)
+* Previous history of pulmonary embolism
+
+Medications:
+
+* Aspirin 81 mg daily
+* Atorvastatin 20 mg daily
+* Metformin 500 mg twice daily
+* Glipizide 5 mg twice daily
+* Levothyroxine 0.1 mg daily
+* Ibuprofen 800 mg as needed
+* Oxycodone 5 mg as needed
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 68
+* One sibling with history of colon cancer
+
+Social History:
+
+* Retired
+* Married with two adult children
+* Lives in a two-story house with no elevator
+* Has a dog that requires regular walking
+* Enjoys golfing and gardening
+
+Reason for Surgery:
+
+* Elective total knee arthroplasty for severe osteoarthritis of the knees
+
+Preoperative Laboratory Results:
+
+* Hematocrit 38%
+* Hemoglobin A1C 7.4%
+* Creatinine 1.2 mg/dL
+* BUN 25 mg/dL
+* ASA 20 ng/mL
+* PT/INR 1.1
+* Albumin 3.8 g/dL
+* Total bilirubin 0.8 mg/dL
+
+Preoperative Physical Examination:
+
+* Blood pressure 160/80 mmHg
+* Pulse 80 beats per minute
+* Respiratory rate 16 breaths per minute
+* Temperature 37.2°C (99°F)
+* Oxygen saturation 98% on room air
+
+Postoperative Course:
+
+* Patient had an uneventful surgery and was transferred to the recovery room in stable condition
+* Patient was extubated 30 minutes after surgery and was able to breathe on his own
+* Patient was discharged from the recovery room to the surgical floor 2 hours after surgery
+* Patient experienced some postoperative nausea and vomiting, which was treated with ondansetron
+* Patient was able to ambulate with assistance on the first postoperative day
+* Patient was able to eat solid food on the second postoperative day
+
+Complications:
+
+* None
+
+Discharge Summary:
+
+* Patient was discharged from the hospital on postoperative day 3 in stable condition
+* Patient was advised to continue with his medications as prescribed
+* Patient was instructed to follow up with his surgeon in 2 weeks
+* Patient was advised to avoid heavy lifting, bending, or twisting for 6 weeks
+* Patient was instructed to use knee braces and walkers as needed for support
+* Patient was advised to follow a rehabilitation program to regain strength and mobility in his knees.

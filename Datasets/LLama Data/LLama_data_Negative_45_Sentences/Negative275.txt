@@ -1,0 +1,55 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Obesity (BMI 35)
+* Osteoarthritis of the knees
+* Chronic lower back pain
+* History of colon polyps
+* Family history of colon cancer
+* History of migraines
+* History of allergic rhinitis
+
+Current Medications:
+
+* Lisinopril 20mg daily
+* Atorvastatin 20mg daily
+* Omeprazole 20mg daily
+* Aspirin 81mg daily
+* Meloxicam 15mg daily
+* Alprazolam 0.5mg as needed
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Herniotomy at age 50
+
+Planned Surgery:
+Total knee replacement
+
+Postoperative Course:
+
+*Patient had an uneventful postoperative course
+* Patient was able to ambulate with assistance on the first postoperative day
+* Patient was able to eat a regular diet on the second postoperative day
+* Patient had some nausea and vomiting on the third postoperative day, but it was managed with medication
+* Patient was discharged home on the fourth postoperative day
+
+Complications:
+
+* None
+
+I hope this helps! Let me know if you have any questions or need further clarification.

@@ -1,0 +1,27 @@
+Patient Summary: 
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history of [insert relevant medical conditions, such as hypertension, diabetes, etc.]. They have been experiencing [insert symptoms, such as abdominal pain, shortness of breath, etc.] and have been diagnosed with [insert diagnosis, such as lung cancer, gallstones, etc.]. 
+
+The patient has a history of [insert previous surgeries or procedures, such as appendectomy, cholecystectomy, etc.]. They have also had [insert relevant medical treatments, such as chemotherapy, radiation therapy, etc.]. 
+
+The patient is currently taking [insert medications, such as beta blockers, ACE inhibitors, etc.] and has been advised to stop taking [insert medications, such as aspirin, warfarin, etc.] prior to surgery. They have no known allergies to medications or anesthesia. 
+
+The patient"s physical examination reveals [insert relevant findings, such as decreased breath sounds, abdominal tenderness, etc.]. They have a history of [insert relevant social history, such as smoking, alcohol use, etc.]. 
+
+The patient is scheduled to undergo [insert type of surgery, such as laparoscopic cholecystectomy, open lung biopsy, etc.]. The surgical plan includes [insert relevant details, such as type of anesthesia, estimated blood loss, etc.]. 
+
+Postoperative Course: 
+
+The patient had an uneventful postoperative course. They were transferred to the recovery room in stable condition and were closely monitored for any complications. They experienced some [insert common postoperative symptoms, such as nausea, vomiting, pain, etc.], which were managed effectively with medication. 
+
+The patient was able to tolerate oral intake and had a satisfactory output of fluids. They were ambulatory and able to perform activities of daily living without assistance. 
+
+There were no complications during the postoperative period, and the patient was discharged from the hospital on [insert date] in stable condition. 
+
+Follow-up appointments were arranged with the surgeon and primary care physician to monitor the patient"s progress and address any concerns or issues that may arise. 
+
+Complications: 
+
+There were no complications during the postoperative period. 
+
+Acute renal failure was not a complication in this case.

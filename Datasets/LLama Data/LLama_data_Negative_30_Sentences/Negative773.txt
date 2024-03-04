@@ -1,0 +1,90 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Gender: Male
+
+Chief Complaint: Chronic back pain
+
+Medical History:
+
+* History of smoking
+* Hypertension
+* Hyperlipidemia
+* Diabetes mellitus
+* Obstructive sleep apnea
+* History of colon cancer (status post-resection)
+* History of chronic obstructive pulmonary disease (COPD)
+* History of osteoarthritis
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 10 years ago
+* appendectomy 5 years ago
+* Total hip replacement 2 years ago
+* Total knee replacement 1 year ago
+
+Current Medications:
+
+* Metformin for diabetes
+* Lisinopril for hypertension
+* Simvastatin for hyperlipidemia
+* Alprazolam for anxiety
+* Oxycodone for chronic back pain
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* Brother has hyperlipidemia
+* Sister has hypertension
+
+Social History:
+
+* Retired construction worker
+* Married with two adult children
+* Lives in a two-story house with no elevator
+* Does not have a history of substance abuse
+
+Reason for Surgery:
+
+* Chronic back pain from spinal stenosis
+
+Planned Surgery:
+
+* Laminotomy and fusion of L4-L5 vertebrae
+
+Expected Length of Stay:
+
+* 3-4 days in the hospital
+
+Expected Recovery Time:
+
+* 6-8 weeks for full recovery
+
+Expected Complications:
+
+* Wound infection
+* Urinary tract infection
+* Respiratory problems
+* Seizures (due to history of seizure disorder)
+
+Postoperative Course:
+
+* Patient had a uneventful postoperative course
+* Was able to ambulate and perform deep breathing exercises without any issues
+* Had some minor nausea and vomiting on the first postoperative day, but it resolved with medication
+* Was discharged from the hospital on postoperative day 4
+
+Complications:
+
+* None
+
+I hope this sample patient summary helps you in creating a comprehensive patient summary for your patient who is planning to have surgery. Please note that this is just a sample and you should tailor it to your patient's specific medical history and planned surgery.

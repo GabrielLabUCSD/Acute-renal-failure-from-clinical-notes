@@ -1,0 +1,60 @@
+Here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 65 years old
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol abuse
+* Chronic obstructive pulmonary disease (COPD)
+* Diabetes mellitus
+* Obesity (BMI 35)
+* History of coronary artery disease
+* Previous myocardial infarction (heart attack) 10 years ago
+* Previous stroke 5 years ago
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 5 years ago
+* Inguinal hernia repair 2 years ago
+
+Current Medications:
+
+* Aspirin 81mg daily
+* Lisinopril 40mg daily
+* Atorvastatin 20mg daily
+* Alprazolam 0.5mg daily
+* Metformin 500mg daily
+* Oxygen therapy as needed
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with no elevator
+* Walks with a cane due to mobility issues
+* Denies any recent travel or exposure to illnesses
+
+Postoperative Course:
+
+* Patient had a successful surgery and was transferred to the post-anesthesia care unit (PACU) for recovery.
+* Patient experienced some discomfort and nausea in the PACU, but these symptoms were managed with medication.
+* Patient was mobilized to the surgical ward on the first postoperative day and was able to sit up and drink fluids.
+* Patient had some minor drainage from the surgical site, but this resolved within 24 hours.
+* Patient was discharged home on postoperative day 3 with instructions to rest and avoid any strenuous activities for 2 weeks.
+
+Complications:
+
+* Patient developed a postoperative wound infection on the third day, which was treated with antibiotics.
+* Patient experienced some postoperative nausea and vomiting, but this resolved with medication and fluids.
+* Patient had a minor pulmonary embolism on postoperative day 7, which was managed with blood thinners.
+
+Note: This is just a sample patient summary and the details may vary depending on the individual patient's medical history and postoperative course.

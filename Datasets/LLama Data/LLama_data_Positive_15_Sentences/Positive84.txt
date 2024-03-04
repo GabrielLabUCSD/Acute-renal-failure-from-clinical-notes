@@ -1,0 +1,30 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history and acute renal failure complication after surgery:
+
+1. The patient is a 65-year-old male who presents with a history of chronic back pain and degenerative disc disease.
+2. He has tried conservative management, including physical therapy and medication, without significant relief.
+3. The patient has a history of hypertension and hyperlipidemia, and is currently taking medications for these conditions.
+4. He has no history of bleeding disorders or allergies to anesthesia.
+5. The patient has a history of smoking, but has abstained for the past 5 years.
+6. He consumes moderate amounts of alcohol, but denies any recent binge drinking.
+7. The patient has been diagnosed with obstructive sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+8. He has a history of chronic kidney disease (CKD) stage 3, with a creatinine level of 1.5 mg/dL.
+9. The patient has been relatively stable, with no significant changes in his renal function over the past year.
+10. He has a history of non-insulin dependent diabetes mellitus, with a HbA1c of 7.5%.
+11. The patient has a body mass index (BMI) of 35, classifying him as obese.
+12. He has no history of previous surgeries or anesthesia complications.
+13. The patient is currently taking aspirin and ibuprofen for pain management.
+14. He has been advised to stop taking these medications 7 days prior to surgery.
+15. The patient is scheduled to undergo a lumbar fusion surgery, and the surgeon has recommended close monitoring of his renal function during the perioperative period.
+
+Complication:
+
+1. Acute renal failure (ARF) developed postoperatively, with a rise in creatinine level to 2.5 mg/dL and a decrease in urine output.
+2. The patient experienced decreased urine output, with only 200 mL of urine produced in the first 8 hours after surgery.
+3. He complained of decreased urge to void, and had a significantly decreased level of consciousness.
+4. The patient had signs of volume overload, with jugular venous distension and pedal edema.
+5. Urgent ultrasonography revealed bilateral hydronephrosis, suggesting an obstruction in the urinary tract.
+6. The patient was diagnosed with acute renal failure due to bilateral ureteral obstruction, likely caused by the surgical retractors used during the lumbar fusion procedure.
+7. The patient was immediately taken back to the operating room for revision of the surgery, with successful removal of the retractors and relief of the obstruction.
+8. The patient's renal function began to improve, with a gradual decrease in creatinine level and increase in urine output over the next 24 hours.
+9. He was closely monitored in the intensive care unit for the next 48 hours, with continued improvement in his renal function.
+10. The patient was eventually transferred to the ward and made a full recovery, with no long-term sequelae.

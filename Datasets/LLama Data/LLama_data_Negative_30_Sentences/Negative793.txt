@@ -1,0 +1,37 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Chief Complaint: The patient presents with a 2-year history of chronic low back pain and numbness in both legs, which has been gradually worsening over time.
+
+Medical History: The patient has a history of lumbar spine degenerative disc disease, facet joint hypertrophy, and spondylolisthesis.
+
+Surgical History: The patient has undergone multiple lumbar epidural steroid injections and physical therapy, which have provided only temporary relief.
+
+Medications: The patient is currently taking naproxen, pregabalin, and methocarbamol for pain management.
+
+Allergies: The patient is allergic to sulfa antibiotics.
+
+Family History: The patient's mother had a history of breast cancer.
+
+Social History: The patient is a 40-year-old male who works as a construction worker. He is a smoker and drinks alcohol occasionally.
+
+Review of Systems: The patient reports no problems with his respiratory, cardiovascular, or gastrointestinal systems.
+
+Physical Examination: On examination, the patient's vital signs are stable. His lumbar spine exhibits limited flexion, extension, and rotation. There is tenderness to palpation over the lumbar spine, and there is a positive straight leg raise test on the left side.
+
+Imaging Studies: MRI of the lumbar spine shows a large central herniated disc at L4-L5, with compression of the left L5 nerve root.
+
+Plan: The patient is scheduled for a left L4-L5 hemilaminectomy and discectomy.
+
+Postoperative Course: The patient had an uneventful postoperative course. He was discharged from the hospital on postoperative day 3 and was advised to rest and avoid heavy lifting for 6 weeks.
+
+Complications: The patient did not experience any complications during his postoperative course.
+
+Follow-up: The patient had a follow-up appointment with his surgeon at 2 weeks postoperative and reported significant improvement in his back pain and numbness in his legs. He was able to ambulate without assistance and had resumed his regular activities.
+
+This patient summary provides a comprehensive overview of the patient's medical history, surgical plan, and postoperative course, including any potential risks or complications. It is important for the surgical team to be aware of the patient's medical history, allergies, and social history to ensure safe and effective care.

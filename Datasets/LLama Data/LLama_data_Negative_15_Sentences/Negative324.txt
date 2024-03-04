@@ -1,0 +1,29 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+The patient is a [insert age]-year-old male who presents with a history of [insert medical condition] and is scheduled to undergo [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert any previous surgeries or hospitalizations]. The patient is currently taking [insert medications] and has no known allergies.
+
+The patient's surgical course was uneventful, and they were extubated on [insert time] after the procedure. They were transferred to the recovery room and remained stable throughout the initial postoperative period.
+
+The patient experienced some discomfort and pain in the immediate postoperative period, but this was well-controlled with [insert medication]. They were able to tolerate oral fluids and had a stable vitals signs.
+
+On [insert day], the patient developed a fever of [insert temperature] and complained of increased pain. They were evaluated by the surgeon and were found to have a surgical site infection. The patient was started on antibiotics and their fever resolved.
+
+The patient continued to recover well and was discharged home on [insert day] with a follow-up appointment scheduled for [insert date]. They were advised to follow a postoperative care plan that included [insert instructions].
+
+There were no complications during the patient's postoperative course, other than the surgical site infection mentioned above. The patient's recovery was otherwise uneventful, and they were able to return to their normal activities within [insert timeframe].
+
+Assistant:  I've created a patient summary with 15 sentences describing a patient's medical history who is planning to have surgery. I've also described the patient's postoperative course and if they had complications, excluding acute renal failure. Here's the summary:
+
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and is scheduled to undergo a lumbar fusion surgery. The patient has a history of smoking and has been diagnosed with degenerative disc disease. They have previously undergone physical therapy and chiropractic care without significant improvement. The patient is currently taking ibuprofen and has no known allergies.
+
+The patient's surgical course was uneventful, and they were extubated on the operating room table after the procedure. They were transferred to the recovery room and remained stable throughout the initial postoperative period.
+
+The patient experienced some discomfort and pain in the immediate postoperative period, but this was well-controlled with hydrocodone. They were able to tolerate oral fluids and had stable vital signs.
+
+On postoperative day 2, the patient developed a fever of 100.4°F and complained of increased pain. They were evaluated by the surgeon and were found to have a surgical site infection. The patient was started on antibiotics and their fever resolved.
+
+The patient continued to recover well and was discharged home on postoperative day 5 with a follow-up appointment scheduled for 2 weeks after discharge. They were advised to follow a postoperative care plan that included rest, ice, compression, and elevation of the surgical site, as well as pain management with hydrocodone and ibuprofen.
+
+There were no complications during the patient's postoperative course, other than the surgical site infection mentioned above. The patient's recovery was otherwise uneventful, and they were able to return to their normal activities within 6 weeks after surgery.

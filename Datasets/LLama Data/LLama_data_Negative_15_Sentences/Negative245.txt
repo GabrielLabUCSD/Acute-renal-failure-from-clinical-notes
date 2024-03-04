@@ -1,0 +1,45 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Medical History: Hypertension, hyperlipidemia, non-insulin dependent diabetes mellitus, and chronic obstructive pulmonary disease (COPD)
+Surgery Plan: Elective laparoscopic cholecystectomy for symptomatic gallstones
+current medications: Lisinopril, atorvastatin, metformin, and ipratropium bromide
+Allergies: None known
+Social History: Former smoker, drinks alcohol occasionally
+Family History: Father died of myocardial infarction at age 60, mother had breast cancer at age 70
+Preoperative Examination:
+
+* Blood pressure: 150/90 mmHg
+* Heart rate: 80 bpm
+* Respiratory rate: 16 breaths/minute
+* Oxygen saturation: 96% on room air
+* Temperature: 36.8°C (97.2°F)
+* White blood cell count: 11,000 cells/mm3
+* Hemoglobin: 14 g/dL
+* Platelet count: 200,000 platelets/mm3
+* Prothrombin time: 11.5 seconds
+* Partial thromboplastin time: 28 seconds
+* International normalized ratio: 1.0
+* Urinalysis: Normal
+
+Intraoperative Course:
+
+* Induction of anesthesia was uneventful
+* Surgery lasted 2 hours and 15 minutes
+* Estimated blood loss was 200 mL
+* Patient remained hemodynamically stable intraoperatively
+
+Postoperative Course:
+
+* Patient was transferred to the post-anesthesia care unit (PACU) and remained there for 2 hours
+* Patient experienced some nausea and vomiting in the PACU, which was treated with ondansetron
+* Patient was discharged from the PACU and admitted to the surgical ward
+* Patient experienced some pain in the abdomen and was managed with patient-controlled analgesia (PCA)
+* Patient had a uneventful postoperative course and was discharged from the hospital on the 3rd postoperative day
+
+Complications:
+
+* None
+
+The patient had an uncomplicated postoperative course and did not experience any complications.

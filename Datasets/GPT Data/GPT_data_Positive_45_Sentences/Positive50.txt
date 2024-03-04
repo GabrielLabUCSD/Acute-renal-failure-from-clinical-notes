@@ -1,0 +1,77 @@
+The patient is a 65-year-old male who has a medical history of diabetes mellitus, hypertension, and obesity.
+
+He has been managed with oral hypoglycemic agents for his diabetes and antihypertensive medications for his hypertension.
+
+The patient has a BMI of 32, which puts him in the obese category.
+
+He has been advised by his healthcare provider to lose weight for his general health but has not been successful in his attempts to do so.
+
+His blood pressure has been well-controlled on his current medication regimen.
+
+His diabetes has been relatively well-controlled with an average HbA1c level of 7.5%.
+
+The patient has no history of renal disease or any previous surgeries.
+
+He reports intermittent episodes of chest pain on exertion for the past year.
+
+An exercise stress test revealed significant ST-segment depressions during exercise.
+
+A coronary angiogram was performed, revealing a 90% stenosis in his left anterior descending (LAD) artery.
+
+The patient was started on aspirin, a beta-blocker, and a statin medication for his coronary artery disease.
+
+He was also advised to undergo a coronary artery bypass graft (CABG) surgery to bypass the affected artery.
+
+Due to his significant coronary artery disease, the patient is considered high-risk for surgery.
+
+Preoperative tests were performed, including blood work, chest x-ray, and an electrocardiogram, which were all within normal limits.
+
+The patient's renal function tests also came back normal.
+
+He was cleared for surgery by a cardiologist and an anesthesiologist.
+
+The patient was counseled on the risks and benefits of the surgery and provided informed consent.
+
+He was scheduled for surgery the following week.
+
+The patient underwent an uneventful CABG surgery and was transferred to the intensive care unit (ICU) for postoperative care.
+
+In the ICU, the patient's vital signs were stable, and he was monitored closely for any signs of complications.
+
+On the second postoperative day, the patient's urine output decreased significantly, and he developed signs of fluid overload.
+
+His serum creatinine level increased from 1.0 mg/dL preoperatively to 2.5 mg/dL.
+
+His blood urea nitrogen (BUN) level also increased from 15 mg/dL preoperatively to 40 mg/dL.
+
+These findings were consistent with acute renal failure.
+
+The patient was started on diuretic therapy to manage his fluid overload.
+
+He was also given intravenous fluids to maintain his fluid balance.
+
+A nephrologist was consulted for further management of the patient's renal failure.
+
+The nephrologist recommended discontinuing any nephrotoxic medications and closely monitoring the patient's renal function.
+
+The patient's renal function gradually improved over the next few days, and his urine output returned to normal.
+
+His serum creatinine level decreased to 1.2 mg/dL, and his BUN level normalized.
+
+The patient was discharged from the hospital with instructions to follow up with the nephrologist and his primary care provider for regular monitoring of his renal function.
+
+He was also advised to continue taking his postoperative medications, including aspirin, beta-blocker, and statin.
+
+The patient was instructed to maintain a healthy diet and exercise regimen to manage his diabetes and hypertension.
+
+He was counseled on the importance of achieving and maintaining a healthy weight to reduce the risk of future surgeries and complications.
+
+The patient expressed understanding and commitment to making necessary lifestyle changes.
+
+A follow-up appointment was scheduled for two weeks post-discharge to assess his progress and adjust his medications if needed.
+
+The patient's family was also educated on the signs and symptoms of renal failure and the importance of seeking immediate medical attention if any concerns arise.
+
+Overall, the patient's surgery was successful, but he experienced an episode of acute renal failure postoperatively.
+
+With appropriate management and follow-up, the patient's renal function improved, and he was discharged with a plan for continued care.

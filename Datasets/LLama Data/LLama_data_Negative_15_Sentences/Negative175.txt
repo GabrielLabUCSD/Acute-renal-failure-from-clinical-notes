@@ -1,0 +1,37 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obese (BMI 35)
+* Right shoulder rotator cuff tear
+* Previous left shoulder surgery 10 years ago
+* Previous right knee surgery 5 years ago
+* No history of cardiovascular disease
+* No history of respiratory disease
+* No history of diabetes
+* No history of neurological disorders
+
+Surgical History:
+
+* Planning to undergo elective right shoulder surgery for rotator cuff repair
+* Procedure scheduled for next week
+
+Postoperative Course:
+
+* Patient tolerated the procedure well
+* No immediate complications
+* Patient experienced mild postoperative pain, managed with pain medication
+* Patient was able to move his arm and shoulder as expected during early postoperative period
+* Patient was discharged from the hospital on postoperative day 2
+
+Complications:
+
+* None
+
+Note: This is just a sample summary, and the specific details may vary depending on the type of surgery and the patient's individual medical history.

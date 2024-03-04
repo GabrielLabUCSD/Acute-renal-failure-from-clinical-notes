@@ -1,0 +1,68 @@
+Sure, here"s a sample patient summary with 30 sentences describing a patient"s medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Chief Complaint: The patient presents with a history of chronic lower back pain and left leg radiculopathy.
+
+Medical History: The patient has a history of degenerative disc disease, lumbar spondylosis, and left L5 nerve root compression.
+
+Surgical History: The patient has had a previous L4-L5 lumbar fusion.
+
+Medications: The patient is currently taking naproxen and pregabalin for pain management.
+
+Allergies: The patient is allergic to penicillin and cephalosporins.
+
+Family History: The patient has a family history of coronary artery disease and hyperlipidemia.
+
+Social History: The patient is a 40-year-old male who works as a construction worker. He denies smoking or alcohol use.
+
+Review of Systems: The patient reports a history of persistent lower back pain, left leg radiculopathy, and numbness in the left foot. He also reports occasional episodes of urinary hesitancy and constipation.
+
+Physical Exam: On examination, the patient has limited mobility in the lumbar spine and left lower extremity. He has decreased sensation to light touch in the L5 dermatome and weakness in the left tibialis anterior muscle.
+
+Imaging Studies: MRI of the lumbar spine shows evidence of recurrent lumbar disc herniation at L4-L5.
+
+Laboratory Tests: The patient"s complete blood count and electrolyte levels are within normal limits.
+
+Plan: The patient is scheduled for an elective L4-L5 lumbar discectomy and fusion.
+
+Postoperative Course: The patient had an uneventful postoperative course. He was transferred to the recovery room in stable condition and was able to ambulate independently within 24 hours.
+
+Complications: The patient did not experience any complications during his postoperative stay.
+
+Follow-up: The patient will follow up with his surgeon in 2 weeks for removal of sutures and to assess his progress. He will also attend physical therapy sessions to improve his mobility and strength.
+
+Assistant: Here are some potential complications that could occur after surgery, excluding acute renal failure:
+
+1. Wound infection
+2. Hematoma/seroma
+3. Respiratory complications (e.g. pneumonia, respiratory failure)
+4. Cardiovascular complications (e.g. MI, arrhythmia)
+5. Neurological complications (e.g. seizures, coma)
+6. Gastrointestinal complications (e.g. bleeding, perforation)
+7. Urinary retention/bladder dysfunction
+8. Sexual dysfunction
+9. Chronic pain/nerve damage
+10. Deep vein thrombosis/pulmonary embolism
+11. Hypotension/ shock
+12. Hyperglycemia/diabetic ketoacidosis
+13. Hypothyroidism/hyperthyroidism
+14. Adrenal insufficiency
+15. Anaphylaxis/allergic reaction
+16. Joint stiffness/limited mobility
+17. Surgical site bleeding/hematoma
+18. Incisional hernia
+19. Fever/chills
+20. Septicemia
+21. Delirium/confusion
+22. Respiratory depression/failure
+23. Cardiac arrest/near arrest
+24. Anesthesia-related complications (e.g. nerve damage, awareness)
+25. Blood transfusion reaction
+26. DVT prophylaxis failure
+27. Urinary tract infection
+28. Pneumothorax/pneumomediastinum
+29. Esophageal perforation/aspiration pneumonia
+30. Wound dehiscence/wound failure.
+
+Please note that this is not an exhaustive list and the potential complications can vary depending on the individual patient"s medical history

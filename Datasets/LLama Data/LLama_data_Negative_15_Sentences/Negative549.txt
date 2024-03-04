@@ -1,0 +1,59 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+
+Age: 55
+
+Medical History:
+
+* Hypertension for 10 years
+* Diabetes mellitus for 5 years
+* Hyperlipidemia for 3 years
+* History of smoking for 20 years, quit 5 years ago
+* History of alcohol use disorder, currently in remission
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Right knee arthroscopy at age 50
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Metformin for diabetes mellitus
+* Atorvastatin for hyperlipidemia
+* Celecoxib for knee pain
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother has hyperlipidemia and hypertension
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Lives in a two-story house with no elevator
+
+Reason for Surgery:
+
+* Elective total knee replacement for severe osteoarthritis
+
+Postoperative Course:
+
+* Patient had a smooth postoperative course
+* No complications during hospital stay
+* Discharged home on postoperative day 3
+* Followed up with orthopedic surgeon and primary care physician for routine checks
+
+Complications:
+
+* None
+
+I hope this helps! Let me know if you have any questions or if you'd like to simulate a different scenario.

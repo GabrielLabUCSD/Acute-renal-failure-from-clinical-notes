@@ -1,0 +1,43 @@
+Patient Summary:
+
+Name: [Patient's Name]
+Age: [Patient's Age]
+Gender: [Patient's Gender]
+
+Medical History:
+
+* [Patient's Medical History, including pre-existing conditions, allergies, and medications]
+
+Reason for Surgery:
+
+* [Reason for Surgery, including diagnosis and symptoms]
+
+Preoperative Course:
+
+* [Preoperative Course, including any relevant test results, consultations, and preparations]
+
+Surgery Details:
+
+* [Surgery Details, including date, time, location, and procedure]
+
+Postoperative Course:
+
+* [Postoperative Course, including recovery room stay, pain management, and any complications]
+
+Complications:
+
+* [List of Complications, excluding acute renal failure]
+
+Discharge:
+
+* [Discharge details, including date, time, and any follow-up appointments or instructions]
+
+Follow-up:
+
+* [Follow-up details, including appointments, tests, and medications]
+
+Conclusion:
+
+* [Conclusion, including patient's current status and any future plans or recommendations]
+
+Note: This summary is meant to provide a general outline of the patient's medical history and postoperative course. It should not be used as a substitute for thorough medical records or direct communication with the patient's healthcare providers.

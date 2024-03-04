@@ -1,0 +1,71 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. He has tried physical therapy and medication without significant relief. The patient is a candidate for lumbar fusion surgery.
+
+Past Medical History:
+
+* Hypertension, well-controlled on medication
+* Hyperlipidemia, well-controlled on medication
+* History of smoking, quit 5 years ago
+* No history of previous surgeries or hospitalizations
+
+Medications:
+
+* Lisinopril
+* Atorvastatin
+* No NSAIDs or blood thinners
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+
+Social History:
+
+* Married with two adult children
+* Works as an office manager
+* No history of substance abuse
+
+Review of Systems:
+
+* No history of fevers, chills, or weight loss
+* No history of gastrointestinal or genitourinary symptoms
+* No history of respiratory symptoms
+* No history of cardiovascular symptoms
+
+Physical Exam:
+
+* Blood pressure: 130/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F
+* No signs of acute distress
+
+Lab Results:
+
+* Complete Blood Count (CBC): within normal limits
+* Electrolyte panel: within normal limits
+* Lipid profile: within normal limits
+
+Imaging Studies:
+
+* MRI lumbar spine: shows degenerative disc disease and spinal stenosis
+* X-ray lumbar spine: shows spondylolisthesis
+
+Plan:
+
+* The patient will undergo lumbar fusion surgery
+* Preoperative workup will include clearance from cardiology and pulmonology
+* Patient will be monitored closely for signs of postoperative complications
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Recovered well from anesthesia
+* Reported minimal pain, well-controlled with pain medication
+* Ambulated independently on postoperative day 2
+* Discharged home on postoperative day 3
+
+Complications:
+
+* None reported

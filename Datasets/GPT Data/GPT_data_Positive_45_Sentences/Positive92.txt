@@ -1,0 +1,47 @@
+The patient is a (insert age) year old (insert gender) who is planning to undergo surgery. The reason for the surgery is (insert reason). The patient's medical history is as follows:
+
+1. The patient has no known allergies to any medications or substances.
+2. The patient has a history of (insert any chronic medical conditions, such as diabetes, hypertension, etc.).
+3. The patient has undergone (insert past surgeries or procedures).
+4. The patient takes the following medications on a regular basis (insert medication names and dosages).
+5. The patient has a family history of (insert any relevant family history, such as heart disease, cancer, etc.).
+6. The patient has a history of smoking (insert smoking history, such as pack-years).
+7. The patient has a history of alcohol consumption (insert alcohol consumption history, such as frequency and quantity).
+8. The patient exercises (insert exercise habits, such as frequency and type of exercise).
+9. The patient has a history of recreational drug use (insert recreational drug use history, if applicable).
+10. The patient has no history of psychiatric disorders, including depression or anxiety.
+11. The patient has a stable social support system, including family or caregivers who can assist with post-surgical care.
+12. The patient has no cognitive deficits or impairments.
+13. The patient's most recent routine blood work showed normal results for (insert relevant blood parameters, such as CBC, electrolytes, etc.).
+14. The patient's most recent imaging studies (insert relevant imaging studies, such as X-rays, CT scans, etc.) showed (insert findings, if any).
+15. The patient has no known history of blood clotting disorders or bleeding disorders.
+16. The patient has no known history of infectious diseases, such as HIV or hepatitis.
+17. The patient has received all necessary vaccinations.
+18. The patient has no known history of surgical complications or adverse reactions to anesthesia.
+19. The patient's primary care physician has cleared them for surgery.
+20. The patient is scheduled to have the surgery at (insert hospital or surgical facility).
+21. The surgery will be performed by (insert surgeon's name and specialization).
+22. The patient has been advised of the risks and benefits of the surgery and has provided informed consent.
+23. The patient has received pre-operative instructions, including fasting requirements, medication adjustments, and hygiene procedures.
+24. The patient is in good general health and has no signs or symptoms of infection or illness prior to surgery.
+25. The patient has been instructed to discontinue certain medications prior to surgery, if necessary.
+26. The patient has been instructed to follow specific pre-operative dietary recommendations, if applicable.
+27. The patient has undergone pre-operative tests, such as EKG, chest x-ray, or blood work, to ensure suitability for surgery.
+28. The patient has been advised to refrain from smoking or using tobacco products prior to surgery to promote healing and reduce complications.
+29. The patient has been advised to avoid consuming alcohol or recreational drugs in the days leading up to surgery.
+30. The patient has made the necessary arrangements for transportation to and from the surgical facility.
+31. The patient has received instructions on post-operative care, including wound care, pain management, and activity restrictions.
+32. The patient is aware of the potential risks and complications associated with surgery, including bleeding, infection, and adverse reactions to anesthesia.
+33. The patient has been advised to maintain a healthy lifestyle, including regular exercise and a balanced diet, to promote optimal recovery.
+34. The patient has been advised to abstain from sexual activity for a certain period following surgery, if applicable.
+35. The patient has been advised to follow up with their primary care physician or surgeon for post-operative evaluation and management.
+36. The patient has been provided with information regarding support groups or resources for individuals undergoing similar surgeries.
+37. The patient has a positive attitude and is motivated to undergo the surgery.
+38. The patient has a strong support system, including family and friends who will assist with their recovery.
+39. The patient is aware of the potential financial implications of the surgery and has made necessary arrangements.
+40. The patient has discussed their preferences for end-of-life care, if applicable.
+41. Immediately following the surgery, the patient developed acute renal failure.
+42. This complication was diagnosed through laboratory tests that showed elevated levels of creatinine and decreased urine output.
+43. The patient was immediately started on hemodialysis to help support kidney function and remove toxins from the body.
+44. The cause of the acute renal failure is still under investigation but could be related to the surgery and possibility of decreased blood flow to the kidneys.
+45. The patient's medical team is closely monitoring their kidney function and adjusting the treatment plan as needed to manage the acute renal failure.

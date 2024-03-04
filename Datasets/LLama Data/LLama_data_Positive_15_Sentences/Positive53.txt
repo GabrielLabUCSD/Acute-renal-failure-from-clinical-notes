@@ -1,0 +1,28 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes mellitus.
+3. He has been smoking for the past 40 years.
+4. He has a history of chronic obstructive pulmonary disease (COPD).
+5. He has a history of coronary artery disease and has had a previous myocardial infarction.
+6. He has a history of hyperlipidemia.
+7. He has a history of non-alcoholic fatty liver disease (NAFLD).
+8. He has a history of chronic kidney disease (CKD) stage 3.
+9. He is scheduled to undergo a surgical procedure for the removal of a malignant tumor in his lung.
+10. He has been experiencing worsening shortness of breath and cough for the past month.
+11. He has been compliant with his medications and has been taking them as prescribed.
+12. He has been advised to stop smoking and has been referred to a smoking cessation program.
+13. He has been advised to lose weight and has been referred to a dietitian for nutritional counseling.
+14. His blood work reveals an elevated blood urea nitrogen (BUN) and creatinine, indicating acute renal failure.
+15. He is admitted to the intensive care unit for close monitoring and management of his acute renal failure.
+
+Complication:
+
+1. The patient developed acute renal failure (ARF) post-surgery, which was caused by a combination of factors such as dehydration, sepsis, and medication-related nephrotoxicity.
+2. The patient's serum creatinine level increased from 1.8 mg/dL pre-operatively to 4.5 mg/dL on the first post-operative day.
+3. The patient's urine output decreased significantly, and he developed oliguria.
+4. The patient's blood work revealed an elevated BUN and creatinine, indicating worsening renal function.
+5. The patient was started on intravenous fluids and diuretics to help improve renal function and urine output.
+6. The patient's urine output and renal function slowly improved over the next few days, and he was eventually weaned off the diuretics.
+7. The patient was closely monitored for signs of fluid overload, and his fluid intake was restricted to avoid worsening his renal function.
+8. The patient's renal function returned to normal within a week, and he was discharged from the hospital with plans for close follow-up with his nephrologist.

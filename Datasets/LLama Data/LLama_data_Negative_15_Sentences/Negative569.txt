@@ -1,0 +1,17 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition] and is planning to undergo [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert relevant surgeries or procedures]. The patient is currently taking [insert medications] and has no known allergies.
+
+Preoperatively, the patient was in good health and did not report any significant medical issues. The patient received thorough preoperative instructions, including the risks and benefits of the surgery, and provided informed consent.
+
+Intraoperatively, the patient tolerated the procedure well and did not experience any unexpected complications. The surgery was completed successfully, and the patient was transferred to the recovery room in stable condition.
+
+Postoperatively, the patient experienced some expected discomfort and pain, which was managed effectively with pain medication. The patient was encouraged to mobilize early and did so without difficulty. The patient did not experience any respiratory or cardiac complications.
+
+The patient was discharged from the hospital on [insert date] and was advised to follow up with their surgeon in [insert time frame]. The patient was also provided with instructions on wound care and managing their pain at home.
+
+Follow-up appointment was on [insert date], the patient reported minimal pain and was able to perform daily activities without any issues. The patient did not experience any complications during the postoperative period.
+
+Overall, the patient had a successful surgery and uneventful postoperative course.
+
+Note: This is a sample template and should be individualized based on the specific patient's medical history and postoperative course.

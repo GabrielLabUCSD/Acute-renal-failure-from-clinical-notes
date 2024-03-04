@@ -1,0 +1,29 @@
+The patient is a 50-year-old male who is planning to have surgery.
+He has a past medical history significant for hypertension.
+The patient has been treated for hypertension for the past 10 years.
+He currently takes antihypertensive medication, including a beta-blocker and an ACE inhibitor.
+The patient's blood pressure is well controlled with medication.
+He does not have a history of any surgical procedures.
+The patient does not smoke, but he does consume alcohol occasionally.
+He denies any drug allergies or adverse reactions to medication.
+The patient reports no family history of significant medical conditions.
+His vital signs are within normal limits at this time.
+The patient's physical exam is unremarkable.
+Laboratory tests show normal liver and kidney function.
+The patient is scheduled to have surgery in two weeks.
+During the surgery, the patient experiences complications and develops acute renal failure.
+The etiology of the acute renal failure is unclear, but it may be related to intraoperative hypotension or exposure to nephrotoxic agents.
+The patient is closely monitored for electrolyte imbalances and fluid overload.
+He is placed on strict fluid management to optimize renal function.
+A nephrologist is consulted for further management of the acute renal failure.
+The patient's urine output is monitored hourly to assess renal function.
+In addition to the acute renal failure, the patient develops postoperative complications including infection and prolonged ileus.
+The patient is started on broad-spectrum antibiotics to treat the infection.
+He is also given a nasogastric tube to decompress the bowel and facilitate bowel function.
+The patient's renal function gradually improves with appropriate management.
+His urine output increases, and laboratory tests show a decrease in creatinine and blood urea nitrogen levels.
+The patient is eventually discharged from the hospital with close follow-up with the nephrologist.
+He is instructed to continue taking his antihypertensive medication as prescribed.
+The patient is advised to avoid any nephrotoxic medications or substances.
+He is counseled on the importance of maintaining a healthy lifestyle and managing his hypertension to prevent future complications.
+The patient's overall prognosis is good, but he will need continued monitoring of his renal function to ensure long-term kidney health.

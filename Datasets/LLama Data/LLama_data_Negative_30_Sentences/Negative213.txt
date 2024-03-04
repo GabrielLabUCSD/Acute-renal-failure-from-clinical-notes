@@ -1,0 +1,21 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [medical condition 1], [medical condition 2], and [medical condition 3]. The patient has been experiencing [ symptoms] for the past [length of time] and has tried [previous treatments] without relief. The patient is planning to undergo [type of surgery] to address their condition.
+
+The patient has no known allergies and is currently taking [medications]. Their last surgery was [previous surgery] and they experienced [complications] during their postoperative course. The patient"s family medical history includes [family medical history].
+
+The patient is a [smoker/non-smoker] and drinks [alcohol consumption]. They have a history of [relevant past medical events]. The patient"s current vital signs are [temperature], [blood pressure], [pulse], and [respiratory rate].
+
+The patient"s laboratory results are as follows: [insert relevant lab results].
+
+The patient"s surgical procedure was performed under [anesthesia type] and took [length of procedure]. The patient tolerated the procedure well and remained stable throughout.
+
+Postoperatively, the patient experienced [postoperative symptoms] and received [medications] for pain management. They were discharged from the hospital on [date] and recovered uneventfully.
+
+The patient had a follow-up appointment on [date] and reported [follow-up symptoms]. They were advised to continue with [treatment plan].
+
+The patient experienced no complications during their postoperative course.
+
+Patient Summary:
+
+In summary, this patient is planning to undergo [type of surgery] for their medical condition. They have a history of [medical condition 1], [medical condition 2], and [medical condition 3], and have tried [previous treatments] without relief. The patient has no known allergies, is currently taking [medications], and has a history of [previous surgery] with [complications]. Their vital signs are stable, and their laboratory results are within normal limits. The patient tolerated the surgical procedure well and had an uneventful postoperative course. They were discharged from the hospital on [date] and had a follow-up appointment on [date]. The patient experienced [follow-up symptoms] and was advised to continue with [treatment plan]. The patient did not experience any complications during their postoperative course.

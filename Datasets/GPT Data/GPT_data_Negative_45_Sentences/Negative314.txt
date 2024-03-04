@@ -1,0 +1,37 @@
+Patient Summary
+
+This is a summary of a patient's medical history who is planning to undergo surgery. The patient does not have a history of acute renal failure.
+
+The patient is a 58-year-old male with a medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. He has been taking antihypertensive medications and statins for the past five years, and metformin for diabetes control.
+
+In terms of surgical history, the patient underwent cholecystectomy 10 years ago for symptomatic gallstones. The procedure was uneventful, and the patient had an uncomplicated postoperative course.
+
+The patient has no known drug allergies and does not smoke or consume alcohol. He leads a sedentary lifestyle and has a body mass index (BMI) of 32, indicating obesity.
+
+On physical examination, the patient's blood pressure is consistently elevated at 150/90 mmHg. Otherwise, the examination is unremarkable, with no abnormal cardiac or pulmonary findings.
+
+Lab investigations reveal well-controlled blood glucose levels, with HbA1c consistently below 7% over the past year. His lipid profile is within the normal range, with a low-density lipoprotein (LDL) cholesterol level of 100 mg/dL.
+
+An electrocardiogram (ECG) shows sinus rhythm without any significant abnormalities, and an echocardiogram demonstrates preserved left ventricular function with no valvular abnormalities.
+
+The patient is scheduled to undergo elective prostatectomy for benign prostatic hyperplasia (BPH). He has been experiencing urinary hesitancy, weak flow, increased frequency, and nocturia over the past year, which have progressively worsened.
+
+Prior to surgery, the patient underwent a preoperative assessment, including complete blood count, coagulation profile, renal function tests, and liver function tests. All results were within normal limits.
+
+The patient was counseled on the surgical procedure, risks, and benefits, as well as the postoperative course. He was advised to discontinue anticoagulant medications (if any) five days before surgery.
+
+On the day of surgery, the patient was admitted to the hospital and prepared for the procedure. Anesthesia was induced, and the surgery was performed without any complications. The patient tolerated the procedure well and was transferred to the post-anesthesia care unit (PACU) for recovery.
+
+During the postoperative course, the patient was closely monitored for vital signs, pain control, and gastrointestinal function. He was started on prophylactic antibiotics and deep vein thrombosis prophylaxis.
+
+The patient experienced mild postoperative pain, primarily at the surgical incision site, which was managed with oral analgesics. His vital signs remained stable, with no signs of infection or hemorrhage.
+
+Regarding gastrointestinal function, the patient resumed a clear liquid diet one day after surgery and gradually advanced to a regular diet as tolerated. He did not report any nausea, vomiting, or other gastrointestinal symptoms.
+
+The patient was encouraged to ambulate and participate in breathing exercises to prevent postoperative complications such as atelectasis and deep vein thrombosis. Physical therapy was also provided to aid in early mobilization.
+
+Overall, the patient had an uneventful postoperative course. He was discharged from the hospital four days after surgery, following an evaluation by the surgical team. Home instructions were given, including wound care, medication management, and signs of potential complications.
+
+At the follow-up appointment two weeks after surgery, the patient reported overall satisfaction with the surgical outcome. The surgical incision had healed well, with no signs of infection or dehiscence. He has resumed his regular daily activities and experienced resolution of his urinary symptoms.
+
+In conclusion, the patient, a 58-year-old male, with a medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus, successfully underwent prostatectomy for BPH without any complications. His postoperative course was uneventful, and he experienced resolution of his urinary symptoms.

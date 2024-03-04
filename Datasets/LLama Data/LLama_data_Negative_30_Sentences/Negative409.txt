@@ -1,0 +1,81 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Previous myocardial infarction (MI) 10 years ago
+* Previous coronary artery bypass grafting (CABG) 5 years ago
+* Chronic obstructive pulmonary disease (COPD)
+* Chronic lower back pain
+* History of smoking
+* History of alcohol use disorder
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy for symptomatic gallstones
+* Previous appendectomy
+
+Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 40 mg daily
+* Metformin 1000 mg daily
+* Simvastatin 40 mg daily
+* Albuterol inhaler as needed
+* Ibuprofen 800 mg as needed
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Family History:
+
+* Father died of MI at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of MI
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with a dog
+* Has a history of weight loss surgery 5 years ago
+
+Lab Results:
+
+* WBC 12,000/mm3
+* Hemoglobin A1C 7.5%
+* Creatinine 1.5 mg/dL
+* BUN 25 mg/dL
+* Alkaline phosphatase 120 IU/L
+* Total bilirubin 0.8 mg/dL
+* INR 2.5
+
+Imaging Studies:
+
+* CT scan of the abdomen and pelvis showed gallstones and no evidence of gallbladder inflammation
+
+Plan:
+
+* Elective laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Postoperative day 1: Patient had a uneventful night, tolerated liquids well, and had minimal pain.
+* Postoperative day 2: Patient was able to eat solid food and had no complications.
+* Postoperative day 3: Patient was discharged home with a prescription for oral pain medication and instructions to rest for 1 week.
+
+Potential Complications:
+
+* Wound infection
+* Internal bleeding
+* Injury to surrounding organs (e.g. liver, bile ducts)
+* Postoperative pneumonia
+* Urinary retention
+* Hypothyroidism (due to history of thyroid surgery)
+
+This patient summary provides a comprehensive overview of the patient's medical history, surgical history, medications, allergies, family history, social history, lab results, imaging studies, and potential complications. It helps the surgical team and anesthesiologist understand the patient's overall health status and factors that may impact their postoperative course.

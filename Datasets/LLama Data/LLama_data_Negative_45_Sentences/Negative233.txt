@@ -1,0 +1,95 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Gender: Male
+
+Height: 5'10"
+
+Weight: 200 lbs
+
+BMI: 31
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* Chronic lower back pain
+* Previous hernia repair surgery 20 years ago
+* Previous cholecystectomy 10 years ago
+* Previous knee arthroscopy 5 years ago
+* History of non-melanoma skin cancer, treated with excision 3 years ago
+* History of benign prostatic hyperplasia (BPH)
+* History of gastroesophageal reflux disease (GERD)
+* History of hypothyroidism
+* History of osteoarthritis in multiple joints
+* History of psoriasis
+* History of pulmonary embolism 5 years ago
+* History of atrial fibrillation
+* History of type 2 diabetes mellitus
+* History of hyperlipidemia
+
+Medications:
+
+* Amlodipine for hypertension
+* Atorvastatin for hyperlipidemia
+* Omeprazole for GERD
+* Levothyroxine for hypothyroidism
+* Celecoxib for osteoarthritis
+* Methotrexate for psoriasis
+* Apixaban for atrial fibrillation
+* Metformin for type 2 diabetes mellitus
+* Lisinopril for hypertension
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house
+* Has a dog
+* Denies any recent travel or exposure to illnesses
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Reason for Surgery:
+
+* Elective total knee arthroplasty for severe osteoarthritis
+
+Preoperative Examination:
+
+* Unremarkable physical examination
+* Normal electrocardiogram (ECG)
+* Normal echocardiogram
+* Normal pulmonary function tests (PFTs)
+* Normal liver and renal function tests
+* Normal coagulation studies
+* Normal urinalysis
+* No evidence of acute renal failure
+
+Postoperative Course:
+
+* Patient had a successful total knee arthroplasty surgery
+* Patient was extubated in the operating room and transferred to the post-anesthesia care unit (PACU)
+* Patient was transferred to the orthopedic floor on postoperative day 1
+* Patient had adequate pain control with hydrocodone and acetaminophen
+* Patient was able to ambulate with assistance on postoperative day 2
+* Patient was discharged home on postoperative day 3 with a walker and home physical therapy
+
+Complications:
+
+* None
+
+I hope this sample patient summary helps you in your work. Please note that this is just a sample and should be tailored to the individual patient's specific medical history and postoperative course.

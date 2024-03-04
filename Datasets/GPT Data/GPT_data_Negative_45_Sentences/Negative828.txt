@@ -1,0 +1,29 @@
+The patient is a [age]-year-old [gender] who is scheduled to undergo [type of surgery]. They have a medical history significant for [list of medical conditions, such as hypertension and diabetes]. Their past surgical history includes [list of previous surgeries, if any]. 
+
+In terms of medications, the patient is currently taking [list of medications], and it is important to note that [specific medications should be mentioned, such as anticoagulants or immunosuppressants]. They also have known allergies to [specific allergies, if any, such as penicillin or latex].
+
+The patient's preoperative labs revealed [results of key lab tests, such as complete blood count, liver function tests, and renal function tests]. Notably, their renal function is within normal limits, with a creatinine level of [value] and an estimated glomerular filtration rate (eGFR) of [value].
+
+During the preoperative evaluation, the patient was assessed by various specialists, including a [list of specialists involved, such as an anesthesiologist and cardiologist]. Their cardiovascular evaluation demonstrated [findings of the cardiovascular assessment, such as a normal echocardiogram and a stable cardiac rhythm].
+
+The patient's respiratory evaluation showed [results of pulmonary function tests or any respiratory conditions that were noted, such as asthma]. The anesthesia team is planning on using [specific anesthesia technique, such as general anesthesia] for the surgery, taking into consideration the patient's medical history and overall health status.
+
+Regarding social history, the patient is a [employment status], living with [people they live with, such as family or alone]. They have support from [support system, example: family members or friends]. Their living situation is considered safe and conducive to recovery.
+
+The patient's surgery is scheduled for [date] at [time], and they have been provided with preoperative instructions and have confirmed understanding. They have been instructed to avoid eating or drinking after midnight on the day of the surgery, and to take their prescribed medications with a small sip of water as directed.
+
+Postoperatively, the patient is expected to recover in the [type of care unit, such as the surgical ward or intensive care unit]. After the surgery, routine monitoring will be done, including assessments of [vital signs, pain level, oxygen saturation, and wound status]. Emphasis on early ambulation will be important to prevent complications such as deep vein thrombosis.
+
+Pain management post-surgery will be addressed with a multimodal approach, including [medications, such as nonsteroidal anti-inflammatory drugs (NSAIDs) and opioids] as needed. It will be important for the patient to communicate their pain levels to the nursing staff to ensure adequate pain control.
+
+The patient's postoperative diet will begin with clear liquids and progress as tolerated. The surgical team will closely monitor the patient's gastrointestinal function to ensure appropriate bowel movements and recovery of normal dietary intake.
+
+During the postoperative course, the patient will receive prophylactic antibiotics to prevent surgical site infections. The incision site will be regularly assessed for signs of infection or poor wound healing, and appropriate measures will be taken if necessary.
+
+The patient's postoperative physiotherapy/physical therapy plan will include [specific exercises to be performed, such as deep breathing, coughing, and ambulation]. This will aid in the patient's recovery and minimize postoperative complications like pneumonia or postoperative ileus.
+
+Gradually, the patient's condition is expected to improve, with the potential for discharge occurring in [expected length of hospital stay]. Follow-up appointments have been scheduled with [relevant healthcare providers, such as surgeon or primary care physician] to monitor the patient's progress and address any concerns.
+
+Regarding complications, the patient did not experience any intraoperative difficulties or immediate postoperative issues. However, in the days following the surgery, the patient developed [include any complications that occurred, except acute renal failure]. These complications were managed with [specific interventions, such as medication adjustments or additional procedures], and their condition subsequently stabilized.
+
+Overall, the patient's postoperative course was complicated by [mention any additional complications, if present], but with appropriate interventions, they achieved a steady recovery. The patient was discharged home with a plan for continued follow-up and close monitoring of any ongoing issues.

@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [MD consultation reason]. The patient has a history of [medical condition 1], [medical condition 2], and [medical condition 3]. The patient has been taking [medication 1], [medication 2], and [medication 3] for their conditions.
+
+The patient is scheduled to undergo [surgery type] surgery. The surgery is planned to be performed under [anesthesia type] anesthesia.
+
+Postoperatively, the patient is expected to stay in the hospital for [length of stay] days. The patient will be closely monitored for [complication 1], [complication 2], and [complication 3].
+
+The patient is at risk for developing [complication 4] due to their medical history. The patient will be closely monitored for signs of [complication 5] and [complication 6].
+
+The patient will be advised to follow a [postoperative care plan] to ensure a smooth recovery. This includes [postoperative care instruction 1], [postoperative care instruction 2], and [postoperative care instruction 3].
+
+The patient is expected to make a full recovery and return to their normal activities within [time frame] weeks.
+
+Complications:
+
+The patient did not experience any acute renal failure during their postoperative course. However, they did develop [complication 7] on postoperative day [POD] and [complication 8] on POD. These complications were managed with [intervention 1] and [intervention 2], respectively.
+
+Overall, the patient had an uneventful postoperative course and is expected to make a full recovery.

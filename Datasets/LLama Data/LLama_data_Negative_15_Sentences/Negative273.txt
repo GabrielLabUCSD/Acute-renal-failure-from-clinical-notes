@@ -1,0 +1,62 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Chronic lower back pain
+* Previous history of colon cancer (stage II)
+* Previous history of hip replacement surgery
+
+Current Medications:
+
+* Lisinopril
+* Atorvastatin
+* Aspirin
+* Oxycodone
+* Metformin
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+
+Social History:
+
+* Retired
+* Lives alone
+* Does not exercise regularly
+* Denies alcohol or illicit drug use
+
+Reason for Surgery:
+
+* Elective total knee replacement
+
+Postoperative Course:
+
+* uneventful
+* Patient was discharged home on postoperative day 3
+* Follow-up appointment was scheduled for 2 weeks after discharge
+
+Complications:
+
+* None
+
+Additional Notes:
+
+* Patient was advised to continue his current medications perioperatively
+* Patient was instructed to follow a regular exercise program after discharge to aid in rehabilitation
+* Patient was advised to avoid heavy lifting or bending for 6 weeks after surgery
+
+This summary includes relevant information about the patient's medical history, current medications, allergies, family history, social history, reason for surgery, postoperative course, and any potential complications. It also includes instructions for the patient's postoperative care and rehabilitation.Note that acute renal failure is not listed as a complication, as per your request.

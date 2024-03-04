@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male who presents for [insert type of surgery]. He has a medical history of [insert relevant medical conditions, such as hypertension, diabetes, etc.]. The patient has been taking [insert medications] and has been compliant with his medication regimen. He has no known allergies to medications.
+
+The patient had a previous surgery [insert type of surgery] and experienced [insert complications, if any]. The patient has been smoking [insert number of packs per day] for [insert number of years] and is interested in quitting. He has a history of alcohol use but denies any recent alcohol consumption.
+
+The patient's family history includes [insert relevant medical conditions in family members]. The patient's social history includes [insert relevant information, such as living situation, support system, etc.].
+
+The patient's review of systems is positive for [insert relevant symptoms, such as pain, nausea, etc.]. The patient's physical examination is significant for [insert relevant findings, such as abdominal tenderness, etc.]. The patient's laboratory results are within normal limits, except for [insert any abnormal results].
+
+The patient is scheduled for [insert type of surgery] and is expected to have a [insert expected postoperative course, such as length of stay, pain management, etc.]. The patient will be monitored closely for [insert potential complications, such as wound infection, bleeding, etc.].
+
+The patient will be discharged home with [insert any instructions or medications, such as wound care, pain management, etc.]. The patient will follow up with the surgeon in [insert time frame, such as 1-2 weeks] and with the primary care physician in [insert time frame, such as 2-4 weeks].
+
+The patient is at risk for [insert potential complications, such as wound infection, bleeding, etc.] and will be monitored closely. The patient will be provided with clear instructions for wound care and pain management. The patient is expected to make a full recovery and return to regular activities in [insert time frame, such as 4-6 weeks].

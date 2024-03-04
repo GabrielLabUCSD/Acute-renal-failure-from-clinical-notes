@@ -1,0 +1,94 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. He has tried physical therapy and medication without significant relief. Imaging studies show a large central disc herniation at L4-L5. The patient is a candidate for lumbar fusion surgery.
+
+Past Medical History:
+
+* Hypertension controlled with medication
+* Hyperlipidemia controlled with medication
+* History of non-insulin-dependent diabetes mellitus
+* History of smoking, currently not smoking
+* History of alcohol use, currently not drinking
+
+Medications:
+
+* Amlodipine
+* Lisinopril
+* Metformin
+* Simvastatin
+* Celecoxib
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+
+Social History:
+
+* Married with two adult children
+* Works as a software engineer
+* Denies recent travel or exposure to illness
+* Lives in a house with no pets
+
+Review of Systems:
+
+* No fever, chills, or night sweats
+* No nausea or vomiting
+* No abdominal pain or diarrhea
+* No urinary symptoms
+* No respiratory symptoms
+* No cardiovascular symptoms
+
+Physical Exam:
+
+* Blood pressure: 130/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F
+* Weight: 180 lbs
+* BMI: 27
+* No tenderness to palpation of the abdomen, chest, or pelvis
+* No edema of the lower extremities
+* No signs of infection
+
+Lab Results:
+
+* WBC: 10,000/mm3
+* Hemoglobin: 14 g/dL
+* Platelet count: 200,000/mm3
+* BUN: 18 mg/dL
+* Creatinine: 1.2 mg/dL
+* Glucose: 120 mg/dL
+* Cholesterol: 180 mg/dL
+* Triglycerides: 150 mg/dL
+* Alkaline phosphatase: 120 IU/L
+* Lipase: 150 IU/L
+* Amylase: 100 IU/L
+
+Imaging Studies:
+
+* MRI of the lumbar spine shows a large central disc herniation at L4-L5 with severe neural compromise
+* CT scan of the abdomen and pelvis shows no evidence of disease
+
+Plan:
+The patient will undergo lumbar fusion surgery. Preoperative workup includes standard blood work, urinalysis, and a cardiac consult. The patient will be given a bowel prep and will be admitted to the hospital the day before surgery.
+
+Postoperative Course:
+
+* The patient had an uneventful surgery and was transferred to the recovery room in stable condition
+* His postoperative pain was managed with IV morphine and later switched to oral hydrocodone
+* He had a urinary catheter placed for 24 hours and was able to void normally afterwards
+* He was discharged from the hospital on postoperative day 3 with a follow-up appointment in 2 weeks
+
+Complications:
+
+* The patient developed a wound infection on postoperative day 5, which was treated with antibiotics
+* He also experienced some delayed gastrointestinal recovery, which resolved with supportive care and medication
+
+Follow-up:
+The patient had a follow-up appointment 2 weeks after discharge and was doing well. His wound was healing properly, and he had minimal pain. He was able to return to work 1 month after surgery and had no further complications.

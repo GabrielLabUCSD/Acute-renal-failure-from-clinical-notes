@@ -1,0 +1,21 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [list of relevant medical conditions]. They are scheduled to undergo [type of surgery] for [reason for surgery].
+
+In terms of surgical risk, the patient has [specific risk factors such as obesity, diabetes, hypertension, smoking history, etc.]. Their preoperative evaluation revealed [additional findings from physical examination, laboratory tests, or imaging studies].
+
+The patient's medication list includes [list of current medications]. They have been advised to discontinue [specific medications] prior to surgery and to continue taking [specific medications] up until the day of surgery.
+
+During the perioperative period, the patient will receive appropriate prophylactic antibiotics to minimize the risk of infection. They will also be monitored closely for any signs of complications such as bleeding, infection, or adverse reactions to anesthesia.
+
+Postoperatively, the patient will be transferred to the recovery room for monitoring of vital signs, pain control, and assessment of surgical site. They will gradually be transitioned from intravenous pain medications to oral pain medications as tolerated.
+
+The patient is at risk for postoperative complications such as deep vein thrombosis (DVT) due to immobility. Appropriate measures, including early mobilization and pharmacological prophylaxis, will be taken to prevent DVT formation.
+
+To reduce the risk of surgical site infection, the patient will receive perioperative antibiotics and undergo strict sterile technique during surgery. They will also be advised on wound care and signs of infection to watch out for after discharge.
+
+Physical therapy will be involved in the patient's postoperative care. They will receive instructions on mobility exercises, breathing exercises, and any necessary assistive devices to aid in their recovery and optimize functional outcomes.
+
+Postoperative follow-up appointments will be scheduled to monitor wound healing, address any concerns, and adjust medications as needed. The patient's pain level, functional status, and overall recovery progress will be assessed during these visits.
+
+Complications such as wound dehiscence, surgical site infection, or respiratory complications may arise postoperatively. If any complications occur, appropriate interventions will be implemented promptly to ensure the patient's well-being and optimal recovery.
+
+Overall, the patient's postoperative course will be closely monitored to detect any potential complications early and manage them effectively. A multidisciplinary team, including surgeons, nurses, pain specialists, and physical therapists, will collaborate to provide comprehensive care and support during the patient's recovery process.

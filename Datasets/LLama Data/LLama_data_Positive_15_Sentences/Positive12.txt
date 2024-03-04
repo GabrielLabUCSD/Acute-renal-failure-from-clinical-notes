@@ -1,0 +1,37 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes.
+3. He has been smoking for the past 40 years.
+4. He has a history of coronary artery disease and had a myocardial infarction 10 years ago.
+5. He has been experiencing worsening left knee pain for the past year.
+6. He has tried physical therapy and medication but has not had relief from the pain.
+7. He has been diagnosed with osteoarthritis of the left knee.
+8. He is planning to undergo a total knee replacement surgery.
+9. He has a history of chronic kidney disease and his creatinine level is 1.8 mg/dL.
+10. His blood urea nitrogen (BUN) level is 30 mg/dL.
+11. He has a history of heart failure and takes medication for it.
+12. He has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine.
+13. He takes several medications, including blood thinners, for his various medical conditions.
+14. He has a history of allergic reactions to penicillin and sulfa drugs.
+15. He is planning to have the surgery done under general anesthesia.
+
+Complication:
+
+After the surgery, the patient developed acute renal failure.
+
+1. His creatinine level increased to 2.5 mg/dL.
+2. His BUN level increased to 45 mg/dL.
+3. He had decreased urine output.
+4. He had swelling in his legs and ankles.
+5. He had a decrease in his urine output.
+6. He had an increase in his serum potassium level.
+7. He had a decrease in his blood pressure.
+8. He had tachycardia.
+9. He had tachypnea.
+10. He was admitted to the intensive care unit (ICU) for close monitoring.
+11. He was started on hemodialysis to help remove excess fluid and waste products from his body.
+12. He was given medication to help increase his urine production.
+13. He was monitored closely for any signs of seizures or other complications.
+14. He had a gradual improvement in his renal function over the next few days.
+15. He was able to come off of hemodialysis and his renal function returned to normal.

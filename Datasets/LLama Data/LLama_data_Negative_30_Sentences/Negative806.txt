@@ -1,0 +1,118 @@
+Sure, here's a patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Age: 55
+
+Gender: Male
+
+Chief Complaint: Chronic lower back pain
+
+Medical History:
+
+* History of smoking
+* Hypertension
+* High cholesterol
+* Obesity
+* Sleep apnea
+* Osteoarthritis
+* Degenerative disc disease
+* Herniated disc L4-L5
+* Spinal stenosis
+* Previous lumbar fusion surgery
+* Previous cholecystectomy
+
+Surgical History:
+
+* Previous appendectomy
+* Previous hernia repair
+* Previous cataract surgery
+
+Medications:
+
+* Lisinopril
+* Simvastatin
+* Omeprazole
+* Aspirin
+* Naproxen
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies alcohol or illicit drug use
+* Lives alone since his wife passed away 2 years ago
+
+Review of Systems:
+
+* No respiratory symptoms
+* No cardiovascular symptoms
+* No gastrointestinal symptoms
+* No genitourinary symptoms
+* No neurological symptoms
+
+Physical Examination:
+
+* Temp: 98.6°F
+* BP: 140/90 mmHg
+* HR: 70 bpm
+* RR: 12 breaths/min
+* Weight: 250 lbs
+* Height: 5 feet 10 inches
+* BMI: 33
+* Abdominal examination reveals tenderness to palpation in the lower abdomen
+* Musculoskeletal examination reveals tenderness to palpation in the lower back
+
+Laboratory Results:
+
+* WBC: 10,000/mm3
+* Neutrophils: 50%
+* Lymphocytes: 30%
+* Monocytes: 10%
+* Eosinophils: 5%
+* Basophils: 5%
+* Hemoglobin: 14 g/dL
+* Hematocrit: 40%
+* Platelets: 250,000/mm3
+* Blood Chemistry:
+	+ Glucose: 120 mg/dL
+	+ BUN: 20 mg/dL
+	+ Creatinine: 1.5 mg/dL
+	+ Total Bilirubin: 0.8 mg/dL
+	+ AST: 40 IU/L
+	+ ALT: 50 IU/L
+	+ Alkaline Phosphatase: 120 IU/L
+	+ Total Protein: 7.0 g/dL
+	+ Albumin: 3.5 g/dL
+	+ Globulin: 3.3 g/dL
+
+Imaging Studies:
+
+* MRI of the lumbar spine shows evidence of degenerative disc disease and spinal stenosis
+
+Planned Surgery:
+
+* Lumbar fusion surgery
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Patient was discharged home on postoperative day 5
+* Patient followed up with his surgeon 2 weeks after discharge and reported minimal pain
+* Patient was able to return to work 4 weeks after surgery
+
+Complications:
+
+* None
+
+I hope this patient summary helps you in creating a comprehensive preoperative assessment for your patient. Please note that this is just a sample and you should tailor your assessment to the individual patient's needs and medical history.

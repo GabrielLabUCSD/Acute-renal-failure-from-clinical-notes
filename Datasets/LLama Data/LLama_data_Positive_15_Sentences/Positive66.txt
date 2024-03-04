@@ -1,0 +1,30 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes.
+3. He has been experiencing worsening knee pain over the past year.
+4. He has tried physical therapy and medication with little relief.
+5. He has been diagnosed with severe osteoarthritis of the knee.
+6. He is planning to undergo a total knee replacement surgery.
+7. He has a history of smoking but quit 10 years ago.
+8. He has a history of moderate alcohol consumption.
+9. He has no known allergies.
+10. He is currently taking aspirin and metformin.
+11. He has a history of kidney stones.
+12. His last known creatinine level was 1.5 mg/dL.
+13. He has been advised to stop taking aspirin and metformin 72 hours before surgery.
+14. He will be admitted to the hospital on the day of surgery.
+15. The surgical team has been informed of his history of renal stones and risk of acute renal failure.
+
+Complication:
+
+1. The patient developed acute renal failure post-surgery.
+2. He experienced decreased urine output and oliguria.
+3. His serum creatinine level increased to 2.5 mg/dL.
+4. He was started on intravenous fluids and vasopressors.
+5. A kidney ultrasound revealed mild hydronephrosis.
+6. The patient was transferred to the intensive care unit for close monitoring.
+7. He was treated with antibiotics for possible urinary tract infection.
+8. His renal function gradually improved over 48 hours.
+9. He was able to return to his surgical ward and continue recovering from surgery.
+10. He will have close follow-up with his nephrologist and primary care physician for ongoing management of his renal disease.

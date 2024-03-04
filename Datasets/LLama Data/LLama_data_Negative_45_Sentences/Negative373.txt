@@ -1,0 +1,91 @@
+Sure, here is a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/05/1980
+
+Gender: Male
+
+Chief Complaint: The patient presents with chronic lower back pain and numbness in his legs, which has been gradually worsening over the past year.
+
+Medical History:
+
+* The patient has a history of lumbar spine strain and herniated discs.
+* He has tried physical therapy and pain management without significant relief.
+* The patient has a history of hypertension and hyperlipidemia.
+* He had a myocardial infarction 10 years ago and has been compliant with his medications since then.
+* The patient has a history of non-alcoholic fatty liver disease.
+* He has no history of bleeding disorders or previous surgeries.
+* The patient has been a smoker for the past 20 years but has recently quit.
+* He drinks alcohol occasionally but denies any illicit drug use.
+
+Surgical History:
+
+* The patient has never had any previous surgeries.
+
+Current Medications:
+
+* Aspirin 81 mg po daily
+* Lisinopril 20 mg po daily
+* Atorvastatin 20 mg po daily
+* Metformin 500 mg po bid
+* Oxycodone 10 mg po q4h
+* Acetaminophen 325 mg po q4h
+* Ibuprofen 800 mg po bid
+
+Allergies:
+
+* The patient is allergic to penicillin and sulfa antibiotics.
+
+Family History:
+
+* The patient's father died of a myocardial infarction at the age of 55.
+* His mother has a history of hypertension and hyperlipidemia.
+* The patient has two siblings who are alive and healthy.
+
+Social History:
+
+* The patient is married and has two children.
+* He works as a software engineer and is able to take time off for surgery.
+* The patient has a supportive family and social network.
+* He denies any recent travel or exposure to illness.
+
+Review of Systems:
+
+* The patient reports no recent fever, chills, or night sweats.
+* He denies any recent weight loss or gain.
+* The patient reports no abdominal pain, nausea, or vomiting.
+* He denies any recent urinary frequency, urgency, or hematuria.
+* The patient reports no recent changes in his bowel movements.
+* He denies any recent headaches, seizures, or loss of consciousness.
+
+Physical Exam:
+
+* Blood pressure: 120/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 12 breaths/min
+* Temperature: 98.6 degrees Fahrenheit
+* Weight: 175 lbs
+* Height: 5'9"
+* BMI: 28
+* The patient's lumbar spine examination reveals tenderness and limited range of motion.
+* There is no evidence of neurological deficits.
+
+Lab Results:
+
+* WBC: 12,000 cells/mcL
+* Neutrophils: 70%
+* Lymphocytes: 20%
+* Monocytes: 8%
+* Eosinophils: 2%
+* Basophils: 0%
+* Hemoglobin: 14 g/dL
+* Hematocrit: 40%
+* Platelet Count: 200,000 platelets/mcL
+* Prothrombin Time: 12 seconds
+* Partial Thromboplastin Time: 30 seconds
+* INR: 1.0
+* Creatinine: 0.9 mg/dL
+* Glucose: 120 mg/dL
+* Total Bilirubin: 0.8 mg/dL
+* Alkaline Phosph

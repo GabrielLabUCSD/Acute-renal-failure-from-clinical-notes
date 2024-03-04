@@ -1,0 +1,87 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Sex: Male
+
+Chief Complaint: Chronic lower back pain
+
+Medical History:
+
+* History of smoking for the past 10 years
+* Hypertension, controlled with medication
+* Hyperlipidemia, controlled with medication
+* History of non-insulin dependent diabetes mellitus
+* history of asthma, controlled with medication
+* History of chronic lower back pain for the past 5 years
+* No previous surgeries
+* No allergies
+
+Medications:
+
+* Lisinopril 20mg daily
+* Simvastatin 20mg daily
+* Metformin 500mg twice daily
+* Albuterol rescue inhaler as needed
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+
+Social History:
+
+* Married with two children
+* Works as an office manager
+* Denies alcohol or illicit drug use
+* Lives in a suburban area with no exposure to environmental hazards
+
+Review of Systems:
+
+* No significant cardiovascular, respiratory, gastrointestinal, genitourinary, or musculoskeletal problems
+* No history of seizures or neurological disorders
+
+Physical Examination:
+
+* Blood pressure 130/80 mmHg
+* Heart rate 70 bpm
+* Respiratory rate 16 breaths/min
+* Temperature 98.6 degrees Fahrenheit
+* Height 5'9", weight 220 lbs
+* BMI 33
+* No edema or erythema
+* No tenderness to palpation of the abdomen, chest, or lower back
+
+Lab Results:
+
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte panel: Within normal limits
+* Lipid profile: Within normal limits
+* Fasting blood sugar: 120 mg/dL
+* Urinalysis: Within normal limits
+
+Imaging Studies:
+
+* MRI of the lower back shows mild degenerative disc disease and spinal stenosis
+
+Surgical History:
+
+* No previous surgeries
+
+Procedure:
+
+* Lumbar decompression surgery
+
+Postoperative Course:
+
+* Patient had a successful lumbar decompression surgery
+* Patient was discharged home on postoperative day 3
+* Patient experienced some pain and discomfort in the lower back, managed with pain medication
+* Patient followed up with the surgeon 2 weeks postoperatively, and sutures were removed
+* Patient reported improvement in lower back pain and ability to ambulate without difficulty
+
+Complications:
+
+* None

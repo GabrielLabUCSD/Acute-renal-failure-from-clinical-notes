@@ -1,0 +1,17 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who is scheduled to undergo [type of surgery]. The patient has a medical history of [list relevant medical conditions, such as hypertension, diabetes, heart disease], as well as [list any other relevant medical history or chronic conditions]. Medications currently being taken by the patient include [list medications] for the management of their existing conditions.
+
+Prior to the surgery, the patient underwent various diagnostic tests such as [list relevant tests, such as blood work, imaging studies]. The results of these tests were [summarize any significant findings].
+
+During the surgery, the patient developed complications, one of which was acute renal failure. The patient presented with symptoms such as [list symptoms of acute renal failure, such as decreased urine output, edema, electrolyte imbalances]. Laboratory tests indicated an increase in serum creatinine levels and a decrease in glomerular filtration rate, confirming the diagnosis of acute renal failure.
+
+The patient was immediately started on [list specific treatments, such as intravenous fluids, medication to support kidney function] to manage the acute renal failure. Close monitoring of the patient's urine output, electrolyte levels, and kidney function were initiated. The patient's medical team is in constant communication to ensure appropriate management and to prevent further complications.
+
+The patient's overall post-operative course has been complicated by the acute renal failure. The patient's recovery and discharge are currently on hold until the kidney function improves. The medical team is working diligently to optimize the patient's kidney function and monitor for any additional complications that may arise.
+
+The patient and their family have been provided with detailed information about the acute renal failure, its causes, and the treatment plan. They have been involved in the decision-making process and are actively participating in the patient's care.
+
+The patient's prognosis for the acute renal failure is guarded at this time, as it depends on various factors such as the extent of kidney damage and response to treatment. The medical team will continue to closely monitor the patient's kidney function and adjust treatment as necessary to promote recovery.
+
+In summary, the patient is a [age]-year-old [gender] scheduled for [type of surgery]. The patient developed acute renal failure during the surgery and is currently receiving treatment while being closely monitored. The patient's recovery and discharge are postponed until kidney function improves, and the medical team is actively managing the condition. Prognosis for acute renal failure is guarded, but the patient and their family are actively involved in the decision-making process and provided with necessary information regarding the condition.

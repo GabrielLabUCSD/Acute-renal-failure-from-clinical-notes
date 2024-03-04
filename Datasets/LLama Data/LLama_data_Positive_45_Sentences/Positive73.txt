@@ -1,0 +1,61 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history and acute renal failure complication after surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/05/1970
+
+Gender: Male
+
+Chief Complaint: The patient presents with a history of chronic back pain and left leg radiculopathy.
+
+Medical History:
+
+* The patient has a history of lumbar degenerative disc disease.
+* He has tried physical therapy, pain management, and chiropractic care without significant relief.
+* He has a history of hypertension and hyperlipidemia.
+* He is a current smoker and drinks alcohol occasionally.
+* He has no known drug allergies.
+* He has a history of left knee arthroscopy and anterior cruciate ligament repair.
+* He has a family history of coronary artery disease and stroke.
+* He denies any recent travel, fever, or night sweats.
+
+Surgical History:
+
+* The patient is scheduled to undergo a lumbar fusion surgery.
+
+Medications:
+
+* The patient is currently taking ibuprofen 800mg every 6 hours as needed for pain.
+* He is also taking lisinopril 20mg daily for hypertension.
+* He is taking atorvastatin 20mg daily for hyperlipidemia.
+
+Allergies:
+
+* The patient is allergic to penicillin and sulfa medications.
+
+Lab Results:
+
+* The patient's recent complete blood count (CBC) showed a white blood cell count (WBC) of 12,000 cells/mm3, hemoglobin (Hb) of 14g/dL, hematocrit (Hct) of 40%, and platelet count of 200,000 cells/mm3.
+* His recent basic metabolic panel (BMP) showed sodium 138mEq/L, potassium 4.2mEq/L, chloride 98mEq/L, bicarbonate 24mEq/L, blood urea nitrogen (BUN) 18mg/dL, creatinine 1.2mg/dL, glucose 120mg/dL, and calcium 9.2mg/dL.
+
+Vital Signs:
+
+* The patient's blood pressure is 130/80mmHg.
+* His pulse is 70 beats per minute (bpm).
+* His respiratory rate is 16 breaths per minute (bpm).
+* His oxygen saturation (O2 Sat) is 98% on room air.
+* His temperature is 98.6°F (37°C).
+
+Current Complications:
+
+* The patient developed acute renal failure (ARF) postoperatively.
+* He has a urinary tract infection (UTI) and sepsis.
+* He is currently on hemodialysis.
+
+Proposed Plan:
+
+* The patient will continue to be monitored in the intensive care unit (ICU) for close observation.
+* He will receive broad-spectrum antibiotics for the treatment of UTI and sepsis.
+* He will continue to receive hemodialysis as needed.
+* The patient will be closely monitored for any signs of fluid and electrolyte imbalance, and respiratory and cardiac complications.
+* The patient will be reevaluated for surgery once he is stable and the ARF has resolved.

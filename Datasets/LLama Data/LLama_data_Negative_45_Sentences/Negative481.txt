@@ -1,0 +1,75 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* Previous surgery (cholecystectomy) 10 years ago
+* Family history of heart disease
+* Personal history of deep vein thrombosis
+* Allergies to penicillin and sulfa drugs
+
+Medications:
+
+* Amlodipine 10 mg daily
+* Atorvastatin 20 mg daily
+* Omeprazole 20 mg daily
+* Aspirin 81 mg daily
+* Alprazolam 0.5 mg as needed
+* Ibuprofen 800 mg as needed
+
+Lab Results:
+
+* HbA1c 7.5%
+* BUN 25 mg/dL
+* Creatinine 1.2 mg/dL
+* Total cholesterol 220 mg/dL
+* HDL 40 mg/dL
+* LDL 180 mg/dL
+* Triglycerides 150 mg/dL
+* WBC 10,000 cells/mm3
+* Neutrophils 70%
+* Lymphocytes 20%
+* Monocytes 8%
+* Eosinophils 2%
+* Basophils 1%
+
+Physical Exam:
+
+* Blood pressure 140/90 mmHg
+* Heart rate 70 bpm
+* Respiratory rate 18 breaths/min
+* Temperature 98.6°F
+* Oxygen saturation 95%
+* BMI 35
+* Slightly tender abdomen
+* No palpable masses or organomegaly
+* No edema
+* No clubbing or cyanosis
+
+Planned Surgery:
+
+* Laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* No complications
+* Patient was discharged home on day 3 after surgery
+
+Complications (excluding acute renal failure):
+
+* None
+
+This patient summary includes relevant information about the patient's medical history, medications, lab results, physical exam, planned surgery, postoperative course, and complications. It is important to note that this is a sample summary and the specific information will vary depending on the individual patient and their medical history.

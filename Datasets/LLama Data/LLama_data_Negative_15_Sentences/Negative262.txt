@@ -1,0 +1,39 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a history of [medical condition] and is scheduled to undergo [type of surgery]. A thorough medical history reveals the following information:
+
+* The patient has a history of [previous illness/surgeries] and has been taking [medications] for the past [length of time].
+* The patient has no known allergies to medication or materials.
+* The patient does not have a history of bleeding disorders or anemia.
+* The patient has a history of [relevant medical conditions, e.g. hypertension, diabetes].
+* The patient has been smoke-free for [length of time].
+* The patient drinks [amount of alcohol] per week.
+
+Pre-operative Evaluation:
+
+* The patient's vital signs are: blood pressure [BP], heart rate [HR], temperature [T];
+* The patient's laboratory results are:
+	+ Hemoglobin [Hb]: g/dL
+	+ Hematocrit [Hct]: %
+	+ White blood cell count [WBC]: x 10^9/L
+	+ Platelet count [Plt]: x 10^9/L
+	+ Blood urea nitrogen [BUN]: mg/dL
+	+ Creatinine [Cr]: mg/dL
+	+ Glucose [Gluc]: mg/dL
+* The patient has no evidence of acute renal failure.
+
+Post-operative Course:
+
+* The patient had an uneventful post-operative course.
+* The patient was extubated on [day] and transferred to the recovery room.
+* The patient had minimal post-operative pain, managed with [pain medication].
+* The patient had no nausea or vomiting.
+* The patient's vitals remained stable, with no evidence of complications.
+
+Complications:
+
+* The patient did not experience any complications during the post-operative period.
+
+Conclusion:
+
+Based on the patient's medical history and pre-operative evaluation, the patient is a suitable candidate for [type of surgery]. The patient had an uneventful post-operative course, with minimal pain and no complications. The patient's vital signs and laboratory results remained stable, with no evidence of acute renal failure.

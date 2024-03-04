@@ -1,0 +1,33 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. The patient has tried physical therapy and medication without significant relief. The patient has a history of hypertension and hyperlipidemia, and is currently taking lisinopril and atorvastatin. The patient has no known allergies.
+
+The patient underwent a lumbar fusion surgery three years ago, which provided temporary relief but the pain has since recurred. The patient has been a smoker for the past 20 years and has tried to quit several times without success. The patient drinks occasionally and has a BMI of 32.
+
+The patient's family history is significant for coronary artery disease and hyperlipidemia. The patient's mother passed away from breast cancer at the age of 55. The patient's father has hypertension and hyperlipidemia. The patient has two siblings, one with hypertension and the other with hyperlipidemia.
+
+The patient's vital signs are stable, with blood pressure of 130/80 mmHg, heart rate of 70 bpm, and respiratory rate of 18 breaths per minute. The patient's temperature is 98.6 degrees Fahrenheit.
+
+The patient's physical examination reveals a well-healed surgical scar on the lower back. There is no evidence of acute renal failure. The patient has a mildly elevated jugular venous pressure. The lungs are clear to auscultation. The patient has a mild limp on the left side.
+
+The patient's laboratory results reveal a white blood cell count of 12,000 cells/mm3, hemoglobin A1C of 7.2%, and a cholesterol level of 220 mg/dL. The patient's liver enzymes are normal. The patient's urinalysis is normal.
+
+The patient's EKG reveals normal sinus rhythm. The patient's echocardiogram reveals a normal left ventricular function.
+
+The patient's postoperative course is uneventful. The patient experiences some discomfort and pain in the lower back, which is managed with pain medication. The patient is able to ambulate independently and is discharged home on postoperative day three.
+
+The patient follows up with the surgeon one week after discharge. The patient reports some persistent pain and discomfort in the lower back. The surgeon recommends a course of physical therapy and refers the patient to a pain management specialist.
+
+The patient experiences no complications during the postoperative period. The patient's pain gradually improves over time, and the patient is able to resume normal activities without any issues.
+
+The patient's one-month follow-up appointment reveals a significant improvement in pain and function. The patient is able to walk longer distances without discomfort. The patient's back pain has improved from a Visual Analog Scale (VAS) of 8/10 to 3/10.
+
+The patient is satisfied with the outcome of the surgery and reports improved quality of life. The patient is able to return to work without any limitations. The patient is advised to continue with physical therapy and pain management.
+
+The patient's two-month follow-up appointment reveals continued improvement in pain and function. The patient's back pain has improved to a VAS of 2/10. The patient is able to perform activities of daily living without any issues. The patient is advised to continue with physical therapy and pain management.
+
+The patient's six-month follow-up appointment reveals sustained improvement in pain and function. The patient's back pain has improved to a VAS of 1/10. The patient is able to perform activities of daily living without any issues. The patient is advised to continue with physical therapy and pain management.
+
+The patient's one-year follow-up appointment reveals continued improvement in pain and function. The patient's back pain has improved to a VAS of 0/10. The patient is able to perform activities of daily living without any issues. The patient is advised to continue with physical therapy and pain management.
+
+The patient's two-year follow-up appointment reveals sustained improvement in pain and function.

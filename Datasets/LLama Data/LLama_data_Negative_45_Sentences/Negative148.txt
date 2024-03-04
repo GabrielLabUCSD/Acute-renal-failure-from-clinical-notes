@@ -1,0 +1,53 @@
+Patient Summary:
+
+Name: [Patient's Name]
+Age: [Patient's Age]
+Gender: [Patient's Gender]
+
+Medical History:
+
+* [Patient's Medical History, including pre-existing conditions, allergies, and medications]
+
+Surgical History:
+
+* [Patient's Surgical History, including previous surgeries and their outcomes]
+
+Current Symptoms:
+
+* [Patient's Current Symptoms, including pain, nausea, vomiting, and fever]
+
+Physical Examination:
+
+* [Patient's Physical Examination Findings, including vital signs, surgical site, and overall condition]
+
+Lab Results:
+
+* [Patient's Lab Results, including blood work and any other relevant tests]
+
+Imaging Results:
+
+* [Patient's Imaging Results, including X-rays, CT scans, MRI scans, and ultrasounds]
+
+Surgical Plan:
+
+* [Patient's Surgical Plan, including the type of surgery, the surgical technique, and the expected outcome]
+
+Postoperative Course:
+
+* [Patient's Postoperative Course, including their recovery, pain management, and any complications]
+
+Complications:
+
+* [Patient's Complications, excluding acute renal failure]
+
+* [Patient's Length of Stay in the Hospital]
+
+Discharge Instructions:
+
+* [Patient's Discharge Instructions, including medications, wound care, and follow-up appointments]
+
+Follow-up:
+
+* [Patient's Follow-up Appointments, including the date, time, and purpose of each appointment]
+
+By using this patient summary, healthcare providers can quickly and easily access important information about the patient's medical history, surgical plan, and postoperative course. This summary can help ensure that the patient receives the appropriate care and management during their surgery and recovery.

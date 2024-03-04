@@ -1,0 +1,21 @@
+The patient is a [age]-year-old [gender] with a history of [underlying medical conditions]. They are scheduled to undergo [type of surgery] for [reason for surgery]. The patient has been experiencing symptoms such as [symptoms related to the surgical condition] for the past [duration].
+
+Their past medical history includes [medical conditions or surgeries previously diagnosed or undergone]. They have been taking medications, including [list of medications], which will need to be adjusted or temporarily discontinued prior to the surgery.
+
+The patient has had previous surgeries including [list of previous surgeries], and they tolerated them well without any major complications. However, they did experience [specific complications, if any] following the previous surgeries.
+
+In terms of allergies, the patient has reported an allergy to [allergic substance] resulting in [symptoms experienced during allergic reactions]. Precautions will be taken during the perioperative period to avoid exposure to the allergen.
+
+The patient's family history includes [specific medical conditions prevalent in the family] but is otherwise unremarkable. They lead a generally healthy lifestyle, with regular exercise and a well-balanced diet.
+
+Prior to surgery, the patient underwent a comprehensive preoperative evaluation, including laboratory tests, imaging studies, and consultations with [specialists] to ensure overall suitability for the procedure. The results of these assessments were [normal/abnormal], with the exception of [any abnormalities or concerns].
+
+During the surgical procedure, the patient developed acute renal failure as a complication. This was likely caused by [underlying cause, such as hypotension or medication-induced]. The patient experienced symptoms such as decreased urine output, increased fatigue, and fluid retention.
+
+To manage the acute renal failure, the patient was started on [treatment modalities], including [specific medications or interventions]. Daily monitoring of fluid balance, electrolytes, and renal function tests was initiated to ensure effective management and improvement of renal function.
+
+The patient's postoperative course has been closely monitored by a multidisciplinary team, including nephrologists and surgeons. Renal function has shown gradual improvement over time, with encouraging signs of recovery.
+
+To prevent further complications, the patient was advised to maintain strict fluid and electrolyte management, adhere to dietary restrictions, and avoid nephrotoxic medications.
+
+Overall, the patient's surgical history is notable for [prior surgeries and their outcomes]. The acute renal failure complicating the recent surgery has been managed appropriately, and the patient is now on the road to recovery. Close follow-up and regular monitoring will continue to ensure a successful outcome.

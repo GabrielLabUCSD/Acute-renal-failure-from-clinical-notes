@@ -1,0 +1,112 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Diabetic
+* Hyperlipidemic
+* History of smoking
+* Obese (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* History of chronic obstructive pulmonary disease (COPD)
+* History of coronary artery disease
+* Previous myocardial infarction (MI)
+* Status post-coronary artery bypass grafting (CABG)
+* History of left ventricular dysfunction
+* History of atrial fibrillation
+* History of chronic kidney disease (CKD) stage 3
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy for symptomatic gallstones
+* Previous appendectomy
+* Previous hernia repair
+
+Medications:
+
+* Aspirin 81 mg daily
+* Metformin 1000 mg twice daily
+* Lisinopril 40 mg daily
+* Atorvastatin 20 mg daily
+* Omeprazole 20 mg daily
+* Alprazolam 0.5 mg as needed for anxiety
+* Ibuprofen 800 mg as needed for pain
+
+Allergies:
+
+* Penicillin
+* Sulfa medications
+
+Social History:
+
+* Divorced
+* Living alone
+* No children
+* Retired
+* Limited mobility due to chronic lower back pain
+* Smokes 1 pack of cigarettes per day
+* Drinks alcohol occasionally
+* No known drug allergies
+
+Family History:
+
+* Mother died of breast cancer at age 60
+* Father died of CVA at age 75
+* One sibling with history of MI
+
+Review of Systems:
+
+* No recent symptoms of chest pain or shortness of breath
+* No recent episodes of syncope or presyncope
+* No significant abdominal pain or distension
+* No changes in bowel or bladder habits
+* No recent weight loss or gain
+* No fever or chills
+* No night sweats or recent infections
+
+Physical Examination:
+
+* BP 180/90 mmHg
+* HR 80 bpm
+* RR 18 breaths/min
+* Temp 98.6°F
+* Oxygen saturation 95% on room air
+* No respiratory distress
+* No signs of acute distress
+* No pedal edema
+
+Lab Results:
+
+* WBC 10,000/mm3
+* Hemoglobin A1C 7.5%
+* Creatinine 1.5 mg/dL
+* BUN 25 mg/dL
+* Alkali phosphatase 120 IU/L
+* Total bilirubin 1.2 mg/dL
+* Alcohol level 0.02%
+
+Imaging Studies:
+
+* Chest x-ray shows no acute cardiopulmonary disease
+* Abdominal ultrasound shows gallstones and no evidence of cholangitis
+* ECG shows no acute ischemic changes
+
+Plan:
+
+* Proceed with elective laparoscopic cholecystectomy
+* Intraoperative monitoring of vitals and surgical site
+* Postoperative care in the surgical intensive care unit (SICU) for close observation
+* Pain management with ibuprofen and omeprazole
+* Monitoring for signs of postoperative complications such as bleeding, infection, or respiratory distress
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* No significant bleeding or fluid accumulation in the surgical site
+* No signs of infection or respiratory distress
+* Patient was able to tolerate oral pain medication and was discharged home on postoperative day 3
+* Follow-up appointment

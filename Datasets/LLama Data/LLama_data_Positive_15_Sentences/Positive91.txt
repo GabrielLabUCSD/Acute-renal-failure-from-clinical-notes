@@ -1,0 +1,25 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history and acute renal failure complication after surgery:
+
+1. The patient is a 65-year-old male with a history of hypertension, diabetes, and hyperlipidemia.
+2. He has been scheduled for a routine hip replacement surgery due to severe osteoarthritis.
+3. The patient has been experiencing worsening left hip pain and stiffness for the past year, limiting his mobility and ability to perform daily activities.
+4. He has tried conservative management, including physical therapy and medications, without significant improvement.
+5. The patient has a history of smoking, with a 30-pack-year history, but quit 10 years ago.
+6. He has a history of moderate alcohol consumption, with an average of 2-3 drinks per day.
+7. The patient has no known drug allergies or sensitivities.
+8. He is currently taking aspirin, metformin, lisinopril, and atorvastatin for his medical conditions.
+9. The patient has a history of cardiac disease, with a myocardial infarction 10 years ago, and has been compliant with his medications and follow-up care.
+10. He has no history of previous surgeries or anesthesia complications.
+11. The patient's family history is significant for cardiac disease and hypertension in both parents.
+12. He has been monitored closely by his primary care physician and cardiologist, with regular check-ups and stress tests.
+13. The patient's recent electrocardiogram (ECG) and echocardiogram were within normal limits.
+14. His serum creatinine level has been gradually increasing over the past year, with a recent level of 1.8 mg/dL.
+15. The patient's blood urea nitrogen (BUN) level is 35 mg/dL, and his glomerular filtration rate (GFR) is estimated to be 45 mL/min.
+
+Complication:
+
+16. The patient developed acute renal failure (ARF) on the second postoperative day, with a serum creatinine level of 3.5 mg/dL and oliguria.
+17. He was diagnosed with acute tubular necrosis (ATN) and was started on intravenous fluids and medications to support renal function.
+18. The patient's urine output improved, and his creatinine level slowly decreased over the next few days.
+19. He was transitioned to oral medications and discharged from the hospital with follow-up appointments with his nephrologist and primary care physician.
+20. The patient will need ongoing monitoring and management of his renal function, with potential long-term consequences of chronic kidney disease.

@@ -1,0 +1,17 @@
+The patient is a 63-year-old male who is scheduled to have surgery. His medical history includes hypertension, type 2 diabetes, dyslipidemia, and coronary artery disease for which he had a percutaneous coronary intervention (PCI) with stent placement two years ago. He is managed on medications including lisinopril, metformin, atorvastatin, and aspirin.
+
+The patient's blood pressure is well-controlled, with recent readings averaging around 125/80 mmHg. His glycemic control is also satisfactory, with a glycosylated hemoglobin (HbA1c) level of 6.7% on the most recent assessment. His dyslipidemia is managed with a low-dose statin, resulting in a cholesterol level within the desired range.
+
+Given his history of coronary artery disease, the patient takes daily low-dose aspirin for secondary prevention. He has no known allergies to medications or adverse reactions. The patient reports occasional exertional angina, which has been managed with nitroglycerin as needed. However, he denies having any episodes of chest pain in the past few months.
+
+Upon physical examination, the patient's vital signs are stable, with no signs of acute distress. Cardiovascular examination reveals regular heart sounds without murmurs, and peripheral pulses are palpable in all extremities. His lung examination is unremarkable, and there are no signs of peripheral edema. The patient is of average body habitus and cooperative.
+
+Laboratory investigations, including complete blood count, comprehensive metabolic panel, and coagulation profile, are within normal limits. The patient had an electrocardiogram (EKG) performed, which shows no significant abnormalities or changes from his previous evaluations. His echocardiogram, done six months ago, revealed a preserved left ventricular ejection fraction of 60% without regional wall motion abnormalities.
+
+The patient had a preoperative consultation with the anesthesiologist, who determined that he is in good overall health and a suitable candidate for surgery. The anesthesiologist recommended general anesthesia for the procedure, given the patient's stable cardiovascular status.
+
+Following surgery, the patient had an uneventful postoperative course. He achieved ambulation and oral intake without difficulty on postoperative day 1. The surgical incision site is clean, dry, and healing well. The patient's pain is well-controlled with oral analgesics. He has been following the prescribed postoperative regimen, including respiratory exercises and prophylactic anticoagulation.
+
+There were no immediate postoperative complications, such as surgical site infections or wound dehiscence. However, the patient experienced an episode of postoperative atrial fibrillation on postoperative day 3, which was managed with rate control and anticoagulation therapy. This resolved spontaneously, and the patient was discharged home on postoperative day 6 in stable condition.
+
+In conclusion, the 63-year-old male patient with a medical history of hypertension, type 2 diabetes, dyslipidemia, and coronary artery disease underwent surgery without acute renal failure as a complication. His postoperative course was uneventful overall, with the exception of a transient episode of atrial fibrillation that resolved spontaneously.

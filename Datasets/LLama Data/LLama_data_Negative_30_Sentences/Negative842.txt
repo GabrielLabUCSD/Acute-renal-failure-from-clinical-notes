@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [list relevant medical conditions, such as diabetes, hypertension, etc.]. The patient has been smoking for [number of years] and has a history of [list relevant surgical procedures, such as appendectomy, cholecystectomy, etc.].
+
+The patient is scheduled to undergo [type of surgery] and the planned procedure includes [list specific details of the procedure, such as laparoscopic vs. open, estimated duration, etc.]. The patient has been informed of the potential risks and benefits associated with the surgery and has provided informed consent.
+
+The patient's current medications include [list relevant medications, such as beta blockers, antiplatelet agents, etc.]. The patient has no known allergies to medications.
+
+The patient's postoperative course has been uneventful. The patient was closely monitored in the recovery room and did not experience any complications. The patient's pain was well-controlled with [list medications used for pain management, such as morphine, fentanyl, etc.].
+
+The patient was discharged from the hospital on [date] and has since been recovering at home. The patient has been advised to follow a [list specific instructions, such as wound care, activity restrictions, etc.] and has been prescribed [list medications prescribed for postoperative care, such as antibiotics, pain medication, etc.].
+
+The patient has reported some minor discomfort and bruising at the surgical site, but no significant complications have occurred. The patient is scheduled to follow up with the surgeon in [time frame, such as 1-2 weeks] to ensure a smooth and uneventful recovery.
+
+Overall, the patient's surgical experience has been uncomplicated and the patient is expected to make a full recovery.

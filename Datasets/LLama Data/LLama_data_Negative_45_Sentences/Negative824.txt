@@ -1,0 +1,103 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+
+Chief Complaint: The patient presents with a several-month history of worsening abdominal pain and difficulty swallowing.
+
+Medical History:
+
+* History of smoking (20 pack years)
+* History of alcohol use (2 drinks per day)
+* History of hypertension (well-controlled)
+* History of hyperlipidemia (well-controlled)
+* History of gastroesophageal reflux disease (GERD)
+* History of peptic ulcer disease (PUD)
+* History of gallstones
+* History of non-insulin-dependent diabetes mellitus (NIDDM)
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Inguinal hernia repair at age 50
+* Prostate surgery (TURP) at age 60
+
+Current Medications:
+
+* Amlodipine 5 mg orally daily
+* Lisinopril 20 mg orally daily
+* Omeprazole 20 mg orally daily
+* Metformin 500 mg orally twice daily
+* Aspirin 81 mg orally daily
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Social History:
+
+* Married with two adult children
+* Retired from heavy manual labor
+* Current occupation: none
+* Living situation: independent
+* Support system: good
+
+Review of Systems:
+
+* Denies chest pain, shortness of breath, or palpitations
+* Reports occasional nausea and vomiting
+* Denies abdominal distension or tenderness
+* Reports decreased appetite
+* Denies changes in bowel habits
+* Reports mild dyspepsia
+* Denies melena or hematemesis
+
+Physical Examination:
+
+* Temperature: 98.6°F (37°C)
+* Blood Pressure: 130/80 mmHg
+* Pulse Rate: 80/min
+* Respiratory Rate: 16/min
+* Oxygen Saturation: 98% on room air
+* Height: 5 feet 10 inches (178 cm)
+* Weight: 175 lbs (79.4 kg)
+* Body Mass Index (BMI): 27
+* General appearance: alert and well-nourished
+* Head, eyes, ears, nose, and throat (HEENT): normal
+* Cardiovascular: normal
+* Respiratory: normal
+* Abdomen: soft, non-tender, no guarding or rebound tenderness
+* Musculoskeletal: normal
+* Neurological: normal
+* Skin: normal
+
+Laboratory Results:
+
+* Complete Blood Count (CBC): within normal limits
+* Serum Electrolytes: within normal limits
+* Liver Function Tests (LFTs): within normal limits
+* Renal Function Tests (RFTs): within normal limits
+* Gastrointestinal (GI) Panel: positive for Helicobacter pylori
+* Urine Culture: negative
+
+Imaging Studies:
+
+* Upper GI series: with barium swallow showed mild reflux and a suggestion of hiatal hernia
+* CT scan of the abdomen and pelvis: showed a large ulcer in the gastric fundus and mild inflammation in the perigastric tissues
+
+Postoperative Course:
+
+* The patient underwent laparoscopic fundoplication for GERD and hiatal hernia repair
+* The patient tolerated the procedure well and was discharged home the following day
+* Follow-up appointment was scheduled for 2 weeks postoperatively
+
+Comp

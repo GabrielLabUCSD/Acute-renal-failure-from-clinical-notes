@@ -1,0 +1,48 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 62
+Gender: Male
+Medical History:
+
+* Hypertension, controlled with medication
+* Hyperlipidemia, controlled with medication
+* History of smoking, quit 10 years ago
+* History of alcohol use disorder, in remission for 5 years
+* Diabetes mellitus, controlled with medication and diet
+* Obstructive sleep apnea, uses continuous positive airway pressure (CPAP) machine at night
+* History of lung cancer, treated with surgery and chemotherapy 5 years ago
+* History of colon cancer, treated with surgery and chemotherapy 2 years ago
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes mellitus
+* Oxycodone for pain
+* Aspirin for cardiovascular disease prevention
+
+Recent Lab Results:
+
+* Blood count: normal
+* Electrolyte panel: normal
+* Lipid profile: normal
+* Glucose: 120 mg/dL (fasting)
+* Creatinine: 1.0 mg/dL
+
+Postoperative Course:
+
+* Patient underwent successful surgery and was discharged from the hospital 3 days later
+* Patient experienced some postoperative pain, managed with oxycodone
+* Patient developed atelectasis, treated with bronchodilators and chest physiotherapy
+* Patient developed urinary retention, treated with catheterization
+
+Complications:
+
+* None
+
+Additional Notes:
+
+* Patient has a history of sleep apnea and will need to use his CPAP machine in the hospital
+* Patient has a history of substance use disorder and will need to be monitored for signs of withdrawal or relapse
+* Patient will need to follow a low-risk, low-morbidity postoperative care plan to minimize the risk of complications.

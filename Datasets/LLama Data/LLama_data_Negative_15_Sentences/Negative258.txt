@@ -1,0 +1,66 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+
+Age: 55
+
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* Smoker (20 pack years)
+* History of alcohol abuse
+* Chronic lower back pain
+* Previous lumbar fusion surgery 10 years ago
+* Mild obstructive sleep apnea
+* Allergic to penicillin and sulfa drugs
+
+Current Medications:
+
+* Lisinopril
+* Atorvastatin
+* Oxycodone
+* Celecoxib
+* Alprazolam
+* Zolpidem
+
+Surgical History:
+
+* Lumbar fusion surgery 10 years ago
+* Inguinal hernia repair 5 years ago
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+
+Social History:
+
+* Married with two adult children
+* Works as a construction worker
+* Lives in a two-story house with no elevator
+* Has a pet dog
+
+Plan:
+
+* The patient is scheduled for a total knee replacement surgery
+* Preoperative workup includes blood work, urinalysis, ECG, and chest x-ray
+* Patient will be admitted to the hospital on the day of surgery
+* Patient will be placed on a compression boot and mechanical ventilation for 24 hours postoperatively
+* Pain management will include patient-controlled analgesia with oxycodone and ketorolac
+* Patient will be monitored closely for signs of respiratory and cardiovascular complications
+
+Postoperative Course:
+
+* Patient had a successful total knee replacement surgery
+* Patient experienced some discomfort and pain in the early postoperative period, but it was well managed with pain medication
+* Patient was able to ambulate with assistance on the first postoperative day
+* Patient was discharged home on postoperative day 3 with a walker and instructions for home physical therapy
+
+Complications:
+
+* None
+
+This summary provides a comprehensive overview of the patient's medical history, current medications, surgical history, family history, social history, and plan for surgery. It also outlines the patient's postoperative course and whether they experienced any complications.

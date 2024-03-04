@@ -1,0 +1,9 @@
+The patient is a [age]-year-old [gender] who is presenting to the hospital for surgery. This is their first surgery, and they have no known surgical or anesthesia allergies. The patient has a medical history significant for [medical conditions]. They take [list of current medications], which they are advised to stop taking in preparation for the surgery. The patient does not smoke or consume alcohol.
+
+They have had previous hospitalizations for [reason], [reason], and [reason]. Their surgical history includes [past surgeries], all of which were uneventful. The patient's family history is non-contributory, with no known hereditary conditions or chronic illnesses. They have no known drug allergies.
+
+At this time, the patient is asymptomatic and in stable condition, with no complaints of pain, shortness of breath, chest pain, or any other acute symptoms. They have been adequately informed about the surgical procedure, its risks, and the expected postoperative course.
+
+Following the surgical procedure, the patient develops complications of acute renal failure. They exhibit increased fatigue, decreased urine output, swelling in the legs and ankles, and shortness of breath. Lab results show a significant increase in serum creatinine and a decrease in urine output. The patient is diagnosed with acute renal failure and will require prompt medical intervention, including aggressive fluid management and potential renal replacement therapy.
+
+The patient's recovery from the surgery is complicated by the acute renal failure, which may prolong their hospital stay. It is important to closely monitor their renal function, electrolyte levels, and fluid management to prevent further complications. A nephrology consultation may be necessary to guide the management of their acute renal failure and ensure optimal care. With appropriate treatment and monitoring, the patient's renal function is expected to improve over time.

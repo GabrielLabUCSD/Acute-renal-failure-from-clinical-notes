@@ -1,0 +1,31 @@
+The patient is a 55-year-old male who is scheduled to undergo surgery. He has a medical history of hypertension, high cholesterol levels, and type 2 diabetes. The patient had a myocardial infarction five years ago and underwent a coronary artery bypass graft surgery.
+
+He is currently on medications including lisinopril for blood pressure control, atorvastatin for cholesterol management, and metformin for diabetes. The patient has been compliant with his medications and has been managing his conditions with a healthy lifestyle including a balanced diet and regular exercise.
+
+The patient has no known drug allergies and does not smoke or consume alcohol. He has a family history of heart disease, with his father having a past history of myocardial infarction.
+
+His recent lab results indicate a well-controlled blood pressure of 130/80 mmHg, LDL cholesterol of 100 mg/dL, HbA1c level of 6.5%, and normal renal function with a serum creatinine level of 1 mg/dL.
+
+The patient has been educated about the surgical procedure and has provided informed consent. Pre-operative investigations, including an electrocardiogram and chest X-ray, have been done, revealing no significant abnormalities.
+
+During the surgery, the patient experienced an intraoperative complication of bleeding, which required a blood transfusion. He was monitored closely postoperatively and was stable initially.
+
+On the second postoperative day, the patient developed acute renal failure, with a sudden decrease in urine output and an increase in serum creatinine to 3 mg/dL. He was diagnosed with postoperative acute kidney injury, likely due to hypoperfusion during the surgery and subsequent renal ischemia.
+
+The patient was started on aggressive intravenous fluid resuscitation and diuretic therapy to support renal function. His blood pressure was closely monitored, and his medications were adjusted to prevent further renal damage.
+
+A renal ultrasound was performed, showing no significant renal structural abnormalities. The patient's urine output gradually improved, and his serum creatinine began to trend downwards.
+
+Due to the acute renal failure, the patient's recovery was prolonged. Follow-up consultations with a nephrologist were arranged, and the patient was advised to closely monitor his renal function and maintain a renal-friendly diet to prevent further complications.
+
+The patient was also instructed to continue his medications for hypertension, high cholesterol, and diabetes, with adjustments made as per the nephrologist's recommendations.
+
+Several follow-up investigations were performed to monitor the patient's renal function, including serial serum creatinine levels and urine dipstick tests for proteinuria.
+
+After two weeks, the patient's renal function started to improve, with a gradual decrease in serum creatinine levels. His urine output returned to normal, and he was discharged from the hospital with close outpatient follow-up.
+
+During the follow-up visits, the patient's renal function continued to improve steadily, with normalization of his serum creatinine levels. He was advised to maintain a healthy lifestyle and continue his medications as prescribed.
+
+The patient was also educated about the importance of regular monitoring of his blood pressure, cholesterol levels, and renal function to prevent any further complications.
+
+Overall, the patient had a successful surgical procedure, but experienced a complication of acute renal failure postoperatively. With timely intervention, including aggressive fluid resuscitation and appropriate medication adjustments, his renal function gradually improved, leading to a favorable outcome.

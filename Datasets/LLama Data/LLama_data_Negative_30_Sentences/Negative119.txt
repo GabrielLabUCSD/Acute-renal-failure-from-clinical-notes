@@ -1,0 +1,13 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient had a myocardial infarction (MI) 10 years ago and has been diagnosed with coronary artery disease (CAD). He had a coronary artery bypass graft (CABG) 5 years ago and has been compliant with his medications. He has no history of lung disease, liver disease, or previous abdominal surgeries. He takes aspirin, metoprolol, lisinopril, and atorvastatin. He had a positive stress test 2 years ago but did not undergo revascularization.
+
+The patient"s surgical history includes a cholecystectomy 15 years ago and a hernia repair 10 years ago, both without complications. He also had a cataract surgery 5 years ago. He had a colonoscopy 3 years ago that showed benign colon polyps, which were removed during the procedure. He has no history of bleeding disorders or previous blood transfusions.
+
+The patient is an ex-smoker, quitting 5 years ago, and drinks alcohol occasionally. He works as an office clerk and denies recent travel or exposure to illness. His family history includes a father who died of MI at the age of 60 and a mother with hypertension.
+
+Physical examination reveals a blood pressure of 130/80 mmHg, heart rate of 70 bpm, and oxygen saturation of 98% on room air. His lung and cardiac auscultation are normal. His abdominal examination shows a scar from his previous cholecystectomy. There is no evidence of surgical site infections. He has normal peripheral pulses and no signs of neurological deficits.
+
+The patient"s postoperative course is uneventful. He is extubated on the first postoperative day and starts eating solid food on the second postoperative day. He experiences some discomfort, which is managed with analgesics. He does not develop any surgical site infections, respiratory complications, or cardiovascular complications. He is discharged from the hospital on postoperative day 7 in good condition.
+
+Complications: None.

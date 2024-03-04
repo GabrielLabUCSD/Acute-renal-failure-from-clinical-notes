@@ -1,0 +1,27 @@
+Patient Summary:
+
+<annoyingly loud and robotic> Greetings, esteemed surgeon! I have synthesized a summary of the patient's medical history for your surgical planning convenience. Please note the following 15 points:
+
+1. The patient is a 45-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He had a myocardial infarction 5 years ago and has beencompliant with medications since.
+4. Current medications include atorvastatin, lisinopril, and aspirin.
+5. He has a history of Non-insulin-dependent diabetes mellitus (NIDDM) and takes metformin.
+6. His last hemoglobin A1c (HbA1c) was 7.8%.
+7. He has a history of chronic kidney disease (CKD) Stage III.
+8. His estimated glomerular filtration rate (eGFR) is 50 mL/min/1.73m2.
+9. He has a history of obstructive sleep apnea and uses a continuous positive airway pressure (CPAP) machine.
+10. He is a former smoker, having quit 2 years ago.
+11. He drinks alcohol occasionally.
+12. He has a history of migraines and takes sumatriptan as needed.
+13. He has a history of allergies to penicillin and cephalosporins.
+14. He has no known drug allergies.
+15. He is planning to undergo a surgical procedure (choose one: laparoscopic cholecystectomy, hernia repair, or knee replacement).
+
+Complication:
+
+Unfortunately, the patient developed acute renal failure (ARF) postoperatively. The patient's serum creatinine level increased to 2.5 mg/dL from a baseline of 1.8 mg/dL. Urinalysis showed pyuria and hematuria. A renal ultrasound revealed hydronephrosis and decreased renal function. The patient was diagnosed with acute kidney injury (AKI) and started on intravenous fluids and vasopressors. The patient's renal function improved within 72 hours, and he was discharged from the hospital with a creatinine level of 1.9 mg/dL and instructions to follow up with his nephrologist.
+
+</annoyingly loud and robotic> 
+
+How may I assist you further, esteemed surgeon?

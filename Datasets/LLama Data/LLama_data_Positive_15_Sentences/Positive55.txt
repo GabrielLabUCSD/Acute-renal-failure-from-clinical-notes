@@ -1,0 +1,21 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes.
+3. He has been smoke-free for 10 years.
+4. He has a history of chronic obstructive pulmonary disease (COPD).
+5. He has had multiple episodes of pneumonia in the past.
+6. He has a history of coronary artery disease and has had a myocardial infarction (heart attack) in the past.
+7. He has had a history of peripheral artery disease and has had a peripheral artery bypass graft surgery in the past.
+8. He has a history of chronic kidney disease and is currently experiencing acute renal failure.
+9. He has been admitted to the hospital 3 times in the past year for fluid overload and electrolyte imbalance.
+10. He has a history of obstructive sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+11. He takes several medications including Lisinopril, Metformin, Aspirin, and Oxycodone.
+12. He had a hip replacement surgery 2 years ago and has been experiencing persistent pain and limited mobility since then.
+13. He has a history of constipation and has been treated for it with laxatives and stool softeners.
+14. He has a history of anxiety and depression and has been seeing a therapist regularly.
+15. He is planning to have a surgery to repair a hernia in the near future.
+
+Acute Renal Failure Complication:
+
+After the surgery, the patient experienced acute renal failure, which was likely caused by a combination of factors including sepsis, hypotension, and fluid overload. He required vasopressors to maintain his blood pressure and was started on continuous renal replacement therapy (CRRT) to help remove waste products from his blood. He also developed respiratory failure and required mechanical ventilation. The patient remained in the intensive care unit for several days and had a prolonged hospital stay due to his complications.

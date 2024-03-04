@@ -1,0 +1,30 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a complication of acute renal failure after surgery:
+
+1. The patient is a 65-year-old male with a history of hypertension, hyperlipidemia, and diabetes mellitus.
+2. He has been smoking for the past 40 years and has a history of alcohol abuse.
+3. The patient has a history of coronary artery disease and has undergone coronary artery bypass grafting 10 years ago.
+4. He has also had a history of chronic lower back pain and has undergone lumbar fusion surgery 5 years ago.
+5. The patient has been experiencing worsening left knee pain over the past year and has been diagnosed with osteoarthritis.
+6. He has tried conservative management, including physical therapy and medication, but has not had significant relief.
+7. The patient has decided to undergo a total knee replacement surgery to alleviate his symptoms.
+8. His surgical history also includes a cholecystectomy and a hernia repair.
+9. The patient has been compliant with his medications and has been following a healthy diet.
+10. He has had no recent illnesses or hospitalizations.
+11. The patient's lab results show mild anemia and mild renal impairment.
+12. His liver function tests are normal, and he has no evidence of liver disease.
+13. He has a low risk of cardiovascular disease based on his Framingham risk score.
+14. The patient is allergic to penicillin and has a history of anaphylaxis.
+15. He has a living will and has designated a healthcare proxy in case of an emergency.
+
+Complication:
+
+1. The patient developed acute renal failure post-operatively, requiring dialysis.
+2. He had a significant decline in renal function, with a creatinine level of 4.5 mg/dL from a baseline of 1.5 mg/dL.
+3. The patient had a history of mild renal impairment before surgery, which increased his risk of acute renal failure.
+4. He had a large volume of fluid administration during surgery, which may have contributed to his acute renal failure.
+5. The patient's urine output and fluid balance were closely monitored, and he was started on IV furosemide to help improve his renal function.
+6. He was also started on hemodialysis to help remove excess fluid and waste products from his body.
+7. The patient's renal function slowly improved over the next few days, and he was able to discontinue dialysis.
+8. He was closely monitored for signs of fluid overload and electrolyte imbalances.
+9. The patient's creatinine level returned to his baseline of 1.5 mg/dL, and he was able to resume his normal medications.
+10. He was advised to follow up with his nephrologist for further management of his chronic kidney disease.

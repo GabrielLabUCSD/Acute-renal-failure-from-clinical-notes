@@ -1,0 +1,25 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with [insert medical condition] and is planned for [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert relevant surgical history]. The patient is currently taking [insert medications] and has no known allergies.
+
+Preoperative examination reveals [insert relevant physical examination findings]. Laboratory results show [insert relevant laboratory results]. The patient is classified as [insert ASA physical status classification].
+
+Intraoperative course is uneventful, with [insert relevant anesthesia details]. The patient receives [insert relevant fluids and medications] during the procedure.
+
+Postoperative course is complicated by [insert relevant complications, excluding acute renal failure]. The patient experiences [insert relevant symptoms] and requires [insert relevant interventions].
+
+The patient is discharged from the hospital on [insert date] with instructions to follow up with their surgeon and primary care physician.
+
+Here is a sample patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Summary:
+
+The patient is a 65-year-old male who presents with chronic back pain and is planned for lumbar fusion surgery. The patient has a history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD). The patient is currently taking lisinopril, atorvastatin, and ipratropium bromide. The patient has no known allergies.
+
+Preoperative examination reveals a tender and swollen lumbar spine with limited mobility. Laboratory results show a hemoglobin level of 12 g/dL and a creatinine level of 1.2 mg/dL. The patient is classified as ASA physical status classification II.
+
+Intraoperative course is uneventful, with the patient receiving general anesthesia and maintained on propofol and fentanyl. The patient receives 1000 mL of lactated Ringer's solution during the procedure.
+
+Postoperative course is complicated by a wound infection, which is treated with antibiotics. The patient experiences some postoperative nausea and vomiting, which is managed with ondansetron. The patient is discharged from the hospital on postoperative day 4 with instructions to follow up with their surgeon and primary care physician.
+
+It is important to note that this is just a sample patient summary, and the specific information and details will vary depending on the individual patient and their medical history. Additionally, while acute renal failure is not included as a complication in this sample summary, it is important to monitor patients for signs of renal dysfunction postoperatively and to address any concerns promptly.

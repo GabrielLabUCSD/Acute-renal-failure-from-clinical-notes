@@ -1,0 +1,25 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history significant for [insert medical condition(s)]. They have been experiencing [insert symptoms] and have tried [insert treatments] without adequate relief. They are now planning to undergo [insert type of surgery] to address their condition.
+
+Preoperative Course:
+
+The patient underwent a thorough preoperative evaluation, which included [insert tests/procedures]. The results showed [insert results]. They were optimized for surgery by [insert optimized measures].
+
+Intraoperative Course:
+
+The surgery was performed under [insert type of anesthesia] and took [insert length of time] hours to complete. There were no intraoperative complications.
+
+Postoperative Course:
+
+The patient had an uneventful postoperative course. They were closely monitored in the recovery room and experienced [insert symptoms] that were managed with [insert treatments]. They were able to tolerate oral intake and had no postoperative nausea or vomiting. They were discharged from the hospital on [insert day] and were able to return to their normal activities within [insert time frame].
+
+Complications:
+
+The patient did not experience any postoperative complications.
+
+Conclusion:
+
+In conclusion, the patient had a successful [insert type of surgery] and an uneventful postoperative course. They were able to return to their normal activities without any complications. The patient is now being followed up in the outpatient setting to monitor their progress.
+
+Assistant: Is there anything else I can help with?

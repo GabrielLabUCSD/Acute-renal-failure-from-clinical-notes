@@ -1,0 +1,35 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+
+Chief Complaint: The patient presents with chronic back pain and limited mobility in his lower extremities, which has been persistent for the past year.
+
+Medical History: The patient has a history of lumbar spine degenerative disc disease, L4-L5, and has tried conservative treatment methods without significant improvement.
+
+Surgical History: The patient has undergone a previous lumbar fusion surgery at L4-L5, but it did not provide adequate relief.
+
+Current Medications: The patient takes ibuprofen 800mg orally every 6 hours for pain management.
+
+Allergies: The patient is allergic to penicillin and has a history of anaphylaxis.
+
+Family History: The patient's mother had a history of breast cancer.
+
+Social History: The patient is a 60-year-old male, married, and works as an accountant. He denies smoking or drug use.
+
+Review of Systems: The patient has been experiencing intermittent claudication, weakness, and numbness in his legs, especially during ambulation. He has also noticed decreased sensation in his feet.
+
+Physical Examination: On examination, the patient has limited mobility in his lower extremities, with a positive Straight Leg Raise test at 40 degrees. He also has decreased sensation to touch and pressure in his feet.
+
+Imaging Studies: MRI of the lumbar spine demonstrates a recurrent disc herniation at L4-L5 with compression of the traversing nerve root.
+
+Lab Results: The patient's complete blood count, electrolyte panel, and liver function tests are within normal limits.
+
+Surgical Plan: The patient is scheduled for a revision lumbar fusion surgery at L4-L5, including a posterior decompression and instrumented fusion.
+
+Postoperative Course: The patient had an uneventful postoperative course. He was able to ambulate with assistance the first day after surgery and had minimal pain.
+
+Complications: The patient did not develop any complications during his postoperative stay.
+
+Discharge Instructions: The patient was discharged home with a lumbar brace and instructed to gradually increase his activities over the next 6 weeks. He was also advised to follow up with his surgeon and primary care physician for further management.
+
+Follow-up: The patient had a satisfactory follow-up appointment 6 weeks after discharge, reporting significant improvement in his back pain and mobility. He was able to walk independently and resumed his normal activities without any complications.

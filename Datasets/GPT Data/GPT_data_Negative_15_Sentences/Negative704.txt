@@ -1,0 +1,16 @@
+The patient is a 55-year-old male who is planning to have surgery. He has a past medical history significant for hypertension, type 2 diabetes mellitus, and obesity with a body mass index of 32. 
+The patient's hypertension is well controlled on a combination of amlodipine and lisinopril, and his diabetes is managed with metformin. 
+He has a history of smoking, although he quit 10 years ago. The patient also reports occasional alcohol consumption but denies any illicit drug use. 
+His surgical history includes a cholecystectomy performed 5 years ago for symptomatic gallstones. 
+The patient currently takes a daily multivitamin but denies any other herbal supplements or medications. 
+His family history is significant for coronary artery disease in his father at age 67. 
+On physical examination, his blood pressure averages 130/80 mmHg, and his heart rate is 70 beats per minute. 
+He has a body mass index of 32 and an otherwise unremarkable physical exam. 
+Laboratory data reveals normal complete blood count, liver panel, and coagulation profile. 
+His fasting blood glucose level is within normal limits, and his HbA1c is 6.2%. 
+An electrocardiogram shows normal sinus rhythm without any significant abnormalities. 
+A chest X-ray reveals clear lung fields, and his echocardiogram demonstrates preserved left ventricular systolic function. 
+The patient's surgery is planned to address a hernia repair. 
+Following the surgery, the patient's postoperative course is uneventful. 
+He recovers well and is discharged home after 2 days with appropriate pain control and wound care instructions. 
+The patient does not experience any postoperative complications.

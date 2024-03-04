@@ -1,0 +1,21 @@
+The patient is a (age)-year-old (gender) with a medical history of (list of relevant medical conditions). They have been experiencing (symptoms, duration) that have prompted the recommendation for surgery. (Surgery type) has been planned to address (specific problem/condition).
+
+In terms of their past medical history, the patient has been diagnosed with (relevant medical conditions). These include (examples of chronic conditions such as diabetes, hypertension, or heart disease), which are well-controlled with (medications or management strategies). They have also had previous surgeries like (list relevant previous surgeries).
+
+The patient's vital signs, including blood pressure, heart rate, respiratory rate, and temperature, are within normal ranges. Their physical examination revealed (specific findings of interest).
+
+Laboratory investigations show (results of relevant lab tests). Notable findings include (specific lab values indicating any abnormalities). The patient's renal function is currently normal, with a (creatinine level) and an estimated glomerular filtration rate (eGFR) of (eGFR value).
+
+The anesthesiologist has completed an assessment and deemed the patient suitable for surgery. Pre-operative management includes (medication adjustments, fasting guidelines, bowel preparation, etc.). The patient has been educated regarding the risks and benefits of the surgery and has provided informed consent.
+
+On the day of surgery, the patient underwent (surgical procedure) under general anesthesia administered by an experienced anesthesiology team. The surgery was conducted without any intraoperative complications. The procedure lasted approximately (duration), and the patient tolerated it well.
+
+Postoperatively, the patient was transferred to the recovery room for monitoring and pain management. Vital signs remained stable, with no apparent postoperative complications. They were started on (pain medication regimen). Early mobilization was initiated to prevent potential complications such as deep vein thrombosis or atelectasis.
+
+Over the next few days, the patient's pain was effectively managed and gradually improved. They were encouraged to engage in breathing exercises and ambulation to promote optimal recovery. The surgical wound site showed (appropriate healing, signs of infection, drainage, etc.).
+
+In terms of complications, the patient did not experience any major immediate postoperative complications such as hemorrhage, infection, or respiratory compromise. However, they did develop (specific complication unrelated to acute renal failure) that was (treated/resolved) successfully. This (complication) was likely related to (underlying risk factors or surgical procedure).
+
+Throughout their postoperative course, the patient's condition continued to improve, with their pain well-controlled and no signs of surgical site infection. Their renal function remained stable, with no evidence of acute renal failure. The patient was discharged home on postoperative day (post-op day) and was given appropriate discharge instructions.
+
+A follow-up appointment was scheduled for (timeframe) to monitor the patient's progress, review pathology results (if applicable), and address any concerns or questions that may arise. Overall, the patient's postoperative course was uneventful, aside from the aforementioned (complication) that was appropriately managed.

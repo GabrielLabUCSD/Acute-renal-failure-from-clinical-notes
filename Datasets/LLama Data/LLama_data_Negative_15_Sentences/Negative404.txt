@@ -1,0 +1,36 @@
+Patient Summary:
+
+Name: [Insert patient name here]
+Age: [Insert patient age here]
+Gender: [Insert patient gender here]
+
+Medical History:
+
+* Hypertensive patient with history of stable angina
+* Smoker with 20 pack-year history
+* Diabetes mellitus, controlled with oral medications
+* Hyperlipidemia, controlled with statins
+* History of non-insulin dependent diabetes mellitus
+* History of asthma, well-controlled with inhalers
+* History of gastroesophageal reflux disease (GERD)
+* History of migraines
+
+Surgical History:
+
+* Patient is scheduled to undergo elective laparoscopic cholecystectomy
+* Previous surgical history includes appendectomy and hysterectomy
+* No history of previous cardiovascular or thoracic surgery
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative recovery
+* Tolerated surgery well, no reported complications
+* Remained in the hospital for 2 days for observation
+* Experienced mild postoperative nausea and vomiting, managed with medication
+* Followed up with surgeon and primary care physician for postoperative check-ups
+
+Complications:
+
+* No complications during surgery or postoperative period
+* Patient developed a mild wound infection, treated with oral antibiotics
+* No respiratory or cardiovascular complications during the postoperative period.

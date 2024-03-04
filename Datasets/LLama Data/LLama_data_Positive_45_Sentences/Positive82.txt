@@ -1,0 +1,36 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history and potential complications during surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, diabetes, and hyperlipidemia
+* Smoker for 30 years, quit 5 years ago
+* Obese, BMI 35
+* History of chronic back pain, managed with physical therapy and medication
+* Previous surgical history includes cholecystectomy, hernia repair, and knee replacement
+* Allergic to penicillin and sulfa medications
+* Current medications include metformin, lisinopril, atorvastatin, and oxycodone
+* Last physical exam was 6 months ago, blood pressure was 140/80 mmHg, heart rate 75 bpm, respiratory rate 16 bpm, and temperature 98.6°F (37°C)
+
+Acute Renal Failure Complication:
+
+* Postoperative day 2, patient developed oliguria and increasing serum creatinine levels
+* Urinalysis showed pyuria and proteinuria
+* Blood cultures were positive for E. coli
+* Patient was diagnosed with acute renal failure due to sepsis
+* Started on vasopressors and dialysis for 3 days
+* Creatinine level improved from 4.5 mg/dL to 2.8 mg/dL after dialysis
+* Patient was transitioned to oral medications and had gradual improvement in renal function over the next week
+
+Plan for Surgery:
+
+* Patient will undergo elective laparoscopic cholecystectomy
+* Preoperative workup includes clear liquid diet, bowel preparation, and antibiotic prophylaxis
+* Anesthesia plan is for general anesthesia with endotracheal intubation
+* Intraoperative fluid management will include vasopressors and blood product transfusions as needed
+* Postoperative care will include close monitoring of vital signs, fluid balance, and renal function
+* Patient will be transferred to the ICU for the first 24 hours for close observation
+
+Note: This is just a sample patient summary, and the details may vary depending on the patient's individual circumstances.

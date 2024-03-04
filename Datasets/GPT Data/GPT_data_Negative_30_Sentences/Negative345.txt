@@ -1,0 +1,19 @@
+The patient is a [age]-year-old [gender] who has a past medical history significant for [medical conditions]. They are planning to have [type of surgery] for [reason for surgery]. The patient's surgical team consists of [surgeon name] and [anesthesia team].
+
+The patient has a history of [specific medical conditions], which include [list of conditions]. They are currently being managed with [list of medications/treatments for each condition]. The patient's past surgical history involves [previous surgeries]. Their medications include [list of medications], which they are instructed to withhold prior to surgery.
+
+Preoperative labs were ordered and revealed [lab results], which were within normal limits except for [lab result]. [Further investigation will be required to address the abnormal lab result]. The patient's preoperative imaging studies, such as [specific imaging studies], showed [findings]. [Findings were consistent with the patient's current condition, and surgical planning was adjusted accordingly].
+
+The patient underwent [type of surgery] under general anesthesia. The surgical procedure involved [details of the surgery, such as incisions, structures involved, etc.]. [Intraoperative findings included [specific findings]. The procedure was completed without any complications, and the estimated blood loss was [amount]. [Surgical time was approximately [duration].
+
+Postoperatively, the patient was closely monitored in the recovery room before being transferred to the surgical ward. Pain management was achieved with [analgesic regimen], and the patient's pain scores were monitored regularly. The patient was encouraged to ambulate and perform deep breathing exercises to prevent complications such as pneumonia and deep vein thrombosis.
+
+On the first postoperative day, the patient's vital signs were stable, and they were able to tolerate a regular diet. The surgical wound was assessed and determined to be healing appropriately. The patient's urinary output was monitored, and there were no signs of acute renal failure.
+
+Throughout the patient's hospital stay, they received prophylactic antibiotics as per surgical protocol. The patient was monitored for signs of infection, such as fever or wound redness, but no such complications occurred.
+
+On the second postoperative day, the patient's pain scores continued to improve, and they were able to participate in physical therapy. The patient was educated on home care instructions and provided with a prescription for pain management.
+
+The patient was discharged home on the third postoperative day with instructions to continue with pain medications as needed. They were advised to follow up with their primary care physician for a wound check and further guidance on activity restrictions.
+
+In summary, the patient's medical history consists of [medical conditions], and they underwent [type of surgery]. The surgical procedure was completed successfully without complications. The patient had an uneventful postoperative course, with stable vital signs and no signs of acute renal failure. They were discharged home on day three and provided with appropriate instructions for recovery and follow-up care.

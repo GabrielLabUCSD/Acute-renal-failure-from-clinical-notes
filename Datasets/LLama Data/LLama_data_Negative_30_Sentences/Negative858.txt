@@ -1,0 +1,87 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 55-year-old male
+* History of hypertension
+* History of hyperlipidemia
+* History of non-insulin-dependent diabetes mellitus
+* History of sleep apnea
+* History of chronic lower back pain
+* Previous appendectomy
+* Previous cholecystectomy
+* Previous hernia repair
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 40 mg daily
+* Simvastatin 40 mg daily
+* Metformin 500 mg twice daily
+* Oxycodone 5 mg as needed for pain
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Family History:
+
+* Father died of myocardial infarction at age 65
+* Mother died of breast cancer at age 70
+* One sibling with history of hypertension
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Does not smoke
+* Drinks alcohol occasionally
+* Exercises regularly
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Preoperative Lab Results:
+
+* WBC 12,000/uL
+* Hb 14.5 g/dL
+* Platelet count 200,000/uL
+* BUN 20 mg/dL
+* Cr 1.5 mg/dL
+* AST 35 IU/L
+* ALT 45 IU/L
+* Alkaline phosphatase 120 IU/L
+* PT 12 seconds
+* INR 1.2
+
+Operative Course:
+
+* Laparoscopic cholecystectomy performed under general anesthesia
+* No intraoperative complications
+
+Postoperative Course:
+
+* Patient transferred to PACU without complications
+* Monitored for 2 hours before being transferred to surgical floor
+* Pain controlled with oxycodone
+* Ambulated on day of surgery
+*tolerated oral intake well
+* No nausea or vomiting
+
+Complications:
+
+* None
+
+Discharge Summary:
+
+* Patient was discharged home on postoperative day 2
+* Wound check revealed Steri-Strips in place and no signs of infection
+* Pain controlled with oral medication
+* Follow-up appointment scheduled with surgeon for 1 week after discharge
+* Patient advised to avoid heavy lifting and bending for 4 weeks
+
+This patient summary includes relevant medical history, current medications, allergies, family history, social history, reason for surgery, preoperative lab results, operative course, postoperative course, complications, and discharge summary. It does not include acute renal failure as a complication.

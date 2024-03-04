@@ -1,0 +1,31 @@
+Patient Summary: 
+
+The patient is a [insert age]-year-old male who presents with a history of [insert medical condition] and is scheduled to undergo [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert relevant surgical history]. The patient is currently taking [insert medications] and has no known allergies. 
+
+The patient"s last meal was [insert time] hours ago and consists of [insert food]. The patient has been NPO since [insert time] hours ago. 
+
+The patient has a history of smoking [insert number] packs of cigarettes per day for [insert number] years and has stopped smoking [insert time] ago. The patient also has a history of alcohol consumption of [insert number] drinks per week for [insert number] years and has stopped drinking [insert time] ago. 
+
+The patient has a history of recreational drug use, including [insert drug name] and [insert drug name]. The patient stopped using these drugs [insert time] ago. 
+
+The patient has been experiencing [insert symptoms] for [insert duration] and has tried [insert treatments] without relief. The patient was referred to us by [insert referring physician]. 
+
+The patient is scheduled to undergo [insert type of surgery] under general anesthesia. The procedure is expected to last [insert duration of surgery]. 
+
+The patient will be monitored closely for [insert postoperative complications] and will be transferred to the [insert unit] for postoperative care. 
+
+The patient will be advised to follow a clear liquid diet for [insert duration] after surgery and will be started on [insert medications] for pain management. 
+
+The patient"s family history includes [insert relevant medical history of family members]. 
+
+The patient has a living will and advance directive on file. 
+
+The patient has been informed of the risks and benefits of the procedure and has given informed consent. 
+
+The patient"s postoperative course was uneventful, and they were discharged from the hospital on [insert date]. 
+
+The patient did not experience any complications during their hospital stay. 
+
+The patient will follow up with us in the clinic on [insert date] for further evaluation and management. 
+
+Assistant: Is there anything else I can help you with?

@@ -1,0 +1,45 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. The pain is described as a constant, dull ache that worsens with activity and is accompanied by numbness and tingling in the left leg.
+
+The patient has tried conservative management, including physical therapy and medication, without significant relief.
+
+The patient has a history of hypertension and hyperlipidemia, and is currently taking medication to control these conditions.
+
+The patient has no known allergies.
+
+The patient has a history of smoking, but quit 5 years ago.
+
+The patient denies any recent significant weight loss or gain.
+
+The patient's family history is significant for coronary artery disease and cancer.
+
+The patient's social history includes occasional alcohol consumption and no illicit drug use.
+
+The patient's review of systems is positive for recent worsening of back pain, left leg radiculopathy, and occasional difficulty with urinary retention.
+
+The patient's surgical history includes a cholecystectomy 10 years ago.
+
+The patient's current medications include atorvastatin, lisinopril, and gabapentin.
+
+The patient is currently working as a machinist and denies any recent changes in his work environment.
+
+The patient's physical examination reveals decreased sensation to light touch and pain in the left L5-S1 dermatome.
+
+The patient's straight leg raise test is positive at 40 degrees.
+
+The patient's lumbar spine MRI shows a large central disc herniation at L5-S1 with significant spinal canal stenosis.
+
+The patient's neurological consultation recommends surgical intervention.
+
+The patient is scheduled for a L5-S1 lumbar microdiscectomy.
+
+The patient's postoperative course is uneventful.
+
+The patient experiences significant improvement in back pain and left leg radiculopathy.
+
+The patient is able to return to work as a machinist 6 weeks postoperatively.
+
+The patient's follow-up MRI at 6 weeks shows significant improvement in the disc herniation and spinal canal stenosis.
+
+The patient has no complications during the postoperative period.

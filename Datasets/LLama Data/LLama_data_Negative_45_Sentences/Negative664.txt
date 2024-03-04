@@ -1,0 +1,61 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic lower back pain and left leg radiculopathy. The patient has a history of smoking and alcohol use. The patient has tried physical therapy, medication, and injections without significant relief.
+
+The patient has a history of hypertension and hyperlipidemia. The patient had a myocardial infarction 10 years ago and has been compliant with medication regimen since then.
+
+The patient has a history of non-insulin-dependent diabetes mellitus and has been managed with oral medication.
+
+The patient has a history of sleep apnea and uses a continuous positive airway pressure machine.
+
+The patient has a history of chronic obstructive pulmonary disease and uses an inhaler as needed.
+
+The patient has no known allergies.
+
+The patient has no history of bleeding disorders.
+
+The patient has a history of gallstones and had a cholecystectomy 5 years ago.
+
+The patient has no history of previous surgery.
+
+The patient has no history of anesthesia complications.
+
+The patient is currently taking aspirin, metformin, lisinopril, and atorvastatin.
+
+The patient is in good health and reports no concerning symptoms aside from back pain.
+
+The patient has a high risk of postoperative complications due to history of hypertension, hyperlipidemia, diabetes, sleep apnea, and chronic obstructive pulmonary disease.
+
+Plan:
+
+The patient will undergo a lumbar decompression surgery.
+
+The patient will be closely monitored for blood glucose control during surgery.
+
+The patient will receive iv antibiotics during surgery to prevent infection.
+
+The patient will be closely monitored for postoperative respiratory complications.
+
+The patient will be closely monitored for signs of postoperative cardiac complications.
+
+The patient will receive pain management as needed.
+
+Follow-up:
+
+The patient had an uneventful surgery and was discharged on postoperative day 3.
+
+The patient"s pain was well controlled with medication.
+
+The patient had no complications during the hospital stay.
+
+The patient"s blood glucose and blood pressure were well controlled during the hospital stay.
+
+The patient"s respiratory and cardiac status remained stable during the hospital stay.
+
+The patient had no complications during the postoperative period.
+
+The patient"s pain has improved significantly since surgery.
+
+The patient has returned to his regular medication regimen.
+
+The patient has made a full recovery and has returned to his normal activities.

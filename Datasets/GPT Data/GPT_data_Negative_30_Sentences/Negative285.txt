@@ -1,0 +1,53 @@
+Patient is a 45-year-old male who is planning to have surgery to remove a benign tumor in his abdomen. He has a history of hypertension, which is well-controlled with medication. He also has a history of asthma, which is well-managed with inhalers. The patient had a previous surgery 5 years ago to remove his appendix and had an uncomplicated postoperative course.
+
+Patient is a 62-year-old female who is planning to have a knee replacement surgery due to severe osteoarthritis. She has a history of diabetes mellitus type 2, which is controlled with oral medication and diet. She also has a history of hyperlipidemia and takes statin medication. The patient had a previous surgery to repair a broken wrist and had a non-complicated recovery.
+
+Patient is a 33-year-old female who is planning to have gastric bypass surgery for weight loss. She has a history of obesity and has tried multiple weight loss strategies without success. She also has a history of depression, which is managed with medication and therapy. The patient had no prior surgeries and does not have any postoperative complications.
+
+Patient is a 55-year-old male who is planning to have a coronary artery bypass graft surgery. He has a history of coronary artery disease and has had multiple cardiac catheterizations in the past. He also has a history of smoking, but quit 2 years ago. The patient had a previous surgery to place a stent in one of his coronary arteries and had an uncomplicated recovery.
+
+Patient is a 70-year-old female who is planning to have a hip replacement surgery due to advanced osteoarthritis. She has a history of osteoporosis and takes medication to prevent bone loss. She also has a history of hypertension and takes medication to control it. The patient had a previous surgery to remove a cataract in her left eye and had a non-complicated postoperative course.
+
+Patient is a 40-year-old male who is planning to have a vasectomy. He has a history of allergies and takes antihistamines as needed. He also has a history of migraines, which are managed with medication. The patient had no prior surgeries and did not have any postoperative complications.
+
+Patient is a 50-year-old female who is planning to have a hysterectomy for fibroids. She has a history of endometriosis and has had multiple surgeries in the past to treat it. She also has a history of irritable bowel syndrome and takes medication to manage symptoms. The patient has had previous surgeries with no complications and is at low risk for postoperative complications.
+
+Patient is a 65-year-old male who is planning to have a prostatectomy for prostate cancer. He has a history of hypertension and takes medication to control it. He also has a history of benign prostatic hyperplasia and has had previous surgeries to treat it. The patient had a previous surgery to repair a hernia and had a non-complicated recovery.
+
+Patient is a 30-year-old female who is planning to have a breast augmentation surgery. She has no significant medical history and has not had any previous surgeries. The patient is at low risk for postoperative complications.
+
+Patient is a 60-year-old male who is planning to have a colostomy surgery due to colon cancer. He has a history of diabetes mellitus type 2, which is controlled with insulin. He also has a history of hypertension and takes medication to manage it. The patient had a previous surgery to remove a kidney stone and had an uncomplicated recovery.
+
+Patient is a 70-year-old female who is planning to have a cataract surgery. She has a history of glaucoma and takes medication to manage eye pressure. She also has a history of osteoarthritis and takes non-steroidal anti-inflammatory drugs for pain. The patient had no prior surgeries and is at low risk for postoperative complications.
+
+Patient is a 50-year-old male who is planning to have a hernia repair surgery. He has a history of smoking and quit 10 years ago. He also has a history of gastroesophageal reflux disease and takes medication to manage symptoms. The patient had a previous surgery to remove his tonsils and had an uncomplicated postoperative course.
+
+Patient is a 35-year-old female who is planning to have a rhinoplasty for cosmetic purposes. She has no significant medical history and has not had any previous surgeries. The patient is at low risk for postoperative complications.
+
+Patient is a 65-year-old male who is planning to have a spinal fusion surgery for herniated discs. He has a history of osteoarthritis and takes medication for pain management. He also has a history of smoking but quit 5 years ago. The patient had a previous surgery to repair a fractured ankle and had a non-complicated recovery.
+
+Patient is a 55-year-old female who is planning to have a mastectomy for breast cancer. She has a history of hypertension and takes medication to control it. She also has a history of depression, which is managed with medication and therapy. The patient had no prior surgeries and is at low risk for postoperative complications.
+
+Patient is a 40-year-old male who is planning to have a vasectomy. He has a history of allergies and takes antihistamines as needed. He also has a history of migraines, which are managed with medication. The patient had no prior surgeries and did not have any postoperative complications.
+
+Patient is a 50-year-old female who is planning to have a tummy tuck surgery for cosmetic purposes. She has no significant medical history and has not had any previous surgeries. The patient is at low risk for postoperative complications.
+
+Patient is a 60-year-old male who is planning to have a prostatectomy for prostate cancer. He has a history of hypertension and takes medication to control it. He also has a history of benign prostatic hyperplasia and has had previous surgeries to treat it. The patient had a previous surgery to repair a hernia and had a non-complicated recovery.
+
+Patient is a 30-year-old female who is planning to have a breast augmentation surgery. She has no significant medical history and has not had any previous surgeries. The patient is at low risk for postoperative complications.
+
+Patient is a 70-year-old male who is planning to have a colon resection surgery for colon cancer. He has a history of hypertension and takes medication to control it. He also has a history of diabetes mellitus type 2, which is managed with oral medication and diet. The patient had a previous surgery to remove a kidney stone and had an uncomplicated recovery.
+
+Patient is a 65-year-old female who is planning to have a hip replacement surgery due to advanced osteoarthritis. She has a history of osteoporosis and takes medication to prevent bone loss. She also has a history of hypertension and takes medication to control it. The patient had a previous surgery to remove a cataract in her left eye and had a non-complicated postoperative course.
+
+Patient is a 40-year-old male who is planning to have a vasectomy. He has no significant medical history and has not had any previous surgeries. The patient is at low risk for postoperative complications.
+
+Patient is a 50-year-old female who is planning to have a hysterectomy for fibroids. She has a history of endometriosis and has had multiple surgeries in the past to treat it. She also has a history of irritable bowel syndrome and takes medication to manage symptoms. The patient has had previous surgeries with no complications and is at low risk for postoperative complications.
+
+Patient is a 65-year-old male who is planning to have a prostatectomy for prostate cancer. He has a history of hypertension and takes medication to control it. He also has a history of benign prostatic hyperplasia and has had previous surgeries to treat it. The patient had a previous surgery to repair a hernia and had a non-complicated recovery.
+
+Patient is a 30-year-old female who is planning to have a breast augmentation surgery. She has no significant medical history and has not had any previous surgeries. The patient is at low risk for postoperative complications.
+
+Patient is a 70-year-old male who is planning to have a colon resection surgery for colon cancer. He has a history of hypertension and takes medication to control it. He also has a history of diabetes mellitus type 2, which is managed with oral medication and diet. The patient had a previous surgery to remove a kidney stone and had an uncomplicated recovery.
+
+Patient is a 65-year-old female who is planning to have a hip replacement surgery due to advanced osteoarthritis. She has a history of osteoporosis and takes medication to prevent bone loss. She also has a history of hypertension and takes medication to control it. The patient had a previous surgery to remove a cataract in her left eye and had a non-complicated postoperative course.

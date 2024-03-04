@@ -1,0 +1,21 @@
+Patient Summary:
+
+* Patient presents with history of chronic back pain and degenerative disc disease.
+* Previous treatments include physical therapy, pain medication, and steroid injections.
+* Patient has history of hypertension and hyperlipidemia.
+* Patient is a 40-year-old male, height 5’10”, weight 250 lbs.
+* Patient has a history of smoking, but quit 5 years ago.
+* Patient has no known allergies.
+* Patient is taking aspirin, simvastatin, and hydrochlorothiazide.
+* Patient has no history of previous surgeries.
+* Patient’s father died of myocardial infarction at age 55.
+* Patient’s mother has history of breast cancer.
+* Patient’s sister has history of thyroid cancer.
+* Patient has history of occasional alcohol consumption, but denies any recent alcohol use.
+* Patient is employed as a software engineer and works long hours.
+* Patient has history of stress and anxiety, controlled with meditation and exercise.
+* Patient is married with two children, ages 10 and 12.
+* Patient is planning to undergo a lumbar fusion surgery.
+* Post-operative course is complicated by acute renal failure, requiring dialysis.
+
+This patient summary provides a comprehensive overview of the patient's medical history, including their chronic back pain and previous treatments, medical conditions, medications, family history, social history, and planned surgery. The summary also highlights the patient's risk factors, such as smoking and hypertension, and their stress and anxiety levels. Additionally, it includes information about the patient's occupation, family, and support system, which can be helpful in discharge planning and post-operative care. The acute renal failure complication after surgery is also noted, which is crucial for the surgical team to be aware of in order to provide appropriate treatment and prevent further complications.

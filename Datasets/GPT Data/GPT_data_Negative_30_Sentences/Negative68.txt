@@ -1,0 +1,51 @@
+The patient is a 62-year-old male who is planning to have surgery. He has a medical history that includes hypertension, diabetes mellitus type 2, hyperlipidemia, and coronary artery disease. He is overweight with a body mass index of 31.3 and has a history of smoking for 20 years.
+
+His hypertension is currently well controlled on lisinopril and hydrochlorothiazide, with a blood pressure of 130/80 mmHg. His diabetes is managed with metformin, and his most recent glycosylated hemoglobin (HbA1c) level was 6.5%. He takes a statin for his hyperlipidemia, and his lipid profile is within normal limits.
+
+The patient's coronary artery disease is managed with aspirin and atorvastatin. He had a coronary artery bypass graft (CABG) surgery 10 years ago and has been asymptomatic since then. His last stress test, performed 1 year ago, showed no evidence of myocardial ischemia. He is also taking clopidogrel for one year following drug-eluting stent placement in his right coronary artery.
+
+His surgical history includes a cholecystectomy 5 years ago due to cholelithiasis. He recovered uneventfully from the surgery and has had no complications related to it.
+
+The patient is currently not on any medications that need to be discontinued prior to surgery. He does not have any known allergies to medications or latex.
+
+He denies any symptoms of chest pain, dyspnea, or lower extremity edema. His exercise tolerance is fair, as he is able to walk about 3 miles without experiencing any symptoms.
+
+The patient's laboratory results are within normal limits, with a hemoglobin of 14.2 g/dL, hematocrit of 42%, platelet count of 200,000/µL, and a white blood cell count of 8,000/µL. His serum electrolyte levels, liver function tests, and renal function tests are all normal.
+
+His preoperative electrocardiogram (ECG) shows normal sinus rhythm with no significant ST-T wave abnormalities. There are no Q waves or signs of myocardial infarction.
+
+The patient has been advised to continue taking his home medications up until the day of surgery with a sip of water.
+
+The patient has been counseled on the importance of smoking cessation and has expressed a desire to quit smoking prior to surgery.
+
+He has been referred to a nutritionist for counseling on weight loss, as he would benefit from losing weight prior to surgery to reduce surgical risks.
+
+The patient has undergone a preoperative assessment by an anesthesiologist, who has reviewed his medical history and noted no contraindications to anesthesia. The anesthesiologist has recommended general anesthesia for the surgery.
+
+Following surgery, the patient will be closely monitored in the post-anesthesia care unit (PACU) for any complications. Pain management will be provided using a patient-controlled analgesia (PCA) pump.
+
+He will be started on prophylactic antibiotics perioperatively to prevent surgical site infections.
+
+The patient will be encouraged to ambulate as soon as possible after surgery to prevent complications such as deep vein thrombosis.
+
+Vital signs, including blood pressure, heart rate, respiratory rate, and oxygen saturation, will be regularly monitored in the PACU and postoperative period.
+
+The patient will receive deep venous thrombosis prophylaxis with sequential compression devices on both lower extremities during the surgery and throughout his hospital stay.
+
+He will be started on a clear liquid diet on the day of surgery and advanced to regular diet as tolerated.
+
+The patient's surgical wound will be inspected for signs of infection and proper healing during his hospitalization.
+
+It is important for the patient to continue taking his home medications, including antiplatelet therapy, after surgery to prevent complications.
+
+The patient's postoperative course was uneventful, with no complications noted.
+
+He recovered well from surgery and was able to ambulate without difficulty.
+
+The patient's pain was effectively managed with the PCA pump, and he experienced no adverse reactions to the medications.
+
+There were no signs of surgical site infections or wound dehiscence.
+
+The patient's laboratory values remained within normal limits throughout his hospital stay.
+
+He was discharged home on postoperative day 3 with instructions for wound care, medications, and follow-up appointments.

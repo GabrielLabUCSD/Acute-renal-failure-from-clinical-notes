@@ -1,0 +1,36 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a description of the patient experiencing acute renal failure complication after surgery:
+
+1. The patient is a 65-year-old male who presents with a history of chronic back pain and degenerative joint disease.
+2. He has tried various conservative treatments, including physical therapy and medication, but has not experienced significant relief.
+3. The patient has a history of smoking, with a pack-year history of 30.
+4. He has also been diagnosed with hypertension and hyperlipidemia.
+5. The patient has a family history of cardiovascular disease, with his father passing away from a myocardial infarction at the age of 55.
+6. He has no known allergies to medications or anesthetics.
+7. The patient's surgical history includes a cholecystectomy and a hernia repair.
+8. He has a history of chronic obstructive pulmonary disease (COPD) and uses an inhaler as needed.
+9. The patient's current medications include atorvastatin, lisinopril, and oxycodone.
+10. He denies any recent illnesses or infections.
+11. The patient's vital signs are within normal limits, with the exception of a slightly elevated blood pressure.
+12. He has a history of constipation and takes daily laxatives to manage this issue.
+13. The patient has a history of benign prostatic hyperplasia (BPH) and takes tamsulosin for symptomatic relief.
+14. He has urinary retention and requires catheterization.
+15. The patient's most recent electrolyte panel revealed a creatinine level of 1.8 mg/dL.
+16. His blood urea nitrogen (BUN) level was 25 mg/dL.
+17. The patient's estimated glomerular filtration rate (eGFR) is 60 mL/min/1.73m2.
+18. He has acute renal failure and will require dialysis.
+19. The patient underwent a successful surgical procedure and is currently recovering.
+20. His postoperative course has been uneventful thus far.
+21. The patient's pain is well-controlled with adequate analgesia.
+22. He denies any nausea or vomiting.
+23. The patient's urinary catheter was removed on postoperative day 2.
+24. His creatinine level has improved to 1.5 mg/dL.
+25. The BUN level is now 18 mg/dL.
+26. The patient's eGFR has improved to 70 mL/min/1.73m2.
+27. He will continue to be monitored closely for signs of acute renal failure.
+28. The patient is at high risk for cardiovascular complications due to his history of hypertension, hyperlipidemia, and smoking.
+29. He will require close postoperative monitoring and aggressive management of his cardiovascular risk factors.
+30. The patient will follow up with his primary care physician and nephrologist for ongoing care and management of his renal failure.
+
+Complication: Acute renal failure
+
+The patient experienced acute renal failure after surgery, as evidenced by an elevated creatinine level and decreased eGFR. He will require dialysis and close monitoring for signs of improvement or worsening renal function. The patient is at high risk for cardiovascular complications and will require aggressive management of his risk factors to prevent further complications.

@@ -1,0 +1,13 @@
+Patient X is a 65-year-old male with a significant medical history planning to undergo surgery. He has a past medical history of type 2 diabetes mellitus, hypertension, hyperlipidemia, chronic obstructive pulmonary disease (COPD), and osteoarthritis. The patient's diabetes is well-controlled with oral antidiabetic medication. He has been hypertensive for several years and is on a combination therapy of an angiotensin-converting enzyme (ACE) inhibitor and a diuretic. His hyperlipidemia is managed with a statin. The patient has a 30-pack-year smoking history but quit smoking 10 years ago. 
+
+The patient has had two prior surgeries: cholecystectomy 10 years ago and an elective knee replacement two years ago. During his knee replacement surgery, he developed a deep vein thrombosis (DVT) and subsequently received anticoagulation therapy. He had an uneventful postoperative course after both surgeries. 
+
+In terms of allergies, the patient has a documented penicillin allergy, which causes a rash. He is also allergic to codeine, as it causes him severe itching. Itchie is a type of cough medication which he experienced itching from.
+
+The patient's preoperative laboratory results revealed a normal complete blood count, liver function, and renal function. His estimated glomerular filtration rate (eGFR) is 86 ml/min, indicating mild impairment. The patient has normal coagulation parameters, and his chest X-ray is consistent with COPD changes.
+
+Regarding the patient's postoperative course, he is expected to be admitted to the surgical care unit for close monitoring and to manage his pain. Prophylactic antibiotics will be administered prior to the surgery and continued postoperatively to prevent surgical site infections. The patient will have sequential compression devices applied to prevent deep vein thrombosis development due to his prior history of DVT. 
+
+The surgical team will also closely monitor the patient's blood sugar levels during the perioperative period. As the patient has moderate COPD, respiratory therapy will be an integral part of his postoperative care to prevent exacerbations and ensure adequate lung function.
+
+Complication-wise, the patient is at an increased risk for postoperative infection due to his diabetes and history of smoking. However, no complications or adverse events are reported in the patient's prior surgical notes, except for the previously mentioned DVT that was managed accordingly. As for his renal function, acute renal failure is not observed in the patient's medical history.

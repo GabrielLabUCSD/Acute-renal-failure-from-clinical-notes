@@ -1,0 +1,17 @@
+The patient is a (age) year-old (gender) who is planning to have (type of surgery). They have a past medical history significant for (medical conditions) and have been on (medications) for (duration). Their surgical history includes (previous surgeries). They do not have any known allergies to medications or any adverse reactions to anesthesia.
+
+In terms of their medical conditions, the patient has been diagnosed with (conditions) for (duration). They are currently managing their condition(s) through (medications, lifestyle modifications). The patient has a history of (recurrent infections) and has required (hospitalizations/treatments) in the past.
+
+The patient has undergone various investigations, including (lab tests, imaging studies) to evaluate their condition and ensure they are suitable for surgery. These results indicate (findings). Additionally, they have been evaluated by (specialty doctors) who have assessed their suitability for surgery and found them to be a good candidate.
+
+Prior to surgery, the patient should be closely monitored and assessed for any potential complications. Acute renal failure is a possible complication following surgery. The patient should be monitored for signs and symptoms of renal dysfunction, including decreased urine output, fluid retention, elevated creatinine levels, and electrolyte imbalances. Appropriate measures should be taken to ensure adequate fluid management, optimize renal perfusion, and prevent further renal injury.
+
+It is important to review the patient's medications prior to surgery to identify any that may need to be altered or temporarily discontinued to reduce the risk of complications. Pre-operative optimization of the patient's medical conditions, such as blood pressure control, glycemic management, and infection control, is also crucial.
+
+During the surgery, close monitoring of the patient's vital signs, fluid balance, and urine output should be maintained. Adequate anesthesia and analgesia should be provided to minimize pain and stress on the body.
+
+Following surgery, frequent reassessment of the patient's renal function, fluid status, and electrolyte balance is necessary to detect and manage any complications promptly. The patient should also be monitored for signs of infection, thromboembolism, and other post-operative complications.
+
+The patient's post-operative care should include measures to prevent and manage acute renal failure, such as optimizing fluid balance, avoiding nephrotoxic medications, and providing renal support if necessary (e.g., diuretics, dialysis). Renal consult may be warranted for the management of acute renal injury.
+
+It is essential to involve a multidisciplinary team, including surgeons, anesthesiologists, nephrologists, and other specialists, to ensure appropriate management of the patient's surgical needs and any complications that may arise, including acute renal failure following surgery. Close communication and coordination amongst the team members is crucial for the patient's optimal outcome and recovery.

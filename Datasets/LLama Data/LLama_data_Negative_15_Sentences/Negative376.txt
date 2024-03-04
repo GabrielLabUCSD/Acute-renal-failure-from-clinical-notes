@@ -1,0 +1,51 @@
+Patient Summary:
+
+The patient is a [age]-year-old male/female with a medical history of [briefly list the patient's medical conditions, e.g., hypertension, diabetes, asthma]. The patient has been scheduled for [type of surgery, e.g., laparoscopic cholecystectomy] to address [briefly describe the reason for the surgery, e.g., symptomatic gallstones].
+
+Preoperative Workup:
+
+The patient has undergone a thorough preoperative workup, including [list any relevant tests or procedures, e.g., electrocardiogram, echocardiogram, pulmonary function tests]. The results of these tests have been reviewed by the anesthesiologist and surgical team, and the patient has been deemed fit for surgery.
+
+Allergies:
+
+The patient has no known allergies to medications or materials commonly used during surgery.
+
+Medications:
+
+The patient is currently taking [list the patient's medications, including dosages and frequency]. The patient has been advised to discontinue [specific medications] prior to surgery.
+
+ Family History:
+
+The patient's family history is unremarkable, with no history of adverse reactions to anesthesia or surgery.
+
+Social History:
+
+The patient is a [smoker/former smoker/nonsmoker], drinks [number of drinks per week] alcohol, and has no history of recreational drug use. The patient lives alone/lives with family and has a support system in place for postoperative care.
+
+Review of Systems:
+
+The patient reports no significant changes in their medical history since the last clinic visit. The patient's current symptoms include [briefly describe the patient's current symptoms, e.g., abdominal pain, nausea].
+
+Laboratory Results:
+
+The patient's recent laboratory results are as follows: [list any relevant results, e.g., hemoglobin, white blood cell count, serum creatinine].
+
+Anesthesia Plan:
+
+The anesthesia plan for the patient includes [briefly describe the planned anesthesia, e.g., general anesthesia with endotracheal intubation].
+
+Surgical Plan:
+
+The surgical plan for the patient includes [briefly describe the planned surgical procedure, e.g., laparoscopic cholecystectomy with common bile duct exploration].
+
+Postoperative Course:
+
+The patient had an uneventful postoperative course. The patient was extubated in the operating room and transferred to the recovery room in stable condition. The patient's pain was well controlled with [list medications used for pain management, e.g., fentanyl, acetaminophen]. The patient experienced some nausea and vomiting on the first postoperative day, which was treated with antiemetics. The patient was able to tolerate a clear liquid diet on the second postoperative day and was discharged home in stable condition on [day of discharge].
+
+Complications:
+
+The patient did not experience any significant complications during the postoperative period.
+
+Follow-up:
+
+The patient will follow up with the surgeon in [timeframe, e.g., 1 week] to ensure that the surgical site is healing properly and to address any concerns or questions. The patient will also follow up with the primary care physician for ongoing medical management.

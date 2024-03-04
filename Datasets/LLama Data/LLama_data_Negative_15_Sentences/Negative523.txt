@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition] requiring surgical intervention. The patient has a history of [insert relevant medical history], including [insert relevant surgical history]. The patient is allergic to [insert allergies] and currently takes [insert medications]. The patient has been informed of the risks and benefits of the surgery and has provided informed consent.
+
+Postoperative Course:
+
+The patient underwent [insert type of surgery] on [insert date] and had an uneventful postoperative course. The patient experienced some [insert expected side effects or complications] but these were managed effectively with [insert treatments or interventions]. The patient was discharged from the hospital on [insert date] and has been recovering well at home.
+
+Complications:
+
+The patient did not experience any acute renal failure during their postoperative course. However, they did develop [insert any other complications that occurred, such as wound infection, pneumonia, etc.]. These complications were treated with [insert treatments or interventions] and the patient has made a full recovery.
+
+Additional Information:
+
+The patient has been advised to follow up with their surgeon for routine check-ups and to monitor their condition closely. The patient has also been advised to seek immediate medical attention if they experience any concerning symptoms or signs of complications.
+
+Conclusion:
+
+The patient underwent successful surgery and had an uneventful postoperative course. They experienced some expected side effects and complications, but these were managed effectively with appropriate treatments and interventions. The patient has made a full recovery and has been advised to follow up with their surgeon for routine check-ups.

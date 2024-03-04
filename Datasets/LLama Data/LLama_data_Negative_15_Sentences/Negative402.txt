@@ -1,0 +1,33 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history and postoperative course:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension, controlled with medication
+* Hyperlipidemia, controlled with medication
+* History of smoking, quit 10 years ago
+* History of alcohol use, stopped 5 years ago
+* Previous coronary artery bypass grafting (CABG) 15 years ago
+* Previous left total knee arthroplasty 10 years ago
+* Previous right total knee arthroplasty 5 years ago
+* Previous left shoulder arthroplasty 2 years ago
+* Previous right shoulder arthroplasty 1 year ago
+* Previous history of colon cancer, status post chemotherapy and radiation therapy 5 years ago
+
+Planned Surgery: Elective left inguinal hernia repair
+
+Postoperative Course:
+
+* Patient had a smooth postoperative course, no complications noted
+* Patient was discharged home on postoperative day 2
+* Patient followed up with surgeon in clinic 2 weeks postoperatively, all wounds healing well
+* Patient reported some mild postoperative pain, managed with pain medication
+* Patient advised to avoid heavy lifting, bending, or straining for 6 weeks
+* Patient was seen by the primary care physician 4 weeks postoperatively, all wounds healing well
+* Patient had a follow-up CT scan 6 weeks postoperatively, no evidence of recurrent hernia
+
+Complications: None
+
+I hope this helps! Please note that this is a sample summary and the specific details of a patient's medical history and postoperative course may vary. It's important to include all relevant information in a patient summary to ensure accurate and efficient care.

@@ -1,0 +1,13 @@
+The patient is a 50-year-old male who is planning to have surgery. He has a medical history of hypertension, diabetes, and obesity. He takes medications for his hypertension and diabetes, including lisinopril and metformin. He also reports a history of smoking for 20 years but has quit 10 years ago. 
+
+The patient's blood pressure is well controlled with medication, and his recent HbA1c levels indicate good glycemic control. However, his BMI is 35, suggesting severe obesity. He reports occasional shortness of breath with exertion and has a sedentary lifestyle. 
+
+In terms of surgical history, the patient underwent an appendectomy when he was 25 years old and had no complications. Allergies include penicillin, to which he had a mild reaction, but he has no other known drug allergies. 
+
+Laboratory tests reveal normal liver function, lipid profile, and thyroid function. However, his renal function is slightly impaired, with a creatinine level of 1.5 mg/dL and a decrease in glomerular filtration rate (GFR). 
+
+The patient had a pre-operative consultation with the anesthesiologist and was deemed fit for surgery with no contraindications. However, post-surgery, he developed acute renal failure, evidenced by elevated creatinine levels (2.5 mg/dL) and decreased urine output. This was likely due to decreased renal perfusion during surgery or administration of nephrotoxic medications. 
+
+To manage the acute renal failure, the patient was placed on fluid and electrolyte management, including intravenous fluids to improve renal perfusion and diuretics to enhance urine output. Renal function improved gradually, and the patient was monitored closely for any further complications. The underlying cause of the acute renal failure was addressed, and steps were taken to prevent recurrence. 
+
+The patient was advised to maintain good glycemic control and further manage his hypertension and obesity to reduce the risk of future complications. Pre-operative planning, including the involvement of a multidisciplinary team, was considered for any future surgeries to minimize potential complications. The patient also underwent education on smoking cessation to further optimize his overall health.

@@ -1,0 +1,16 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery] for [indication/reason].
+The patient has a past medical history significant for [medical conditions], including [specific conditions such as hypertension, diabetes, or heart disease].
+They are currently [taking/not taking] medications for these conditions, including [list medications].
+The patient has a known drug allergy to [specific medication or class of medications].
+They do not have a family history of [specific diseases].
+Their surgical history includes previous procedures for [specific surgeries, if applicable].
+The patient does not have any known bleeding disorders or clotting abnormalities.
+They are a non-smoker and do not consume alcohol or use recreational drugs.
+Their preoperative laboratory tests and imaging studies are within normal limits, including [specific tests and results].
+The patient's vital signs are stable, with a blood pressure of [range], heart rate of [range], respiratory rate of [range], and oxygen saturation of [range].
+During the surgery, the patient received general anesthesia without complications.
+The procedure was completed successfully, with no intraoperative complications reported.
+In the immediate postoperative period, the patient was closely monitored in the recovery room.
+They were started on pain medication, antibiotics, and deep vein thrombosis prophylaxis as per protocol.
+The patient's postoperative course was uneventful, with no significant complications reported.
+They were discharged [number of days] after the surgery in stable condition, with appropriate instructions for follow-up care.

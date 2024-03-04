@@ -1,0 +1,37 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [medical condition 1], [medical condition 2], and [medical condition 3]. The patient has been experiencing [symptom 1], [symptom 2], and [symptom 3] and has tried [treatment 1], [treatment 2], and [treatment 3] without relief. The patient is scheduled to undergo [surgery name] to address [medical condition 1].
+
+Preoperative:
+
+* The patient is in good health overall.
+* The patient has a history of [allergy 1], [allergy 2], and [allergy 3].
+* The patient is taking [medication 1], [medication 2], and [medication 3].
+* The patient has a history of [previous surgery 1], [previous surgery 2], and [previous surgery 3].
+
+Intraoperative:
+
+* The surgery was performed under [anesthesia type].
+* The procedure was completed without any complications.
+* The patient's vital signs remained stable throughout the procedure.
+
+Postoperative:
+
+* The patient was transferred to the recovery room and remained there for [length of time].
+* The patient experienced [postoperative complication 1], [postoperative complication 2], and [postoperative complication 3].
+* The patient was manage with [treatment 1], [treatment 2], and [treatment 3].
+* The patient was discharged from the hospital on [date] and is currently recovering at home.
+
+Follow-up:
+
+* The patient had a follow-up appointment with their surgeon on [date].
+* The patient is recovering well and has been advised to continue with [treatment 1], [treatment 2], and [treatment 3].
+* The patient has been asked to follow up with their primary care physician for further management of their medical conditions.
+
+Complications:
+
+* [Postoperative complication 1]
+* [Postoperative complication 2]
+* [Postoperative complication 3]
+
+Note: The patient did not experience acute renal failure as a complication.

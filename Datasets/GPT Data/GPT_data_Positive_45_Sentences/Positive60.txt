@@ -1,0 +1,31 @@
+The patient is a 60-year-old male who is planning to have surgery for a hernia repair. His past medical history is significant for hypertension, hyperlipidemia, and type 2 diabetes mellitus. He has been well-controlled on medications for these conditions.
+
+The patient has a history of smoking for 30 years, but he quit five years ago. He has a family history of heart disease, with his father having a heart attack at age 55. The patient reports occasional chest pain with exertion but denies any other cardiac symptoms.
+
+In terms of surgical history, the patient had a cholecystectomy 10 years ago for gallstones. The procedure was successful, and he has not experienced any complications since then. He has also previously undergone a colonoscopy three years ago, which showed no significant findings.
+
+On physical examination, the patient is well-nourished and in overall good health. His vital signs are stable, with a blood pressure of 130/80 mmHg and a heart rate of 80 beats per minute. His lungs are clear, and his abdomen is soft and non-tender. There are no abnormal findings on cardiovascular or neurological exams.
+
+Laboratory tests reveal normal complete blood count, liver function tests, and coagulation profile. His fasting blood glucose level is 120 mg/dL, and his HbA1c is 7.2%, indicating fair glycemic control. His lipid profile shows elevated LDL cholesterol levels but normal HDL and triglyceride levels. Kidney function tests are within normal limits, with a serum creatinine level of 0.9 mg/dL.
+
+The patient is scheduled for surgery in two days and has been advised to stop taking nonsteroidal anti-inflammatory drugs (NSAIDs) and blood-thinning medications beforehand. He has been instructed to continue taking his antihypertensive, lipid-lowering, and antidiabetic medications with a sip of water on the morning of surgery.
+
+The patient is aware of the risks and benefits of surgery and has provided informed consent. He has no known allergies to medications or anesthesia. Preoperative counseling has been provided regarding pain management, postoperative care, and potential complications.
+
+Following surgery, the patient initially recovers well. He is prescribed pain medication and is able to ambulate and tolerate a regular diet. However, on the third postoperative day, he develops oliguria and elevated serum creatinine levels, indicating acute renal failure.
+
+The patient's urine output decreases to less than 400 mL per day, and his serum creatinine rises from 0.9 mg/dL to 2.4 mg/dL. He becomes hypotensive with a blood pressure of 90/60 mmHg. Additionally, his electrolyte levels show abnormalities, with hyperkalemia and metabolic acidosis.
+
+A urology consultation is obtained, and the patient undergoes a renal ultrasound, which reveals normal-sized kidneys with no hydronephrosis or obstruction. The diagnosis of acute kidney injury secondary to hypoperfusion is made, likely due to intraoperative hypotension and potential nephrotoxic effects of perioperative medications.
+
+The patient's fluid status is closely monitored, and he is started on intravenous fluids to maintain adequate hydration. Diuretic therapy is initiated to promote renal recovery and improve urine output. His blood pressure stabilizes, and his hyperkalemia and metabolic acidosis improve after aggressive fluid resuscitation.
+
+The patient remains in the hospital for further monitoring and management of his acute renal failure. Renal function slowly improves, and his urine output gradually increases to 800 mL per day. His serum creatinine levels gradually decrease, reaching 1.2 mg/dL on the eighth postoperative day.
+
+Further investigations are conducted to identify any underlying causes of the acute renal failure. The patient's renal function is found to be normal before surgery, ruling out preexisting chronic kidney disease. Urine studies show no signs of infection or glomerular damage.
+
+The patient's medications are reviewed, and potential nephrotoxic agents are discontinued. Close attention is paid to fluid and electrolyte balance, ensuring adequate hydration and correcting any imbalances. Renal function tests are repeated regularly to monitor the patient's progress.
+
+The patient is given strict instructions on the importance of maintaining good hydration, limiting exposure to nephrotoxic agents, and following up with his primary care physician for ongoing monitoring of his kidney function. He is also advised to avoid NSAIDs and to manage his blood pressure and diabetes optimally to prevent further kidney damage.
+
+In conclusion, this 60-year-old male patient with a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus is scheduled for hernia repair surgery. Following surgery, he develops acute renal failure likely due to intraoperative hypotension and potential nephrotoxic effects of perioperative medications. His renal function gradually improves with aggressive hydration, diuretic therapy, and close monitoring of fluid and electrolyte balance. Ongoing follow-up and monitoring of kidney function are recommended to prevent further complications.

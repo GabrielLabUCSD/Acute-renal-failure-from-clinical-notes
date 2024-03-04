@@ -1,0 +1,53 @@
+Patient is a 65-year-old male who is planning to undergo surgery. He has a medical history that includes hypertension, diabetes mellitus type 2, and hyperlipidemia. The patient has been on medication for these conditions, including antihypertensive drugs, oral hypoglycemic agents, and lipid-lowering agents.
+
+The patient's hypertension has been well controlled with medication, with blood pressure consistently within target range of 120/80 mmHg. His diabetes mellitus type 2 is also well managed with a combination of diet, exercise, and oral hypoglycemic agents. His last HbA1c was 6.5%, indicating good glycemic control.
+
+The patient's hyperlipidemia is also controlled with medications, resulting in improved lipid profiles. His last lipid panel showed total cholesterol of 170 mg/dL, LDL cholesterol of 90 mg/dL, HDL cholesterol of 50 mg/dL, and triglycerides of 100 mg/dL.
+
+He has a history of smoking for 25 years but quit 10 years ago. He has not experienced any respiratory symptoms in recent years and his lung function tests were normal.
+
+The patient has a history of coronary artery disease and underwent coronary bypass grafting surgery 5 years ago. He has been symptom-free since the surgery and his last cardiac stress test was negative.
+
+He has no history of bleeding disorders or abnormal clotting. His platelet count, prothrombin time, and activated partial thromboplastin time are all within normal limits.
+
+The patient has a history of allergic rhinitis and occasional seasonal allergies. He has never had any adverse reactions to medications.
+
+His surgical history includes appendectomy in childhood and tonsillectomy in his 30s. Both surgeries were uneventful with no complications.
+
+The patient has no history of gastrointestinal diseases or liver dysfunction. His liver function tests, including liver enzymes and bilirubin levels, are within the normal range.
+
+He has no history of kidney disease or kidney stones. His kidney function tests, including serum creatinine and blood urea nitrogen levels, are normal.
+
+The patient's current medications include antihypertensive agents (lisinopril), oral hypoglycemic agents (metformin and glipizide), lipid-lowering agents (atorvastatin), and aspirin for secondary prevention of cardiovascular events.
+
+He is allergic to penicillin and has a documented rash upon previous exposure. Alternative antibiotics, such as cephalosporins or macrolides, can be used in case of infection.
+
+The patient's physical examination reveals a well-nourished individual in no acute distress. Vital signs are within normal ranges, including blood pressure, heart rate, respiratory rate, and temperature.
+
+There are no abnormal findings on cardiovascular examination, including no murmurs, rubs, or gallops. His pulses are palpable and equal bilaterally.
+
+The patient's respiratory examination is unremarkable, with clear breath sounds bilaterally and normal chest expansion. There are no signs of respiratory distress or cyanosis.
+
+Abdominal examination reveals no tenderness, masses, or organomegaly. Bowel sounds are present and normal.
+
+Neurological examination shows no focal deficits, with intact cranial nerves and symmetric motor and sensory function.
+
+His skin examination reveals no rashes, lesions, or wounds. There are no signs of edema or lymphadenopathy.
+
+Laboratory investigations prior to surgery include a complete blood count, basic metabolic panel, coagulation profile, and urinalysis. All results are within normal ranges.
+
+The patient is scheduled to have surgery under general anesthesia. Preoperative fasting instructions have been provided, and the patient understands the importance of following these guidelines.
+
+Postoperative care will include appropriate pain management, monitoring of vital signs, and early mobilization to prevent complications such as deep vein thrombosis.
+
+Unfortunately, the patient develops acute renal failure as a complication after surgery. His urine output decreases significantly, and his serum creatinine levels rise rapidly.
+
+Further evaluation reveals acute tubular necrosis as the cause of his renal failure, likely due to ischemia or exposure to nephrotoxic substances during surgery.
+
+The patient is started on intravenous fluids to maintain hydration and support renal function. Medications that may contribute to renal injury, such as nonsteroidal anti-inflammatory drugs, are stopped.
+
+Close monitoring of the patient's fluid and electrolyte balance is essential to prevent further complications. Renal replacement therapy, such as hemodialysis or continuous renal replacement therapy, may be necessary if the patient's renal function does not improve.
+
+The healthcare team closely monitors the patient's renal function and makes appropriate adjustments to his medications and fluid therapy.
+
+A multidisciplinary approach involving nephrologists, surgeons, and anesthesiologists is crucial in managing the patient's acute renal failure and ensuring his safety and well-being during the recovery period.

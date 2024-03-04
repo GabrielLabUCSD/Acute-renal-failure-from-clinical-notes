@@ -1,0 +1,17 @@
+The patient is a 58-year-old female who is preparing for surgery. She has a past medical history significant for hypertension and diabetes mellitus type 2. She has been managing her hypertension with medication and lifestyle modifications. Her diabetes is controlled with oral medications.
+
+The patient currently takes metoprolol for her hypertension, and metformin and glipizide for her diabetes. Her blood pressure has been stable, with readings consistently in the range of 120/80 mmHg. Her HbA1c levels have been within target range, indicating good blood glucose control.
+
+She has no known drug allergies. She does not smoke and rarely drinks alcohol. Her family history is significant for cardiovascular disease, with her father having a history of myocardial infarction.
+
+On physical examination, the patient is in general good health. Her vital signs are stable, and she has no constitutional symptoms. Her cardiovascular examination reveals no murmurs, rubs, or gallops. Lung auscultation is clear, and her abdominal examination is unremarkable.
+
+Laboratory test results show a normal complete blood count, renal function panel, and liver function panel. Her coagulation profile is also within normal limits. Urinalysis shows no abnormalities.
+
+The patient understands the risks and benefits of the planned surgery, and the surgical team has thoroughly explained the procedure to her. She has consented to the surgery and is aware of the potential complications involved.
+
+Following the surgery, the patient developed acute renal failure as a complication. Her creatinine levels have significantly increased, indicating impaired kidney function. The cause of her acute renal failure is still under investigation, but possibilities include decreased renal perfusion during surgery, medication toxicity, or ischemic injury.
+
+The patient is currently receiving supportive care for her acute renal failure, including intravenous fluids and close monitoring of her electrolyte levels. Renal consult has been obtained, and further diagnostic tests, such as renal ultrasound and Doppler studies, are being considered to determine the underlying cause.
+
+In summary, this patient with a history of hypertension and diabetes mellitus type 2 is preparing for surgery. She has no significant medical comorbidities, and her blood pressure and diabetes have been well-controlled. Following the surgery, she developed acute renal failure, and investigations are underway to identify the cause and provide appropriate treatment.

@@ -1,0 +1,39 @@
+The patient is a 58-year-old male, with a past medical history of hypertension and diabetes. He presents with severe knee pain and decreased mobility due to advanced osteoarthritis. He has tried conservative management including physical therapy and anti-inflammatory medications, but his symptoms have progressively worsened over the past year. After a thorough evaluation, the orthopedic surgeon has recommended total knee replacement surgery. 
+
+The patient has a history of smoking for 20 years but quit 10 years ago. He does not drink alcohol and has no known drug allergies. He takes metformin, lisinopril, and atorvastatin for his diabetes, hypertension, and hyperlipidemia respectively. His blood pressure and blood glucose levels have been within target range for the past year.
+
+On physical examination, the patient has crepitus in both knees with limited range of motion, more pronounced on the right side. Joint effusion is also present. He has decreased muscle strength in the lower extremities and difficulty walking without assistance. No signs of systemic infection are noted.
+
+Preoperative tests including complete blood count, coagulation profile, and basic metabolic panel are within normal limits. However, the patient's estimated glomerular filtration rate (eGFR) is 39 ml/min/1.73m², indicating mild-moderate chronic kidney disease.
+
+The risks and benefits of the surgery were explained to the patient, including the possibility of complications such as infection, bleeding, blood clots, and adverse reactions to anesthesia. The patient understood these risks and has given informed consent for the procedure.
+
+A multidisciplinary team including an anesthesiologist, orthopedic surgeon, and nephrologist has been consulted to optimize the patient's perioperative care. The patient will stop taking metformin 48 hours prior to surgery due to the risk of lactic acidosis and will have his glucose levels monitored closely during the perioperative period.
+
+To reduce the risk of infection, the patient will receive prophylactic antibiotics before and after surgery. He will also be given deep vein thrombosis prophylaxis with subcutaneous heparin injections during his hospital stay. Additionally, he will undergo preoperative physical therapy to improve his lower extremity strength and range of motion, which may facilitate postoperative rehabilitation.
+
+The patient will undergo general anesthesia for the surgery and will be intubated for airway protection. The possible complications of anesthesia, such as allergic reactions or cardiopulmonary complications, were discussed with the patient who gave his consent.
+
+Following surgery, the patient will be closely monitored in the post-anesthesia care unit (PACU) for any signs of pain, bleeding, or infection. He will receive intravenous pain medications and anti-emetics as needed. Additionally, physical therapy will begin within 24 hours to promote early mobilization and prevent joint stiffness.
+
+The patient will be started on oral acetaminophen and nonsteroidal anti-inflammatory drugs (NSAIDs) for postoperative pain management. Since he has a history of gastritis, he will receive acid-suppressing medications to minimize the risk of gastric bleeding. 
+
+Careful monitoring of renal function will be performed postoperatively given the patient's mild-moderate chronic kidney disease. Serum creatinine and electrolyte levels will be checked regularly to detect any acute changes in renal function. Close communication with the nephrology team will be maintained to manage any complications that may arise.
+
+Unfortunately, two days after surgery, the patient develops acute renal failure, characterized by a sudden decrease in urine output and elevated serum creatinine levels. The nephrology team is promptly notified, and a thorough evaluation is initiated to determine the cause of the acute kidney injury (AKI). 
+
+Potential causes of AKI in this setting include acute tubular necrosis, perioperative hypotension, medication-related injury, or a postoperative infection. Renal ultrasound and urine studies, including microscopy and culture, are ordered to aid in the diagnosis.
+
+The patient's kidney injury is managed with aggressive fluid resuscitation and close monitoring of electrolyte and volume status. The renal function gradually improves over the next few days, with a gradual increase in urine output and a decline in serum creatinine levels.
+
+The patient's postoperative care is modified to account for the renal injury. Nephrotoxic medications, such as NSAIDs and contrast agents, are avoided. Intravenous fluids are adjusted based on the patient's renal function, aiming to maintain euvolemia and prevent further kidney damage.
+
+The patient is closely monitored for signs of complications, such as hyperkalemia, metabolic acidosis, or fluid overload. Adequate pain control is provided using alternative analgesic medications that do not rely on renal elimination.
+
+The patient's overall rehabilitation is delayed due to the AKI, as he requires additional time for renal recovery before engaging in intense physical therapy. The nephrology team works closely with the orthopedic team to coordinate the patient's care and ensure a safe and successful recovery.
+
+The patient's kidney function continues to improve, and he regains sufficient renal function to be discharged from the hospital after a week. He is given detailed instructions for wound care, pain management, and activity restrictions.
+
+The patient is advised to follow up with his primary care physician and the nephrologist regularly for continued monitoring of his renal function and appropriate management of his chronic kidney disease.
+
+In conclusion, this patient with a history of hypertension and diabetes is scheduled for total knee replacement surgery due to severe osteoarthritis. He has been optimized preoperatively and will receive prophylactic measures to reduce the risk of infection and blood clots. However, he develops acute renal failure in the postoperative period, which is promptly managed with supportive care and close monitoring. His renal function gradually improves, and he is discharged with instructions for follow-up care.

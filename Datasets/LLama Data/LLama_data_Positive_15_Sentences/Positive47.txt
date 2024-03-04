@@ -1,0 +1,32 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He has been a smoker for the past 30 years.
+4. He had a myocardial infarction (heart attack) 10 years ago.
+5. He was diagnosed with type 2 diabetes mellitus five years ago.
+6. He has been taking metformin and glyburide for diabetes.
+7. He has been taking atorvastatin for hyperlipidemia.
+8. He has been taking lisinopril for hypertension.
+9. He has a history of chronic obstructive pulmonary disease (COPD).
+10. He has been using an inhaler for COPD symptoms.
+11. He has been experiencing worsening knee pain for the past year.
+12. He was diagnosed with osteoarthritis of the knee.
+13. He is scheduled to undergo a total knee replacement surgery.
+14. He has been advised to stop taking aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) before surgery.
+15. He has been advised to stop smoking two weeks before surgery to minimize the risk of complications.
+
+Complication:
+
+16. The patient developed acute renal failure after surgery.
+17. He experienced decreased urine output and elevated serum creatinine levels.
+18. He was started on intravenous fluids and vasopressors to support his blood pressure.
+19. He was transferred to the intensive care unit (ICU) for close monitoring.
+20. He underwent a kidney biopsy, which showed evidence of acute tubular necrosis.
+21. He was started on dialysis to support his kidney function.
+22. He developed a fever and was started on broad-spectrum antibiotics for suspected sepsis.
+23. His urine output improved, and his creatinine levels began to trend downward.
+24. He was gradually weaned off dialysis and was able to recover renal function.
+25. He had a prolonged hospital course but eventually made a full recovery.
+
+Note: The patient summary and complication sections can be combined into one section, if desired.

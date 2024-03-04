@@ -1,0 +1,34 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. He has tried physical therapy and medication without significant relief. Imaging studies show a large L4-L5 disc herniation and spinal stenosis. The patient decides to undergo a lumbar decompression and fusion surgery.
+
+Preoperative:
+
+* The patient has a history of hypertension and hyperlipidemia.
+* He is currently taking ibuprofen and gabapentin for pain management.
+* The patient has a history of smoking but quit 5 years ago.
+* He has a history of alcohol use but stopped 10 years ago.
+* The patient has no known allergies.
+* He is currently employed as a software engineer and is eager to return to work as soon as possible after surgery.
+
+Intraoperative:
+
+* The patient undergoes a successful lumbar decompression and fusion surgery under general anesthesia.
+* The surgery takes 3 hours and the patient experiences minimal blood loss.
+* The patient is extubated in the operating room and transferred to the post-anesthesia care unit (PACU) for recovery.
+
+Postoperative:
+
+* The patient experiences some discomfort and soreness at the incision site but is manageable with pain medication.
+* He is able to ambulate independently within 24 hours of surgery.
+* The patient is started on a regimen of IV antibiotics and pain medication.
+* He experiences some constipation but is able to pass urine without difficulty.
+* The patient is monitored closely for signs of infection or other complications.
+* He is discharged from the hospital 4 days after surgery and is able to return to work 6 weeks later.
+
+Complications:
+
+* The patient experiences some minor wound drainage on the second postoperative day but it resolves with dressing changes and antibiotics.
+* He develops a mild cough and sore throat on the third postoperative day but it is managed with over-the-counter medication.
+
+Overall, the patient has a successful surgical outcome and is able to return to his normal activities without any long-term complications.

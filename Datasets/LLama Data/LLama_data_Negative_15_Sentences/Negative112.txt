@@ -1,0 +1,41 @@
+Patient Summary:
+
+Name: [Insert name here]
+Age: [Insert age here]
+Gender: [Insert gender here]
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity
+* Diabetes mellitus type II
+* History of asthma
+* Gastroesophageal reflux disease (GERD)
+* Chronic lower back pain
+* Previous appendectomy
+* Previous cholecystectomy
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Patient experienced some discomfort and pain in the abdomen
+* Pain was managed effectively with pain medication
+* Patient was able to tolerate a clear liquid diet on the first postoperative day
+* Patient was discharged home on the second postoperative day
+
+Complications:
+
+* None
+
+Additional Notes:
+
+* Patient was advised to continue medications for hypertension, hyperlipidemia, and diabetes preoperatively
+* Patient was advised to stop smoking 2 weeks prior to surgery and to avoid smoking for 2 weeks postoperatively
+* Patient was advised to avoid heavy lifting or straining for 4-6 weeks postoperatively
+* Patient was advised to follow up with their primary care physician and surgeon for postoperative check-ups.

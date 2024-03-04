@@ -1,0 +1,25 @@
+Patient Summary:
+
+* Patient presents with a history of chronic back pain and degenerative disc disease.
+* Patient has tried physical therapy and medication without significant relief.
+* Patient is a candidate for spinal fusion surgery.
+* Patient has a history of hypertension and hyperlipidemia.
+* Patient is currently taking aspirin and metformin.
+* Patient has no allergies to medications.
+* Patient has a history of smoking but quit 5 years ago.
+* Patient drinks alcohol occasionally.
+* Patient has a history of obstructive sleep apnea and uses a CPAP machine.
+* Patient"s BMI is 32.
+* Patient has a history of non-insulin dependent diabetes mellitus.
+* Patient"s last HbA1c was 7.4%.
+* Patient has a history of hypothyroidism and takes levothyroxine.
+* Patient has no history of previous surgeries or anesthesia complications.
+* Patient is planning to have spinal fusion surgery with instrumentation.
+* Postoperative course: Patient was extubated in the operating room and transferred to the ICU for close monitoring.
+* Patient had a complicated postoperative course with prolonged mechanical ventilation and developed respiratory failure.
+* Patient required a tracheostomy and was eventually weaned off the ventilator on hospital day 10.
+* Patient developed a wound infection and was treated with antibiotics.
+* Patient"s pain was well managed with patient-controlled analgesia.
+* Patient was transferred to a rehabilitation facility on hospital day 14 for further recovery and physical therapy.
+
+Note: The above summary is just an example and does not represent an actual patient. The details and medical conditions mentioned in the summary are for demonstration purposes only.

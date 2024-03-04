@@ -1,0 +1,43 @@
+Patient Summary: 
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition] and is scheduled to undergo [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert relevant surgical history]. The patient is currently taking [insert medications] and has allergies to [insert allergens]. The patient has a history of acute renal failure and is at risk for developing chronic kidney disease.
+
+Recent Lab Results:
+
+The patient's recent lab results show the following values:
+
+* Serum creatinine: [insert value]
+* Urine output: [insert value]
+* Electrolytes: [insert values]
+
+Complications:
+
+The patient developed acute renal failure post-operatively, which was managed with fluid and electrolyte replacement, and medication adjustments. The patient's renal function has not fully recovered, and they are at risk for developing chronic kidney disease.
+
+Recent Medications:
+
+The patient has been taking the following medications:
+
+* [Insert medication 1]
+* [Insert medication 2]
+* [Insert medication 3]
+
+Procedure Notes:
+
+The patient underwent [insert type of surgery] on [insert date] at [insert location]. The procedure was performed by [insert surgeon's name].
+
+Post-Operative Course:
+
+The patient had an uneventful post-operative course, with minimal discomfort and pain. The patient was monitored closely for signs of complications and received appropriate medication management.
+
+Discharge Instructions:
+
+The patient was discharged on [insert date] with instructions to follow up with their primary care physician and nephrologist for ongoing management of their renal function. The patient was also advised to monitor their fluid intake and to avoid strenuous activities that may exacerbate their condition.
+
+Follow-Up:
+
+The patient followed up with their primary care physician on [insert date] and their nephrologist on [insert date]. The patient's renal function continues to be monitored closely, and they are being managed appropriately for their chronic kidney disease.
+
+Conclusion:
+
+In conclusion, this patient summary provides a comprehensive overview of the patient's medical history, recent lab results, complications, medications, procedure notes, post-operative course, discharge instructions, and follow-up. This information is essential for healthcare providers to ensure appropriate management and care for the patient, particularly in the context of their planned surgery and acute renal failure complication.

@@ -1,0 +1,51 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He had a myocardial infarction 10 years ago and has had stable angina since then.
+4. He has a history of non-insulin-dependent diabetes mellitus.
+5. He has a left ventricular ejection fraction of 40%.
+6. His serum creatinine level is 1.8 mg/dL.
+7. He has a history of chronic kidney disease stage 3.
+8. He is currently admitted for elective coronary artery bypass grafting.
+9. He underwent a stress echocardiogram 1 week ago, which showed moderate ischemia.
+10. His electrocardiogram (ECG) showed ST-segment depression in leads II, III, and AVF.
+11. His echocardiogram showed a left ventricular function of 40%.
+12. His lipid profile showed a high level of low-density lipoprotein (LDL) cholesterol.
+13. His high-density lipoprotein (HDL) cholesterol level is low.
+14. He has a history of smoking 1 pack of cigarettes per day for the past 30 years.
+15. He has a history of alcohol consumption of 2 drinks per day for the past 10 years.
+16. He denies any recent chest pain or shortness of breath.
+17. He has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine.
+18. He has a history of obstructive pulmonary disease (COPD) and uses an inhaler as needed.
+19. He has a history of gastroesophageal reflux disease (GERD) and takes lansoprazole daily.
+20. He has a history of hypothyroidism and takes levothyroxine daily.
+21. He has a history of hyperlipidemia and takes atorvastatin daily.
+22. He has a history of hypertension and takes lisinopril and hydrochlorothiazide daily.
+23. He has a history of non-insulin-dependent diabetes mellitus and takes metformin and sulfonylurea daily.
+24. He has a history of chronic kidney disease stage 3 and takes no medications for this condition.
+25. He is allergic to penicillin and cephalosporins.
+26. He has no known drug allergies.
+27. He has no history of previous cardiac surgery.
+28. He has no history of previous thoracic surgery.
+29. He has no history of previous abdominal surgery.
+30. He has no history of previous neurosurgery.
+31. He has no history of previous ophthalmic surgery.
+32. He has no history of previous orthopedic surgery.
+33. He has no history of previous urologic surgery.
+34. He has no history of previous endocrine surgery.
+35. He has no history of previous gynecologic surgery.
+36. He has no history of previous hematologic surgery.
+37. He has no history of previous oncologic surgery.
+38. He has no history of previous immunologic surgery.
+39. He has no history of previous rheumatologic surgery.
+40. He has no history of previous neurological surgery.
+41. He has no history of previous otolaryngologic surgery.
+42. He has no history of previous plastic surgery.
+43. He has no history of previous maxillofacial surgery.
+44. He has no history of previous podiatric surgery.
+45. He is scheduled for elective coronary artery bypass grafting.
+
+Complication: Acute Renal Failure
+
+The patient developed acute renal failure post-operatively, which was diagnosed by a rise in serum creatinine level and a decrease in urine output. The patient had a

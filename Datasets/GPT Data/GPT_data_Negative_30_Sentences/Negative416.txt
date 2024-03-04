@@ -1,0 +1,33 @@
+The patient is a __-year-old individual who is planning to undergo surgery. They have a medical history of ____, ____, and ____. Regarding their surgical history, they have previously undergone surgery for ____.
+
+In terms of medications, the patient is currently taking ____, ____, and ____. They have allergies to _____ and _____. The patient denies any history of adverse reactions to anesthesia.
+
+In their social history, the patient reports being a non-smoker and denies alcohol or illicit drug use. They live alone and have support from family members during their postoperative period.
+
+On physical examination, the patient is generally in good health. They have stable vital signs and a well-healed surgical scar from their previous surgery. The rest of their physical examination is unremarkable.
+
+Preoperative laboratory tests revealed ________. The patient's kidney function, as assessed by serum creatinine and estimated glomerular filtration rate (eGFR), is within normal limits. Their electrolyte panel is also unremarkable.
+
+Imaging studies, such as ____ and ____, were performed and revealed _______. The results of these tests were discussed with the patient, and they understand the need for surgery based on these findings.
+
+The patient met with the anesthesiologist, who reviewed their medical history and discussed the anesthetic plan. It was determined that general anesthesia would be the most appropriate for the planned surgery. The patient was educated about the risks and benefits, including the possibility of postoperative nausea and vomiting (PONV) and sore throat.
+
+Surgical consent was obtained after discussing the procedure, including its potential benefits and risks, as well as the alternatives. The risks specific to this procedure were explained, such as bleeding, infection, and the need for further surgery in case of complications. The patient understands and is willing to proceed with the surgery.
+
+The patient was instructed to avoid eating or drinking after midnight the night before surgery. They will continue to take their medications, with the exception of _________. Arrangements were made for the patient to be admitted to the hospital on the morning of the surgery.
+
+The patient underwent surgery without any complications. The procedure was performed by _______. During the surgery, _________. The estimated blood loss was minimal, and the patient tolerated the procedure well.
+
+In the immediate postoperative period, the patient was transferred to the recovery room, where they were monitored closely. Vital signs were stable, and the patient's pain was adequately managed with intravenous analgesics.
+
+On postoperative day 1, the patient was transferred to the surgical ward. They were encouraged to ambulate and perform deep breathing exercises to prevent complications such as atelectasis and deep vein thrombosis.
+
+Their postoperative course was uneventful except for ____, which was promptly addressed with appropriate interventions. The patient's pain was well controlled with oral analgesics, and they were able to tolerate a regular diet. Wound care was managed, and the dressing was changed as required.
+
+Physical therapy was consulted to assist the patient in regaining strength and mobility after surgery. The patient made progress each day and was able to achieve the desired postoperative goals.
+
+The surgical team explained the need for follow-up appointments and provided the patient with instructions on how to care for their incision at home. They were educated on potential signs of infection and advised to report any concerns promptly.
+
+During their hospital stay, the patient's renal function remained stable, with no evidence of acute renal failure. The patient was discharged home on postoperative day ___, with a prescription for pain medication and clear instructions regarding proper wound care and self-monitoring.
+
+The patient was advised to gradually increase activity levels, while avoiding strenuous exercises and heavy lifting for the time being. They were given a follow-up appointment with the surgeon in __ weeks to assess their progress and address any concerns.

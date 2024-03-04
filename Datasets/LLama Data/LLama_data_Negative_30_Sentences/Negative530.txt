@@ -1,0 +1,49 @@
+Sure, here"s a sample patient summary with 30 sentences describing a patient"s medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+
+* 65-year-old male
+* PMH: HTN, DM, hyperlipidemia, obstructive sleep apnea
+* Allergies: Penicillin, sulfa drugs
+* Medications: Lisinopril, metformin, atorvastatin, aspirin
+* Family History: Father died of MI at age 55, mother had DM
+* Social History: Smoker (1 pack/day), moderate alcohol use, married with 3 adult children
+* Reason for Surgery: Elective laparoscopic cholecystectomy for symptomatic gallstones
+* Preoperative Exam:
+	+ BP: 150/90 mmHg
+	+ HR: 80 bpm
+	+ RR: 12/min
+	+ Temp: 98.6 degrees Fahrenheit
+	+ O2 Sat: 95% on RA
+* Operative Course:
+	+ Procedure: Laparoscopic cholecystectomy
+	+ Duration: 2 hours
+	+ Anesthesia: General
+	+ Estimated Blood Loss: 200 mL
+	+ Complications: None
+* Postoperative Course:
+	+ Day 1:
+		- Vitals stable
+		- Pain managed with IV morphine
+		- Encouraging mobilization and deep breathing exercises
+	+ Day 2:
+		- Continued pain management with oral hydrocodone
+		- Progression to clear liquids and soft diet
+		- Ambulated without assistance
+	+ Day 3:
+		- Discharged home with home health care for wound care and pain management
+* Follow-up:
+	+ 2 weeks postop:
+		- Wound check: clean and dry
+		- Pain level: mild
+		- Complications: None
+	+ 4 weeks postop:
+		- Office visit:
+			- BP: 130/80 mmHg
+			- HR: 70 bpm
+			- RR: 12/min
+			-Temp: 98.6 degrees Fahrenheit
+			- O2 Sat: 95% on RA
+		- Pathology report: No evidence of malignancy in gallbladder or bile ducts
+
+This patient summary provides a comprehensive overview of the patient"s medical history, operative course, and postoperative course, including any complications that may have arisen. It also includes follow-up appointments and test results to ensure that the patient is recovering well and that any potential issues are addressed in a timely manner.

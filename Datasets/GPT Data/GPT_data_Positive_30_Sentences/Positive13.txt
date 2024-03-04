@@ -1,0 +1,28 @@
+The patient is a 65-year-old male who is planning to have surgery.
+He has a past medical history of hypertension, diabetes mellitus type 2, and ischemic heart disease.
+He has been managing his hypertension with medications for the past 10 years.
+His diabetes mellitus type 2 was diagnosed 5 years ago and he is treated with oral hypoglycemic agents.
+He had a previous myocardial infarction 10 years ago and underwent coronary angioplasty with stent placement.
+He is currently on antiplatelet therapy with aspirin and clopidogrel.
+The patient denies any history of allergies to medications or food.
+He is a non-smoker and drinks alcohol occasionally.
+His family history is significant for heart disease, with his father having a heart attack at age 60.
+The patient is scheduled to undergo a cholecystectomy for symptomatic gallstones.
+His symptoms include right upper quadrant abdominal pain and bloating after meals.
+He has had multiple episodes of biliary colic over the past year.
+His abdomen examination is unremarkable except for mild tenderness in the right upper quadrant.
+The patient recently had routine blood work, which revealed normal complete blood count and liver function tests.
+His renal function tests showed a serum creatinine of 1.2 mg/dL and an estimated glomerular filtration rate of 70 mL/min/1.73m2.
+His urine analysis was unremarkable.
+The patient is not taking any medications that may affect renal function.
+He has no history of urinary tract infections or kidney stones.
+Given his stable renal function, the risk of acute renal failure after surgery is low.
+However, during the surgery, the patient experienced prolonged hypotension due to intraoperative bleeding.
+Postoperatively, the patient developed oliguria and his serum creatinine increased to 2.5 mg/dL.
+His urine output was less than 400 mL in 24 hours.
+A renal ultrasound was performed and showed normal kidney size and no evidence of obstruction.
+The patient's acute renal failure was likely due to ischemic injury to the kidneys following hypotension during surgery.
+He was started on intravenous fluids and a loop diuretic to improve renal perfusion and urine output.
+The patient underwent daily monitoring of his renal function, fluid status, and electrolytes.
+His serum creatinine gradually improved and returned to baseline after one week.
+He was discharged with instructions to follow up with his primary care physician for further renal function monitoring.

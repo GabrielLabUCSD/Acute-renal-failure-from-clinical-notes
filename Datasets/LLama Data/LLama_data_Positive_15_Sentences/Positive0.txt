@@ -1,0 +1,27 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes mellitus.
+3. He had a myocardial infarction (heart attack) 10 years ago and has been managed with medication.
+4. He has chronic obstructive pulmonary disease (COPD) and uses an inhaler as needed.
+5. He has a history of non-insulin-dependent diabetes mellitus (NIDDM) and takes metformin.
+6. He has been diagnosed with chronic kidney disease (CKD) stage 3.
+7. He has been scheduled for elective surgery (knee replacement).
+8. Pre-operative lab results show an elevated creatinine level (1.8 mg/dL) and estimated glomerular filtration rate (eGFR) of 60 mL/min/1.73m2.
+9. Urinalysis shows trace protein and blood.
+10. The patient has been informed of the risks and benefits of surgery and has provided informed consent.
+11. The patient has been optimized for surgery, including holding anti-platelet medications and adjusting diabetic medications.
+12. Intra-operatively, the patient developed acute renal failure (ARF) as evidenced by a rise in creatinine to 2.5 mg/dL and oliguria.
+13. The patient was transferred to the intensive care unit (ICU) for close monitoring.
+14. The patient was managed with fluid resuscitation, vasopressors, and hemodialysis.
+15. The patient had a prolonged hospital course but ultimately recovered and was discharged home with a creatinine level of 1.5 mg/dL and an eGFR of 50 mL/min/1.73m2.
+
+Complication: Acute Renal Failure (ARF)
+
+1. The patient developed ARF post-operatively, likely due to a combination of pre-existing CKD, hypotension, and sepsis.
+2. The patient's creatinine level rose from 1.8 mg/dL pre-operatively to 2.5 mg/dL intra-operatively.
+3. Oliguria was also noted, with a urine output of less than 100 mL/hr.
+4. The patient required fluid resuscitation, vasopressors, and hemodialysis to manage ARF.
+5. The patient's renal function improved over time, with a discharge creatinine level of 1.5 mg/dL and an eGFR of 50 mL/min/1.73m2.
+
+Note: This patient summary and complication description are fictional and for demonstration purposes only. Any resemblance to real patients or events is unintentional.

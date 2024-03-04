@@ -1,0 +1,13 @@
+Patient Summary:
+
+This patient is a 45-year-old male who presents for elective joint replacement surgery. His medical history includes hypertension, hyperlipidemia, and obesity (BMI 32). He has a history of smoking but quit 5 years ago. He has no allergies and denies any recent illnesses. His surgical history includes an appendectomy 10 years ago. He takes aspirin, lisinopril, and atorvastatin daily. He denies any significant bleeding complications in the past.
+
+The patient's physical examination reveals a blood pressure of 140/90 mmHg and a heart rate of 80 beats per minute. His respiratory and cardiovascular systems are normal. His abdominal examination reveals a surgical scar from the appendectomy. He has full range of motion in his joints without any signs of active bleeding or infection.
+
+The patient's laboratory results show a white blood cell count of 11,000 cells/microliter and a hemoglobin A1C of 7.8%. His lipid profile shows a total cholesterol of 220 mg/dL, LDL of 130 mg/dL, and HDL of 45 mg/dL. His blood urea nitrogen (BUN) and creatinine levels are normal.
+
+The patient's postoperative course was uneventful. He was extubated immediately after surgery and had no respiratory complications. His pain was managed effectively with patient-controlled analgesia. He was ambulated on the first postoperative day and did not experience any complications related to mobility. He had a urinary catheter inserted perioperatively, which was removed on the second postoperative day. He did not experience any complications related to urinary retention or incontinence. He received prophylactic antibiotics during surgery and did not develop any signs of infection postoperatively. The patient was discharged from the hospital on the third postoperative day and followed up with his surgeon in the clinic a week later.
+
+The patient's follow-up appointment revealed a satisfactory wound healing and no signs of complications. He did not require any further hospitalizations or interventions. He was advised to continue his medications and follow up with his surgeon in 6 weeks for a routine check-up.
+
+Complications: None.

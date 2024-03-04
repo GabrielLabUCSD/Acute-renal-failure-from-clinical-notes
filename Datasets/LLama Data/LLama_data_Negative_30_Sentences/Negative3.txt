@@ -1,0 +1,67 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient: John Doe
+
+* Chief Complaint: Abdominal pain and difficulty swallowing
+* Medical History:
+	+ History of smoking
+	+ Hypertension
+	+ Diabetes mellitus
+	+ Hyperlipidemia
+	+ Obstructive sleep apnea
+	+ GERD
+	+ History of peptic ulcers
+	+ History of gallstones
+	+ History ofcolon cancer
+	+ History of liver cirrhosis
+	+ History of COPD
+* Medications:
+	+ Lisinopril
+	+ Metformin
+	+ Atorvastatin
+	+ Omeprazole
+	+ Aspirin
+	+ Alprazolam
+* Allergies: Penicillin
+* Social History:
+	+ Alcohol consumption: moderate
+	+ Ex-smoker
+	+ Retired
+* Family History:
+	+ Father died of MI at 65
+	+ Mother died of CVA at 75
+	+ Brother died of lung cancer at 60
+	+ Sister has breast cancer
+* Pre-operative Exam:
+	+ HbA1C: 8.5%
+	+ BUN: 25 mg/dL
+	+ Creatinine: 1.5 mg/dL
+	+ Alk Phos: 120 IU/L
+	+ Total Bilirubin: 1.0 mg/dL
+	+ AST: 50 IU/L
+	+ ALT: 70 IU/L
+	+ Alcohol level: 100 mg/dL
+	+ Urinalysis: trace protein, trace blood
+* Procedure: Laparoscopic cholecystectomy
+* Postoperative Course:
+	+ Postoperative day 1:
+		- Vital signs stable
+		- Pain managed with epidural anesthesia
+		- Encouraged to ambulate
+	+ Postoperative day 2:
+		- Vital signs stable
+		- Pain managed with oral medication
+		- Encouraged to eat solid foods
+	+ Postoperative day 3:
+		- Vital signs stable
+		- Pain minimal
+		- Discharged home
+* Complications:
+	+ Postoperative day 1:
+		- Hypotension (resolved with fluid bolus)
+		- Nausea and vomiting (resolved with antiemetics)
+	+ Postoperative day 2:
+		- Pyrexia (resolved with antibiotics)
+		- Wound infection (resolved with antibiotics and wound care)
+
+Assistant: Here's a summary of the patient's medical history, postoperative course, and potential complications. Please note that acute renal failure is not included as a complication per your request.

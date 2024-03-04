@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition] and is scheduled for [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert relevant surgical history]. The patient is currently taking [insert medications] and has allergies to [insert allergies]. The patient's lab results demonstrate [insert lab results]. The patient's vital signs are [insert vital signs].
+
+Postoperative Course:
+
+The patient underwent [insert type of surgery] and had a successful procedure. The patient's postoperative course was uneventful, with no complications. The patient was discharged on [insert date] and advised to follow up with their surgeon in [insert time frame].
+
+Complications:
+
+The patient did not experience any complications during their postoperative course.
+
+---
+
+Is this summary satisfactory? If you would like me to revise anything, please let me know.

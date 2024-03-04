@@ -1,0 +1,57 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 55 years old
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* Previous history of cholecystectomy
+* Previous history of colonoscopy
+* Family history of heart disease
+* Family history of diabetes
+
+Current Medications:
+
+* Lisinopril 20mg daily
+* Atorvastatin 20mg daily
+* Amlodipine 10mg daily
+* Oxycodone 10mg every 4-6 hours as needed for pain
+* Aspirin 81mg daily
+
+Preoperative Tests:
+
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte Panel: Within normal limits
+* Lipid Profile: Elevated triglycerides
+* Glucose: 110 mg/dL (fasting)
+* Urinalysis: Within normal limits
+
+Surgical Procedure: Laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Patient had a smooth postoperative course
+* No complications noted
+* Patient was able to tolerate a regular diet on postoperative day 1
+* Pain was well controlled with medication
+* Patient was ambulatory on postoperative day 2
+* Patient was discharged home on postoperative day 3
+
+Complications: None
+
+Follow-up:
+
+* Patient had a follow-up appointment with their surgeon on postoperative day 7
+* Wound check revealed a healthy, dry incision
+* Patient was advised to continue taking their medications as prescribed
+* Patient was recommended to follow up with their primary care physician for clearance to return to work.
+
+I hope this summary is helpful. Please note that this is just a sample, and the specific details of a patient's medical history and postoperative course will vary depending on the individual patient.

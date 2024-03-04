@@ -1,0 +1,31 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension, hyperlipidemia, and obstructive sleep apnea. He had a myocardial infarction 10 years ago and has been compliant with his medications since then. He has no history of bleeding disorders or previous surgical procedures. He is allergic to penicillin and has a history of asthma.
+
+Preoperative Physical Examination:
+
+The patient's vital signs are stable, with a blood pressure of 120/80 mmHg, heart rate of 70 bpm, and an oxygen saturation of 98% on room air. His temperature is 98.6°F (36.4°C). He has no respiratory distress or signs of infection. His cardiovascular examination reveals regular rhythm, no murmurs, and good peripheral perfusion. He has no abdominal tenderness or guarding.
+
+Preoperative Laboratory Results:
+
+The patient's complete blood count shows a white blood cell count of 7,000/mm3, hemoglobin of 14 g/dL, and platelet count of 200,000/mm3. His serum creatinine is 1.2 mg/dL, and his troponin I is <0.01 ng/mL. His international normalized ratio (INR) is 1.8.
+
+Anesthesia Plan:
+
+The patient will receive general anesthesia with endotracheal intubation. He will also receive hydrocortisone and ondansetron for prophylaxis against anaphylaxis and postoperative nausea and vomiting, respectively.
+
+Intraoperative Course:
+
+The patient tolerated the anesthesia well, and there were no complications during the surgical procedure. He remained hemodynamically stable throughout the procedure.
+
+Postoperative Course:
+
+The patient was extubated in the operating room and transported to the postanesthesia care unit (PACU) in stable condition. He was monitored closely for any signs of respiratory or cardiovascular complications. He was given adequate analgesia and his pain was well controlled. He was able to ambulate and void normally. He had a uneventful postoperative stay and was discharged home on the second postoperative day.
+
+Complications:
+
+The patient did not experience any complications during his surgical procedure or postoperative stay.
+
+Conclusion:
+
+In conclusion, this patient had a successful surgical procedure and an uneventful postoperative stay. His medical history, preoperative physical examination, laboratory results, anesthesia plan, intraoperative course, and postoperative course were all taken into consideration for his individualized surgical care.

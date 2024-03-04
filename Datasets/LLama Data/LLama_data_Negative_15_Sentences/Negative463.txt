@@ -1,0 +1,33 @@
+Patient Summary:
+
+* The patient is a 45-year-old male.
+* He has a history of hypertension and hyperlipidemia.
+* He has been a smoker for the past 20 years.
+* He has a history of alcohol use disorder and has been sober for the past 5 years.
+* He has a BMI of 32 and is considered obese.
+* He has been experiencing worsening left knee pain over the past year, which has limited his mobility.
+* He has tried physical therapy and has been taking over-the-counter pain medication without relief.
+* He has been diagnosed with osteoarthritis of the left knee.
+* He is scheduled to undergo a total knee arthroplasty.
+* He has a history of atrial fibrillation and takes warfarin for anticoagulation.
+* He has a history of mild chronic obstructive pulmonary disease.
+* He has a history of mild sleep apnea and uses a continuous positive airway pressure machine at night.
+* He has been compliant with his medications and has not missed any doses.
+* He has been advised to stop smoking 2 weeks before surgery and has successfully quit.
+* He has been advised to avoid alcohol for 24 hours before and after surgery.
+* He has been advised to avoid taking any non-steroidal anti-inflammatory drugs for 1 week before surgery.
+* He has been advised to stop taking warfarin 5 days before surgery and has been bridged with heparin.
+
+Postoperative Course:
+
+* The patient underwent a successful total knee arthroplasty.
+* He had a smooth anesthesia course and was extubated immediately after surgery.
+* He had some postoperative nausea and vomiting, which was managed with antiemetics.
+* He had mild postoperative pain, which was managed with patient-controlled analgesia.
+* He was able to ambulate and perform deep breathing exercises immediately after surgery.
+* He was discharged from the hospital on postoperative day 3.
+* He had a follow-up appointment with his surgeon 2 weeks after discharge, at which point his wound was healing well and he had full range of motion in his knee.
+
+Complications:
+
+* None.

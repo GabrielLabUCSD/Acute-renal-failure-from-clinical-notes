@@ -1,0 +1,95 @@
+Patient Summary:
+
+Patient Name: [Name]
+
+Date of Birth: [Date of Birth]
+
+Gender: [Gender]
+
+Chief Complaint: [Chief Complaint]
+
+Medical History:
+
+* History of hypertension for 10 years
+* History of diabetes mellitus for 5 years
+* History of hyperlipidemia for 3 years
+* History of smoking for 15 years
+* History of alcohol consumption for 10 years
+* History of obesity (BMI 35) for 5 years
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Hernia repair 5 years ago
+* appendectomy 2 years ago
+
+Current Symptoms:
+
+* Abdominal pain for 1 week
+* Nausea and vomiting for 3 days
+* Fever for 2 days
+
+Medications:
+
+* Lisinopril for hypertension
+* Metformin for diabetes mellitus
+* Atorvastatin for hyperlipidemia
+* Omeprazole for GERD
+
+Allergies:
+
+* Penicillin
+* Sulfa medications
+
+Family History:
+
+* Father died of MI at age 55
+* Mother died of breast cancer at age 60
+* One sibling with hypertension
+
+Social History:
+
+* Married with two children
+* Works as an office manager
+* Denies any recent travel or exposure to illness
+
+Review of Systems:
+
+* No significant cardiovascular, respiratory, or neurological symptoms
+* No history of previous abdominal surgeries
+
+Physical Examination:
+
+* Blood pressure: 180/100 mmHg
+* Heart rate: 110 bpm
+* Respiratory rate: 20 breaths/min
+* Temperature: 100.4°F (38°C)
+* Abdominal examination reveals tenderness to palpation in the upper right quadrant, guarding, and rebound tenderness
+
+Laboratory Results:
+
+* WBC count: 12,000 cells/mm3
+* Hemoglobin: 12 g/dL
+* Platelet count: 150,000 cells/mm3
+* BUN: 20 mg/dL
+* Creatinine: 1.5 mg/dL
+* Glucose: 200 mg/dL
+* Cholesterol: 200 mg/dL
+* Triglycerides: 150 mg/dL
+* Alkaline phosphatase: 150 IU/L
+* Total bilirubin: 2 mg/dL
+* Direct bilirubin: 1 mg/dL
+
+Imaging Studies:
+
+* CT scan of the abdomen and pelvis shows a possible obstructive process in the small bowel
+
+Acute Renal Failure Complication:
+
+* Patient developed acute renal failure post-operatively, requiring hemodialysis
+* Creatinine level peaked at 4.5 mg/dL
+* Urine output decreased to less than 100 mL/day
+* Patient was treated with IV fluids and medications to support renal function
+* Renal biopsy showed evidence of acute tubular necrosis
+
+The patient's acute renal failure was managed with hemodialysis and supportive care, and the patient eventually recovered full renal function. However, the patient's recovery was prolonged, and the patient required a longer hospital stay than anticipated. The patient was closely monitored and received appropriate treatment for the acute renal failure complication.

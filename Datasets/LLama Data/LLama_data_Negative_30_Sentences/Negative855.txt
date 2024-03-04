@@ -1,0 +1,33 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient has a history of smoking but quit 2 years ago.
+
+The patient has a history of cholecystitis and underwent a cholecystectomy 10 years ago. He has also had a history of knee pain and underwent an arthroscopy 5 years ago.
+
+The patient has a history of allergies to penicillin and cephalosporins. He is currently taking atorvastatin, lisinopril, and metformin.
+
+The patient's surgical history includes a hernia repair 20 years ago, and a cataract removal 15 years ago.
+
+The patient's family history includes a mother with breast cancer and a father with colon cancer.
+
+The patient's social history includes a history of heavy alcohol use but has since stopped 5 years ago. He is currently employed as a construction worker.
+
+The patient's review of systems is positive for abdominal pain, nausea, and vomiting.
+
+The patient's physical examination reveals a Blood Pressure (BP) of 150/90 mmHg, Heart Rate (HR) of 80 beats per minute, and a Body Mass Index (BMI) of 32.
+
+The patient's laboratory results show an elevated White Blood Cell Count (WBC) of 12,000 cells/mm3 and an elevated Alanine Transaminase (ALT) of 80 U/L.
+
+The patient's electrocardiogram (ECG) shows a sinus rhythm with no signs of ischemia.
+
+The patient's chest x-ray shows a clear lung field with no signs of infiltrate or masses.
+
+The patient's urinalysis shows a pH of 5.0, protein 2+, blood 1+, and a few bacteria.
+
+The patient's surgical procedure was performed without any complications.
+
+The patient's postoperative course was uneventful, and he was discharged from the hospital on postoperative day 3.
+
+The patient followed up with his surgeon and primary care physician and had a smooth recovery.
+
+The patient had no complications during his postoperative period.

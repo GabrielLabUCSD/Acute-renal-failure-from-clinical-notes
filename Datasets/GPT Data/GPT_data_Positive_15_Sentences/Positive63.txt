@@ -1,0 +1,15 @@
+The patient is a 52-year-old male who is planning to have surgery for a hernia repair. He has a past medical history significant for hypertension, diabetes mellitus type 2, and dyslipidemia. Additionally, he has a history of smoking for 20 years but quit 5 years ago. The patient is not allergic to any medications.
+
+His hypertension is managed with lisinopril 20mg daily, and his diabetes is adequately controlled with metformin 1000mg twice daily. His dyslipidemia is being treated with atorvastatin 40mg daily. The patient reports no current symptoms related to any of his medical conditions.
+
+Laboratory investigations prior to surgery revealed a fasting blood glucose level of 120mg/dL, total cholesterol level of 180mg/dL, and a blood pressure of 130/80mmHg. His renal function was within normal limits, with a serum creatinine level of 0.9mg/dL and an estimated glomerular filtration rate (eGFR) of 90ml/min/1.73m².
+
+During the surgery, the patient experienced a significant drop in blood pressure which required the administration of intravenous fluids and vasopressor medications. Following the surgery, the patient developed oliguria and a rise in serum creatinine levels.
+
+Post-surgical investigations revealed a serum creatinine level of 2.5mg/dL and a decrease in eGFR to 40ml/min/1.73m², indicating acute renal failure. An ultrasound of the kidneys was performed, which showed no evidence of obstruction or other structural abnormalities.
+
+The patient's urine output increased with aggressive hydration, and diuretic therapy was initiated to help further improve kidney function. Close monitoring of his renal function was implemented, including regular laboratory tests to assess urine output, serum creatinine, and electrolyte levels.
+
+The patient remained stable throughout his hospitalization with conservative management measures to support kidney function. He was discharged with instructions to continue close follow-up with his primary care physician and nephrologist to monitor his renal function and adjust his medications as necessary.
+
+In summary, a 52-year-old male with a history of hypertension, diabetes, and dyslipidemia underwent surgery for hernia repair and subsequently developed acute renal failure. His renal function is being managed with hydration, diuretic therapy, and close monitoring. Further adjustments to his medications may be necessary based on his renal function.

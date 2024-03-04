@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a ___________(age) year old _________(gender) scheduled for _________(type of surgery). A comprehensive review of their medical history reveals several significant findings. They have a past medical history of ___________ (conditions, comorbidities, or surgeries), which may influence their perioperative course.
+
+In terms of medications, the patient is currently taking ___________ (list of medications including any anticoagulants, antiplatelet drugs, and herbs/supplements). Notably, they have stopped taking _________ (specific medication) as per their surgeon's instructions _________ (time frame) prior to surgery. They do not have any known allergies to medications or latex.
+
+Regarding their surgical risk assessment, the patient's American Society of Anesthesiologists (ASA) classification is _________, indicating ___________ (their overall health status and any associated risks).
+
+Their vital signs on presentation are stable, with a blood pressure of _________mmHg, heart rate of _________ beats per minute, respiratory rate of _________ breaths per minute, and oxygen saturation of _________%. Their physical examination demonstrates ___________ (pertinent findings such as surgical scars, abnormal lung sounds, or significant edema). Laboratory data reveals ___________ (relevant values, such as CBC, coagulation profile, and renal function).
+
+Preoperative investigations, including _________ (specific tests such as EKG, chest X-ray, or ultrasound), were unremarkable, except for ___________ (any significant finding needing consideration during the surgery).
+
+Informed consent has been obtained, and the patient has been adequately prepared for surgery, including ___________ (specific instructions on fasting, discontinuation of medications, and skin preparation).
+
+Postoperatively, the patient will be closely monitored in the _________ (location such as ICU, PACU, or general ward). They will receive pain management with ___________ (specific analgesics) and antibiotics as per surgical protocol. Their postoperative course will entail ___________ (anticipated events, such as early ambulation, removal of drains, or transition to oral medications).
+
+Regarding complications, the patient experienced ___________ (specific type of complication) during their postoperative course. This was managed promptly with ___________ (treatment or intervention) and did not result in any long-term sequelae. Other than this, the patient did not encounter any major complications or adverse events.
+
+Please note that while acute renal failure is not reported as a complication, it is essential to monitor the patient's renal function closely due to the effects of anesthesia, medications, and potential surgical stress.

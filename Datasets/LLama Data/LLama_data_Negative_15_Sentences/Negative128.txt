@@ -1,0 +1,21 @@
+Patient Summary:
+
+* Patient presents with a history of chronic lower back pain and left leg radiculopathy.
+* Patient has tried physical therapy and medication without significant relief.
+* Patient has a history of hypertension and hyperlipidemia.
+* Patient had a left L5-S1 hemilaminectomy and fusion 10 years ago.
+* Patient has a history of chronic obstructive pulmonary disease (COPD) and uses an inhaler as needed.
+* Patient has a history of gastroesophageal reflux disease (GERD) and takes daily medication.
+* Patient has a history of hyperthyroidism and takes medication to control symptoms.
+* Patient denies any recent significant weight loss or gain.
+* Patient has a history of asthma and uses an inhaler as needed.
+* Patient is a current smoker and smokes one pack per day.
+* Patient drinks alcohol occasionally but denies excessive consumption.
+* Patient has a history of depression and anxiety and takes medication as needed.
+* Patient takes aspirin daily for prevention of cardiovascular disease.
+* Patient is allergic to penicillin and has a history of anaphylaxis.
+* Patient is planning to undergo a lumbar fusion surgery.
+* Patient"s postoperative course was uneventful, and they were discharged on postoperative day 4.
+* Patient did not experience any complications during their hospital stay.
+
+Note: This patient summary is a fictional scenario and is not based on any real patient. It is intended to be a sample summary for educational purposes only.

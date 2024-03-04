@@ -1,0 +1,17 @@
+The patient is a __________ years old __________ (gender)/race with a past medical history significant for __________. They have been scheduled to undergo _________ surgery on ________ due to __________. The patient's surgical team consists of __________ surgeons.
+
+The patient's medical history includes __________ (include chronic conditions such as diabetes, hypertension, etc.), which has been managed with __________ (include medications, lifestyle modifications, etc.). They have previously undergone _________ surgeries/procedures including __________ (list previous surgeries/procedures).
+
+Preoperative laboratory values are within normal limits except for __________ which is __________ (abnormal value).
+
+The patient is currently taking the following medications: __________ (list all medications including dosage and frequency). They are not on any anticoagulant or antiplatelet therapy.
+
+The patient has undergone preoperative consultations with __________ (list relevant specialties such as cardiology, anesthesiology, etc.), and all necessary preoperative tests/imaging have been conducted, including __________. They have received counseling on the surgical procedure, risks, benefits, and alternative options.
+
+During the surgical procedure, __________ anesthesia was administered. The procedure was uneventful and lasted _________ hours. No intraoperative complications were noted.
+
+Postoperatively, the patient was transferred to the recovery area and closely monitored for __________ (duration). Pain management was achieved with __________ (describe pain management regimen).
+
+The patient's postoperative course was generally uncomplicated. They experienced __________ (common postoperative symptoms) that were managed with __________ (describe management). The patient was discharged on ________ postoperative day in stable condition.
+
+In the follow-up visits, the patient reported __________ (list any concerns or symptoms). They were prescribed __________ (adjustments in medications or additional treatments). The patient's recovery is progressing well, and they are scheduled for further follow-up appointments with their primary care physician and surgical team.

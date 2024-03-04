@@ -1,0 +1,15 @@
+The patient, Mr. X, is a 65-year-old male who is planning to undergo surgery. He has a medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia. He has been taking medications to manage these conditions, including antihypertensives, oral hypoglycemic agents, and statins.
+
+Mr. X has a body mass index (BMI) of 32, which classifies him as obese. He smokes approximately half a pack of cigarettes per day and consumes alcohol occasionally.
+
+His surgical history includes a cholecystectomy performed five years ago due to gallstone complications. He had an uneventful postoperative recovery from that procedure.
+
+Mr. X has been experiencing intermittent episodes of angina and shortness of breath over the past few months. His electrocardiogram (ECG) showed evidence of ischemic changes, and a stress test revealed significant coronary artery disease. Therefore, he is undergoing surgery for coronary artery bypass grafting (CABG) to improve blood flow to his heart.
+
+Preoperatively, his blood pressure is slightly elevated at 140/90 mmHg, and his fasting blood glucose levels are well-controlled at 120 mg/dL. His renal function, as measured by serum creatinine levels, is within the normal range at 0.9 mg/dL.
+
+After the surgery, Mr. X develops acute renal failure, evidenced by a sharp increase in serum creatinine levels to 2.5 mg/dL. He also presents with oliguria and signs of fluid overload, such as peripheral edema and pulmonary rales on auscultation.
+
+The acute renal failure is likely a result of perioperative hypoperfusion and potential nephrotoxic effects of medications used during the surgery. He may require supportive treatments such as intravenous fluid management, diuretics, and close monitoring of his renal function.
+
+In conclusion, Mr. X is a 65-year-old male with a medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia. He has undergone a cholecystectomy in the past and is now scheduled for CABG surgery. Unfortunately, he develops acute renal failure postoperatively, requiring further management and monitoring of his renal function.

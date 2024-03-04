@@ -1,0 +1,45 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male/female with a medical history of [insert relevant medical conditions, e.g., hypertension, diabetes, sleep apnea]. The patient has been taking [insert medications] and has had [insert relevant surgeries or procedures, e.g., appendectomy, cholecystectomy].
+
+The patient is scheduled to undergo [insert type of surgery, e.g., laparoscopic cholecystectomy] under general anesthesia. The surgery is expected to take [insert duration of surgery] hours.
+
+The patient has a history of [insert any relevant allergies, e.g., penicillin, latex].
+
+The patient does not have a history of bleeding disorders or previous anemia.
+
+The patient does not have a history of cardiovascular disease or respiratory disease.
+
+The patient does not have a history of neurological disorders or psychiatric disorders.
+
+The patient does not have a history of previous surgical complications.
+
+The patient does not have a history of implantable devices, such as pacemakers or defibrillators.
+
+The patient does not have a history of malignancy.
+
+The patient does not have a history of liver or kidney disease.
+
+The patient does not have a history of autoimmune disorders.
+
+The patient is not taking any medications that may be contraindicated during surgery.
+
+The patient does not have a history of substance abuse or tobacco use.
+
+The patient does not have a history of previous anesthesia complications.
+
+The patient"s postoperative course is expected to be uneventful, with a length of stay in the hospital of [insert expected length of stay].
+
+There are no anticipated complications during the postoperative period.
+
+The patient will be monitored closely for signs of complications and will be given appropriate pain management medication as needed.
+
+The patient will be encouraged to ambulate as soon as possible after surgery to reduce the risk of venous thromboembolism.
+
+The patient will be instructed to follow a clear liquid diet for the first 24 hours after surgery and will be advanced to a regular diet as tolerated.
+
+The patient will be advised to avoid heavy lifting, bending, or straining for the first 6 weeks after surgery.
+
+The patient will be discharged from the hospital when they are stable and able to care for themselves at home.
+
+The patient will follow up with their surgeon within [insert timeframe, e.g., 1-2 weeks] for a postoperative check-up and removal of sutures/staples.

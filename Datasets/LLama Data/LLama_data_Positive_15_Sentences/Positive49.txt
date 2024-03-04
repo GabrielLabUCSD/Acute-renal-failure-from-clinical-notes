@@ -1,0 +1,21 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male with a medical history of hypertension, diabetes, and hyperlipidemia.
+2. He has been smoking for the past 40 years and has a history of alcohol abuse.
+3. He has a history of cardiovascular disease and has had a myocardial infarction (heart attack) in the past.
+4. He has been diagnosed with chronic obstructive pulmonary disease (COPD) and has been hospitalized several times for exacerbations.
+5. He has a history of peptic ulcer disease and has been treated with antacids and proton pump inhibitors.
+6. He has been experiencing worsening knee pain over the past year and has been diagnosed with osteoarthritis.
+7. He is scheduled to undergo a total knee replacement surgery.
+8. His recent blood work showed elevated liver enzymes, which suggests a possible liver dysfunction.
+9. He has a history of kidney stones and has been advised to drink plenty of water to prevent future occurrences.
+10. He is currently taking several medications, including aspirin, lisinopril, atorvastatin, and omeprazole.
+11. He has a history of allergies to penicillin and sulfa antibiotics.
+12. He has been experiencing some anxiety and depression, for which he has been prescribed sertraline.
+13. He has been compliant with his medications and follow-up appointments.
+14. He has been warned about the risks and benefits of surgery and has given his informed consent.
+15. He is currently awaiting surgery and is being closely monitored by his healthcare team.
+
+Complication:
+
+After the surgery, the patient developed acute renal failure, which was caused by a combination of factors, including pre-existing chronic kidney disease, hypovolemia, and the use of certain medications during surgery. He was transferred to the intensive care unit (ICU) for close monitoring and treatment. The patient required continuous renal replacement therapy (CRRT) to support his kidney function and was closely monitored for signs of fluid and electrolyte imbalance. He remained in the ICU for several days until his renal function improved, and he was able to be transferred back to the surgical ward for further recovery.

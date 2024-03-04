@@ -1,0 +1,63 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have surgery:
+
+Patient Name: John Doe
+
+* Admitting diagnosis: Chronic lower back pain
+* Medical history:
+	+ Hypertension
+	+ Hyperlipidemia
+	+ History of smoking
+	+ Obesity
+	+ Previous lumbar fusion surgery 10 years ago
+* Current medications:
+	+ Lisinopril
+	+ Simvastatin
+	+ Oxycodone
+	+ Acetaminophen
+* Allergies:
+	+ Penicillin
+	+ Latex
+* Lab results:
+	+ WBC count: 12,000/mm3
+	+ Hemoglobin: 14 g/dL
+	+ Platelet count: 200,000/mm3
+	+ BUN: 20 mg/dL
+	+ Creatinine: 1.2 mg/dL
+	+ glucose: 120 mg/dL
+	+ Lipase: 150 U/L
+* Physical examination:
+	+ Vital signs:
+		- Temperature: 98.6°F
+		- Blood pressure: 140/90 mmHg
+		- Pulse: 80 bpm
+		- Respiratory rate: 16 breaths/min
+	+ Head and neck:
+		- No signs of jugular venous distension
+		- No thyromental distance
+	+ Chest:
+		- Clear to auscultation
+		- No wheezing or rhonchi
+	+ Abdomen:
+		- Soft, non-tender
+		- No guarding or rebound tenderness
+	+ Back:
+		- Tender to palpation over the lumbar spine
+		- No signs of infection
+	+ Extremities:
+		- No edema or erythema
+* History of present illness:
+	+ Patient presents with chronic lower back pain, worsening over the past year
+	+ pain radiates to the right leg and affects his ability to ambulate
+	+ Patient has tried physical therapy, chiropractic care, and medications without relief
+	+ Patient is seeking surgical intervention
+* Proposed surgical procedure:
+	+ Lumbar fusion
+* Postoperative course:
+	+ Patient tolerated the procedure well
+	+ Patient experienced some postoperative pain, nausea, and vomiting
+	+ Patient was able to ambulate and perform deep breathing exercises as instructed
+	+ Patient was discharged to home on postoperative day 3
+* Complications:
+	+ None
+
+Please note that this is a sample patient summary, and the specific details and complications may vary depending on the individual patient's medical history and postoperative course.

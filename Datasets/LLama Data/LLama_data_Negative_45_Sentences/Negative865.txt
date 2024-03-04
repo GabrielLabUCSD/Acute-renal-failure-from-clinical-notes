@@ -1,0 +1,16 @@
+To create a patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery, please provide me with the following information:
+
+1. Patient's personal information: age, gender, height, weight, and any relevant medical history.
+2. Reason for surgery: specific diagnosis, symptoms, and duration of symptoms.
+3. Previous surgeries: type of surgery, date, and outcome.
+4. Current medications: name, dosage, and duration of use.
+5. Allergies: medications, food, or other substances.
+6. History of anesthesia: previous experiences, reactions, or complications.
+7. Chronic medical conditions: diabetes, hypertension, heart disease, lung disease, or other relevant conditions.
+8. Preoperative evaluations: results of physical examination, laboratory tests, and imaging studies.
+9. Expected postoperative course: length of hospital stay, pain, and recovery time.
+10. Potential complications: bleeding, infection, organ injury, or other relevant complications.
+
+Once you provide this information, I can create a patient summary with 45 sentences that outline the patient's medical history, reason for surgery, current health status, and expected postoperative course. I will also describe any potential complications that the patient may encounter during their recovery.
+
+Please note that I will not include acute renal failure as a complication in the patient summary, as you requested.

@@ -1,0 +1,47 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery and also describing the patient having acute renal failure complication after surgery:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. The patient has a history of smoking but quit 10 years ago.
+4. He has a history of alcohol use but stopped drinking 5 years ago.
+5. The patient has a history of obesity with a BMI of 35.
+6. He has a history of diabetes mellitus type 2 and takes metformin.
+7. The patient has a history of sleep apnea and uses a CPAP machine.
+8. He has a history of chronic lower back pain for which he takes hydrocodone.
+9. The patient has a history of degenerative joint disease in both knees.
+10. He has a history of osteoarthritis in both hips.
+11. The patient has a history of benign prostatic hyperplasia (BPH).
+12. He has a history of cataract surgery 5 years ago.
+13. The patient has a history of left knee arthroscopy 2 years ago.
+14. He has a history of right knee arthroscopy 1 year ago.
+15. The patient has a history of left hip replacement 6 months ago.
+16. He has a history of right hip replacement 3 months ago.
+17. The patient has a history of acute myocardial infarction (AMI) 10 years ago.
+18. He has a history of coronary artery disease (CAD).
+19. The patient has a history of atrial fibrillation.
+20. He has a history of chronic kidney disease (CKD) stage 3.
+21. The patient has a history of anemia.
+22. He has a history of chronic obstructive pulmonary disease (COPD).
+23. The patient has a history of gastroesophageal reflux disease (GERD).
+24. He has a history of colon polyps.
+25. The patient has a history of thyroid nodules.
+26. He has a history of psoriasis.
+27. The patient has a history of peripheral neuropathy.
+28. He has a history of hypothyroidism.
+29. The patient has a history of asthma.
+30. He has a history of allergic rhinitis.
+
+Now, let's imagine that the patient has developed acute renal failure as a complication after surgery. Here is an updated summary with an additional 10 sentences:
+
+31. The patient underwent a left knee arthroscopy 2 weeks ago.
+32. He developed acute renal failure 3 days after surgery.
+33. The patient's creatinine level increased to 2.5 mg/dL from a baseline of 1.8 mg/dL.
+34. He experienced decreased urine output and dark urine.
+35. The patient complained of nausea and vomiting.
+36. He developed a fever of 100.4°F (38°C).
+37. The patient's blood work showed an increase in blood urea nitrogen (BUN) to 40 mg/dL.
+38. He had a decrease in estimated glomerular filtration rate (eGFR) to 45 mL/min/1.73 m2.
+39. The patient was started on intravenous (IV) fluids and hemodialysis.
+40. He was transferred to the intensive care unit (ICU) for close monitoring.
+
+I hope this sample patient summary helps you understand how to incorporate the patient's history, medications, and complications in a concise and organized way.

@@ -1,0 +1,13 @@
+The patient is a ___-year-old individual who is planning to undergo surgery. The reason for surgery is ___. Their past medical history is significant for ___. They have a history of ___ which is well-controlled with ___ medication. Additionally, they have a history of ___ which is managed with ___ medication. They also have a history of ___ and take ___ medication for it. Furthermore, the patient has a history of ___ and takes ___ medication to control it.
+
+The patient's surgical history includes ___ surgeries in the past, including ___ for ___. They had no complications during those procedures and recovered well. The patient's family history is non-contributory. They do not have any known drug allergies.
+
+In preparation for the surgery, the patient has had a comprehensive preoperative evaluation performed which included ___. Necessary preoperative tests and screenings, including blood work, chest X-ray, and EKG, were conducted and were unremarkable.
+
+The patient's surgical procedure took place on ___. The surgery went well without any intraoperative complications. Postoperatively, the patient recovered in the ICU for a day but was then transferred to the surgical ward. They were closely monitored during this time and received appropriate postoperative pain management. Their vital signs remained stable, and there were no signs of infections or wound complications.
+
+During the postoperative period, the patient was ambulating and was encouraged to perform deep breathing exercises and use an incentive spirometer to prevent pulmonary complications. They were also mobilized to prevent deep vein thrombosis and received prophylactic anticoagulation as per protocol.
+
+The patient's postoperative course was uneventful, and they did not experience any complications such as wound dehiscence, infection, or impaired wound healing. They were able to tolerate a regular diet without any issues. They were discharged on ___, after being cleared by the surgical team. The patient was provided with appropriate postoperative care instructions and was advised to follow up with their primary care physician in ___ weeks for further evaluation.
+
+Overall, the patient had a successful surgery and a smooth recovery without any complications. They were satisfied with the outcome and expressed relief from their previous symptoms related to ___.

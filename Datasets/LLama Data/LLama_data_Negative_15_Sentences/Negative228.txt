@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). His surgical history includes a cholecystectomy and a hernia repair. He has no known allergies and takes no medications.
+
+The patient's family history reveals a positive history of coronary artery disease and stroke. He is a current smoker and drinks alcohol occasionally. His review of systems is positive for shortness of breath and peripheral neuropathy.
+
+On physical examination, the patient's vital signs are within normal limits. His cardiovascular and respiratory examinations reveal no abnormalities. His neurological examination shows decreased sensation in his feet.
+
+Laboratory studies reveal elevated blood urea nitrogen (BUN) and creatinine levels, consistent with chronic kidney disease (CKD). His electrolyte levels are within normal limits.
+
+The patient underwent a successful surgical procedure, and his postoperative course was uncomplicated. He did not experience any respiratory or cardiovascular complications.
+
+However, on the second postoperative day, the patient developed a fever and tachycardia, concerning for infection. Blood cultures were drawn, and broad-spectrum antibiotics were initiated.
+
+The patient's fever and tachycardia resolved within 24 hours, and he was afebrile and hemodynamically stable on the third postoperative day. He was discharged home on postoperative day 5 with a 7-day course of antibiotics.
+
+Follow-up appointment was scheduled for 2 weeks after discharge to monitor his wound healing and review his lab results.
+
+Overall, the patient had an uneventful postoperative course, except for a brief episode of fever and tachycardia that was treated effectively. His chronic medical conditions were well-controlled during his hospital stay.

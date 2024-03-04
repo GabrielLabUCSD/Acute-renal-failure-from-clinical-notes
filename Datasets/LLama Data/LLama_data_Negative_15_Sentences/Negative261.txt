@@ -1,0 +1,11 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a history of [medical condition] and is planned for [surgery type]. The patient has a history of [other medical conditions], including [condition 1], [condition 2], and [condition 3]. The patient has been taking [medication 1], [medication 2], and [medication 3] for their conditions.
+
+The patient underwent [surgery type] on [date] and the procedure was successful. The patient's postoperative course was uneventful, with no complications noted. The patient was discharged from the hospital on [date] and has been recovering well at home.
+
+The patient has been advised to follow up with their surgeon for postoperative check-ups and to monitor their condition closely. The patient has also been advised to avoid heavy lifting or strenuous activities for the next [time period] to ensure proper healing.
+
+The patient's recovery has been smooth, with no unexpected complications or events. The patient's pain has been well-managed with medication, and they have been able to eat and drink normally. The patient's wound site has been healing well, with no signs of infection or other complications.
+
+Overall, the patient is recovering well from their surgery and is expected to make a full recovery. The patient's prognosis is good, and they have been advised to follow up with their surgeon to ensure continued proper healing and to address any concerns or questions that may arise.

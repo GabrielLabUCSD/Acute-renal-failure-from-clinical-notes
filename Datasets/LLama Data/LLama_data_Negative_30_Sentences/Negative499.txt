@@ -1,0 +1,107 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemia
+* History of smoking
+* Obese (BMI 35)
+* Previous MI s/p stenting
+* Previous CABG s/p sternotomy
+* Chronic lower back pain
+* History of GERD
+* Sleep apnea
+* Chronic obstructive pulmonary disease (COPD)
+* Osteoarthritis
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy for symptomatic gallstones
+* Previous appendectomy
+* Previous hernia repair
+
+Medications:
+
+* Aspirin 81 mg po daily
+* Atorvastatin 20 mg po daily
+* Lisinopril 20 mg po daily
+* Omeprazole 20 mg po daily
+* Alprazolam 0.5 mg po prn (as needed)
+* Ibuprofen 800 mg po prn (as needed)
+
+Allergies:
+
+* None
+
+Social History:
+
+* Retired engineer
+* Married with two adult children
+* Living in a two-story house with no bathtub/shower modifications
+* Has a pet dog
+* Has a history of heavy alcohol use but quit 10 years ago
+* No recent travel or exposure to illness
+
+Family History:
+
+* Mother died of breast cancer at age 60
+* Father died of CVA at age 70
+* One sibling with history of hypertension
+
+Review of Systems:
+
+* No recent fever, chills, or night sweats
+* No recent weight loss or gain
+* No changes in bowel or bladder habits
+* No recent dizziness or lightheadedness
+* No recent fatigue or weakness
+* No recent pain or discomfort in the chest, abdomen, or extremities
+
+Physical Exam:
+
+* BP 150/90 mmHg
+* HR 75 bpm
+* RR 18 breaths/min
+* Temp 37.2°C (99°F)
+* O2 sat 98% on RA
+*Height 5'9", Weight 220 lbs
+* BMI 35
+* Abdominal exam reveals tenderness to palpation in the right upper quadrant
+* No surgical scars
+
+Laboratory Results:
+
+* WBC 12.5 x 10^9/L
+* Neutrophils 75%
+* Lymphocytes 20%
+* Monocytes 3%
+* Eosinophils 2%
+* Basophils 1%
+* Platelet Count 220 x 10^9/L
+* AST 40 IU/L
+* ALT 55 IU/L
+* Alk Phos 100 IU/L
+* Total Bilirubin 1.2 mg/dL
+*irect Bilirubin 0.8 mg/dL
+* Creatinine 1.2 mg/dL
+* Glu 120 mg/dL
+* BUN 25 mg/dL
+* Urine Output 1500 mL/24hr
+
+Imaging Studies:
+
+* Abdominal ultrasound shows multiple gallstones with the largest measuring 1.5 cm
+* No evidence of cholelithiasis or biliary tract dilation
+
+Plan:
+
+* Elective laparoscopic cholecystectomy
+* Preoperative orders:
+	1. Clear liquids until midnight
+	2. No solid food intake after midnight
+	3. No alcohol or nicotine for 24 hours prior to surgery
+	4. Premedication with antibiotics and antiemetics 1 hour prior to surgery
+	5. Transport patient to the operating room at 7:00 am

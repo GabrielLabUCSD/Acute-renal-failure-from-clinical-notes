@@ -1,0 +1,41 @@
+Patient Summary: 
+
+The patient is a 65-year-old male who presents for a planned surgical procedure. He has a medical history of hypertension, hyperlipidemia, and diabetes mellitus. The patient has a history of smoking but has been smoke-free for the past two years. He denies any significant allergies. 
+
+Current Medications: 
+The patient's current medications include Lisinopril, Atorvastatin, Metformin, and Aspirin. 
+
+Medical History: 
+The patient has a history of stable angina and had a myocardial infarction (MI) three years ago. He has also been diagnosed with chronic obstructive pulmonary disease (COPD) and chronic kidney disease (CKD) stage 3. The patient has a history of benign prostatic hyperplasia (BPH) for which he takes Tamsulosin. He has also been diagnosed with osteoarthritis. 
+
+Surgical History: 
+The patient has a history of cholecystectomy, hernia repair, and hip replacement surgery. 
+
+Family History: 
+The patient's father died of a myocardial infarction at the age of 72. His mother died of breast cancer at the age of 68. The patient has one sibling who is alive and healthy. 
+
+Social History: 
+The patient is a retired construction worker. He is married and has two children who are both alive and healthy. He denies any recent travel or exposure to illness. 
+
+Review of Systems: 
+The patient reports shortness of breath, fatigue, and peripheral edema. He also reports a history of chronic low back pain. He denies any recent changes in bowel or bladder habits. 
+
+Physical Examination: 
+On examination, the patient's blood pressure is elevated at 180/100 mmHg. His heart rate is regular and 80 beats per minute. His respiratory rate is 20 breaths per minute. The patient's oxygen saturation is 92% on room air. His temperature is 37 degrees Celsius. 
+
+The patient has a surgical site that is clean and dry. There is no evidence of infection. 
+
+Lab Results: 
+The patient's complete blood count (CBC) shows a white blood cell count of 12,000 cells/mm3, hemoglobin of 12 g/dL, and platelet count of 200,000/mm3. His electrolytes are within normal limits. His creatinine kinase (CK) is elevated at 200 IU/L. His international normalized ratio (INR) is 2.5. 
+
+Imaging Studies: 
+The patient's chest x-ray (CXR) shows a possible infiltrate in the right lung base. His electrocardiogram (ECG) shows normal sinus rhythm. 
+
+Postoperative Course: 
+The patient had an uneventful surgery and was transferred to the post-anesthesia care unit (PACU) where he was closely monitored. He was extubated and remained stable. He was transferred to the surgical ward and continued to recover well. 
+
+Complications: 
+The patient did not experience any complications during his postoperative course. He was discharged home on postoperative day 5 in stable condition. 
+
+Follow-up: 
+The patient had a follow-up appointment with his surgeon one week after discharge. His surgical site was healing well, and he reported minimal pain. He was advised to continue with his medications as prescribed and follow up with his primary care physician for routine follow-up.

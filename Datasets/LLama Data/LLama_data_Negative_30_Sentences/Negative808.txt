@@ -1,0 +1,71 @@
+I understand, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+
+Chief Complaint: The patient presents with a 2-year history of worsening abdominal pain and difficulty swallowing.
+
+Medical History:
+
+* The patient has a history of hypertension, hyperlipidemia, and diabetes mellitus.
+* He has a history of smoking, with a 40-pack-year history.
+* The patient has a history of alcohol abuse and has been sober for the past 10 years.
+* He has a history of peptic ulcer disease and has been treated with antacids and proton pump inhibitors.
+* The patient has a history of asthma and has been using an inhaler as needed.
+* He has a history of osteoarthritis and has been taking nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief.
+* The patient has a history of benign prostatic hyperplasia (BPH) and has been taking finasteride for symptomatic relief.
+* He has a history of anxiety and depression, for which he has been taking sertraline.
+* The patient has a history of obstructive sleep apnea and has been using a continuous positive airway pressure (CPAP) machine at night.
+* He has a history of peripheral neuropathy and has been taking gabapentin for pain relief.
+* The patient has a history of cataracts and has had surgery to remove them.
+* He has a history of glaucoma and has been taking eye drops to control the pressure.
+* The patient has a history of coronary artery disease and has had a coronary artery bypass graft (CABG) surgery.
+* He has a history of congestive heart failure and has been taking medications to control the symptoms.
+* The patient has a history of chronic obstructive pulmonary disease (COPD) and has been taking bronchodilators and corticosteroids.
+
+Surgical History:
+
+* The patient has had a cholecystectomy in the past.
+* He has had a hernia repair surgery in the past.
+* The patient has had a thyroidectomy in the past.
+* He has had a cataract surgery in the past.
+* The patient is planning to undergo a surgery for his current condition.
+
+Medications:
+
+* The patient is currently taking aspirin, metformin, lisinopril, atorvastatin, albuterol, finasteride, sertraline, and gabapentin.
+
+Allergies:
+
+* The patient has a known allergy to penicillin.
+
+Social History:
+
+* The patient is a retired lawyer.
+* He lives alone and has a supportive family.
+* The patient is a nonsmoker and denies any alcohol or drug use.
+* He denies any recent travel or exposure to illness.
+
+Family History:
+
+* The patient's father died of a myocardial infarction (MI) at the age of 60.
+* His mother died of breast cancer at the age of 70.
+* The patient has two siblings who are alive and healthy.
+
+Review of Systems:
+
+* The patient reports no changes in urination or bowel habits.
+* He denies any fever, chills, or night sweats.
+* The patient reports no abdominal distension or guarding.
+* He denies any recent weight loss or gain.
+
+Physical Exam:
+
+* The patient's vital signs are: temperature 98.6°F (37°C), pulse 70/min, blood pressure 130/80 mmHg, respiratory rate 12/min, and oxygen saturation 97% on room air.
+* The patient's abdomen is soft and non-tender, with no rebound tenderness or guarding.
+* The patient has a surgical scar from his previous cholecystectomy.
+
+Laboratory Results:
+
+* Complete

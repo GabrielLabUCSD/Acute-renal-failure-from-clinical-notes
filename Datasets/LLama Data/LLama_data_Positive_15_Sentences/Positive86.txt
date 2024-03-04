@@ -1,0 +1,19 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a complication of acute renal failure after surgery:
+
+1. The patient is a 65-year-old male with a medical history of hypertension, hyperlipidemia, and diabetes mellitus.
+2. He has been scheduled for a elective surgery (hip replacement) due to severe joint pain and limited mobility.
+3. The patient has a history of smoking, with a 20-pack-year history, but has been smoke-free for the past 5 years.
+4. He has a history of alcohol use, with a maximum of 2 drinks per day, but has been alcohol-free for the past year.
+5. The patient has a history of kidney stones and has had multiple episodes of nephrolithiasis in the past.
+6. He has been diagnosed with chronic kidney disease (CKD) stage 3, with a creatinine level of 1.5 mg/dL.
+7. The patient has been taking aspirin 81 mg daily for the past year for stroke prevention.
+8. He has also been taking atorvastatin 20 mg daily for the past 5 years for hyperlipidemia.
+9. The patient's blood pressure is well-controlled on lisinopril 20 mg daily.
+10. He has a history of non-insulin dependent diabetes mellitus and is currently taking metformin 1000 mg twice daily.
+11. The patient's hemoglobin A1c (HbA1c) level is 7.4%, indicating good glucose control.
+12. He has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+13. The patient has a history of depression and is currently taking sertraline 50 mg daily.
+14. He has developed acute renal failure (ARF) post-operatively, with a creatinine level of 4.0 mg/dL and oliguria.
+15. The patient is currently being managed with intravenous fluids and close monitoring of renal function.
+
+This summary provides a comprehensive overview of the patient's medical history, including his current medications, medical conditions, and recent surgery. It also highlights the complication of acute renal failure, which requires close monitoring and appropriate interventions to prevent further damage to the patient's kidneys.

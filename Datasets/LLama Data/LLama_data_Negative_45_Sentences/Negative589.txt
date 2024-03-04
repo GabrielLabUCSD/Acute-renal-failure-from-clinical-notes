@@ -1,0 +1,63 @@
+Sure, here's a patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Chief Complaint: The patient presents with a 2-year history of worsening lower back pain, radiating to the left leg, and numbness in the feet.
+
+Medical History:
+
+* History of smoking (1 pack per day for 10 years)
+* Hypertension (controlled with medication)
+* Hyperlipidemia (controlled with medication)
+* Obesity (BMI 35)
+* Sleep apnea (uses continuous positive airway pressure (CPAP) machine)
+* History of non-insulin-dependent diabetes mellitus (NIDDM) (controlled with medication)
+* History of gastroesophageal reflux disease (GERD) (controlled with medication)
+* History of mild Intermittent asthma (controlled with medication)
+* Allergies: Penicillin, Sulfa drugs
+* Family History: Mother died of breast cancer at age 65, father had colon cancer at age 70
+* Social History: Works as a computer programmer, married with two children (ages 10 and 12), drinks occasionally (1-2 glasses of wine per week), does not exercise regularly
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) in 2010
+* Inguinal hernia repair in 2015
+* Bilateral cataract surgery in 2017
+
+Medications:
+
+* Hypertension: Lisinopril 20mg daily
+* Hyperlipidemia: Atorvastatin 20mg daily
+* Diabetes: Metformin 1000mg twice daily
+* GERD: Omeprazole 20mg daily
+* Asthma: Albuterol inhaler as needed
+
+Preoperative Examination:
+
+* Vital signs: Blood pressure 130/80 mmHg, Heart rate 75 bpm, Respiratory rate 12 breaths/min, Oxygen saturation 98% on room air
+* Physical examination: No signs of acute distress, but does have a mildly edematous right leg and foot
+* Laboratory analysis:
+	+ Electrolytes: Within normal limits (WNL)
+	+ Renal function: WNL
+	+ Liver function: WNL
+	+ Blood count: WNL
+* Imaging studies: MRI of the lumbar spine shows a large central herniated disc at L4-L5 with compression of the left L5 nerve root
+
+Postoperative Course:
+
+* Patient underwent a successful L4-L5 decompression and fusion surgery
+* Spent 2 days in the intensive care unit (ICU) for close monitoring
+* Had some postoperative nausea and vomiting, but well-controlled with medication
+* Was able to ambulate and sit up without any assistance on the first postoperative day
+* Had some mild postoperative pain, but well-controlled with medication
+* Discharged home on postoperative day 4 with a follow-up appointment in 2 weeks
+
+Complications:
+
+* None
+
+I hope this patient summary helps! Let me know if you have any questions or need any further assistance.

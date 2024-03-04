@@ -1,0 +1,105 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hypokalemic
+* Asthmatic
+* GERD
+* Osteoarthritis of the knees
+* Previous history of colon cancer (stage II)
+* Previous history of pulmonary embolism
+* History of smoking (20 pack-years)
+* History of alcohol use (moderate)
+
+Surgical History:
+
+* Cholecystectomy (laparoscopic) 10 years ago
+* Hernia repair (inguinal) 5 years ago
+* Knee replacement (left) 2 years ago
+* Knee replacement (right) 1 year ago
+* Planned surgery: total hip replacement (right)
+
+Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 20 mg daily
+* Albuterol nebulizer as needed
+* Advair 250/50 mcg daily
+* Metoprolol 50 mg daily
+* Omeprazole 20 mg daily
+* Knee replacement (right)
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Social History:
+
+* Married
+* Two adult children
+* Retired
+* Lives in a two-story house
+* Independent in activities of daily living
+* No history of falls
+* No history of recent travel
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with hypertension
+
+Review of Systems:
+
+* No chest pain or shortness of breath
+* No change in bowel habits
+* No abdominal pain
+* No neurological symptoms
+* No history of anemia
+* No history of bleeding disorders
+* No history of previous surgical complications
+
+Physical Examination:
+
+* Vital signs: BP 130/80, HR 70, T 98.6°F
+* respiratory rate 16
+* O2 saturation 95% on RA
+* General: patient appears healthy and well-nourished
+* Cardiovascular: regular rhythm, no murmurs or extra sounds
+* Respiratory: clear lungs, no wheezing or stridor
+* Abdominal: soft, non-tender, no guarding or rebound tenderness
+* Musculoskeletal: mild swelling and tenderness over the right hip and knee
+* Neurological: no focal deficits or sensory changes
+
+Laboratory Tests:
+
+* CBC: WBC 10,000, Hb 12.5, Hct 38, Plt 150
+* BMP: Na 138, K 4.2, Cl 98, CO2 23, BUN 17, Cr 1.0
+* Lipid profile: TC 180, LDL 110, HDL 45, TG 150
+* HbA1c 7.5%
+* PT/INR 1.2
+
+Imaging Studies:
+
+* Right hip X-ray: shows severe osteoarthritis with bone-on-bone contact
+* Left knee X-ray: shows mild osteoarthritis
+* Right knee X-ray: shows prosthetic knee in place
+
+Postoperative Course:
+
+* Patient tolerated the procedure well
+* No complications during surgery
+* Patient transferred to the recovery room and recovered uneventfully
+* Patient was able to ambulate independently on the first postoperative day
+* Patient was discharged home on the second postoperative day
+
+Complications:
+
+* None
+
+Please note that this is a sample patient summary, and you should always create a personalized summary for your patient based on their individual medical history and current condition.

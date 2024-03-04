@@ -1,0 +1,107 @@
+I understand. Here"s a sample patient summary with 45 sentences describing a patient"s medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Gender: Male
+
+Chief Complaint: The patient presents with a several-month history of worsening left knee pain and limited mobility.
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Diabetes mellitus type II
+* History of coronary artery disease
+* History of heart failure
+* History of chronic obstructive pulmonary disease (COPD)
+* History of sleep apnea
+* History of gastroesophageal reflux disease (GERD)
+* History of peptic ulcer disease
+* History of gallstones
+* History of thyroid disease
+
+Surgical History:
+
+* Cholecystectomy (gallbladder removal) 10 years ago
+* Hysterectomy (uterus removal) 15 years ago
+
+Medications:
+
+* Lisinopril for hypertension and heart failure
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes mellitus type II
+* Alprazolam for anxiety
+* Omeprazole for GERD
+* Levothyroxine for thyroid disease
+* Aspirin for coronary artery disease
+
+Allergies:
+
+* Penicillin
+* Cephalosporins
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with no elevator
+* Has a pet dog
+* Does not smoke currently
+* Does not drink alcohol currently
+* Has a history of substance abuse
+
+Family History:
+
+* Father died of myocardial infarction (heart attack) at age 60
+* Mother died of breast cancer at age 70
+* Brother has hypertension and hyperlipidemia
+* Sister has diabetes mellitus type II
+
+Review of Systems:
+
+* No recent weight loss or gain
+* No fever or chills
+* No recent changes in urination or bowel habits
+* No recent vomiting or abdominal pain
+* No recent shortness of breath or wheezing
+* No recent changes in mental status or mood
+
+Physical Examination:
+
+* Blood pressure: 150/90 mmHg
+* Pulse: 80/min
+* Respiratory rate: 20/min
+* Temperature: 98.6°F (37°C)
+* Oxygen saturation: 95% on room air
+* Height: 5 feet 10 inches (178 cm)
+* Weight: 200 lbs (91 kg)
+* BMI: 31.4
+* Heart rate: 80/min
+* Cardiovascular examination: regular rhythm, no murmurs, rubs, or gallops
+* Respiratory examination: clear to auscultation, no wheezing or rhonchi
+* Abdomen examination: no tenderness, guarding, or distension
+* Musculoskeletal examination: limited mobility in left knee, no joint effusion
+
+Lab Results:
+
+* Complete Blood Count (CBC): within normal limits
+* Electrolyte panel: within normal limits
+* Lipid profile: within normal limits
+* Blood urea nitrogen (BUN) and creatinine: within normal limits
+* Urinalysis: within normal limits
+* Glucose: 120 mg/dL (6.6 mmol/L) fasting
+* Hemoglobin A1c (HbA1c): 7.5%
+
+Imaging Studies:
+
+* X-ray of the left knee: shows severe osteoarthritis
+* Magnetic Resonance Imaging (MRI) of the left knee: shows severe osteoarthritis, possible meniscal tear
+
+Plan:
+
+* The patient will undergo a left total knee arthroplasty (TKA)
+* Preoperative instructions:

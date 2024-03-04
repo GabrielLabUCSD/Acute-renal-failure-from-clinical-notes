@@ -1,0 +1,68 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker for 30 years, quit 5 years ago
+* Obese with BMI of 35
+* History of non-insulin dependent diabetes mellitus
+* History of hyperlipidemia
+* History of hypertension
+* History of asthma
+* Allergic to penicillin
+* No history of previous surgery
+* No history of previous anesthesia
+* No history of cardiovascular disease
+* No history of pulmonary disease
+* No history of neurological disorders
+* No history of renal disease
+* No history of hepatic disease
+* No history of bleeding disorders
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic cholecystectomy
+* No history of previous surgery
+
+Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes mellitus
+* Albuterol as needed for asthma
+
+Lab Results:
+
+* BUN 20 mg/dL
+* Creatinine 1.2 mg/dL
+* Glucose 180 mg/dL
+* Cholesterol 200 mg/dL
+* Triglycerides 150 mg/dL
+* HDL 40 mg/dL
+* LDL 120 mg/dL
+* Hemoglobin A1C 7.5%
+* white blood cell count 10,000 cells/mm3
+* Platelet count 200,000 cells/mm3
+
+Vital Signs:
+
+* Blood pressure 130/80 mmHg
+* Pulse 80 beats per minute
+* Respiratory rate 16 breaths per minute
+* Oxygen saturation 98% on room air
+* Temperature 98.6°F
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* No complications noted
+* Patient was discharged from the hospital on postoperative day 3
+
+ Complications:
+
+* None noted
+
+I hope this sample patient summary helps! Please note that this is just a sample and should be tailored to the specific patient and surgery they are undergoing.

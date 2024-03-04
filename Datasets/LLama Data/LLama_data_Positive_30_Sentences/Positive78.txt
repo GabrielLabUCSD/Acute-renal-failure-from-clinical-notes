@@ -1,0 +1,45 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes mellitus.
+3. He has been experiencing worsening left knee pain for the past year.
+4. The pain is severe and persistent, and has been affecting his ability to walk.
+5. The patient has tried physical therapy and medication, but the pain has not improved.
+6. He has been diagnosed with severe osteoarthritis of the left knee.
+7. The patient is scheduled to undergo a total knee replacement surgery.
+8. He has no allergies to medications or anesthesia.
+9. He is currently taking aspirin, metformin, and lisinopril.
+10. The patient has a history of smoking, but quit 10 years ago.
+11. He drinks alcohol occasionally, but not excessively.
+12. The patient has no history of bleeding disorders or previous surgeries.
+13. He has a history of kidney stones, but has not had any recent episodes.
+14. The patient's father died of a myocardial infarction at the age of 60.
+15. His mother died of breast cancer at the age of 70.
+16. The patient has two siblings, both of whom are healthy.
+17. He is married and has two adult children.
+18. The patient is a retired accountant and has been relatively inactive for the past year.
+19. He has a BMI of 32, which is considered obese.
+20. The patient's blood pressure is well-controlled on medication.
+21. His blood sugar levels are also well-controlled on medication.
+22. The patient has a low platelet count, which may affect his ability to clot blood.
+23. He has a history of mild sleep apnea, but does not use a CPAP machine.
+24. The patient has a history of mild chronic obstructive pulmonary disease (COPD).
+25. He has not had any recent respiratory infections.
+26. The patient has not had any recent cardiovascular problems.
+27. His electrocardiogram (ECG) and echocardiogram are normal.
+28. The patient's complete blood count (CBC) is normal, except for a low platelet count.
+29. His blood chemistry is normal, except for a high creatinine level.
+30. The patient's urinalysis is normal.
+
+Complication:
+
+1. The patient developed acute renal failure (ARF) on the second postoperative day.
+2. He had been complaining of decreased urine output and increasing abdominal swelling.
+3. Lab results showed a significant increase in serum creatinine and blood urea nitrogen (BUN).
+4. Urinalysis showed proteinuria and active sediment.
+5. Imaging studies revealed no obstructive uropathy or other renal damage.
+6. The patient was fluid overloaded and had been receiving excessive intravenous fluids.
+7. The fluids were discontinued, and diuretics were started to manage fluid overload.
+8. Antibiotics were administered to treat potential urinary tract infection.
+9. The patient's renal function improved gradually over the next few days.
+10. He was discharged from the hospital with a follow-up appointment to see a nephrologist.

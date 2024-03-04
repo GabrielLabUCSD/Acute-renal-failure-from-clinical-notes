@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition] and is planned for [insert type of surgery]. The patient has a history of [insert relevant past medical history], including [insert relevant past surgical history]. The patient is currently taking [insert medications] and has been advised to stop taking [insert medications to be held preoperatively] prior to surgery.
+
+The patient's physical examination reveals [insert relevant findings]. Laboratory test results show [insert relevant laboratory results, including electrolytes, renal function, and coagulation studies].
+
+The patient's risk factors for surgery include [insert relevant risk factors, such as smoking, obesity, sleep apnea, etc.]. The patient has been informed of the risks and benefits of surgery and has provided informed consent.
+
+The patient's postoperative course was uneventful, with no major complications. The patient experienced some minor discomfort, including [insert minor complications, such as nausea, vomiting, or mild pain]. These issues were managed with [insert interventions, such as medication or other therapies].
+
+The patient was discharged from the hospital on [insert date] and is expected to make a full recovery. Follow-up appointments have been scheduled for [insert dates] to monitor the patient's progress and address any concerns.
+
+The patient's prognosis is good, with a low risk of complications. However, the patient will need to follow postoperative instructions carefully to minimize the risk of complications.
+
+Assistant: Is there anything else I can help you with?

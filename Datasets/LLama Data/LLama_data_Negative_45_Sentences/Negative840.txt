@@ -1,0 +1,107 @@
+Sure, here is a patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Sex: Male
+
+Chief Complaint: Abdominal pain
+
+History of Present Illness: Mr. Doe presents with a 2-month history of worsening abdominal pain, which has been severe enough to wake him up at night. He has also experienced a significant amount of weight loss and nausea.
+
+Past Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* Chronic kidney disease (stage 3)
+* History of smoking (quit 10 years ago)
+* History of alcohol abuse (quit 5 years ago)
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Hernia repair at age 50
+
+Medications:
+
+* Amlodipine
+* Atorvastatin
+* Omeprazole
+* Aspirin
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with a history of colon cancer
+
+Social History:
+
+* Married with two adult children
+* Retired lawyer
+* Current occupation: part-time consultant
+* Denies any recent travel or exposure to illness
+
+Review of Systems:
+
+* No fever, night sweats, or recent weight loss
+* No respiratory symptoms
+* No cardiovascular symptoms
+* No neurological symptoms
+* No musculoskeletal symptoms
+* No gynecological symptoms
+
+Physical Exam:
+
+* Temperature: 98.6°F
+* Pulse: 70 beats per minute
+* Blood Pressure: 140/90 mmHg
+* Respiratory Rate: 12 breaths per minute
+* Oxygen Saturation: 98% on room air
+* Height: 5'10"
+* Weight: 170 lbs
+* BMI: 27
+
+Lab Results:
+
+* WBC: 12,000/mm3
+* Neutrophils: 70%
+* Lymphocytes: 20%
+* Monocytes: 8%
+* Eosinophils: 2%
+* Basophils: 1%
+* RBC: 4.5 million/mm3
+* Hemoglobin: 13.2 g/dL
+* Hematocrit: 40%
+* Platelet Count: 200,000/mm3
+* Prothrombin Time: 12.2 seconds
+* Partial Thromboplastin Time: 30.5 seconds
+* INR: 1.2
+* Creatinine: 1.5 mg/dL
+* Glucose: 120 mg/dL
+* Total Bilirubin: 1.0 mg/dL
+* Alkaline Phosphatase: 120 IU/L
+* Alanine Transaminase: 40 IU/L
+* Aspartate Transaminase: 50 IU/L
+
+Imaging Results:
+
+* CT scan of the abdomen and pelvis showed a mass in the rectum, likely a rectal adenocarcinoma
+
+Postoperative Course:
+
+* Mr. Doe underwent a robotic-assisted laparoscopic low anterior resection of the rectum with colonic anastomosis
+* He had a lengthy postoperative recovery due to a prolonged surgery and difficult anastomosis
+* He experienced significant postoperative pain, which was managed with a patient-controlled analgesia pump
+* He developed a surgical site infection, which was treated with antibiotics
+* He also developed urinary retention, which was managed with a foley catheter
+* He was discharged from the hospital on postoperative day 7
+
+Complications:

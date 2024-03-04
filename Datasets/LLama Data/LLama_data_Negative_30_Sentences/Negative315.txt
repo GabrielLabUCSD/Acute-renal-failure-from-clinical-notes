@@ -1,0 +1,35 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history significant for [insert significant medical conditions, such as hypertension, diabetes, hyperlipidemia, sleep apnea, etc.]. The patient has been taking [insert medications, including dosages and frequency] for the management of these conditions.
+
+The patient has recently been diagnosed with [insert diagnosis, such as hernia, cataract, etc.] and is planning to undergo [insert type of surgery, such as laparoscopic hernia repair, cataract extraction, etc.]. The patient is interested in minimally invasive surgical approaches, if available.
+
+The patient has no known allergies to medications or anesthesia. They have a history of previous surgeries, including [insert previous surgeries and dates, such as appendectomy, cholecystectomy, etc.].
+
+The patient has been compliant with their medical regimen and has not experienced any significant side effects from their medications. They have been advised to discontinue certain medications prior to surgery, such as [insert medications, such as blood thinners, etc.].
+
+The patient's most recent lab results demonstrate [insert lab results, such as normal electrolytes, mildly elevated liver enzymes, etc.]. They have no history of bleeding disorders or recent significant bleeding events.
+
+The patient's last bowel movement was [insert time frame, such as within the past 24 hours] and they have not experienced any significant abdominal pain or distension.
+
+The patient has been advised to fast for [insert time frame, such as 8 hours] prior to surgery and to avoid alcohol and nicotine for [insert time frame, such as 24 hours] before and after surgery.
+
+The patient's postoperative course has been uneventful, without any significant complications. They have been advised to follow a bland diet for the first few days after surgery and to gradually advance their diet as tolerated.
+
+The patient has been discharged home with a follow-up appointment scheduled for [insert time frame, such as 1-2 weeks] after surgery. They have been advised to avoid heavy lifting, bending, or straining for several weeks after surgery.
+
+The patient has been prescribed [insert medications, such as pain medication, antibiotics, etc.] for postoperative management. They have been advised to follow the medication regimen as directed and to monitor for any potential side effects.
+
+The patient has been instructed to seek immediate medical attention if they experience any postoperative complications, such as fever, chest pain, difficulty breathing, or bleeding.
+
+The patient has been counseled regarding the potential risks and benefits of surgery, and they have provided informed consent for the procedure.
+
+The patient's support system includes [insert support system, such as family members, friends, etc.]. They have been advised to seek assistance from their support system as needed during their postoperative recovery.
+
+The patient's expected length of stay in the hospital is [insert length of stay, such as 1-2 days]. They have been advised to follow up with their primary care physician and surgeon as needed after discharge.
+
+The patient's postoperative recovery has been smooth, with no significant complications noted during their hospital stay. They have been discharged home with appropriate medications and instructions for postoperative care.
+
+The patient's prognosis is good, with minimal risk of long-term complications expected. They have been advised to attend follow-up appointments with their surgeon and primary care physician to monitor their progress.
+
+Assistant: Is there anything else I can help you with?

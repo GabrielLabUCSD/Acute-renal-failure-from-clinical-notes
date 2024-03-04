@@ -1,0 +1,13 @@
+The patient is a [age]-year-old [gender] who presented with a medical history of [medical conditions]. They were admitted to the hospital for [type of surgery]. Preoperative labs revealed [lab findings], and imaging studies showed [imaging findings]. The patient reported a history of allergies to [specific allergens] and was on medications including [list of medications].
+
+During the surgery, the patient received [type of anesthesia] and was positioned [positioning] for the procedure. The surgery was performed [surgical approach] and lasted [duration]. Intraoperatively, the patient tolerated the procedure well, with [important intraoperative details].
+
+Following the surgery, the patient was taken to the recovery room and monitored closely for [postoperative duration]. They were started on postoperative pain management with [pain medication regimen]. The patient's vital signs remained stable, with [specific vitals]. They were placed on a clear liquid diet initially and advanced as tolerated.
+
+During the postoperative course, the patient experienced [specific complications] which required [appropriate interventions]. However, acute renal failure was not observed. The patient's wound was assessed regularly and showed [healing progress]. They were started on prophylactic antibiotics to prevent infection.
+
+The patient had regular consultations with a physical therapist who helped with mobility and strengthening exercises. They were also provided with appropriate wound care instructions and were compliant with their postoperative follow-up appointments.
+
+At the time of discharge, the patient's pain was well-managed, and they were able to ambulate independently. They were provided with prescriptions for [medication regimen]. The patient was advised to follow a specific activity level, avoid heavy lifting, and continue any necessary medications.
+
+Throughout the postoperative recovery period, the patient showed satisfactory progress and had no further complications. They were instructed to contact the healthcare provider if they experienced any worsening symptoms or concerns.

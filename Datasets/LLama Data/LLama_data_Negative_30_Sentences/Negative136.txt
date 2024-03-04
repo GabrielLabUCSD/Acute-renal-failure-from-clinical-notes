@@ -1,0 +1,63 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker for 40 years, quit 10 years ago
+* Obese with BMI of 35
+* History of colon cancer, status post colon resection 5 years ago
+* History of stable angina, currently managed with medication
+* History of chronic lower back pain, managed with physical therapy and medication
+* Previous surgical history includes cholecystectomy, hernia repair, and cataract surgery
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Atorvastatin 20 mg daily
+* Metformin 1000 mg daily
+* Amlodipine 5 mg daily
+* Omeprazole 20 mg daily
+* Ibuprofen 800 mg as needed for pain
+
+Allergies:
+
+* None known
+
+Lab Results:
+
+* WBC: 12,000/mm3
+* Hemoglobin: 14 g/dL
+* Platelets: 200,000/mm3
+* BUN: 25 mg/dL
+* Creatinine: 1.2 mg/dL
+* Glucose: 150 mg/dL
+* Cholesterol: 200 mg/dL
+* Triglycerides: 150 mg/dL
+
+Physical Exam:
+
+* Blood pressure: 150/90 mmHg
+* Heart rate: 75 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F
+* Oxygen saturation: 95% on room air
+* Cardiovascular exam reveals regular rhythm, no murmurs or extra sounds
+* Chest exam reveals clear lungs, no wheezing or crackles
+* Abdomen exam reveals obese abdomen, no tenderness or guarding
+* Neurological exam reveals no deficits
+
+Planned Surgery:
+
+* Laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Was discharged from the hospital on postoperative day 3
+* Followed up with surgeon 2 weeks after discharge, doing well
+* No complications noted during follow-up visit
+
+I hope this sample patient summary helps! Let me know if you have any questions or need further assistance.

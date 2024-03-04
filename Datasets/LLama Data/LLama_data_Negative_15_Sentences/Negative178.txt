@@ -1,0 +1,13 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for a preoperative evaluation for an elective laparoscopic cholecystectomy. He has a history of cholelithiasis and symptomatic gallstones, with recurrent episodes of biliary colic and cholangitis. He also has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. He takes several medications, including atorvastatin, lisinopril, glyburide, and metformin. He has no known allergies and does not smoke or drink alcohol.
+
+The patient's surgical history includes a previous appendectomy and a thyroidectomy. He has had no previous anesthesia complications. He has a family history of coronary artery disease and his mother died of a myocardial infarction at the age of 60. He denies any previous history of respiratory or neurological problems.
+
+The patient's physical examination reveals a blood pressure of 140/90 mmHg, pulse rate of 80 beats per minute, and an afebrile темпераatures. His respiratory and cardiovascular systems are normal. His abdominal examination shows a tender gallbladder with no rebound tenderness or guarding.
+
+The patient's laboratory results show a WBC count of 11,000 cells/mm3, hemoglobin A1c of 7.5%, and a total cholesterol of 220 mg/dL. His liver function tests are normal.
+
+An electrocardiogram (ECG) and echocardiogram were performed and showed no evidence of cardiac disease.
+
+The patient had a successful laparoscopic cholecystectomy. His postoperative course was uneventful, and he was discharged from the hospital on the third postoperative day. He followed up with his surgeon and primary care physician and had no complications or wound infections.

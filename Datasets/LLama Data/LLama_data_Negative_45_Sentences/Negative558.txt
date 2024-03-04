@@ -1,0 +1,19 @@
+I've created a patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery. Please note that acute renal failure is not included as a complication.
+
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition(s)]. The patient has been experiencing [insert symptoms] for [insert duration]. The patient has tried [insert previous treatments] without relief. The patient is allergic to [insert allergies]. 
+
+The patient's medical history includes [insert relevant medical history, such as previous surgeries, hospitalizations, or chronic conditions]. The patient takes [insert medications] and has been advised to stop taking [insert medications to be held preoperatively]. The patient's last meal was [insert time] hours ago. The patient has no known allergies to anesthesia. The patient's blood type is [insert blood type]. 
+
+Preoperative orders include [insert orders, such as blood work, electrocardiogram, or imaging studies]. The patient has been educated on the procedure, risks, benefits, and alternatives.
+
+Postoperative Course:
+
+The patient underwent [insert procedure] under [insert type of anesthesia] on [insert date]. The patient had a [insert postoperative course, such as uneventful, complicated by, or prolonged] stay in the recovery room. 
+
+The patient experienced [insert postoperative complications, such as nausea, vomiting, dizziness, or pain]. The patient was transferred to the [insert unit, such as postanesthesia care unit or surgical floor] on [insert date]. 
+
+The patient's pain was managed with [insert pain management plan]. The patient had no further complications and was discharged from the hospital on [insert date]. The patient was advised to follow up with their surgeon on [insert date] and their primary care physician on [insert date]. 
+
+The patient's postoperative recovery was uncomplex and without further complications.

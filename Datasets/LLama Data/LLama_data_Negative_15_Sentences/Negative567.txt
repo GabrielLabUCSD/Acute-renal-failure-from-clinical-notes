@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents for [insert type of surgery]. They have a medical history of [insert past surgeries or medical conditions, such as hypertension, diabetes, or previous strokes]. The patient has been taking [insert medications] and has been compliant with their medication regimen.
+
+Preoperatively, the patient underwent a thorough workup, including [insert any relevant tests or procedures, such as endoscopy, imaging studies, or blood work]. The results showed [insert any relevant findings or abnormalities].
+
+During the surgery, the patient had [insert any notable events or complications that occurred during the surgery, such as bleeding, arrhythmias, or respiratory issues]. The surgery was completed successfully, and the patient was transferred to the recovery room in stable condition.
+
+In the postoperative period, the patient had a [insert any complications or issues that occurred after the surgery, such as nausea, vomiting, pain, or urinary retention]. These issues were managed with [insert any treatments or interventions used to address the complications, such as medication, fluids, or drains].
+
+The patient was closely monitored and had a smooth recovery. They were able to [insert any milestones or goals achieved during the recovery period, such as sitting up, walking, or tolerating oral intake].
+
+The patient was discharged from the hospital on [insert date of discharge] and was advised to follow up with their surgeon in [insert time frame, such as 1-2 weeks]. They were also instructed to [insert any post-discharge instructions or restrictions, such as avoiding heavy lifting or driving].
+
+Overall, the patient had a successful surgery and a smooth postoperative course. They were able to return to their normal activities and are expected to have a good outcome.

@@ -1,0 +1,59 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a description of acute renal failure complication after surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+1. Hypertension
+2. Diabetes mellitus
+3. Hyperlipidemia
+4. History of smoking
+5. Obesity (BMI 35)
+6. Sleep apnea
+7. Chronic lower back pain
+8. History ofnon-steroidal anti-inflammatory drug (NSAID) use
+9. History of corticosteroid use
+10. History of alcohol use disorder
+11. Family history of heart disease
+12. Family history of kidney disease
+13. Personal history of stones
+14. History of urinary tract infections (UTIs)
+15. History of erectile dysfunction
+16. History of glaucoma
+17. History of hearing loss
+18. History of gastroesophageal reflux disease (GERD)
+19. History of peptic ulcer disease
+20. History of irritable bowel syndrome (IBS)
+21. History of prostate cancer
+22. History of benign prostatic hyperplasia (BPH)
+23. History of cataracts
+24. History of joint replacement surgery
+25. History of skin cancer
+26. History of thyroid disease
+27. History of anemia
+28. History of chronic obstructive pulmonary disease (COPD)
+29. History of pneumonia
+30. History of sepsis
+
+Acute Renal Failure Complication:
+
+1. Post-operative day 2: Patient developed acute renal failure (ARF) with a serum creatinine level of 4.5 mg/dL and a urine output of 200 mL/day.
+2. Patient was fluid-sealed and vasopressor-dependent.
+3. Urine output decreased to 100 mL/day on post-operative day 3.
+4. Patient developed periorbital edema and puffy eyes.
+5. Patient had a rising serum potassium level (5.5 mEq/L).
+6. Patient required hemodialysis on post-operative day 4.
+7. Patient had a prolonged hospital stay due to the need for continued hemodialysis.
+8. Patient developed a left femoral hematoma (3 cm x 2 cm x 1.5 cm) on post-operative day 5.
+9. Patient had a fall in the hospital while on hemodialysis, resulting in a left humeral fracture.
+10. Patient developed sepsis on post-operative day 7, requiring intensive care unit (ICU) admission.
+11. Patient had a prolonged ICU stay due to the need for vasopressor support and mechanical ventilation.
+12. Patient developed acute respiratory distress syndrome (ARDS) on post-operative day 8.
+13. Patient required ECMO support on post-operative day 9.
+14. Patient developed cardiac arrest on post-operative day 10 and died shortly after.
+
+Note: The above summary is a fictional representation and not based on any real patient's medical history.
+
+I hope this sample patient summary is helpful in preparing for a surgical procedure. It's important to note that this is a fictional representation and not based on any real patient's medical history.

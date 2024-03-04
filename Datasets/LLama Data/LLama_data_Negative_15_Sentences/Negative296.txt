@@ -1,0 +1,13 @@
+Patient Summary:
+
+This patient is a [insert age]-year-old male who presents with a history of [insert medical condition] and is scheduled to undergo [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert pertinent surgical history]. The patient is currently taking [insert medications] and has allergies to [insert allergies]. The patient's laboratory results are within normal limits, except for a slightly elevated [insert lab result]. The patient is a smoker and has a history of [insert number of pack years]. The patient's social history reveals [insert social history].
+
+Postoperative Course:
+
+The patient underwent [insert type of surgery] and had an uneventful postoperative course. The patient experienced some discomfort and pain, which was managed with [insert pain medication]. The patient's vital signs remained stable, and there were no complications. The patient was discharged from the hospital on [insert date] and is expected to make a full recovery.
+
+Complications:
+
+The patient did not experience any complications during their postoperative course.
+
+Assistant: Is there anything else I can help you with?

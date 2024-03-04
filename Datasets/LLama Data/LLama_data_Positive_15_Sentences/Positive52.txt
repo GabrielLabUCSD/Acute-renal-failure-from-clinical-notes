@@ -1,0 +1,49 @@
+Patient Summary:
+
+* Name: [insert name here]
+* Date of Birth: [insert date of birth here]
+* Gender: [insert gender here]
+* Current Age: [insert current age here]
+* Medical History:
+	+ Hypertension
+	+ Diabetes mellitus
+	+ Hyperlipidemia
+	+ Obesity (BMI 35)
+	+ Sleep apnea
+	+ History of smoking (20 pack-years)
+	+ History of alcohol use disorder
+* Current Medications:
+	+ Lisinopril (Zestril) 20mg orally once daily
+	+ Metformin (Glucophage) 500mg orally twice daily
+	+ Simvastatin (Zocor) 20mg orally once daily
+	+ Aspirin 81mg orally once daily
+	+ Oxycodone (OxyContin) 10mg orally every 4-6 hours as needed for pain
+* Reason for Surgery:
+	+ Elective laparoscopic cholecystectomy for symptomatic gallstones
+* Preoperative Testing:
+	+ Complete blood count (CBC) within normal limits
+	+ Electrolyte panel within normal limits
+	+ Urinalysis within normal limits
+	+ Chest X-ray within normal limits
+	+ Electrocardiogram (ECG) within normal limits
+* Operative Report:
+	+ Laparoscopic cholecystectomy performed without any complications
+* Postoperative Course:
+	+ Patient had an uneventful postoperative recovery
+	+ Patient was discharged home on postoperative day 2
+* Complications:
+	+ Acute renal failure (ARF) developed on postoperative day 3
+		- Creatinine level peaked at 4.5mg/dL
+		- Hemodialysis was initiated on postoperative day 5
+		- Patient remained on hemodialysis for 1 week
+		- Creatinine level improved to 1.8mg/dL at time of discharge
+	+ Respiratory failure developed on postoperative day 4
+		- Oxygen saturation decreased to 88% on room air
+		- Patient was intubated and placed on mechanical ventilation
+		- Patient remained on mechanical ventilation for 3 days
+		- Patient was extubated on postoperative day 7
+* Current Status:
+	+ Patient is stable and recovering well
+	+ Patient is scheduled for follow-up appointment in 1 week
+	+ Patient is advised to continue hemodialysis for the next 2 weeks
+	+ Patient is at risk for chronic kidney disease and will need ongoing monitoring of renal function.

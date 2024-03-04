@@ -1,0 +1,9 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male/female who presents with a medical history of [insert medical condition(s) or surgical history]. The patient has been experiencing [insert symptoms or reason for surgery] and has been admitted for [insert type of surgery]...
+
+Please provide me with the actual patient's information, age, gender, medical history, symptoms, and type of surgery, so that I can fill in the blanks and create an accurate patient summary.
+
+Once I have that information, I will be able to generate a summary that includes the patient's medical history, postoperative course, and any complications that may have occurred, excluding acute renal failure.
+
+Also, I would like to remind you that it's important to respect patients' privacy and not share their personal information without their consent.

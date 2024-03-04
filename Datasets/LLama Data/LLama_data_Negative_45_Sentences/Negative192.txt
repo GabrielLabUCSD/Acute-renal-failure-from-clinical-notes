@@ -1,0 +1,56 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Chief Complaint: The patient presents with a history of chronic back pain and left leg radiculopathy.
+
+Medical History: The patient has a history of degenerative disc disease, lumbar spine, and DJD.
+
+Surgical History: The patient has undergone multiple lumbar fusion surgeries, including a previous L4-L5 fusion.
+
+Medications: The patient is currently taking hydrocodone-acetaminophen for pain management.
+
+Allergies: The patient is allergic to Penicillamine and has a history of anaphylaxis.
+
+Family History: The patient's mother died of breast cancer at the age of 65.
+
+Social History: The patient is a 55-year-old male who works as a software engineer. He is married with two adult children. He smokes a pack of cigarettes per day and drinks alcohol occasionally.
+
+Review of Systems:
+
+* Constitutional: The patient reports stable weight, good appetite, and no recent fevers.
+* Cardiovascular: The patient has a history of hypertension and reports occasional shortness of breath.
+* Respiratory: The patient has a history of chronic obstructive pulmonary disease (COPD) and uses a home nebulizer.
+* Gastrointestinal: The patient has a history of gastroesophageal reflux disease (GERD) and takes ranitidine for symptom control.
+* Genitourinary: The patient has a history of benign prostatic hyperplasia (BPH) and takes tamsulosin for symptom control.
+* Musculoskeletal: The patient has a history of degenerative joint disease (DJD) in the lumbar spine.
+* Neurological: The patient has a history of chronic back pain, left leg radiculopathy, and peripheral neuropathy.
+
+Physical Examination:
+
+* Vital Signs: Blood pressure: 130/80 mmHg, Heart rate: 70 bpm, Respiratory rate: 18 bpm, Temperature: 98.6°F (37°C).
+* Head and Neck: No abnormalities.
+* Thorax: Clear to auscultation, no wheezing or rhonchi.
+* Abdomen: Soft, non-tender, no guarding or rebound tenderness.
+* Back: Tender to palpation over the lumbar spine, no step-off or abnormal curvature.
+* Extremities: Mild swelling of the left leg, no erythema or warmth.
+* Neurological: No focal deficits, normal reflexes and sensation.
+
+Lab Results:
+
+* Complete Blood Count (CBC): Within normal limits.
+* Electrolyte Panel: Within normal limits.
+* Lipid Panel: Within normal limits.
+* Urinalysis: Within normal limits.
+* Imaging Studies: MRI lumbar spine shows multilevel degenerative disc disease and left L5 nerve root compression.
+
+Plan:
+The patient will undergo a L5-S1 fusion surgery to address the left L5 nerve root compression and alleviate the patient's chronic back pain.
+
+Postoperative Course:
+The patient had an uneventful postoperative course. He was transferred to the recovery room where he was closely monitored for any complications. He was administered IV morphine for pain management. On the first postoperative day, the patient was able to sit up and take small sips of water. He was encouraged to ambulate on the second postoperative day, and he was able to do so without any difficulty. He was discharged home on the third postoperative day with a prescription for oral pain medication and instructions for wound care.
+
+Complications:
+None noted.
+
+I hope this sample patient summary is helpful! Let me know if you have any questions or if you need further assistance.

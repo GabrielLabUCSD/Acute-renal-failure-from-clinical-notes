@@ -1,0 +1,58 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and complications after surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Diabetic
+* Hyperlipidemic
+* History of smoking
+* History of alcohol use
+* Obese (BMI 35)
+* Previous myocardial infarction (MI)
+* Previous coronary artery bypass grafting (CABG)
+* Previous left knee replacement
+* Previous right hip replacement
+* Previous history of chronic obstructive pulmonary disease (COPD)
+* Previous history of gastroesophageal reflux disease (GERD)
+* Previous history of colon cancer with metastasis to liver and lung
+* Previous history of atrial fibrillation
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Metformin 1000 mg twice daily
+* Lisinopril 20 mg daily
+* Atorvastatin 20 mg daily
+* Omeprazole 20 mg daily
+* Alprazolam 0.5 mg as needed for anxiety
+* Warfarin 5 mg daily
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Surgical History:
+
+* Planning to undergo elective lumbar spine surgery for spinal stenosis
+* Previous surgical history includes left knee replacement and right hip replacement
+
+Postoperative Course:
+
+* Patient underwent uneventful lumbar spine surgery
+* Postoperative day 1: Patient experienced mild discomfort and was managed with pain medication
+* Postoperative day 2: Patient reported improvement in pain and was able to ambulate with assistance
+* Postoperative day 3: Patient experienced nausea and vomiting, which was managed with antiemetics
+* Postoperative day 4: Patient reported increased pain and discomfort, which was managed with increased pain medication
+* Postoperative day 5: Patient experienced difficulty urinating and was managed with catheterization
+* Postoperative day 6: Patient reported improvement in urinary symptoms and was able to void successfully
+* Postoperative day 7: Patient was discharged home with a plan for follow-up in the clinic
+
+Complications:
+
+* None
+
+Note: This patient summary excludes acute renal failure as a complication as per your request. However, it's important to note that acute renal failure is a potential complication after surgery, especially in patients with pre-existing renal impairment or other risk factors. It's important to monitor patients closely for signs of renal dysfunction and manage promptly if necessary.

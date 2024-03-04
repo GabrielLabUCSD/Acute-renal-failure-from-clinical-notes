@@ -1,0 +1,55 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes.
+3. He has been smoking for the past 40 years.
+4. He has a history of chronic obstructive pulmonary disease (COPD).
+5. He has had multiple episodes of pneumonia in the past.
+6. He has a history of peripheral artery disease.
+7. He has had a myocardial infarction (heart attack) in the past.
+8. He has a history of chronic kidney disease.
+9. He is currently experiencing acute renal failure.
+10. He has a history of sleep apnea.
+11. He is obese, with a body mass index (BMI) of 35.
+12. He has a history of hypothyroidism.
+13. He has a history of glaucoma.
+14. He has a history of cataracts.
+15. He has a history of benign prostatic hyperplasia (BPH).
+16. He has a history of gastroesophageal reflux disease (GERD).
+17. He has a history of irritable bowel syndrome (IBS).
+18. He has a history of osteoarthritis.
+19. He has a history of chronic lower back pain.
+20. He has a history of migraines.
+21. He has a history of allergies, including penicillin and sulfa drugs.
+22. He has a history of asthma.
+23. He has a history of chronic obstructive sleep apnea (OSA).
+24. He has a history of atrial fibrillation.
+25. He has a history of chronic fatigue syndrome.
+26. He has a history of depression.
+27. He has a history of anxiety.
+28. He has a history of post-traumatic stress disorder (PTSD).
+29. He has a history of alcohol use disorder.
+30. He is currently experiencing acute renal failure complication after surgery.
+
+Complications:
+
+1. Acute renal failure
+2. Hypotension
+3. Tachycardia
+4. Tachypnea
+5. Confusion
+6. Nausea and vomiting
+7. Fatigue
+8. Weakness
+9. Decreased urine output
+10. Elevated blood urea nitrogen (BUN) and creatinine levels
+11. Metabolic acidosis
+12. Hyperkalemia
+13. Hypocalcemia
+14. Hypernatremia
+15. Hyponatremia
+16. Hypothermia
+17. Seizures
+18. Coma
+
+The patient's surgery was successful, but he developed acute renal failure complication after surgery. He is currently being monitored closely and receiving appropriate treatment for his complications.

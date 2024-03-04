@@ -1,0 +1,32 @@
+Patient Summary:
+
+* Patient presents with history of chronic back pain and degenerative disc disease.
+* Patient has tried physical therapy, medication, and lifestyle changes without significant relief.
+* Patient is considering surgical intervention to alleviate pain and improve quality of life.
+* Patient has no history of previous surgeries or anesthesia reactions.
+* Patient is currently taking blood thinners for a history of deep vein thrombosis.
+* Patient has a history of hypertension and hyperlipidemia.
+* Patient is a 40-year-old male, weighing 100 kg, and has a BMI of 32.
+* Patient has a history of smoking, but quit 5 years ago.
+* Patient drinks alcohol occasionally, but not excessively.
+* Patient has no history of drug use or allergies.
+* Patient has a history of family medical history, including heart disease and kidney disease.
+* Patient has had recent lab work and imaging studies, including an MRI and CT scan.
+* Patient's recent lab work shows elevated liver enzymes and decreased renal function.
+* Patient's MRI shows multilevel degenerative disc disease and spinal stenosis.
+* Patient's CT scan shows a possible kidney stone.
+* Patient is scheduled for a surgical consultation to discuss options for surgical intervention.
+* Patient is at risk for acute renal failure due to decreased renal function and history of chronic kidney disease.
+* Patient's surgical plan includes close monitoring of renal function and possible nephrology consult.
+
+Complication: Acute Renal Failure
+
+* Patient developed acute renal failure post-surgery, likely due to hypotension and perioperative medication.
+* Patient's creatinine levels increased from 1.5 mg/dL pre-surgery to 4.0 mg/dL post-surgery.
+* Patient's urine output decreased significantly in the first 24 hours after surgery.
+* Patient's fluid balance was closely monitored and managed with IV fluids and diuretics.
+* Patient's renal function began to improve within 48 hours, with creatinine levels decreasing to 3.0 mg/dL.
+* Patient was closely monitored in the ICU for the first 24 hours and then step-down unit for the next 48 hours.
+* Patient's recovery was complicated by a prolonged hospital stay and need for additional surgical intervention.
+
+Note: The above summary is just an example and not based on any real patient data.

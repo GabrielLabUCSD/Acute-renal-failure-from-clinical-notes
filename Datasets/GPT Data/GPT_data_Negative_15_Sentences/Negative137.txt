@@ -1,0 +1,17 @@
+The patient is a (age)-year-old (gender) who is scheduled to undergo (type of surgery) for (reason). They have a past medical history significant for (list of chronic conditions such as hypertension, diabetes, etc.). The patient has had previous surgeries including (list procedures) without any complications.
+
+Their current medications include (list medications and dosages). They have had allergies in the past, specifically to (specific medication or substance). They have also previously experienced adverse reactions to (specific medication or substance).
+
+The patient reports no significant family medical history, including any genetic conditions or predispositions to certain diseases. They deny any history of smoking or alcohol use.
+
+During the preoperative evaluation, laboratory tests including complete blood count (CBC), basic metabolic panel (BMP), and coagulation profile were within normal limits. Additional tests performed included (specific tests or screenings relevant to the surgery being planned).
+
+The patient's overall health is stable, and they do not report any recent illnesses or infections. They have been advised to maintain a stable weight and activity level prior to surgery.
+
+Postoperatively, the patient's course was uneventful. They were closely monitored in the recovery room and transferred to the surgical floor in stable condition. Pain control was managed with (specific medications and dosage). Physical therapy and breathing exercises were initiated early to prevent postoperative complications.
+
+The patient tolerated a regular diet and maintained adequate urine output. They were ambulating without assistance and reported minimal pain. Vital signs were stable throughout the hospital stay, with no signs of infection or wound complications.
+
+They were discharged on postoperative day (number) with appropriate instructions and prescriptions for pain management. They were advised to follow up with the surgeon in (number) weeks to assess healing and remove any sutures or staples.
+
+The patient did not experience any postoperative complications during their hospital stay or in the immediate postoperative period. However, it should be noted that acute renal failure was not observed as a complication in this case.

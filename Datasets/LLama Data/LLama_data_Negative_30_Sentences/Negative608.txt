@@ -1,0 +1,25 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [list all medical conditions, including chronic conditions, allergies, and previous surgeries]. The patient has been taking [list all current medications, including dosages] and has no known allergies.
+
+The patient has been scheduled for [type of surgery] and is expected to undergo [implant, graft, or procedure] on [date]. The surgery will be performed by [surgeon's name] at [hospital or surgery center].
+
+Preoperative workup includes [list all relevant tests, imaging studies, and consultations]. The patient has been instructed to [list any preoperative instructions, such as fasting or medication regimens].
+
+The patient's postoperative course is expected to be [list expected duration of stay in the hospital, type of anesthesia, and any anticipated complications or issues]. The patient will be closely monitored for [list any specific postoperative complications or issues that may arise].
+
+If any complications arise during the postoperative period, the patient will be treated with [list specific medications, interventions, or procedures that may be necessary]. The patient will also be closely monitored for signs of [list any specific complications that may arise during the postoperative period].
+
+The patient is at risk for [list any potential risks or complications that may arise during the postoperative period, such as infection, bleeding, or respiratory issues]. To minimize these risks, the patient will be [list any specific interventions or measures that will be taken, such as prophylactic antibiotics or close monitoring of vital signs].
+
+The patient's recovery is expected to be [list expected duration of recovery, type of pain management, and any specific instructions or restrictions that will be necessary]. The patient will be discharged from the hospital once they are stable and able to manage their pain effectively.
+
+Follow-up appointments will be necessary to monitor the patient's progress and addresses any concerns or issues that may arise. The patient will be seen by [list name of healthcare provider] at [time and date of follow-up appointments].
+
+In summary, the patient's medical history, surgical plan, and postoperative course have been carefully reviewed and planned to minimize risks and ensure a successful outcome. The patient is at risk for specific complications and will be closely monitored for signs of these complications during the postoperative period. The patient's recovery is expected to be uneventful, and follow-up appointments will be necessary to ensure proper healing and address any concerns that may arise.
+
+Did this summary address all of your needs? If there is anything else I can assist you with, please let me know.
+
+<</SYS>> 
+
+[

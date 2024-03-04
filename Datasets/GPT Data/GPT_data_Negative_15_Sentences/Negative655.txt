@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a (age)-year-old (gender) who is planning to undergo surgery. They have a past medical history significant for (medical conditions), for which they are currently taking (medications). They have had no previous surgeries.
+
+In terms of their surgical history, the patient has been diagnosed with (diagnosis) and is scheduled for (type of surgery) in order to (purpose of surgery). The procedure is being conducted by (surgeon's name) at (hospital/facility name). The patient has been provided with preoperative instructions and has consented to the procedure.
+
+Their preoperative labs and tests, including (relevant lab tests and imaging), revealed (findings or abnormalities). The patient has been cleared for surgery by their primary care physician and other specialists as needed, such as a cardiologist or pulmonologist.
+
+Regarding their postoperative course, the patient underwent (type of anesthesia) without any complications. They were placed on a (type of postoperative regimen, e.g., clear liquids, restricted activity) and were closely monitored for any signs of complications. Their pain was managed with (type of pain medication) and they were kept well-hydrated throughout their recovery.
+
+In terms of complications, the patient experienced (describe any complications that occurred, if any). However, they did not develop acute renal failure. The patient's vital signs remained stable throughout their recovery, and they were able to tolerate a regular diet (or gradually advance their diet) without any issues.
+
+The patient showed good progress and responded well to their prescribed medications and interventions. They were discharged on (date of discharge) with a plan for follow-up care, including wound care instructions, medications, and a scheduled visit to their surgeon for a postoperative check-up.
+
+Overall, the patient had a successful surgery and an uneventful recovery, apart from the mentioned complications. Their prognosis is expected to be good, and they will be closely monitored to ensure complete healing and a return to normal activities.

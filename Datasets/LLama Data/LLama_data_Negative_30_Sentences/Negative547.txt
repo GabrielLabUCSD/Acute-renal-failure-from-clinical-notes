@@ -1,0 +1,70 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 55-year-old male
+* History of hypertension, hyperlipidemia, and non-insulin dependent diabetes mellitus
+* Previous myocardial infarction (MI) 10 years ago
+* Prior coronary artery bypass grafting (CABG) 5 years ago
+* Status post-left lung lobectomy for lung cancer 2 years ago
+* Chronic kidney disease (CKD) stage 3
+* No history of stroke or bleeding disorders
+
+Surgical History:
+
+* The patient is scheduled for elective laparoscopic cholecystectomy for symptomatic gallstones
+* The patient has no previous surgical history
+
+Medications:
+
+* Aspirin 81mg daily
+* Lisinopril 40mg daily
+* Atorvastatin 40mg daily
+* Glipizide 10mg daily
+* Metformin 1000mg daily
+* Omeprazole 20mg daily
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Lab Results:
+
+* WBC: 12,000/uL
+* Hemoglobin: 12.5g/dL
+* Platelet Count: 180,000/uL
+* INR: 2.5
+* Creatinine: 1.8mg/dL
+* eGFR: 60ml/min
+* Total Bilirubin: 1.2mg/dL
+* Alkaline Phosphatase: 120 IU/L
+* Alanine Transaminase (ALT): 25 IU/L
+* Aspartate Transaminase (AST): 30 IU/L
+
+Imaging Results:
+
+* Computed Tomography (CT) scan of the abdomen and pelvis showed gallstones and a slightly dilated common bile duct
+
+Plan:
+
+* The patient will undergo laparoscopic cholecystectomy under general anesthesia
+* The patient will be monitored closely for any signs of cardiovascular or respiratory complications during the perioperative period
+* The patient will receive broad-spectrum antibiotics perioperatively to prevent surgical site infections
+* The patient will be encouraged to ambulate as soon as possible postoperatively to reduce the risk of venous thromboembolism
+* The patient will be monitored for signs of postoperative complications such as nausea, vomiting, fever, or abdominal pain
+
+Postoperative Course:
+
+* The patient had an uneventful postoperative course
+* The patient was able to tolerate a clear liquid diet on the first postoperative day
+* The patient was able to ambulate independently on the second postoperative day
+* The patient was discharged home on the third postoperative day with instructions to continue with a clear liquid diet and to follow up with the surgeon in 1 week
+
+Complications:
+
+* None noted during the postoperative course.
+
+Note: This is a sample patient summary, and the information provided may not be applicable to all patients. It is important to individualize patient care and tailor the summary to the specific patient's needs and medical history.

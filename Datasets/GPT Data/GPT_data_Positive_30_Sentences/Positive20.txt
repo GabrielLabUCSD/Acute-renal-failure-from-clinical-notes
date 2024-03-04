@@ -1,0 +1,37 @@
+The patient is a 60-year-old male who is planning to undergo surgery for an appendectomy. He has a history of hypertension, diabetes mellitus type 2, and dyslipidemia. 
+
+His hypertension is well controlled on medication, with his blood pressure consistently below 130/80 mmHg. His diabetes is managed with lifestyle modifications and metformin, with good glycemic control and a recent HbA1c of 6.5%. His dyslipidemia is being managed with a statin, and his lipid profile shows cholesterol within normal range. 
+
+He has a past surgical history significant for a cholecystectomy 5 years ago, which was uneventful. He has no known medication allergies. His social history reveals that he is a non-smoker and does not consume alcohol regularly. He does not use illicit drugs. 
+
+On physical examination, the patient is well-nourished and in no apparent distress. His vital signs are stable, and there are no abnormalities detected on cardiovascular, pulmonary, or abdominal examination. His laboratory tests show normal complete blood count, liver function tests, and coagulation profile. 
+
+However, his renal function tests reveal elevated creatinine and blood urea nitrogen (BUN) levels. His serum creatinine is 2.5 mg/dL, and his BUN is 40 mg/dL. His estimated glomerular filtration rate (eGFR) is calculated to be 30 mL/min/1.73 m², indicating stage 4 chronic kidney disease. 
+
+No previous diagnostic imaging studies are available related to his renal function. His urine analysis shows no abnormal findings, and there is no proteinuria or hematuria. 
+
+Following surgery, the patient develops acute renal failure. His post-operative course is complicated by a decrease in urine output, with a urinary output of less than 0.5 mL/kg/h for 6 hours. 
+
+His serum creatinine continues to rise, reaching a peak level of 4.0 mg/dL, and his BUN increases to 60 mg/dL. Renal ultrasound is performed, which shows normal-sized kidneys with no evidence of obstruction or masses. 
+
+Based on his clinical presentation and laboratory findings, the patient is diagnosed with post-operative acute renal failure, also known as acute kidney injury (AKI). 
+
+The potential causes of his AKI include pre-renal factors (such as hypotension and hypovolemia), peri-operative factors (such as administration of nephrotoxic medications or contrast dye), and intrinsic renal factors (such as acute tubular necrosis). 
+
+The patient does not have a history of hypertension, diabetes, or any known kidney disease, which raises the suspicion that the cause of his AKI is most likely peri-operative. 
+
+He is managed with fluid resuscitation and discontinuation of any potentially nephrotoxic medications. His urine output improves with aggressive intravenous fluid therapy. 
+
+His renal function gradually improves over the next few days, with a decrease in serum creatinine and BUN levels. His urine output returns to normal, and no further interventions are required. 
+
+The patient is discharged home after a successful recovery from both the surgery and the acute renal failure episode. 
+
+He is advised to follow up with his primary care physician for ongoing management of his chronic medical conditions, including hypertension, diabetes, and dyslipidemia. 
+
+A nephrology referral is also recommended to evaluate his underlying chronic kidney disease and provide long-term follow-up. 
+
+The patient is educated on the importance of adherence to his medications, a healthy lifestyle, and regular monitoring of his blood pressure, blood glucose, and lipid levels. 
+
+He is also advised to seek medical attention promptly if he experiences any signs or symptoms of worsening kidney function, such as decreased urine output, swelling, or changes in urine color. 
+
+Overall, the patient's surgical history is uneventful, but he experienced an episode of post-operative acute renal failure. With appropriate management and follow-up, his prognosis is expected to be favorable.

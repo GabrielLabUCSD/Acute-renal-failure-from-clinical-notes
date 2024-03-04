@@ -1,0 +1,40 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for a preoperative evaluation for an elective cholecystectomy.
+He has a history of gallstones and symptomatic cholelithiasis.
+The patient has a history of hypertension and hyperlipidemia.
+He denies any cardiovascular disease or respiratory problems.
+He has no history of bleeding disorders or previous abdominal surgeries.
+He takes no medications other than lifestyle modifications for his hypertension and hyperlipidemia.
+He has a history of smoking but quit 5 years ago.
+He consumes moderate alcohol.
+He has a positive family history of gallstones and cholecystectomy.
+The patient underwent an ultrasound that showed a gallstone and a thickened gallbladder wall.
+His blood work shows mildly elevated liver enzymes.
+The patient had a normal electrocardiogram.
+A chest X-ray showed no infiltrates or cardiomegaly.
+He had a negative upper GI series.
+The patient"s surgical site is marked, and he received a thorough discussion on the procedure.
+He was counseled on the risks, benefits, and alternatives of surgery, as well as postoperative care.
+The patient understands postoperative pain control and breathing exercises.
+He committed to adhering to the postoperative instructions.
+The patient will have a standard cholecystectomy through a transverse incision.
+Anesthesia will be administered via endotracheal intubation.
+The patient will be monitored with electrocardiogram, pulse oximeter, and blood pressure cuff.
+He will have an epidural catheter for postoperative pain management.
+The patient tolerated the procedure well and was transferred to the PACU in stable condition.
+His initial vital signs were stable, and he had no nausea or vomiting.
+He reports mild shoulder pain, which responded well to IV fentanyl.
+The patient"s postoperative course was uneventful, and he was discharged home on the first postoperative day.
+On follow-up, the patient reported minimal incision pain and was doing well.
+He was informed about the possibility of bile duct injury, bleeding, and pancreatitis and signs and symptoms of wound infection.
+The patient expressed Satisfaction with his care and treatment.
+There were no complications during surgery and postoperative.
+The patient had no nausea, vomiting, fever, or pain.
+He resumed his normal activities within a week after surgery.
+The patient continued to smoke but reduced the amount smoked.
+His postoperative instruction sheet was reviewed, and he demonstrated an understanding.
+
+
+
+Do you have any complications that require my attention?[1]

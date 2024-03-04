@@ -1,0 +1,19 @@
+Patient Summary: 
+
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. The patient has a medical history significant for [medical conditions], including [specific details]. They have been managing these conditions with [medications or treatments], and overall their condition has been stable. 
+
+In terms of surgical history, the patient has previously undergone [previous surgeries], including [specific details]. These surgeries were performed to address [reason for surgery]. The patient experienced [any complications] during their previous surgeries, but their recovery was successful, and they did not have any prolonged complications. 
+
+Regarding their medications, the patient has been taking [list of medications], including [specific details]. They are not currently on any medications that are contraindicated for surgery, and they have been adherent to their prescribed medication regimen. 
+
+In terms of allergies, the patient has reported [known allergies], and necessary precautions will be taken to avoid exposure to these allergens during the perioperative period. 
+
+The patient's preoperative laboratory results have revealed [specific findings], which will be monitored closely during and after surgery. They have a [specific medical condition] that may require additional care and monitoring during the perioperative period. 
+
+The patient's postoperative course is expected to include [specific interventions and care measures]. They will be closely monitored for pain control, wound healing, and the prevention of infection. Physiotherapy or rehabilitation may be necessary to aid in their recovery, and arrangements have been made accordingly. 
+
+Given the patient's medical history, there is a risk for [potential complications based on their conditions]. Steps will be taken to minimize these risks, including [specific precautions or interventions]. 
+
+During their postoperative course, the patient did experience [complication(s)]. [Complication(s) details]. These complications were managed appropriately, and the patient is currently stable. They are receiving the necessary care and treatment to address these complications, and their prognosis remains positive.
+
+Please note that acute renal failure is not among the listed complications per your request.

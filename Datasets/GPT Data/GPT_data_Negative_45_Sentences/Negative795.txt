@@ -1,0 +1,37 @@
+The patient is a [age] year old [gender] who is scheduled to undergo [type of surgery]. 
+
+In terms of medical history, the patient has a past medical history significant for [list any chronic conditions such as diabetes, hypertension, asthma, etc.]. They have been managing these conditions with [list medications or treatments].
+
+Regarding surgical history, the patient has had [number] previous surgeries, including [list types of surgeries]. These surgeries were performed [dates or approximate time frame]. Complications from these surgeries were [describe any complications, if applicable].
+
+The patient has a history of allergies, with documented allergies to [list allergens]. They experienced [list symptoms] when exposed to these allergens in the past.
+
+In terms of medications, the patient currently takes [list medications] on a daily basis. They are allergic to [list any medications the patient is allergic to]. The patient is not currently taking any herbal or over-the-counter medications.
+
+The patient has a social history of [describe patient's social habits such as smoking, alcohol or drug use]. They report [number] pack-years of smoking history. They consume [number] alcoholic beverages per week on average. They do not use recreational drugs.
+
+The patient has a family history of [list any relevant medical conditions that run in the family]. There is a family history of [list relevant surgeries or complications, if applicable].
+
+In terms of pre-operative evaluation, the patient has undergone necessary tests such as [list laboratory tests, imaging studies, or other necessary tests]. The results of these tests were [describe the results].
+
+The patient has been cleared by [list relevant specialists] for surgery. Pre-operative clearance included [list any additional consultations or evaluations].
+
+The patient's pre-anesthetic evaluation revealed [list any relevant findings from the evaluation]. The patient received [type of anesthesia] during the surgery. The anesthesia was provided by [anesthesiologist's name].
+
+During the surgery, the patient tolerated the procedure well. The surgical team encountered [any relevant findings during surgery, if applicable]. The surgery lasted [duration] and there were no complications during the procedure.
+
+Postoperatively, the patient was monitored in the recovery room for [duration]. They were stable and vital signs remained within normal limits. The patient received appropriate postoperative pain management with [list medications]. The surgical incision was [describe the appearance of the incision].
+
+The patient's first postoperative day was uneventful. They were able to tolerate oral intake of [list diet progression]. They ambulated without difficulty and experienced minimal pain, which was managed with [list pain medications].
+
+On the second postoperative day, the patient continued to show signs of improvement. They were able to perform activities of daily living independently. The surgical incision remained clean and dry with no signs of infection or dehiscence.
+
+The patient was discharged home on the third postoperative day. They were provided with appropriate discharge instructions, including wound care, activity restrictions, and medication instructions. The patient was also given a follow-up appointment with the surgeon in [number] weeks.
+
+Post-discharge, the patient followed up with the surgeon as scheduled. The surgical incision was healing well without any signs of complications. The patient did not report any abnormal pain, fevers, or other concerning symptoms.
+
+In the weeks following surgery, the patient's recovery continued to progress smoothly. They adhered to the recommended postoperative care plan and experienced no unexpected complications.
+
+At the [number] week follow-up appointment, the patient's surgical incision was well-healed with no signs of infection or dehiscence. The patient reported feeling back to their baseline level of function and was satisfied with the outcome of the surgery.
+
+In summary, the patient underwent [type of surgery] without any complications. Their postoperative course was uneventful, and they achieved a successful recovery. The patient 's compliance with postoperative care contributed to their positive outcome.

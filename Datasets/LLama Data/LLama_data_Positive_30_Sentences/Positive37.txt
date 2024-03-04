@@ -1,0 +1,19 @@
+Patient Summary:
+
+* Chief complaint: Abdominal pain and distension
+* History of present illness: The patient presents with a 2-day history of worsening abdominal pain and distension, accompanied by nausea and vomiting.
+* Past medical history: The patient has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus.
+* Medications: The patient is currently taking lisinopril, atorvastatin, and metformin.
+* Family history: The patient's mother died of a myocardial infarction at the age of 65.
+* Social history: The patient is a 55-year-old male who works as an accountant. He has a history of smoking 1 pack of cigarettes per day for the past 20 years.
+* Review of systems: The patient reports no urinary tract symptoms, but does report some recent weight loss.
+* Physical examination: On examination, the patient's blood pressure is 180/100 mmHg, heart rate is 110 beats per minute, respiratory rate is 24 breaths per minute, and temperature is 37.2 degrees Celsius. The patient's abdomen is distended and tender, with guarding and rebound tenderness.
+* Laboratory results: The patient's complete blood count shows a white blood cell count of 18,000/mm3, hemoglobin of 12 g/dL, and hematocrit of 36%. His serum chemistry profile shows elevated liver enzymes and creatinine of 2.5 mg/dL. A urinalysis shows pyuria and hematuria.
+* Diagnostic imaging: A CT scan of the abdomen and pelvis shows a possible appendiceal mass.
+* Procedure: The patient underwent an emergency appendectomy.
+* Post-operative course: The patient developed acute renal failure (ARF) on post-operative day 2, with a serum creatinine level of 4.8 mg/dL.
+* Complications: The patient developed ARF, which was managed with fluid hydration, diuretics, and temporary hemodialysis.
+* Current status: The patient is stable and recovering from surgery.
+* Plan: The patient will continue to be monitored closely for signs of complications, and will follow up with his surgeon and nephrologist for further management of his ARF.
+
+Note: This patient summary is a fictional case and is for demonstration purposes only. Any resemblance to real patients or cases is unintentional.

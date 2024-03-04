@@ -1,0 +1,91 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* Diabetes mellitus type 2 for 15 years
+* Obesity (BMI 35)
+* History of smoking (20 pack-years)
+* History of alcohol use disorder (5 years)
+* Chronic lower back pain (5 years)
+* Previous history of colon cancer (stage II) 5 years ago
+* Previous history of breast cancer (stage I) 10 years ago
+
+Current Medications:
+
+* Lisinopril 40 mg orally once a day
+* Atorvastatin 40 mg orally once a day
+* Metformin 1000 mg orally twice a day
+* Amlodipine 5 mg orally once a day
+* Oxycodone 5 mg orally as needed for pain
+* Aspirin 81 mg orally once a day
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Surgical History:
+
+* Cholecystectomy (laparoscopic) 10 years ago
+* Hysterectomy (vaginal) 15 years ago
+* Bilateral inguinal hernia repair (open) 10 years ago
+* Right knee arthroscopy (arthroscopic) 5 years ago
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Social History:
+
+* Married with two adult children
+* Retired
+* Lives in a two-story house with no elevator
+* Walks 1-2 miles per day
+* Denies recent travel or exposure to illness
+
+Reason for Surgery:
+
+* Elective laparoscopic sleeve gastrectomy for obesity and related comorbidities
+
+Preoperative Workup:
+
+* Complete blood count: WBC 4.5, hemoglobin 12.0, hematocrit 38.5, platelets 150
+* Electrolyte panel: sodium 138, potassium 4.2, chloride 102, bicarbonate 24, BUN 18, creatinine 1.2
+* Lipid profile: total cholesterol 180, triglycerides 150, HDL 35, LDL 100
+* Glucose 120 mg/dL fasting
+* Urinalysis: negative for protein, blood, and leukocyte esterase
+* ECG: normal sinus rhythm, no ST-T changes
+* Chest X-ray: clear lung fields, no cardiomegaly
+* Pulmonary function tests: forced expiratory volume in 1 second (FEV1) 70% predicted, forced vital capacity (FVC) 80% predicted
+
+Postoperative Course:
+
+* Uneventful recovery room course
+* Transferred to surgical floor on postoperative day 1
+* Pain managed with patient-controlled analgesia (PCA) and oxycodone
+* Ambulated and sat in chair on postoperative day 2
+* Progression to solid foods on postoperative day 3
+* Discharged home on postoperative day 4 with follow-up appointment in 1 week
+
+Complications:
+
+* None
+
+Discharge Medications:
+
+* Lisinopril 40 mg orally once a day
+* Atorvastatin 40 mg orally once a day
+* Metformin 1000 mg orally twice a day
+* Amlodipine 5 mg orally once a day
+* Oxycodone 5 mg orally as needed for pain
+* Aspirin 81 mg orally once a day
+
+Follow-up:

@@ -1,0 +1,56 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker for 30 years, quit 5 years ago
+* Obese, BMI 35
+* History of sleep apnea, uses CPAP machine
+* History of shoulder pain, diagnosed with rotator cuff tear 5 years ago
+* Underwent physical therapy and steroid injections for shoulder pain
+* Recent onset of left knee pain, diagnosed with osteoarthritis
+* Underwent left knee arthroscopy 3 months ago
+* History of gastroesophageal reflux disease (GERD), takes proton pump inhibitors
+* No known allergies
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Left knee arthroscopy 3 months ago
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 20 mg daily
+* Atorvastatin 40 mg daily
+* Omeprazole 20 mg daily
+* Metformin 1000 mg daily
+* Insulin glargine 300 units subcutaneously at bedtime
+
+Postoperative Course:
+
+* Patient had a successful uneventful procedure
+* Spent one night in the hospital for observation
+* Experienced mild postoperative pain, managed with IV acetaminophen and hydrocodone
+* Ambulated on the first postoperative day without difficulty
+* Discharged home with a walker and instructed to avoid heavy lifting, bending, or strenuous activity for 6 weeks
+* Follow-up appointment in 2 weeks
+
+Potential Complications:
+
+* Wound infection
+* Deep vein thrombosis (DVT)
+* Pulmonary embolism (PE)
+* Postoperative nausea and vomiting (PONV)
+* Respiratory failure
+* Sepsis
+* Cardiac complications (e.g., myocardial infarction, arrhythmias)
+* Hypersensitivity reaction to anesthesia or medications
+* Persistent pain or numbness in the shoulder or knee
+* Delayed wound healing due to diabetes mellitus
+* Urinary retention or bladder dysfunction due to anesthesia
+
+This patient summary includes relevant medical history, surgical history, current medications, postoperative course, and potential complications. However, it does not include acute renal failure as a complication as requested.

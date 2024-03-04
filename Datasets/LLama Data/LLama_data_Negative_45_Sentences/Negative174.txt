@@ -1,0 +1,76 @@
+I understand. Here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, managed with medication
+* History of hyperlipidemia, managed with medication
+* History of non-insulin-dependent diabetes mellitus, managed with medication and diet
+* History of chronic obstructive pulmonary disease (COPD), managed with medication and pulmonary rehabilitation
+* History of coronary artery disease, status post coronary artery bypass grafting (CABG) 10 years ago
+* History of benign prostatic hyperplasia (BPH), managed with medication
+* History of bilateral knee osteoarthritis, managed with pain medication and physical therapy
+* History of colon cancer, status post resection 5 years ago
+* History of hypothyroidism, managed with medication
+
+Surgical History:
+
+* none
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for non-insulin-dependent diabetes mellitus
+* Albuterol for COPD
+* Aspirin for coronary artery disease
+* Tamsulosin for BPH
+* Acetaminophen for knee osteoarthritis
+* Levothyroxine for hypothyroidism
+
+Allergies:
+
+* None
+
+Lab Results:
+
+* Hemoglobin A1c: 7.2%
+* Blood urea nitrogen (BUN): 18 mg/dL
+* Creatinine: 1.2 mg/dL
+* Alanine transaminase (ALT): 25 IU/L
+* Aspartate transaminase (AST): 30 IU/L
+* Alkaline phosphatase (ALP): 120 IU/L
+* Total bilirubin: 0.7 mg/dL
+* International normalized ratio (INR): 2.5
+
+Physical Exam:
+
+* Blood pressure: 130/80 mmHg
+* Pulse: 70 beats per minute
+* Respiratory rate: 16 breaths per minute
+* Temperature: 98.6°F (37°C)
+* Oxygen saturation: 92% on room air
+* Height: 5'9" (175 cm)
+* Weight: 190 lbs (86 kg)
+* Body mass index (BMI): 31
+
+Planned Surgery:
+
+* Right knee total knee arthroplasty
+
+Postoperative Course:
+
+* Patient tolerated the procedure well
+* No immediate postoperative complications
+* Patient experienced some postoperative pain, managed with pain medication
+* Patient ambulated successfully on the first postoperative day
+* Patient was able to bend and straighten the knee by 30 degrees on the second postoperative day
+* Patient was discharged home on the third postoperative day
+
+Complications:
+
+* None
+
+I hope this sample patient summary helps! Let me know if you have any questions or need further clarification.

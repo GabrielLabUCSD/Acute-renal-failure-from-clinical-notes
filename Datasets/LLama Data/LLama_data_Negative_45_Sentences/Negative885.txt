@@ -1,0 +1,48 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for surgical intervention. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient had a myocardial infarction three years ago and has been compliant with medications and lifestyle modifications since then. He also has a history of chronic low back pain and has been smoking one pack of cigarettes per day for the past 20 years. The patient denies any significant allergies or previous surgeries.
+
+Current Medications:
+
+* Lisinopril 20 mg orally daily
+* Atorvastatin 20 mg orally daily
+* Metformin 1000 mg orally twice a day
+* Aspirin 325 mg orally daily
+* Oxycodone 5 mg orally every 4-6 hours as needed for pain
+
+Lab Results:
+
+* White blood cell count: 12,000/mm3
+* Hemoglobin: 14 g/dL
+* Platelet count: 200,000/mm3
+* Serum creatinine: 1.2 mg/dL
+* BUN: 25 mg/dL
+* Glucose: 180 mg/dL
+* Cholesterol: 180 mg/dL
+* Triglycerides: 150 mg/dL
+* INR: 2.5
+
+Physical Exam:
+
+* Blood pressure: 120/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 12 breaths/min
+* Temperature: 98.6 degrees Fahrenheit
+* Weight: 180 lbs
+* BMI: 31
+
+Plan:
+
+The patient will undergo a lumbar fusion surgery to address his chronic low back pain. He will be monitored closely for his hypertension, hyperlipidemia, and diabetes during the perioperative period. The patient will also be monitored for signs of postoperative complications such as infection, bleeding, and respiratory compromise.
+
+Postoperative Course:
+
+The patient had an uneventful surgery and was transferred to the recovery room in stable condition. He was monitored closely for the first 24 hours and remained stable. The patient experienced some postoperative pain, nausea, and vomiting, which were managed with medication. He was able to ambulate and move his lower extremities without difficulty. The patient was discharged from the hospital on postoperative day 3 and was advised to follow up with his surgeon in one week.
+
+Complications:
+
+The patient did not experience any significant complications during his hospital stay. However, he did develop a mild respiratory infection on postoperative day 5, which was managed with antibiotics. The patient also experienced some delayed wound healing, which was managed with wound care and close follow-up with his surgeon.
+
+Conclusion:
+
+The patient underwent a successful lumbar fusion surgery and had an uneventful postoperative course. He was closely monitored for his medical history and did not experience any significant complications during his hospital stay. The patient was discharged from the hospital on postoperative day 3 and was advised to follow up with his surgeon in one week. He will continue to be monitored closely for his medical history and any signs of postoperative complications.

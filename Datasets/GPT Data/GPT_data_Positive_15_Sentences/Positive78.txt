@@ -1,0 +1,23 @@
+The patient is a 65-year-old male who is planning to have surgery. He has a medical history of hypertension, hyperlipidemia, and obesity. He has been taking medications for these conditions, including amlodipine for hypertension and atorvastatin for hyperlipidemia.
+
+The patient's blood pressure has been well-controlled with the use of amlodipine, with no reported episodes of hypertension. However, he has occasionally missed doses of his medication due to forgetfulness.
+
+His hyperlipidemia has also been well-controlled with the use of atorvastatin, and his last lipid profile showed normal levels of cholesterol and triglycerides.
+
+The patient has a history of obesity, with a body mass index (BMI) of 35. He has tried various diets and exercise regimens in the past, but has struggled to maintain weight loss.
+
+He also has a history of smoking, but quit 10 years ago. He denies any respiratory symptoms such as cough, shortness of breath, or wheezing.
+
+The patient has no known drug allergies.
+
+In addition to his chronic conditions, the patient is currently experiencing symptoms of acute renal failure following surgery. He developed oliguria, with a urine output of less than 400 mL in 24 hours. His creatinine and blood urea nitrogen (BUN) levels have significantly increased, indicating impaired kidney function.
+
+He also has electrolyte imbalances, with low potassium and high phosphate levels. This is likely due to the kidney's inability to regulate electrolyte balance.
+
+The patient's surgical procedure was uneventful, but his renal failure is likely a complication resulting from the surgery itself. The exact cause is currently under investigation.
+
+The patient is currently being managed in the intensive care unit (ICU), with close monitoring of his renal function and electrolyte levels. He is receiving intravenous fluids to maintain hydration and diuretics to promote urine output.
+
+The patient's condition is stable, but he requires ongoing intensive care to monitor and manage his acute renal failure. Further investigations, such as imaging and renal biopsies, may be needed to determine the cause and extent of the renal injury.
+
+In summary, the patient has a medical history of hypertension, hyperlipidemia, obesity, and smoking. He is planning to undergo surgery and has developed acute renal failure as a complication. He is currently being managed in the ICU and requires ongoing monitoring and treatment for his renal failure. Further investigations are underway to determine the cause of his renal injury.

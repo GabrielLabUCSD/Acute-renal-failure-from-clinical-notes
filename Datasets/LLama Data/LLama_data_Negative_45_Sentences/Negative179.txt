@@ -1,0 +1,53 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemic
+* History of smoking
+* History of alcohol use
+* Obese (BMI 35)
+* Suffered a myocardial infarction 10 years ago
+* Had a coronary artery bypass graft 10 years ago
+* Has been taking aspirin and metoprolol regularly since then
+* Had a history of chronic obstructive pulmonary disease (COPD)
+* Has been using an inhaler regularly for the past 5 years
+* Had a history of gastroesophageal reflux disease (GERD)
+* Has been taking omeprazole regularly for the past 5 years
+* Had a history of mild chronic kidney disease (CKD)
+* Creatinine level of 1.5 mg/dL
+* Has been taking lisinopril for the past 3 years for hypertension and proteinuria
+* Had a history of non-melanoma skin cancer
+* Had a history of benign prostatic hyperplasia (BPH)
+* Has been taking tamsulosin for the past 5 years for BPH
+* Had a history of Dupuytren's contracture
+* Had a history of trigger finger
+* Has been taking gabapentin for the past 2 years for neuropathic pain
+* Had a history of hypothyroidism
+* Has been taking levothyroxine for the past 5 years
+
+Surgical History:
+
+* Planning to undergo a laparoscopic cholecystectomy for symptomatic gallstones
+* Previous surgeries include:
+	+ Appendectomy at age 25
+	+ Inguinal hernia repair at age 40
+	+ Cataract surgery at age 60
+
+Postoperative Course:
+
+* Patient had a successful laparoscopic cholecystectomy
+* Experienced some postoperative nausea and vomiting, which resolved with antiemetics
+* Had some mild postoperative pain, which was managed with opioids
+* Was discharged from the hospital on postoperative day 2
+
+Complications:
+
+* Patient developed a wound infection at the surgical site, which was treated with antibiotics
+* Patient experienced some urinary retention, which was managed with a foley catheter
+* Patient developed a pulmonary embolism, which was treated with anticoagulation therapy.
+
+I hope this helps! Let me know if you have any questions or need further assistance.

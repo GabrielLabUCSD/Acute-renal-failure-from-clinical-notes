@@ -1,0 +1,30 @@
+The patient is a __ year old male/female who has a medical history of ___.
+The patient has a past surgical history that includes ____.
+Their current medications include ____.
+Allergies: The patient is allergic to ______.
+The patient's vital signs on admission were stable, with a blood pressure of ___/___ mmHg, heart rate of ___ beats per minute, respiratory rate of ___ breaths per minute, and oxygen saturation of ___% on room air.
+The patient underwent preoperative investigations, which revealed _____.
+The patient was counseled regarding the surgical procedure, expected outcomes, and possible complications.
+The patient was advised to fast for ____ hours prior to the surgery.
+An intravenous (IV) line was inserted, and preoperative antibiotics were administered.
+The patient underwent general anesthesia during the surgery.
+During the surgery, the patient experienced ___.
+The surgery lasted ___ hours.
+The postoperative course was unremarkable, with stable vital signs and no signs of infection.
+Pain management was achieved through regular administration of analgesics, such as _____.
+The patient was started on a clear liquid diet postoperatively, followed by a gradual progression to a regular diet.
+A physical therapy consult was requested to aid in the patient's mobility and recovery.
+The patient was closely monitored for signs of surgical site infection and deep vein thrombosis (DVT).
+The patient's wound healing was satisfactory, with no signs of dehiscence or infection.
+The patient was ambulatory postoperatively and able to perform activities of daily living independently.
+Instructions for follow-up appointments and wound care were provided to the patient.
+The patient was discharged home on postoperative day ___ with instructions to continue prescribed medications and monitor for any signs of complications.
+The patient was advised to avoid strenuous activities and heavy lifting for ___ weeks.
+The surgical pathology report revealed ____.
+The patient's postoperative pain was well-controlled and did not require any additional interventions.
+The patient did not experience any postoperative nausea or vomiting.
+There were no signs of respiratory distress or other pulmonary complications.
+The patient did not require any blood transfusions during the surgery or postoperatively.
+The patient's laboratory values remained stable throughout the postoperative course.
+The patient's postoperative recovery was uneventful, with no major complications reported.
+The patient had an unremarkable postoperative course and was satisfied with the surgical outcome.

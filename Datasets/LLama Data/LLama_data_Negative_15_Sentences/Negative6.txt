@@ -1,0 +1,21 @@
+Patient Summary:
+
+The patient is a 55-year-old male who presents for elective surgery. He has a Medical History significant for Hypertension, hyperlipidemia, non-insulin dependent diabetes, GERD, obstructive sleep apnea, and history of tobacco use. The patient has no known allergies. The patient"s Current Medications include Lisinopril, Simvastatin, Metformin, Omeprazole, and CPAP.
+
+Preoperative Evaluation reveals Normal Complete Blood Count (CBC), Electrolyte Panel (EP), and Coagulation Studies. 
+
+The patient underwent laparoscopic cholecystectomy for symptomatic gallstones. Surgery went uneventfully, and the patient had an uneventful postoperative course.
+
+On Postoperative Day (POD) #1, the patient complained of worsening left lower extremity pain, tingling, and weakness. The patient was evaluated by the surgical team, and diagnosed with a common peroneal nerve palsy. The patient was started on gabapentin and physical therapy.
+
+On POD #2, the patient"s pain and numbness improved, and he was able to ambulate without assistance.
+
+On POD #3, the patient developed a low-grade fever (100.4°F) and complained of increased dyspnea. The patient was evaluated by the surgical team and diagnosed with an uncomplicated respiratory infection. The patient was started on levofloxacin.
+
+On POD #4, the patient"s fever and dyspnea improved, and he was discharged home.
+
+Follow-up appointment with the surgical team 1 week after discharge revealed a fully resolved peroneal nerve palsy and no evidence of ongoing infection.
+
+The patient was advised to continue gabapentin for another week and follow up with primary care physician for further management of Hypertension, hyperlipidemia, non-insulin dependent diabetes, GERD, and obstructive sleep apnea.
+
+Postoperative Complications included common peroneal nerve palsy, and uncomplicated respiratory infection.

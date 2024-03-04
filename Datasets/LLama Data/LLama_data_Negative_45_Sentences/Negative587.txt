@@ -1,0 +1,85 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Smith
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Chief Complaint: The patient presents with chronic lower back pain and difficulty walking for the past year.
+
+Medical History:
+
+* The patient has a history of degenerative disc disease and spinal stenosis.
+* He has tried physical therapy and pain management without significant improvement.
+* He has a history of hypertension and hyperlipidemia.
+* He is allergic to penicillin.
+* He has a history of non-insulin-dependent diabetes mellitus.
+* He has a history of obstructive sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+* He has a history of peripheral neuropathy in his feet.
+* He has a history of stage II colon cancer, status post-chemotherapy and radiation therapy 10 years ago.
+* He has a history of chronic obstructive pulmonary disease (COPD).
+* He has a history of liver cirrhosis.
+* He has a history of thyroid nodules.
+
+Surgical History:
+
+* The patient has had a cholecystectomy and herniorrhaphy in the past.
+* He has had a total of three surgeries on his lower back for decompression and fusion.
+* He has had a total knee replacement.
+
+Medications:
+
+* The patient is currently taking aspirin, metformin, atorvastatin, lisinopril, and oxycodone.
+
+Family History:
+
+* The patient's mother died of breast cancer at the age of 65.
+* His father died of myocardial infarction at the age of 70.
+* He has one sibling who is alive and healthy.
+
+Social History:
+
+* The patient is a retired construction worker.
+* He lives with his wife and has two adult children who live out of state.
+* He denies any tobacco or illicit drug use.
+* He drinks alcohol occasionally.
+
+Review of Systems:
+
+* The patient reports no recent weight loss, fever, or night sweats.
+* He has a history of chronic back pain, bilateral leg pain, and numbness in his feet.
+* He reports difficulty walking long distances and climbing stairs.
+* He has a history of shortness of breath and uses an inhaler as needed.
+* He has a history of frequent urination and nocturia.
+* He has a history of constipation and take MiraLAX as needed.
+* He has a history of dry mouth and uses a humidifier at night.
+
+Physical Exam:
+
+* The patient is a well-nourished, well-developed male.
+* His blood pressure is 140/90 mmHg, heart rate 75 beats per minute, and respiratory rate 16 breaths per minute.
+* His temperature is 98.6 degrees Fahrenheit.
+* He has a positive Romberg sign.
+* He has decreased sensation to light touch in his feet.
+* His muscle strength is 4/5 in his lower extremities.
+* He has a decreased reflex in his knees.
+* He has a scar on his abdomen from his previous surgery.
+
+Lab Results:
+
+* The patient's complete blood count is within normal limits.
+* His serum chemistry panel is within normal limits.
+* His urinalysis shows a few trace amounts of protein and blood.
+* His electrocardiogram shows no acute changes.
+
+Imaging Studies:
+
+* The patient's magnetic resonance imaging (MRI) of his spine shows degenerative disc disease and spinal stenosis.
+* His computed tomography (CT) scan of his abdomen and pelvis shows a possible small bowel obstruction.
+
+Plan:
+
+* The patient will undergo a laparoscopic surgery for a small bowel obstruction.
+* He will also undergo a concurrent decompression and fusion of his lower back.
+* He will be monitor

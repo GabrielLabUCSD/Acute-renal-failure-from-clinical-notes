@@ -1,0 +1,31 @@
+Patient Summary:
+
+The patient is a 65-year-old male with a medical history of hypertension, diabetes, and hyperlipidemia. He has a history of smoking and alcohol use. The patient has been admitted to the hospital for elective surgery.
+
+Pre-operatively, the patient's blood work revealed anemia, elevated liver enzymes, and acute kidney injury (AKI). The patient's creatinine level was 2.3 mg/dL.
+
+Intra-operatively, the patient had stable vital signs and normal blood pressure. The surgery was completed without any complications.
+
+Post-operatively, the patient developed acute renal failure (ARF) and required dialysis. The patient's creatinine level peaked at 4.5 mg/dL.
+
+The patient also developed sepsis and was started on broad-spectrum antibiotics.
+
+The patient's urine output was monitored closely and showed improvement after dialysis.
+
+The patient's blood cultures grew E. coli and were treated with appropriate antibiotics.
+
+The patient's sepsis improved, and he was weaned off vasopressors.
+
+The patient's ARF improved, and he was able to stop dialysis.
+
+The patient was transferred to the ICU for close monitoring.
+
+The patient's recovery was uneventful, and he was discharged home after 2 weeks.
+
+The patient followed up for regular check-ups and had normal renal function.
+
+The patient was advised to follow a healthy diet and exercise regularly.
+
+The patient was also advised to continue his medications for hypertension, diabetes, and hyperlipidemia.
+
+The patient was counseled about the risks of developing chronic kidney disease and the need for ongoing monitoring of his renal function.

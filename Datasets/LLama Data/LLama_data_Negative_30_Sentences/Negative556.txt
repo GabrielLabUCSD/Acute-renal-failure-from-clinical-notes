@@ -1,0 +1,63 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Chronic lower back pain
+* Previous lumbar fusion surgery 10 years ago
+* Previous appendectomy 20 years ago
+* No history of cardiovascular disease or diabetes
+
+Current Symptoms:
+
+* Severe left knee pain and swelling
+* Limited mobility and flexion in left knee
+* Difficulty walking up and down stairs
+* Nighttime pain in left knee
+
+Reason for Surgery:
+
+* Total left knee replacement
+
+Preoperative Tests and Results:
+
+* Electrocardiogram (ECG) – normal
+* Echocardiogram – normal left ventricular function
+* Blood work – normal kidney and liver function, normal blood count
+* Urinalysis – normal
+* Chest X-ray – clear
+
+Surgical Procedure:
+
+* Total left knee replacement with a posterior-stabilized implant
+* Surgical approach – medial parapatellar
+* Surgical time – 2 hours
+* Estimated blood loss – 500 mL
+
+Postoperative Course:
+
+* Patient was taken to the Post Anesthesia Care Unit (PACU) for recovery
+* Pain management – patient-controlled analgesia (PCA) with morphine
+* Patient was able to sit up and take sips of water within the first hour in the PACU
+* Patient was transferred to the orthopedic ward after 2 hours in the PACU
+* Patient ambulated with assistance on the first postoperative day
+* Patient was able to walk independently with a walker by the second postoperative day
+* Patient was discharged home on the third postoperative day
+
+Complications:
+
+* None
+
+Follow-up:
+
+* Patient followed up with the surgeon at 2 weeks postop and reported minimal pain and full range of motion in the left knee
+* Patient was able to walk without assistance and was doing well with physical therapy
+* Patient was advised to continue with regular follow-ups to monitor for any potential complications
+
+I hope this sample patient summary is helpful! Let me know if you have any questions or if you'd like me to create a summary for a different type of surgery.

@@ -1,0 +1,33 @@
+The patient is a 58-year-old male who is planning to have surgery for a hernia repair. He has a past medical history significant for hypertension, diabetes mellitus type 2, and hyperlipidemia. The patient has been on medications to control these conditions including lisinopril for his blood pressure, metformin for his diabetes, and atorvastatin for his cholesterol.
+
+The patient’s blood pressure has been well controlled with his current medication regimen. His last blood pressure reading was 120/80 mmHg. His diabetes has been managed with lifestyle modifications and metformin, with his last HbA1c level at 6.5%, indicating good control. His lipid profile has also improved with the use of atorvastatin, with LDL cholesterol levels decreasing from 150 mg/dL to 80 mg/dL.
+
+In addition to his chronic medical conditions, the patient has a history of smoking. He has smoked a pack a day for the past 30 years but has expressed interest in quitting. He has no known allergies to any medications and denies any history of surgeries in the past.
+
+During the preoperative evaluation, the patient's physical examination was unremarkable. His vital signs were stable and within normal limits. Laboratory tests were also conducted, including a complete blood count (CBC) and basic metabolic panel (BMP).
+
+The CBC revealed normal white blood cell count, hemoglobin, and platelet count. The BMP showed a serum creatinine level of 1.2 mg/dL, which was within the reference range. The patient's electrolyte levels were also within normal limits, including sodium, potassium, and calcium.
+
+The patient was deemed to be an appropriate candidate for surgery given his stable medical conditions and good control of his chronic diseases. The surgeon discussed the risks and benefits of the procedure with the patient, including the potential for complications such as infection, bleeding, and anesthesia-related risks. The patient understood the risks and provided informed consent.
+
+Following the surgery, the patient experienced an uneventful recovery, with no immediate postoperative complications. He was discharged home with appropriate postoperative instructions and medications for pain management as needed. He was advised to follow up with his primary care physician in two weeks.
+
+Unfortunately, two days after discharge, the patient developed acute renal failure characterized by a sudden decrease in urine output and elevated serum creatinine levels. He presented to the emergency department with complaints of fatigue, decreased urine output, and swelling in his legs.
+
+Upon laboratory investigation, the patient's serum creatinine level was found to be significantly elevated at 4.5 mg/dL. His urine output was less than 400 mL in the past 24 hours. A renal ultrasound was performed to evaluate the kidneys for any structural abnormalities or signs of obstruction.
+
+The renal ultrasound revealed normal-sized kidneys with no evidence of hydronephrosis or obstruction. The patient's medical history and recent surgery raised suspicion for acute renal failure secondary to acute tubular necrosis (ATN) due to ischemia and/or nephrotoxicity.
+
+Further evaluation included initiating intravenous fluid hydration, discontinuing any potentially nephrotoxic medications such as nonsteroidal anti-inflammatory drugs (NSAIDs), and monitoring the patient's urine output and renal function closely. The patient was started on renal replacement therapy using continuous veno-venous hemodialysis (CVVHD) to help support his failing kidneys.
+
+During his hospital stay, the patient's renal function gradually improved, with a decrease in serum creatinine levels and an increase in urine output. Repeat renal ultrasounds showed no new abnormalities. The patient was carefully monitored for any signs of infection or other complications related to renal failure.
+
+After a week of CVVHD, the patient's renal function improved enough to discontinue renal replacement therapy. His urine output normalized, and his serum creatinine levels returned to baseline. He was subsequently discharged home with close outpatient follow-up with both his primary care physician and nephrologist.
+
+The patient was advised to continue his current medications for hypertension, diabetes, and hyperlipidemia. He was also counseled on the importance of smoking cessation, and resources for smoking cessation support were provided. The patient voiced his commitment to quitting smoking and expressed willingness to explore different smoking cessation strategies.
+
+The patient's acute renal failure was attributed to a combination of factors including the surgical stress, potential hypoperfusion of the kidneys during the procedure, and possible nephrotoxic effects of medications or contrast agents used during the surgery. The exact cause could not be definitively determined, but the patient was counseled on the importance of avoiding nephrotoxic agents in the future.
+
+The patient's primary care physician and nephrologist will continue to monitor his renal function closely, and repeat renal function tests will be ordered in regular intervals to assess for any signs of chronic kidney disease or residual renal dysfunction. The patient will also be counseled on lifestyle modifications to reduce his risk of further kidney damage.
+
+Overall, the patient's medical history and surgical experience highlight the importance of a comprehensive preoperative evaluation, careful intraoperative management, and close postoperative monitoring to identify and manage potential complications such as acute renal failure.

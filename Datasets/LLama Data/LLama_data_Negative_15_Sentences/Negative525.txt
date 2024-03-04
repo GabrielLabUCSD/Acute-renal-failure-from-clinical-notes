@@ -1,0 +1,28 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker for 30 years, currently smoking 1 pack per day
+* history of chronic lower back pain and degenerative joint disease
+* Previous surgeries include cholecystectomy and hernia repair
+* Allergies to penicillin and sulfa drugs
+* No history of bleeding disorders or previous anesthesia complications
+
+Postoperative Course:
+
+* Underwent elective laparoscopic sigmoid colectomy for colon cancer
+* Surgery lasted 3 hours without any complications
+* Patient had a smooth recovery and was extubated immediately after surgery
+* Patient experienced some postoperative nausea and vomiting, but it was managed with antiemetics
+* Patient was able to drink clear liquids on the first postoperative day and started eating solid foods the following day
+* Patient was discharged on the third postoperative day without any complications
+
+Complications:
+
+* None
+
+This patient summary provides a concise overview of the patient's medical history and postoperative course, highlighting the key information that anesthesiologists and surgeons need to know before and after surgery. It's important to note that this is just a sample and the specific details will vary depending on the individual patient and their medical history.

@@ -1,0 +1,25 @@
+The patient is a [age]-year-old [gender] who is planning to have [type of surgery]. They have a medical history significant for [condition or disease]. They were diagnosed with [condition or disease] [timeframe] ago and have been managing it with [medications/treatments].
+
+Additional medical history includes [any other relevant medical conditions or surgeries].
+
+The patient's current medications include [list medications and dosages], and they are not allergic to any medications or known allergens.
+
+They have undergone previous surgeries, including [list previous surgeries and dates], without any significant complications.
+
+The patient's preoperative labs, including complete blood count, comprehensive metabolic panel, coagulation profile, and cardiac enzymes, were within normal limits. Their EKG showed [normal findings or any abnormalities].
+
+During the surgery, the patient was placed under general anesthesia, and the procedure was performed by [surgeon's name]. The operation took [duration] and was uneventful.
+
+Immediately following the surgery, the patient was transferred to the post-anesthesia care unit (PACU), where their vital signs were stable. They experienced [expected side effects] such as pain, nausea, and respiratory discomfort, which were managed with appropriate medications and interventions.
+
+Postoperatively, the patient was started on [postoperative treatments or medications, e.g., pain management regimen, prophylactic antibiotics]. Their pain was adequately managed with [pain medications], and they were encouraged to mobilize and perform breathing exercises regularly.
+
+The patient's postoperative course was uneventful, with no signs of infection or wound complications noted. Their surgical incision appeared well-healed and without redness, swelling, or drainage. They were able to tolerate a regular diet without any issues.
+
+Furthermore, the patient was regularly monitored for postoperative complications such as deep vein thrombosis (DVT) and respiratory distress. Appropriate prophylactic measures, including compression stockings and early ambulation, were implemented to minimize these risks.
+
+The surgical team closely followed the patient's recovery, and they were provided with appropriate postoperative instructions and follow-up appointments. The patient and their family were educated on signs and symptoms of potential complications to report promptly.
+
+At their scheduled follow-up appointment [timeframe] after the surgery, the patient reported feeling overall improved and satisfied with the surgical outcome. Physical examination revealed no abnormalities, and laboratory tests were within normal limits.
+
+In summary, the patient, with a medical history of [condition or disease], successfully underwent [type of surgery] without any immediate complications. Their postoperative course was uneventful, and they showed appropriate recovery. This patient did not experience acute renal failure or any other significant complications.

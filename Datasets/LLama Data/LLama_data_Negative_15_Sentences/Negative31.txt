@@ -1,0 +1,58 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus type 2
+* History of colon cancer (status post resection 5 years ago)
+* History of coronary artery disease (status post CABG 10 years ago)
+* Chronic obstructive pulmonary disease (COPD)
+* Sleep apnea
+* Osteoarthritis of the knees
+
+Surgical History:
+
+* Cholecystectomy (laparoscopic) 15 years ago
+* Colon resection (open) 5 years ago
+* Coronary artery bypass grafting (CABG) 10 years ago
+
+Current Medications:
+
+* Amlodipine 5mg daily
+* Atorvastatin 40mg daily
+* Metformin 1000mg daily
+* Insulin glargine 100 units daily
+* Lisinopril 20mg daily
+* Aspirin 81mg daily
+* Oxygen therapy as needed
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Retired construction worker
+* Lives alone
+* Has a support system of family and friends
+* Denies alcohol or drug use
+
+Postoperative Course:
+
+* Patient underwent a successful elective laparoscopic cholecystectomy
+* Had a smooth postoperative recovery
+* Was discharged on postoperative day 3
+* Followed up with his primary care physician and surgeon as planned
+
+Complications:
+
+* None
+
+I hope this helps! Please let me know if you need any further assistance.

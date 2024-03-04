@@ -1,0 +1,41 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* Chronic obstructive pulmonary disease (COPD)
+* History of left knee osteoarthritis
+* History of right shoulder rotator cuff tear
+* History of colon cancer (stage II) 10 years ago
+* History of benign prostatic hyperplasia (BPH)
+
+Surgical History:
+
+* appendectomy at age 25
+* cholecystectomy at age 40
+* hip replacement surgery (left) at age 55
+* knee arthroscopy (right) at age 60
+
+Postoperative Course:
+
+* Patient had a smooth postoperative course after knee arthroscopy
+* Patient experienced some postoperative pain and discomfort after hip replacement surgery, but it was managed effectively with pain medication
+* Patient had a complicated postoperative course after cholecystectomy, with a prolonged hospital stay due to a wound infection that required antibiotics and dressing changes
+* Patient had a prolonged postoperative stay after colon cancer surgery due to a pulmonary embolism that required treatment with blood thinners
+
+Complications:
+
+* Wound infection after cholecystectomy
+* Pulmonary embolism after colon cancer surgery
+* None acute renal failure
+
+Note: This patient summary is just an example and not based on any real patient.

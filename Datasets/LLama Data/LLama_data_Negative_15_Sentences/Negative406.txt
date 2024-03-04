@@ -1,0 +1,36 @@
+Patient Summary:
+
+Name: [Insert name here]
+DOB: [Insert date of birth here]
+
+Medical History:
+
+* History of hypertension, managed with medication
+* History of hyperlipidemia, managed with medication
+* History of non-insulin-dependent diabetes mellitus, managed with medication and diet
+* History of chronic lower back pain, managed with physical therapy and medication
+* Previous appendectomy
+* Previous cholecystectomy
+* Previous hernia repair
+
+Surgical History:
+
+* The patient is scheduled to undergo [insert type of surgery here]
+
+Postoperative Course:
+
+* The patient had an uncomplicated postoperative course
+* Patient was discharged from the hospital on [insert date here]
+* Patient followed up with their surgeon on [insert date here] and reported minimal pain and discomfort
+
+Complications:
+
+* None
+
+Additional Notes:
+
+* The patient has a history of bleeding disorders and was closely monitored for signs of bleeding during their postoperative course
+* The patient had a history of allergies to [insert medication here] and alternative medications were used to manage their pain and other medical conditions
+* The patient had a history of anxiety and was prescribed medication to manage their anxiety preoperatively and postoperatively.
+
+The patient's postoperative course was uneventful, and they were discharged from the hospital without any complications. They followed up with their surgeon and reported minimal pain and discomfort. The patient's medical history, including their history of hypertension, hyperlipidemia, non-insulin-dependent diabetes mellitus, and chronic lower back pain, was taken into consideration during their postoperative care to ensure a smooth recovery.

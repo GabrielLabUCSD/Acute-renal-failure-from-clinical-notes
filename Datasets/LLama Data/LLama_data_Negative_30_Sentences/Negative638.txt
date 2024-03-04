@@ -1,0 +1,66 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemic
+* History of smoking
+* History of alcohol abuse
+* Obese (BMI 35)
+* Diabetes mellitus type 2
+* History of non-insulin-dependent diabetes mellitus
+* History of gastroesophageal reflux disease (GERD)
+* History of chronic back pain
+* History of degenerative joint disease
+* History of hypothyroidism
+* History of allergic rhinitis
+* History of asthma
+* History of pulmonary embolism
+* History of deep vein thrombosis
+* History of heart failure
+* History of coronary artery disease
+* History of myocardial infarction
+* History of cerebrovascular accident (CVA)
+* History of transient ischemic attack (TIA)
+
+Surgical History:
+
+* Planning for elective laparoscopic cholecystectomy
+* Previous appendectomy
+* Previous hernia repair
+* Previous cataract surgery
+
+Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 40 mg daily
+* Metformin 1000 mg twice daily
+* Simvastatin 40 mg daily
+* Celecoxib 200 mg twice daily
+* Alprazolam 0.5 mg three times daily
+* Levothyroxine 75 mcg daily
+* Albuterol inhaler as needed
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Postoperative Course:
+
+* Patient had uneventful postoperative recovery
+* Patient experienced some discomfort and pain at the surgical site
+* Pain was managed with medication
+* Patient was able to tolerate fluids and solids without any issues
+* Patient had a minimal delay in gut function
+* Patient was discharged from the hospital on postoperative day 3
+
+Complications:
+
+* Patient developed a partial thickness wound dehiscence on postoperative day 5, which was managed with dressing changes and antibiotics
+* Patient experienced urinary retention on postoperative day 7, which was managed with catheterization and bladder training
+
+Assistant:  I hope this helps! Let me know if you have any questions.

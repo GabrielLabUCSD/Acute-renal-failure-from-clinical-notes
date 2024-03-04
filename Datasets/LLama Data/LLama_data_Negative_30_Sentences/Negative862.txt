@@ -1,0 +1,60 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient: John Doe
+
+* Chief complaint: Severe abdominal pain and distension
+* History of present illness: 3-day history of worsening abdominal pain, nausea, and vomiting
+* Medical history:
+	+ appendicitis 5 years ago
+	+ cholecystectomy 10 years ago
+	+ hypertension
+	+ hyperlipidemia
+	+ non-insulin-dependent diabetes mellitus (NIDDM)
+	+ obstructive sleep apnea (OSA)
+* Medications:
+	+ Amlodipine
+	+ Atorvastatin
+	+ Lisinopril
+	+ Metformin
+	+ Omeprazole
+	+ Aspirin
+* Family history:
+	+ Father died of myocardial infarction (MI) at age 55
+	+ Mother died of breast cancer at age 65
+* Social history:
+	+ Retired
+	+ Lives alone
+	+ No smoking history
+	+ Moderate alcohol consumption
+* Review of systems:
+	+ No significant cardiovascular, respiratory, or neurological symptoms
+	+ Mild osteoarthritis in the knees and hips
+	+ History of constipation
+* Physical examination:
+	+ Temperature 98.6°F (37°C)
+	+ Blood pressure 140/80 mmHg
+	+ Heart rate 80 beats per minute (bpm)
+	+ Respiratory rate 16 breaths per minute (bpm)
+	+ Oxygen saturation 98% on room air
+	+ Abdominal tenderness to palpation in the right upper quadrant (RUQ)
+	+ No rebound tenderness or guarding
+	+ No masses or organs felt in the abdomen
+	+ No costovertebral angle tenderness (CVAT)
+* Diagnostic tests:
+	+ Complete blood count (CBC) within normal limits (WNL)
+	+ Serum chemistry panel WNL except for isolated hyperglycemia (140 mg/dL)
+	+ Urinalysis WNL
+	+ Chest x-ray WNL
+	+ Computed tomography (CT) scan of the abdomen and pelvis with intravenous (IV) contrast showing a dilated appendix with peri-appendiceal inflammation
+* Procedure:
+	+ Appendectomy via laparoscopic approach
+* Postoperative course:
+	+ Uneventful recovery
+	+ Tolerated oral intake well
+	+ No postoperative nausea or vomiting
+	+ Ambulated on postoperative day (POD) 1
+	+ Discharged home on POD 2
+* Complications:
+	+ None
+
+Note: This patient summary is for illustrative purposes only and does not represent actual patient data.

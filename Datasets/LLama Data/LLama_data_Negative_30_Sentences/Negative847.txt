@@ -1,0 +1,37 @@
+Patient Summary:
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [medical condition 1], [medical condition 2], and [medical condition 3]. They have been experiencing [symptom 1], [symptom 2], and [symptom 3] and have tried [treatment 1], [treatment 2], and [treatment 3] without significant relief.
+
+The patient has a history of [surgeries 1], [surgeries 2], and [surgeries 3] and has had [complications 1], [complications 2], and [complications 3] in the past. They have also been taking [medications 1], [medications 2], and [medications 3] regularly.
+
+The patient"s physical examination reveals [physical finding 1], [physical finding 2], and [physical finding 3]. The patient"s laboratory results show [lab result 1], [lab result 2], and [lab result 3].
+
+The patient has been scheduled for [surgery name] and the expected postoperative course includes [postoperative plan 1], [postoperative plan 2], and [postoperative plan 3]. The patient will be closely monitored for [postoperative complication 1], [postoperative complication 2], and [postoperative complication 3].
+
+The patient has been informed of the potential risks and benefits of the surgery and has provided informed consent. They understand the importance of follow-up care and have arranged for [follow-up plan 1], [follow-up plan 2], and [follow-up plan 3].
+
+The patient"s family medical history includes [family medical history 1], [family medical history 2], and [family medical history 3]. There are no known allergies or sensitivities.
+
+The patient"s social history includes [social history 1], [social history 2], and [social history 3]. They are a [smoker/non-smoker] and consume [alcohol/no alcohol] occasionally.
+
+The patient"s review of systems includes [system 1], [system 2], and [system 3]. They have a history of [medical condition 4], [medical condition 5], and [medical condition 6].
+
+In conclusion, the patient has a complex medical history and is scheduled for [surgery name]. They will require close monitoring in the postoperative period to ensure a smooth recovery. The patient has been well-informed and has arranged for appropriate follow-up care.
+
+Postoperative Course:
+
+The patient underwent [surgery name] and the procedure was completed without any complications. They were closely monitored in the postoperative period for [postoperative complication 1], [postoperative complication 2], and [postoperative complication 3].
+
+The patient experienced [postoperative symptom 1], [postoperative symptom 2], and [postoperative symptom 3] and was manage with [treatment 1], [treatment 2], and [treatment 3]. They were also advised to follow [postoperative instruction 1], [postoperative instruction 2], and [postoperative instruction 3].
+
+The patient made a smooth recovery and was discharged from the hospital after [number] days.
+
+Complications:
+
+The patient did not experience any acute renal failure. However, they did experience [complication 1], [complication 2], and [complication 3] which were managed with [treatment 1], [treatment 2], and [treatment 3].
+
+The patient was readmitted to the hospital for [reason for readmission] and required [additional treatment 1], [additional treatment 2], and [additional treatment 3]. They were discharged again after [number] days.
+
+In conclusion, the patient had a complex postoperative course and experienced several complications. However, they were managed successfully and made a full recovery after appropriate treatment and care.
+
+Note: This is a sample template and should be customized according to the individual patient"s medical history and postoperative course. The template should be used as a reference and not as a substitute for clinical judgment.

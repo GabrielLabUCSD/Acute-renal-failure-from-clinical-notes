@@ -1,0 +1,31 @@
+The patient is a 45-year-old female who is scheduled to undergo surgery.
+
+She has a medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia.
+
+Her hypertension is well-controlled with lisinopril 10mg once daily.
+
+Her diabetes is managed with metformin 1000mg twice daily and she has a current HbA1c of 6.5%.
+
+Her hyperlipidemia is treated with atorvastatin 20mg once daily and her lipid levels are within target.
+
+She has a BMI of 28, indicating she is overweight.
+
+The patient's surgical history includes a cholecystectomy 10 years ago and an appendectomy 5 years ago, both of which were uncomplicated.
+
+She has no known drug allergies.
+
+Preoperatively, she was instructed to stop taking metformin 48 hours before the surgery, but to continue all other medications.
+
+During the surgery, the patient experienced hypotension which was managed with fluid resuscitation and administration of vasopressors.
+
+Following the surgery, the patient developed acute renal failure, characterized by an abrupt decline in kidney function.
+
+She was started on IV fluids and her medications were adjusted to avoid further damage to her kidneys.
+
+Urine output was closely monitored and laboratory tests including creatinine and BUN were ordered daily.
+
+The patient was also placed on renal precautions, with strict monitoring of her volume status and avoidance of nephrotoxic medications.
+
+The cause of the acute renal failure is likely multifactorial, with hypotension during surgery and the underlying comorbidities playing a role.
+
+The patient's renal function gradually improved over the next few days and she was discharged from the hospital with close follow-up.

@@ -1,0 +1,39 @@
+Patient Summary:
+
+Name: [Insert patient name here]
+ Age: [Insert patient age here]
+ Gender: [Insert patient gender here]
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity
+* Diabetes mellitus
+* Sleep apnea
+* Chronic kidney disease (stage 3)
+* History of stroke
+* History of myocardial infarction
+
+Planned Surgery:
+
+* Elective laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Uneventful postoperative period
+* Patient was discharged on postoperative day 3
+
+Complications:
+
+* None
+
+Additional Notes:
+
+* Patient was advised to continue all preoperative medications, including aspirin and metformin, up until the day of surgery.
+* Patient was instructed to follow a clear liquid diet for 24 hours prior to surgery.
+* Patient was advised to avoid heavy lifting or bending for 6 weeks postoperatively.
+* Follow-up appointment was scheduled for 2 weeks postoperatively.
+
+I hope this summary helps you in planning the patient's surgery and postoperative care. Please let me know if there's anything else I can assist you with.

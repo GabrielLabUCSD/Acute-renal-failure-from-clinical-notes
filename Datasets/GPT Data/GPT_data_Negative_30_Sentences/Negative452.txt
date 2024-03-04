@@ -1,0 +1,33 @@
+The patient, a [age]-year-old [gender], is planning to have surgery. They have a past medical history of [medical conditions], including [specific conditions]. They have been managing their conditions with [treatments or medications].
+
+Their surgical history includes [previous surgeries], which were performed [dates]. They experienced [positive/negative] outcomes and recovered [timeframe].
+
+The patient has a family medical history of [specific conditions], including [conditions in relatives].
+
+In terms of medications, the patient is currently taking [list of medications]. They have allergies to [allergies], which include [specific allergens]. Preoperative medications include [preoperative drug regimen].
+
+The patient's vital signs are stable, with a blood pressure of [BP], heart rate of [HR], respiratory rate of [RR], and temperature of [Temp].
+
+Lab results indicate that their blood tests are within the normal range, with hemoglobin [Hb], hematocrit [Hct], and platelet count [Plt] being [range]. Kidney function tests, such as BUN and creatinine, are normal with values of [BUN] and [Creat]. Electrolyte levels are within normal limits.
+
+Radiological studies show [specific findings], which are [normal/abnormal] for this patient. The patient's imaging results are consistent with their medical history.
+
+The patient is mentally alert and oriented, with no cognitive impairments. Their surgical risk is low/medium/high based on their overall health status.
+
+Preoperative consultations with [specialists] have cleared the patient for surgery. They have received preoperative counseling and education regarding the surgical procedure and its potential risks and benefits. The patient has consented to the surgery.
+
+The patient will undergo [type of surgery] under general anesthesia. The surgical team will consist of [surgeon and support staff]. The procedure is expected to be [duration].
+
+During the postoperative period, the patient will be closely monitored in the recovery room. Vital signs, including blood pressure, heart rate, respiratory rate, and oxygen saturation, will be closely monitored. Pain management will be provided through [specific pain management regimen].
+
+The patient's immediate postoperative course was uneventful. They tolerated the surgery well and recovered as expected. Pain was manageable with analgesics, and vital signs remained stable.
+
+The patient mobilized appropriately and was able to tolerate oral intake. They were started on a postoperative diet as tolerated.
+
+Upon discharge, the patient was given appropriate discharge instructions and prescriptions for necessary medications. Follow-up appointments were scheduled with the surgeon and primary care physician.
+
+Postoperative complications were not observed in this patient. They did not experience any respiratory distress, wound infections, or other surgical site-related issues. No signs of acute renal failure were present.
+
+The patient is recovering satisfactorily, with surgical wounds healing well. They will continue with their pre-existing medical management plan.
+
+In conclusion, the patient, with a history of [medical conditions], is planning to have surgery. They have undergone [previous surgeries] in the past with [positive/negative] outcomes. Their vital signs, lab results, and imaging studies are within normal limits, and they are mentally alert and oriented. The patient's postoperative course has been uneventful, without complications.

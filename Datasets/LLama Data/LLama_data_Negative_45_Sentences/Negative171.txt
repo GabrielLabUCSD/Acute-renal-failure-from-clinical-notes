@@ -1,0 +1,19 @@
+45 sentences summarizing a patient's medical history and postoperative course for a patient undergoing surgery.
+
+Patient history:
+The patient is a 55-year-old male who presents with a 2-year history of worsening abdominal pain and distension. He has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. He is a former smoker and drinks alcohol occasionally. He has a family history of colon cancer.
+
+Preoperative workup:
+The patient underwent a colonoscopy, which showed a large tubulovillous adenoma in the descending colon. CT scans demonstrated invasion of the tumor through the bowel wall and metastasis to the liver and lungs.
+
+Operative details:
+The patient underwent a laparoscopic low anterior resection of the rectum and anastomosis. The surgery was performed uneventfully, and the patient was transferred to the postoperative care unit in stable condition.
+
+Postoperative course:
+The patient had an uncomplicated postoperative course. He experienced some discomfort, nausea, and vomiting in the first 24 hours, which were managed with analgesics and antiemetics. He was able to tolerate a liquids diet on the second day and progressed to a soft diet by the fourth day. He had no evidence of anastomotic leak or other complications.
+
+Discharge and follow-up:
+The patient was discharged on postoperative day 5 and returned to the clinic for follow-up 2 weeks later. He was recovering well and had no evidence of recurrent disease. He was advised to continue with chemotherapy to treat the metastatic disease.
+
+Complications:
+None.

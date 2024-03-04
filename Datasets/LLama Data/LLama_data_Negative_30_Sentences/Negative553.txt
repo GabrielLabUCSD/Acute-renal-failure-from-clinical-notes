@@ -1,0 +1,28 @@
+Sure, here's a patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+* Chief Complaint: Abdominal pain and difficulty swallowing
+* History of Present Illness: 55-year-old male presents with abdominal pain and difficulty swallowing for the past 6 months.
+* Past Medical History: Hypertension, hyperlipidemia, non-insulin-dependent diabetes mellitus, and gastroesophageal reflux disease.
+* Medications: Lisinopril, simvastatin, metformin, and omeprazole.
+* Family History: Father died of myocardial infarction at age 55.
+* Social History: Married with two adult children, works as an accountant, and denies smoking or alcohol use.
+* Review of Systems: Abdominal pain, difficulty swallowing, nausea, vomiting, and weight loss of 10 pounds over the past 6 months.
+* Physical Exam: Blood pressure 140/80 mmHg, heart rate 75 bpm, respiratory rate 16/min, temperature 98.6°F, and BMI 28.
+* Laboratory Results: WBC 12,000/mm3, neutrophils 70%, hemoglobin A1c 7.5%, fasting blood glucose 120 mg/dL, cholesterol 220 mg/dL, and triglycerides 150 mg/dL.
+* Diagnostic Tests: Upper GI series, CT scan of the abdomen and pelvis, and endoscopy.
+* Diagnosis: Gastric adenocarcinoma.
+* Treatment Plan: Resection of the gastric tumor and lymph node dissection.
+* Postoperative Course:
+	+ Postoperative day 1: Patient tolerated the procedure well, afebrile, and hemodynamically stable.
+	+ Postoperative day 2: Patient complained of mild pain, nausea, and vomiting.
+	+ Postoperative day 3: Patient's pain and nausea improved with medication.
+	+ Postoperative day 4: Patient developed a fever of 100.4°F and tachycardia, blood cultures drawn.
+	+ Postoperative day 5: Blood cultures showed growth of gram-positive cocci, suspected to be related to a surgical site infection.
+	+ Postoperative day 6: Patient's fever and tachycardia resolved, started on antibiotics for surgical site infection.
+	+ Postoperative day 7: Patient tolerated antibiotics well and showed improvement in symptoms.
+	+ Postoperative day 8: Patient discharged home with a follow-up appointment in 1 week.
+* Complications: Surgical site infection.
+
+I hope this patient summary is helpful and concise. Please let me know if you have any further questions or if there's anything else I can assist you with.

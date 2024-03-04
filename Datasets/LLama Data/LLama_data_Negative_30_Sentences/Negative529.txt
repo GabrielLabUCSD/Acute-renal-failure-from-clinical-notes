@@ -1,0 +1,49 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension, controlled with medication
+* Hyperlipidemia, controlled with medication
+* History of smoking, quit 10 years ago
+* History of heavy alcohol use, quit 5 years ago
+* Diabetes mellitus, controlled with insulin and oral medication
+* Obstructive sleep apnea, uses CPAP machine
+* History of non-cardiac surgery (inguinal hernia repair) 10 years ago
+* Allergies: penicillin, sulfa drugs
+
+Current Medications:
+
+* Lisinopril (hypertension)
+* Atorvastatin (hyperlipidemia)
+* Metformin (diabetes)
+* Insulin (diabetes)
+* CPAP machine (obstructive sleep apnea)
+* Aspirin (antiplatelet therapy)
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Postoperative Course:
+
+* Patient had a successful laparoscopic cholecystectomy
+* Had some postoperative nausea and vomiting, managed with antiemetics
+* Had some pain and discomfort, managed with pain medication
+* Was able to tolerate a normal diet by postoperative day 2
+* Was discharged home on postoperative day 3 without any complications
+
+Complications:
+
+* None
+
+Follow-up:
+
+* Patient had a follow-up appointment with his surgeon 2 weeks after discharge
+* Reported some mild abdominal discomfort, but overall feeling well
+* Surgeon recommended continued monitoring of symptoms and follow-up in 6 weeks
+
+This patient summary provides a comprehensive overview of the patient's medical history, postoperative course, and complications, while excluding acute renal failure as requested.

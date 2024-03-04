@@ -1,0 +1,29 @@
+The patient is a 65-year-old female who is planning to have surgery. She has a medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia. The patient has been taking medications for these conditions, including lisinopril for hypertension, metformin for diabetes mellitus, and statins for hyperlipidemia. 
+
+The patient has a history of regular follow-up visits with her primary care physician, with her last visit being three months ago. At that time, her blood pressure was well controlled and her blood sugar levels were within target range. The patient's lipid levels were also within normal limits.
+
+The patient reports no known allergies to medications or food. She has a history of smoking, but quit five years ago. She denies alcohol or illicit drug use. The patient lives alone and states that she is independent with her activities of daily living.
+
+She underwent preoperative assessment and was found to be in good general health. Her physical examination revealed no abnormalities, and her vital signs were stable. Laboratory investigations showed normal renal function with a serum creatinine level of 0.8 mg/dL and a glomerular filtration rate of 90 mL/min/1.73m².
+
+The patient had a discussion with her surgeon about the risks and benefits of surgery. The surgeon explained the potential complications of surgery, including infection, bleeding, and blood clots. The patient was also informed about the risk of acute renal failure as a rare postoperative complication.
+
+The patient consented to the surgery and the procedure was scheduled. The patient was instructed to stop taking her antihypertensive and antidiabetic medications one day before surgery. She was advised to bring all her medications to the hospital on the day of surgery for reconciliation.
+
+On the day of surgery, the patient was admitted to the hospital and taken to the operating room. The surgery was performed without any intraoperative complications. The patient was closely monitored during the procedure, and her vital signs remained stable.
+
+Postoperatively, the patient was transferred to the recovery room. She was initially monitored closely for any signs of complications such as bleeding or infection. Her vital signs were stable, and she was able to tolerate oral intake. The patient was started on pain medications as needed.
+
+However, on the second day after surgery, the patient developed acute renal failure. She presented with decreased urine output and an increase in serum creatinine levels to 2.5 mg/dL. The patient's glomerular filtration rate decreased to 30 mL/min/1.73m².
+
+The patient was immediately treated for acute renal failure. Her fluid status was carefully managed, and diuretics were administered to improve urine output. The patient's antihypertensive medications were restarted to maintain blood pressure control.
+
+Further evaluation was done to identify the cause of acute renal failure. The patient's medical history, including medications and surgical procedure, was reviewed. Laboratory investigations were performed to rule out other possible causes such as urinary tract infection or obstruction.
+
+Ultimately, the acute renal failure was attributed to a combination of factors, including perioperative hypotension and the use of nephrotoxic medications during the surgery. The patient remained in the hospital for close monitoring and optimization of her renal function.
+
+With appropriate management, the patient's renal function gradually improved. Her urine output increased, and her serum creatinine levels normalized over the course of one week. The patient was discharged from the hospital with close follow-up scheduled with her primary care physician to monitor her renal function.
+
+The patient was counseled on the importance of continued adherence to her antihypertensive and antidiabetic medications. She was also educated on lifestyle modifications, including a healthy diet and regular exercise, to help manage her chronic conditions and reduce the risk of further complications.
+
+In conclusion, this patient presents with a medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia. She is currently in good general health, with well-controlled blood pressure, blood sugar, and lipid levels. The patient underwent surgery without complications but developed acute renal failure postoperatively, likely due to a combination of perioperative hypotension and nephrotoxic medication use. She was successfully treated and her renal function recovered. Close follow-up and management of her chronic conditions are essential to prevent further complications.

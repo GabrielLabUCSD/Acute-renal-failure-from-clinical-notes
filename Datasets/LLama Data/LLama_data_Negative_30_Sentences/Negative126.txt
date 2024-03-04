@@ -1,0 +1,70 @@
+Patient Summary:
+
+Name: [Insert name here]
+Age: [Insert age here]
+Gender: [Insert gender here]
+
+Medical History:
+
+* Patient has a history of hypertension and hyperlipidemia.
+* Patient has been smoking for the past 10 years.
+* Patient has a history of non-insulin-dependent diabetes mellitus.
+* Patient has been experiencing increasing shortness of breath over the past year.
+* Patient has a history of asthma.
+* Patient has been taking aspirin daily for the past 5 years.
+* Patient has a history of chronic lower back pain.
+* Patient has been diagnosed with obstructive sleep apnea.
+* Patient has been experiencing frequent migraines.
+
+Surgical History:
+
+* Patient underwent laparoscopic cholecystectomy 5 years ago.
+* Patient underwent hysterectomy 10 years ago.
+* Patient underwent lumbar spine fusion 7 years ago.
+* Patient underwent cataract surgery 3 years ago.
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Metformin 500 mg twice daily
+* Lisinopril 20 mg daily
+* Omeprazole 20 mg daily
+* Albuterol inhaler as needed
+* Ibuprofen 800 mg as needed
+
+Allergies:
+
+* Patient is allergic to penicillin.
+
+Social History:
+
+* Patient is a retired teacher.
+* Patient lives alone.
+* Patient has a supportive family.
+* Patient has a history of alcohol abuse.
+
+Family History:
+
+* Patient's mother died of breast cancer at the age of 65.
+* Patient's father died of myocardial infarction at the age of 75.
+
+Reason for Surgery:
+
+* Patient is scheduled for a total knee arthroplasty.
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course.
+* Patient was able to ambulate and perform deep breathing exercises as instructed.
+* Patient did not experience any complications.
+
+Discharge Instructions:
+
+* Patient was advised to continue taking their medications as prescribed.
+* Patient was instructed to follow a regular exercise program to improve mobility and strength.
+* Patient was advised to avoid heavy lifting, bending, or twisting for the next 6 weeks.
+* Patient was instructed to follow a postoperative rehabilitation program.
+
+Complications:
+
+* None

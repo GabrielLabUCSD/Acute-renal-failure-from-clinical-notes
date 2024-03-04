@@ -1,0 +1,85 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Height: 5'9"
+
+Weight: 175 lbs
+
+BMI: 27
+
+Current Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 20 mg daily
+* Omeprazole 20 mg daily
+* Metformin 1000 mg daily
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* GERD
+* Type 2 diabetes mellitus
+* History of smoking
+* History of alcohol use disorder
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+
+Social History:
+
+* Married with two children
+* Works as an accountant
+* Denies recent travel or exposure to illness
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Preoperative Examination:
+
+* Unremarkable physical examination
+* Normal electrolyte levels
+* Normal liver function tests
+* Normal cardiac enzymes
+* No evidence of acute renal failure
+
+Intraoperative Course:
+
+* procedure done under general anesthesia
+* No intraoperative complications
+* Estimated blood loss 200 mL
+
+Postoperative Course:
+
+* Patient awakened from anesthesia without complications
+* Mild postoperative nausea and vomiting managed with antiemetics
+* Pain managed with patient-controlled analgesia
+* No evidence of respiratory or cardiac complications
+* No evidence of bleeding or hematoma
+* Patient discharged on postoperative day 2
+
+Complications:
+
+* None
+
+Follow-up:
+
+* Patient followed up with surgeon 2 weeks postoperatively
+* wound check uneventful
+* No evidence of infection or hematoma
+* Patient recovering well and back to work.
+
+I hope this sample patient summary helps! Note that this is just an example and the specific details of a patient's medical history, surgery, and postoperative course will vary depending on the individual patient.

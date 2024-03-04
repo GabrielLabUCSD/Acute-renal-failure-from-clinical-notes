@@ -1,0 +1,53 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [medical conditions]. They are now planning to have [type of surgery] as indicated for [reason]. 
+
+In terms of allergies, the patient has no known drug allergies. 
+
+Regarding their past surgical history, the patient has undergone [previous surgeries], including [specific surgeries and dates].
+
+The patient's current medications include [list of medications and dosages]. They have been taking these medications regularly without any issues.
+
+In terms of their past medical history, the patient has a history of [chronic medical conditions] which are well managed with [treatments or medications]. The patient has a history of [specific medical conditions], such as [examples].
+
+The patient's vital signs are within normal limits, with their blood pressure averaging [BP range], heart rate [HR range], respiratory rate [RR range], and temperature [temperature range].
+
+Laboratory investigations show [relevant lab results], which are within the normal range except for [specific abnormal lab values] which might be related to [reason]. These abnormal values have been previously evaluated and are being managed appropriately.
+
+The patient has undergone preoperative consultations with various specialists such as [specialties], including [specific consultation details].
+
+In terms of their preoperative cardiac evaluation, the patient underwent [specific tests] which showed [specific findings]. These findings were discussed with the patient, and their cardiac status was deemed appropriate for surgery.
+
+The patient's preoperative lung function tests showed [specific findings]. Based on these results, the patient's pulmonary status is adequate for surgery.
+
+The patient's preoperative renal function tests showed [specific findings]. Their renal function is within normal limits.
+
+The patient has also undergone preoperative imaging studies, including [specific imaging studies], which showed [specific findings]. These findings were reviewed by the appropriate specialists and are not expected to impact the surgery.
+
+The patient's preoperative nutritional assessment revealed [specific findings]. Based on these results, the patient was provided with appropriate interventions to optimize their nutritional status before surgery.
+
+The patient's preoperative anesthetic evaluation revealed [specific findings]. Based on these results, the patient's anesthesia plan was formulated and discussed with the patient.
+
+The patient is currently in good overall health and has been counseled regarding the surgical procedure, including its benefits and potential risks.
+
+The patient has been informed about the risk of postoperative complications, including but not limited to infection, bleeding, and the need for prolonged hospitalization.
+
+The patient has provided informed consent for the surgery, and their questions have been addressed by the surgical team.
+
+Postoperatively, the patient was closely monitored in the recovery room where they showed stable vital signs.
+
+The patient's immediate postoperative period was uneventful, and they were transferred to the surgical ward for further monitoring and care.
+
+During their hospital stay, the patient received appropriate pain management, including analgesics administered via [specific routes].
+
+The patient's diet was gradually advanced as tolerated, starting with clear fluids and progressing to a regular diet.
+
+The patient received preventive measures against deep vein thrombosis, such as pharmacological prophylaxis and early ambulation.
+
+The patient's wound healing was monitored closely, and appropriate wound care measures were instituted.
+
+The patient's postoperative mobilization was encouraged, and they received physical therapy as needed.
+
+Throughout their hospital stay, the patient remained stable without any significant complications.
+
+The patient's postoperative course was unremarkable, and they were discharged home on [specific date] with appropriate postoperative instructions.
+
+The patient has been scheduled for routine follow-up appointments with the surgical team to monitor their healing and overall recovery.

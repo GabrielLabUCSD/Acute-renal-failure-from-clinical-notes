@@ -1,0 +1,74 @@
+Patient Summary:
+
+**Patient Name:** John Doe
+
+**Date of Birth:** 02/05/1970
+
+**Gender:** Male
+
+**Chief Complaint:** Chronic lower back pain
+
+**Medical History:**
+
+* History of smoking (20 years)
+* Hypertension
+* Hyperlipidemia
+* Obesity (BMI 35)
+* Sleep apnea
+* History of substance abuse (alcohol)
+* Depression
+
+**Previous Surgeries:**
+
+* Cholecystectomy (2005)
+* Hernia repair (2010)
+
+**Current Medications:**
+
+* Lisinopril
+* Atorvastatin
+* Oxycodone
+* Alprazolam
+* Zolpidem
+
+**Family History:**
+
+* Father died of myocardial infarction at age 55
+* Mother died of breast cancer at age 65
+* One sibling with a history of substance abuse
+
+**Social History:**
+
+* Married with two adult children
+* Works as a construction worker
+* Denies recent travel or exposure to illness
+
+**Reason for Surgery:**
+
+* Chronic lower back pain unresponsive to conservative management
+
+**Planned Surgery:**
+
+* Lumbar fusion
+
+**Postoperative Course:**
+
+* Uneventful postoperative period
+* Patient was extubated on postoperative day 1
+* Moved to rehabilitation unit on postoperative day 3
+* Began mobilizing with physical therapy on postoperative day 4
+* Discharged home on postoperative day 7
+
+**Complications:**
+
+* Wound infection (treated with antibiotics)
+* Respiratory failure (requiring reintubation)
+* Pulmonary embolism (treated with thrombolytics)
+
+**Follow-up:**
+
+* Follow-up appointment with surgeon on postoperative day 14
+* Home health care arranged for wound care and pain management
+* Patient advised to avoid heavy lifting and bending for 6 weeks
+
+Please note that this is a sample patient summary, and the specific details may vary depending on the individual patient's medical history and surgical plan.

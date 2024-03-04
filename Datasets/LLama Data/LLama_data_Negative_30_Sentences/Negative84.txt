@@ -1,0 +1,36 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history and postoperative course:
+
+Patient Name: Jane Doe
+
+1. Jane is a 65-year-old female who presented to the clinic with a history of abdominal pain and hematuria.
+2. She was diagnosed with a renal mass and underwent a partial nephrectomy.
+3. The pathology report revealed a stage II renal cell carcinoma.
+4. Jane had a complicated postoperative course, developing a pulmonary embolism on day 3.
+5. She was treated with heparin and discharged on day 7.
+6. Jane had a follow-up appointment with her urologist, who noted that her wound was healing well.
+7. However, she complained of persistent urinary frequency and urgency.
+8. She was referred to a urogynecologist, who diagnosed her with stress urinary incontinence.
+9. Jane underwent a mid-urethral sling procedure and had a successful outcome.
+10. Four months later, Jane presented to the emergency department with severe left flank pain.
+11. She was diagnosed with a suspected kidney stone and was admitted for observation.
+12. The next day, Jane underwent a CT scan, which revealed a 5-mm stone in her left ureter.
+13. She was managed conservatively with pain medication and fluids.
+14. The stone passed spontaneously, and Jane was discharged on day 3.
+15. She had a follow-up appointment with her urologist, who recommended a 24-hour urine protein collection.
+16. The results showed proteinuria of 1.5 g/day, indicating chronic kidney disease (CKD) stage 2.
+17. Jane was referred to a nephrologist for further management.
+18. She was prescribed losartan and advised to follow a low-protein diet.
+19. One year later, Jane's proteinuria had increased to 2.5 g/day, and her creatinine level had risen to 1.5 mg/dL.
+20. She was diagnosed with CKD stage 3a and was continued on losartan.
+21. Jane was also prescribed erythropoietin to manage her anemia.
+22. She was advised to follow up with her nephrologist every 6 months.
+23. Six months later, Jane's proteinuria had decreased to 1.8 g/day, and her creatinine level had stabilized.
+24. She was continued on losartan and erythropoietin.
+25. Jane had a routine follow-up appointment with her urologist, who recommended a repeat CT scan.
+26. The scan showed a 1-cm lesion in her left kidney, concerning for localized RCC.
+27. She was referred to a urologist for further management.
+28. A biopsy was performed, which revealed a clear cell RCC.
+29. Jane underwent a left radical nephrectomy and had a successful outcome.
+30. She had a follow-up appointment with her urologist 6 weeks later, who noted that her wound was healing well and her creatinine level had stabilized.
+
+This patient summary includes 30 sentences describing the patient's medical history and postoperative course, without mentioning acute renal failure as a complication.

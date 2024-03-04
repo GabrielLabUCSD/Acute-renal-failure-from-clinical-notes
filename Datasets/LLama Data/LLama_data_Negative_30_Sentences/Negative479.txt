@@ -1,0 +1,19 @@
+Patient Summary: 
+
+The patient is a 45-year-old male who presents for elective surgery.  His medical history includes hypertension, hyperlipidemia, non-insulin-dependent diabetes mellitus (NIDDM), and a history of tobacco use.  He has a history of stable angina and has undergone stress tests in the past with no evidence of ischemia.  He has also had a colonoscopy within the past year with no evidence of colon cancer.
+
+His surgical history includes an appendectomy at the age of 25, a cholecystectomy at the age of 35, and a hernia repair at the age of 40.  He has no history of previous surgeries in the past five years.
+
+The patient's medications include lisinopril, simvastatin, metformin, and omeprazole.  He takes no medications for pain management.
+
+His allergies include a mild allergy to penicillin, and he has no known allergies to anesthesia.  He denies any previous adverse reactions to anesthesia.
+
+The patient's social history reveals a 20-pack-year smoking history, but he quit smoking five years ago.  He drinks alcohol occasionally and denies any illicit drug use.
+
+His family history includes a maternal grandfather who died of myocardial infarction at the age of 55, and a paternal uncle who died of lung cancer at the age of 60.  There is no history of sudden death, cardiac disease, or neurological disease in his family.
+
+The patient's surgical procedure is an elective laparoscopic cholecystectomy for symptomatic gallstones.  His postoperative course was uncomplicated, and he was discharged home on postoperative day two.  He did not experience any nausea or vomiting and did not require any postoperative pain medication.
+
+The patient's follow-up appointment was uneventful, and he reported a quick and straightforward recovery.  There were no complications during his postoperative period.
+
+Assistant's Note: The patient's history of hypertension, hyperlipidemia, and NIDDM increases his risk for postoperative complications such as myocardial infarction and respiratory failure.  However, his history of previous uncomplicated surgeries and recent stress test results suggest a low risk for perioperative cardiac complications.  It is essential to closely monitor the patient's vital signs and pain management during his postoperative course.  The patient should also be advised to continue his medications as prescribed and follow a healthy lifestyle to reduce his risk for future complications.

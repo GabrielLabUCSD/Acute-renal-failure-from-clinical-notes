@@ -1,0 +1,25 @@
+Sure, here is a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery and also includes a description of the patient having acute renal failure complication after surgery:
+
+Patient: John Doe
+Age: 65
+Gender: Male
+Chief Complaint: The patient presents with a 2-day history of severe abdominal pain, nausea, and vomiting.
+Medical History: The patient has a history of hypertension, hyperlipidemia, and diabetes mellitus.
+Medications: The patient takes lisinopril, atorvastatin, and metformin.
+Allergies: The patient is allergic to penicillin and sulfa drugs.
+Surgical History: The patient has a history of cholecystectomy and hernia repair.
+Family History: The patient's father died of a myocardial infarction at the age of 55.
+Social History: The patient is a retired smoker and drinks alcohol occasionally.
+Review of Systems: The patient reports a history of shortness of breath, fatigue, and swelling in his legs.
+Physical Examination: The patient's blood pressure is 180/100 mmHg, pulse is 100/min, and temperature is 99.2°F. The patient has tenderness to palpation in the abdomen and guarding.
+Lab Results: The patient's complete blood count shows a white blood cell count of 18,000/mm3, hemoglobin 12.0 g/dL, and platelet count 150,000/mm3. The patient's electrolytes are normal.
+Imaging Studies: The patient has a CT scan that shows a large abscess in the abdomen.
+Diagnosis: The patient is diagnosed with acute appendicitis and acute renal failure.
+Treatment Plan: The patient will undergo an appendectomy and will be monitored closely for signs of renal recovery.
+Surgical Course: The patient underwent a successful appendectomy.
+Postoperative Course: The patient developed acute renal failure on the first postoperative day and requires continuous renal replacement therapy.
+Complications: The patient experienced a prolonged hospital stay and required mechanical ventilation.
+Recovery: The patient had a slow and uneventful recovery and was discharged home after 2 weeks.
+Follow-up: The patient will follow up with his primary care physician and nephrologist to monitor his renal function.
+
+Please note that this is just a sample patient summary and the specifics may vary depending on the individual patient and their medical history.

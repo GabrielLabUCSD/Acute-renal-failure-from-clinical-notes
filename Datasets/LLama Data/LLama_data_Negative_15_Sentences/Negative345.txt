@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a medical history of hypertension, hyperlipidemia, and obesity. He has a history of smoking but quit 5 years ago. He denies any significant surgical history. His family history is positive for coronary artery disease and cancer. The patient has been experiencing worsening left knee pain for the past year, which has limited his mobility and activities of daily living. He has tried conservative management, including physical therapy and medication, without significant improvement.
+
+The patient has been scheduled for a total knee arthroplasty. Preoperative workup revealed a normal electrocardiogram and echocardiogram. Laboratory results showed mild anemia and elevated blood urea nitrogen and creatinine levels. The patient received a thorough briefing on the procedure and postoperative care, including blood thinners and deep vein thrombosis prophylaxis.
+
+The patient underwent uneventful general anesthesia and surgery, lasting approximately 2 hours. Intraoperative fluids consisted of 1 liter of crystalloids and 2 units of red blood cells. Estimated blood loss was 500 mL. The patient had no postoperative complications during his 3-day hospital stay. He was discharged home with a pain pump and instructed to follow up with his surgeon in 2 weeks.
+
+At his 2-week follow-up appointment, the patient reported significant improvement in pain and range of motion. He complained of mild numbness over the lateral aspect of his knee, which was expected due to the surgical approach. He was advised to continue with physical therapy and pain management as needed.
+
+Two weeks later, the patient called the surgeon's office, reporting increased pain and swelling over his knee. He was evaluated in the clinic, and diagnosed with a superficial wound infection. He was treated with antibiotics and wound cultures. Wound healing was uneventful, and the patient completed a full course of antibiotics.
+
+The patient had an uneventful postoperative course, until 6 weeks after surgery when he developed a deep vein thrombosis in his left leg. He was hospitalized for 3 days for anticoagulation therapy and had no further complications.
+
+At his 3-month follow-up, the patient reported significant improvement in pain and function and had returned to his usual activities. He had a well-healing surgical scar and no evidence of infection. The patient was satisfied with the outcome of his surgery.
+
+<</SYS>> 
+
+This patient summary includes the patient's medical history, surgical details, and postoperative course, excluding acute renal failure as complication. It highlights essential points, such as the patient's history of smoking, obesity, and hypertension, and his uneventful surgery and postoperative course, with only minor complications, such as a superficial wound infection and deep vein thrombosis. The summary concisely presents the necessary information for healthcare professionals to understand the patient's condition and make informed decisions.

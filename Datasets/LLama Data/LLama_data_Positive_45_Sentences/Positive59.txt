@@ -1,0 +1,88 @@
+I understand. Here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery, as well as the complication of acute renal failure after surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Gender: Male
+
+Chief Complaint: Abdominal pain and distension
+
+History of Present Illness:
+
+* Patient presents with abdominal pain and distension for the past 3 days.
+* Pain is located in the right upper quadrant and is constant, radiating to the back.
+* Patient has been experiencing nausea and vomiting, especially after eating.
+* No changes in bowel movements or urination.
+* No recent travel or exposure to sick individuals.
+
+Past Medical History:
+
+* Hypertension for the past 10 years, currently taking Lisinopril.
+* Hyperlipidemia for the past 5 years, currently taking Atorvastatin.
+* history of non-insulin-dependent diabetes mellitus, currently taking Metformin.
+* History of gastroesophageal reflux disease (GERD), currently taking Omeprazole.
+* History of chronic kidney disease (CKD) stage 3, with a creatinine level of 1.5mg/dL.
+* History of smoking 1 pack per day for the past 30 years, currently on nicotine replacement therapy.
+* History of alcohol use disorder, currently in remission.
+
+Medications:
+
+* Lisinopril 20mg oral daily
+* Atorvastatin 20mg oral daily
+* Metformin 1000mg oral daily
+* Omeprazole 20mg oral daily
+* Aspirin 81mg oral daily
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Family History:
+
+* Father died of myocardial infarction at the age of 60.
+* Mother died of breast cancer at the age of 70.
+* One sibling with a history of hypertension.
+
+Social History:
+
+* Married with two adult children.
+* Retired from a desk job 5 years ago.
+* Lives in a two-story house with no wheelchair accessibility.
+* Spends most of his time at home, with occasional walks in the neighborhood.
+* Denies any recent changes in weight or appetite.
+
+Review of Systems:
+
+* Constitutional: No fever, chills, or night sweats.
+* Cardiovascular: No palpitations, syncope, or edema.
+* Respiratory: No shortness of breath, cough, or sputum production.
+* Gastrointestinal: No diarrhea, constipation, or melena.
+* Genitourinary: No changes in urination, urgency, or dysuria.
+* Neurological: No headaches, seizures, or weakness.
+* Musculoskeletal: No muscle pain, weakness, or joint swelling.
+
+Physical Exam:
+
+* Temperature: 98.6°F
+* Blood Pressure: 160/90 mmHg
+* Heart Rate: 80 bpm
+* Respiratory Rate: 16 breaths/min
+* Oxygen Saturation: 95% on room air
+* Height: 5'8"
+* Weight: 190 lbs
+* BMI: 31.4
+
+Lab Results:
+
+* Complete Blood Count (CBC):
+	+ White Blood Cell Count (WBC): 12,000 cells/mm3
+	+ Neutrophils: 70%
+	+ Lymphocytes: 20%
+	+ Monocytes: 8%
+	+ Eosinophils: 2%
+	+ Basophils: 0%
+	+ Red Blood Cell (RBC) Count: 4.5 million cells/mm3
+	+ Hemoglobin (Hb): 12.5 g/dL
+	+ Hematocrit (Hct): 3

@@ -1,0 +1,17 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic lower back pain and bilateral mild sensorineural hearing loss. He has a history of smoking but quit 5 years ago. He has no known allergies and is taking no medications. His surgical history includes a cholecystectomy 10 years ago and a hernia repair 5 years ago. His family history is negative for any cardiovascular disease or surgical complications. The patient is currently working full-time as a software engineer and has a high school education. He denies any recent travel or exposure to illness.
+
+The patient's physical examination shows a blood pressure of 130/80 mmHg, heart rate of 70 bpm, respiratory rate of 16/min, and oxygen saturation of 98% on room air. The patient's height is 5'10" and weight is 170 lbs. The patient has a BMI of 23.
+
+The patient's laboratory results show a WBC count of 10,000/mm3, hemoglobin of 14 g/dL, hematocrit of 40%, platelet count of 250,000/mm3, sodium of 138 mEq/L, potassium of 4.2 mEq/L, chloride of 102 mEq/L, CO2 of 24 mEq/L, glucose of 120 mg/dL, and creatinine of 1.2 mg/dL. The patient's liver function tests show a total bilirubin of 0.8 mg/dL, AST of 25 IU/L, ALT of 30 IU/L, and alkaline phosphatase of 80 IU/L. The patient's electrocardiogram shows a normal sinus rhythm.
+
+The patient is scheduled to undergo a lumbar spinal fusion surgery. The surgical plan includes a thorough debridement of the degenerative disc disease, discectomy, and fusion of L4-L5 and L5-S1 with instrumentation.
+
+Postoperative Course:
+
+The patient had an uneventful postoperative course. He was extubated immediately after surgery and was able to breathe on his own. He had some nausea and vomiting in the first 24 hours but was able to tolerate oral medications and fluids after that. He had some mild discomfort at the surgical site but was able to manage the pain with oral medications. He was able to ambulate with assistance on the first postoperative day and was able to walk independently by the second postoperative day. The patient was discharged home on postoperative day 3 with a follow-up appointment in 2 weeks.
+
+Complications:
+
+The patient did not have any complications during his postoperative course. He did not develop any wound infections, respiratory complications, or cardiovascular complications. The patient's pain was well-controlled with oral medications and he did not require any further interventions. The patient's bowel function returned to normal after the first postoperative day and he did not experience any nausea or vomiting after the first 24 hours.

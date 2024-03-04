@@ -1,0 +1,70 @@
+Patient Summary:
+
+Patient Name: [Insert Name here]
+Date of Birth: [Insert Date of Birth here]
+Gender: [Insert Gender here]
+
+Chief Complaint: [Insert Chief Complaint here, e.g. abdominal pain]
+
+Medical History:
+
+* History of hypertension, controlled with medication
+* History of hyperlipidemia, controlled with medication
+* History of non-insulin-dependent diabetes mellitus, controlled with medication and diet
+* History of glaucoma, controlled with eye drops
+* History of hypothyroidism, controlled with levothyroxine
+* History of asthma, controlled with inhalers
+* History of allergic rhinitis
+* History of gastroesophageal reflux disease (GERD)
+* History of hernia repair surgery 10 years ago
+* History of cholecystectomy 5 years ago
+
+Current Medications:
+
+* Amlodipine 5mg daily for hypertension
+* Atorvastatin 20mg daily for hyperlipidemia
+* Metformin 500mg twice daily for non-insulin-dependent diabetes mellitus
+* Timolol 0.5% eye drops twice daily for glaucoma
+* Levothyroxine 50mcg daily for hypothyroidism
+* Albuterol inhaler as needed for asthma
+* Fluticasone nasal spray daily for allergic rhinitis
+* Omeprazole 20mg daily for GERD
+
+Surgical History:
+
+* Laparoscopic cholecystectomy 5 years ago for gallstones
+* Open hernia repair 10 years ago for inguinal hernia
+
+Preoperative Workup:
+
+* Complete Blood Count (CBC) within normal limits
+* Electrolyte panel within normal limits
+* Lipid profile within normal limits
+* Thyroid function tests within normal limits
+* Urinalysis within normal limits
+* Chest X-ray within normal limits
+* ECG within normal limits
+
+Operative Course:
+
+* Patient underwent a planned laparoscopic surgery for [Insert surgery here, e.g. removal of gallbladder]
+* Surgery was performed under general anesthesia and took [Insert duration of surgery here, e.g. 2 hours]
+* Patient had a smooth intraoperative course and was transferred to the recovery room in stable condition
+
+Postoperative Course:
+
+* Patient was transferred to the surgical ward after recovery room and was monitored closely for any complications
+* Patient had some discomfort and pain in the abdomen which was managed with pain medication
+* Patient had some difficulty in passing urine which was managed with a urinary catheter
+* Patient developed a mild fever on the first postoperative day which was managed with antibiotics
+* Patient had a uneventful postoperative course and was discharged from the hospital on [Insert date here, e.g. 5th postoperative day]
+
+Complications:
+
+* None
+
+Conclusion:
+
+* Patient [Insert Name here] underwent a successful [Insert surgery here, e.g. laparoscopic cholecystectomy] surgery and had an uneventful postoperative course.
+* Patient was discharged from the hospital on [Insert date here, e.g. 5th postoperative day] and will follow up with the surgeon in [Insert time frame here, e.g. 2 weeks].
+* Patient is expected to make a full recovery and has been advised to follow postoperative instructions carefully to avoid any complications.

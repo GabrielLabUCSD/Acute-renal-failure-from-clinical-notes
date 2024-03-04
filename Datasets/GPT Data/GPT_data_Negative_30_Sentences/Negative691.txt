@@ -1,0 +1,28 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [pre-existing conditions]. They are scheduled to undergo [type of surgery] in [date]. 
+Previous surgeries the patient has had include [list of previous surgeries]. 
+The patient's social history includes [lifestyle factors such as smoking, alcohol use, or drug abuse], and they work as a [occupation]. 
+They are currently on the following medications: [list of medications].
+The patient has allergies to [specific allergens] and has experienced [symptoms] in the past. 
+Their family medical history is significant for [conditions present in their family].
+Pre-operative investigations such as [lab tests, radiology studies or physical examinations] were performed and showed [findings].
+The patient's vital signs were stable throughout the pre-operative period and they were cleared for surgery by [specialty, such as an anesthesiologist or surgeon]. 
+During the surgical procedure, the patient was placed under general anesthesia and the surgery was performed [via an open procedure/laparoscopically/robotically, etc.]. 
+Intraoperative findings included [details regarding any abnormalities found during surgery].
+The patient tolerated the surgery well with no significant complications. 
+Postoperatively, the patient was monitored in the recovery room before being transferred to the inpatient ward. 
+Pain management was achieved using [type of analgesia] and was well-controlled throughout the patient's hospital stay. 
+The patient's postoperative course was uneventful, and they were able to tolerate a regular diet and ambulate independently on the first postoperative day. 
+The patient's vital signs remained stable with no signs of infection or surgical site complications. 
+They were started on prophylactic antibiotics and deep vein thrombosis prophylaxis to prevent postoperative complications. 
+Wound care was performed daily, and the incision site appeared clean, dry, and well-approximated. 
+The patient's overall recovery was within the expected range for this type of surgery. 
+They were provided with instructions for postoperative care and advised on potential signs and symptoms to watch for. 
+During the hospital stay, the patient received regular physiotherapy sessions to promote mobilization and prevent postoperative complications such as pneumonia or deep vein thrombosis. 
+The patient's pain was well-controlled with oral analgesics and they reported being comfortable. 
+The patient's postoperative laboratory tests, including complete blood count, electrolyte levels, and renal function, were within normal limits. 
+They were discharged home on [date] with instructions to continue their prescribed medications. 
+The patient was advised to follow up with their primary care physician or surgeon in [time frame].
+Postoperative complications such as wound infection, respiratory complications, or blood clots did not occur. 
+The patient's pre-existing conditions, such as [specific conditions], were well-managed during the perioperative period. 
+The patient was counseled on the importance of maintaining a healthy lifestyle, including regular exercise and a balanced diet, to aid in their recovery.
+Overall, the patient's postoperative course was smooth and they did not experience any significant complications.

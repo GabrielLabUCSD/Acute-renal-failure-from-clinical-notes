@@ -1,0 +1,84 @@
+I understand. Here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications excluding acute renal failure:
+
+Patient Name: [Insert name]
+Age: [Insert age]
+Gender: [Insert gender]
+
+Medical History:
+
+* Hypertension for 10 years
+* Diabetes mellitus for 5 years
+* Hyperlipidemia for 3 years
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic low back pain
+* History of smoking (20 pack-years)
+* History of alcohol use disorder (in remission)
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Hysterectomy 5 years ago
+* Bilateral knee arthroplasty 3 years ago
+* history of multiple minor surgeries
+
+Current Medications:
+
+* Lisinopril 40mg daily
+* Metformin 1000mg daily
+* Atorvastatin 40mg daily
+* Oxycodone 5mg every 4-6 hours as needed for pain
+* Aspirin 81mg daily
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of cancer
+
+Social History:
+
+* Married with two adult children
+* Self-employed
+* Living in a two-story house with no elevator
+* Independent in all activities of daily living
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Preoperative Examination:
+
+* Unremarkable physical examination
+* Normal laboratory test results, including electrolytes, renal function, liver function, and coagulation studies
+* No significant findings on chest x-ray or electrocardiogram
+
+Operative Course:
+
+* Successful laparoscopic cholecystectomy performed under general anesthesia
+* No intraoperative complications
+
+Postoperative Course:
+
+* Uneventful postoperative period
+* Minimal postoperative pain managed with oxycodone
+* Ambulated on first postoperative day
+* Started on clear liquids on first postoperative day
+* Advanced to solid foods on second postoperative day
+* No signs of wound infection or bleeding
+* Discharged home on third postoperative day
+
+Potential Complications:
+
+* Respiratory failure
+* Cardiac arrhythmias
+* Wound infection
+* Bleeding
+* Sepsis
+
+Note: This is just a sample patient summary, and the specific details may vary depending on the individual patient's medical history and circumstances.

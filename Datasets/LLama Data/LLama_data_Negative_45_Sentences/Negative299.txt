@@ -1,0 +1,62 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+* Medical History:
+	+ Hypertension
+	+ Hyperlipidemia
+	+ Diabetes mellitus type 2
+	+ Obstructive sleep apnea
+	+ History of smoking
+	+ History of alcohol abuse
+	+ Previous myocardial infarction (MI)
+	+ Previous coronary artery bypass grafting (CABG)
+	+ Previous lung resection for lung cancer
+	+ History of chronic obstructive pulmonary disease (COPD)
+	+ History of osteoarthritis
+	+ Previous left knee replacement
+	+ Previous right knee replacement
+	+ History of migraines
+* Allergies:
+	+ Penicillin
+	+ Cephalosporins
+	+ Nonsteroidal anti-inflammatory drugs (NSAIDs)
+* Current Medications:
+	+ Amlodipine
+	+ Atorvastatin
+	+ Metformin
+	+ Aspirin
+	+ Oxycodone
+	+ Acetaminophen
+	+ Meloxicam
+	+ Zolpidem
+	+ Albuterol inhaler
+	+ Fluticasone inhaler
+* Family History:
+	+ Father died of MI at age 55
+	+ Mother died of breast cancer at age 68
+	+ One sibling with history of MI
+* Social History:
+	+ Married with two adult children
+	+ Works as an accountant
+	+ Lives in a two-story house with no elevator
+	+ Has a pet dog that requires regular walking
+* Reason for Surgery:
+	+ Elective total hip replacement
+* Preoperative Examination:
+	+ Unremarkable
+* Intraoperative Course:
+	+ Uneventful
+* Postoperative Course:
+	+ Developed postoperative nausea and vomiting (PONV)
+	+ Required administration of ondansetron and dolasetron
+	+ Experienced mild postoperative pain managed with oxycodone
+	+ Ambulated successfully on postoperative day 1
+	+ Discharged home on postoperative day 2
+* Complications:
+	+ None
+* Follow-up:
+	+ Scheduled for follow-up appointment with orthopedic surgeon at 2 weeks postoperative
+	+ Scheduled for follow-up appointment with primary care physician at 4 weeks postoperative
+
+Note: This is a fictional patient summary and is not based on any real patient.

@@ -1,0 +1,17 @@
+Patient Summary:
+
+* Presenting complaint: The patient presents with a history of persistent abdominal pain and distension.
+* Past medical history: The patient has a history of chronic kidney disease, hypertension, and hyperlipidemia.
+* Medications: The patient is currently taking lisinopril, metformin, and atorvastatin.
+* Family history: The patient has a history of coronary artery disease and stroke in their family.
+* Social history: The patient is a 40-year-old male who works as a software engineer and has a history of smoking.
+* Review of systems: The patient reports fatigue, nausea, and vomiting.
+* Physical examination: The patient's blood pressure is elevated at 180/100 mmHg, and their abdomen is tender to palpation.
+* Laboratory results: The patient's complete blood count shows anemia, and their serum creatinine level is elevated at 2.5 mg/dL.
+* Imaging studies: A CT scan of the abdomen and pelvis shows a possible obstruction in the small intestine.
+* Procedure: The patient is scheduled for an exploratory laparotomy to address the possible obstruction.
+* Complications: The patient develops acute renal failure post-operatively, requiring continuous renal replacement therapy.
+* Post-operative course: The patient experiences a complicated post-operative course, including sepsis and respiratory failure, requiring mechanical ventilation.
+* Current status: The patient is still in the intensive care unit, recovering from their surgery and complications.
+
+Note: This patient summary is a fictional case and is not based on any real patient.

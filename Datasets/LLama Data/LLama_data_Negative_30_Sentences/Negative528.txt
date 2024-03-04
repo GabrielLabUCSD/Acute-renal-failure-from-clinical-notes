@@ -1,0 +1,82 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+* Chief Complaint: Abdominal pain
+* History of Present Illness: 35-year-old male presents with a 2-day history of worsening abdominal pain, fever, and nausea.
+* Past Medical History: HTN, DM, hyperlipidemia, and GERD.
+* Medications: Lisinopril, metformin, atorvastatin, and omeprazole.
+* Allergies: PCN and sulfa.
+* Family History: Mother with HTN and father with CAD.
+* Social History: Smoker, drinks occasionally, and works as a software engineer.
+* Review of Systems: Abdominal pain, fever, nausea, vomiting, and constipation.
+* Physical Exam: Temp 100.4°F, BP 180/100, HR 110, RR 24, and stable oxygen saturation.
+* Laboratory Results: WBC 18,000, Na 135, K 4.2, Cl 102, BUN 25, Cr 1.8, and AST 55.
+* Imaging Studies: CT scan shows appendiceal inflammation and periappendiceal abscess.
+* Diagnostic Tests: Appendectomy performed, and pathology report confirms acute appendicitis.
+* Postoperative Course: Patient had an uneventful postoperative course and was discharged on POD 3.
+* Complications: None.
+
+Assistant: Here's a summary of the patient's medical history in 30 sentences or less:
+
+* 35-year-old male with HTN, DM, hyperlipidemia, and GERD presents with abdominal pain, fever, and nausea.
+* Patient has history of smoking and occasional alcohol consumption.
+* Family history of HTN and CAD.
+* Abdominal pain, fever, nausea, vomiting, and constipation reported.
+* Physical exam shows elevated BP and tachycardia.
+* Laboratory results show leukocytosis, electrolyte imbalance, and renal dysfunction.
+* CT scan confirms acute appendicitis.
+* Appendectomy performed with uneventful postoperative course.
+* Patient discharged on POD 3 without complications.
+
+Assistant: Here's an outline of the patient's medical history in 30 sentences or less:
+
+I. Chief Complaint
+
+* Abdominal pain
+
+II. History of Present Illness
+
+* 2-day history of worsening abdominal pain, fever, and nausea
+
+III. Past Medical History
+
+* HTN, DM, hyperlipidemia, and GERD
+
+IV. Medications
+
+* Lisinopril, metformin, atorvastatin, and omeprazole
+
+V. Allergies
+
+* PCN and sulfa
+
+VI. Family History
+
+* Mother with HTN and father with CAD
+
+VII. Social History
+
+* Smoker, drinks occasionally, and works as a software engineer
+
+VIII. Review of Systems
+
+* Abdominal pain, fever, nausea, vomiting, and constipation
+
+IX. Physical Exam
+
+* Temp 100.4°F, BP 180/100, HR 110, RR 24, and stable oxygen saturation
+
+X. Laboratory Results
+
+* WBC 18,000, Na 135, K 4.2, Cl 102, BUN 25, Cr 1.8, and AST 55
+
+XI. Imaging Studies
+
+* CT scan shows appendiceal inflammation and periappendiceal abscess
+
+XII.Diagnostic Tests
+
+* Appendectomy performed, and pathology report confirms acute appendicitis
+
+XIII.Postoperative Course

@@ -1,0 +1,84 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/05/1980
+
+Gender: Male
+
+Chief Complaint: The patient presents with a history of chronic lower back pain and left leg radiculopathy.
+
+Medical History:
+
+* The patient has a history of degenerative disc disease and spondylolisthesis.
+* He has been experiencing worsening lower back pain and left leg radiculopathy over the past year.
+* The patient has tried physical therapy and medication without significant improvement.
+* He has a history of hypertension and hyperlipidemia.
+* The patient has no history of previous surgeries.
+* He is currently smoking 1 pack of cigarettes per day.
+* The patient has a history of anxiety and depression.
+* He has a strong family history of cardiovascular disease.
+
+Surgical History:
+
+* The patient is scheduled to undergo a lumbar fusion surgery.
+
+Current Medications:
+
+* The patient is taking ibuprofen 800mg PO Q8H and oxycodone 5mg PO Q4H for pain management.
+* He is also taking lisinopril 20mg PO Daily and simvastatin 20mg PO Daily for hypertension and hyperlipidemia.
+* The patient is taking alprazolam 0.5mg PO Daily for anxiety.
+
+Allergies:
+
+* The patient is allergic to penicillin and sulfa medications.
+
+Social History:
+
+* The patient works as a construction worker.
+* He is married with two young children.
+* The patient has a high school education.
+* He lives in a two-story house with his family.
+
+Family History:
+
+* The patient's father died of a myocardial infarction at the age of 55.
+* His mother has a history of hypertension and hyperlipidemia.
+* The patient's sister has a history of breast cancer.
+
+Review of Systems:
+
+* The patient reports no recent weight loss, fevers, or night sweats.
+* He denies any recent travel or exposure to illness.
+* The patient has a history of sleep apnea and uses a CPAP machine at night.
+* He reports no recent changes in bowel or bladder habits.
+* The patient has a history of seasonal allergies.
+
+Physical Exam:
+
+* The patient's vital signs are: Blood Pressure 130/80, Pulse 78, Respiratory Rate 16, Oxygen Saturation 98% on room air.
+* The patient's height is 5'10" and weight is 230lbs.
+* The patient has a BMI of 34.3.
+* The patient's examination reveals tenderness to palpation over the lower back and left leg.
+* He has a decreased sensation to light touch in the L5-S1 dermatome.
+* The patient's muscle strength is 4/5 in the left lower extremity.
+* He has a positive straight leg raise test on the left side.
+
+Lab Results:
+
+* The patient's complete blood count and electrolyte panel are within normal limits.
+* His lipid profile shows elevated total cholesterol and LDL.
+* The patient's urine drug screen is positive for opiates.
+
+Imaging Studies:
+
+* The patient's MRI reveals a large central disc herniation at L4-L5 with neuro forte compression.
+* His CT scan shows a spondylolisthesis at L4-L5.
+
+Postoperative Course:
+
+* The patient underwent a successful lumbar fusion surgery.
+* He was discharged from the hospital on postoperative day 4.
+* The patient experienced some postoperative nausea and vomiting, which was managed with medication.
+* He was advised to avoid heavy lifting, bending, or twisting for 6 weeks.
+* The patient was referred to physical therapy for

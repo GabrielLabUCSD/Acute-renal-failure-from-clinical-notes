@@ -1,0 +1,75 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertensive
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Obese (BMI 35)
+* Previous myocardial infarction (MI) 10 years ago
+* Previous coronary artery bypass grafting (CABG) 10 years ago
+* Previous left knee replacement 5 years ago
+* Previous right knee replacement 3 years ago
+* Recent diagnosis of lung cancer
+* Currently undergoing chemotherapy
+
+Surgical History:
+
+* none
+
+Medications:
+
+* Aspirin 81 mg daily
+* Metoprolol 25 mg daily
+* Simvastatin 40 mg daily
+* Omeprazole 20 mg daily
+* Pantoprazole 40 mg daily
+* Warfarin 5 mg daily
+
+Allergies:
+
+* Penicillin
+* Cephalosporins
+
+Lab Results:
+
+* WBC: 4.5 x 10^3/uL
+* Hb: 12.2 g/dL
+* Platelet Count: 188 x 10^3/uL
+* BUN: 24 mg/dL
+* Creatinine: 1.2 mg/dL
+* Alkaline Phosphatase: 122 U/L
+* Total Bilirubin: 0.7 mg/dL
+* AST: 35 U/L
+* ALT: 45 U/L
+* Alcohol level: 0.01 mg/dL
+
+Imaging Results:
+
+* Chest X-ray: shows a mass in the right lung
+* CT scan: shows a 3 cm mass in the right lung, suspicious for lung cancer
+* MRI: shows a 2 cm mass in the left knee, suspicious for metastasis
+
+Preoperative Course:
+
+* Patient underwent chemotherapy for 3 months before surgery
+* Patient tolerated chemotherapy well, with minimal side effects
+* Patient's lung cancer symptoms improved with chemotherapy
+
+Postoperative Course:
+
+* Patient underwent a right lung lobectomy
+* Patient had a smooth postoperative course
+* Patient was extubated on postoperative day 1
+* Patient was able to ambulate on postoperative day 2
+* Patient was discharged on postoperative day 5
+
+Complications:
+
+* none
+
+Note: This patient summary is a sample and does not represent an actual patient. The information included is fictional and does not reflect any real patient's medical history, treatment, or outcomes.

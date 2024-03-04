@@ -1,0 +1,32 @@
+Patient Summary:
+
+Mr. Smith is a 65-year-old male who is planning to undergo surgery. He has a medical history significant for hypertension, diabetes mellitus type 2, and hyperlipidemia. He has been on antihypertensive medications for the past 10 years and takes metformin and statins for his diabetes and hyperlipidemia, respectively.
+
+Regarding his surgical history, Mr. Smith has previously undergone an appendectomy and a knee arthroscopy. He was successfully managed during those procedures without any major complications.
+
+In terms of allergies, he has a known allergy to penicillin, resulting in a rash in the past. Therefore, it is important to avoid the use of penicillin-based antibiotics during his surgical procedure.
+
+His family history is unremarkable for any major medical conditions. However, his father had a history of heart disease, which prompted Mr. Smith to take his own health seriously and adopt a healthier lifestyle.
+
+Mr. Smith's current vital signs are within normal limits. His blood pressure is consistently around 130/80 mmHg, his heart rate is around 70 beats per minute, and he is maintaining oxygen saturation levels above 95%.
+
+Laboratory results from his recent visit show that his fasting blood glucose is well-controlled, with levels ranging from 90-140 mg/dL. His HbA1c is 6.5%, indicating good long-term glycemic control. Lipid panel results show his total cholesterol <200 mg/dL, LDL cholesterol <100 mg/dL, HDL cholesterol >40 mg/dL, and triglycerides <150 mg/dL, all within the desirable ranges.
+
+During the pre-operative evaluation, Mr. Smith's chest X-ray revealed no significant abnormalities. His electrocardiogram (EKG) showed no signs of ischemic changes or arrhythmias, suggesting good cardiovascular health.
+
+Mr. Smith admitted to smoking 1 pack of cigarettes per day for the past 30 years but states that he quit smoking 5 years ago. He denies current alcohol consumption and recreational drug use.
+
+Upon physical examination, Mr. Smith is afebrile and has no significant cardiac or pulmonary abnormalities. His abdomen is soft and non-tender upon palpation, and no abnormal masses are detected. His extremities show no signs of edema or cyanosis.
+
+An echocardiogram performed 6 months ago showed a normal ejection fraction of 60% and no valvular abnormalities. His renal function tests, including serum creatinine and estimated glomerular filtration rate (eGFR), were normal at that time.
+
+Given his medical history and surgical plan, it is important to take precautions to prevent surgical site infections and ensure adequate management of blood glucose levels during the perioperative period. Close monitoring of blood pressure, blood glucose, and lipid levels should be maintained.
+
+Complication:
+After the surgery, Mr. Smith developed acute renal failure. His urine output decreased significantly, and his blood urea nitrogen (BUN) and serum creatinine levels increased rapidly. Renal function tests revealed a significant decline in his eGFR.
+
+The likely cause of acute renal failure in Mr. Smith is perioperative hypoperfusion or renal ischemia, which can occur during surgery due to decreased blood flow to the kidneys. Other potential contributing factors may include the use of certain medications, such as nonsteroidal anti-inflammatory drugs (NSAIDs), and the presence of comorbidities such as hypertension and diabetes.
+
+Management of acute renal failure in Mr. Smith includes aggressive fluid resuscitation to restore intravascular volume and optimize renal blood flow. Diuretics may be used to enhance urine output and diuresis, and electrolyte imbalances should be addressed. Renal replacement therapy, such as hemodialysis or continuous renal replacement therapy (CRRT), may be required if conservative measures fail to improve renal function.
+
+Close monitoring of his renal function, fluid status, and electrolyte levels is essential to prevent complications and ensure optimal recovery. Collaboration with a nephrologist is recommended to guide the management of Mr. Smith's acute renal failure and provide specialized care.

@@ -1,0 +1,84 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery.
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Chief Complaint: The patient presents with a history of chronic lower back pain and bilateral leg pain.
+
+Medical History:
+
+* History of smoking: 10 years
+* History of alcohol use: Denies
+* History of drug use: Denies
+* Previous surgeries: None
+* Allergies: Penicillin, Sulfa drugs
+* Current Medications: None
+* Past Medical History:
+	+ Hypertension
+	+ Hyperlipidemia
+	+ History of migraines
+	+ History of GERD
+* Family History:
+	+ Father died of MI at age 55
+	+ Mother has DM and hypertension
+	+ Grandfather died of CAD at age 60
+
+Social History:
+
+* Marital Status: Married
+* Occupation: Computer programmer
+* Education level: Bachelor's degree
+* Living arrangement: Lives with spouse and 2 children
+* Support system: Strong
+* Habits: Exercise regularly, Diet conscious
+
+Review of Systems:
+
+* Cardiovascular: Negative for chest pain, shortness of breath, or palpitations
+* Respiratory: Negative for cough, wheezing, or shortness of breath
+* Gastrointestinal: Negative for abdominal pain, nausea, or vomiting
+* Genitourinary: Negative for changes in urination or burning sensation
+* Musculoskeletal: Positive for bilateral leg pain and lower back pain
+* Neurological: Negative for numbness, weakness, or tingling sensations
+
+Physical Examination:
+
+* Vital signs: BP 120/80, HR 70, RR 12, Temp 98.6
+* Respiratory rate: 12
+* Abdomen: Soft, non-tender, non-distended
+* Back: Tender to palpation over lumbar region
+* Extremities: Warm, well-perfused, no edema or deformity
+* Neurological: No focal deficits or sensory changes
+
+Lab Results:
+
+* WBC: 10,000/mm3
+* Hb: 14.5 g/dL
+* Platelets: 250,000/mm3
+* BUN/Cr: 18/1.2
+* Fasting glucose: 120 mg/dL
+* Cholesterol: 220 mg/dL
+* Triglycerides: 150 mg/dL
+* HbA1c: 6.8%
+* Urinalysis: Negative for blood, protein, or leukocyte esterase
+
+Imaging Studies:
+
+* X-ray lumbar spine: No evidence of fracture or degenerative changes
+* MRI lumbar spine: Confirms the diagnosis of lumbar degenerative disc disease
+
+Procedure: Lumbar fusion surgery
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative recovery
+* No complications noted during the hospital stay
+* Patient was discharged home on postoperative day 3 with a stable condition
+* Follow-up appointment in 2 weeks to remove sutures and check on progress
+
+Complications: None noted during the hospital stay.
+
+This patient summary provides a comprehensive overview of the patient's medical history, social history, review of systems, physical examination, lab results, imaging studies, procedure, postoperative course, and complications. It includes relevant information that a healthcare provider would need to know to provide adequate care for the patient.

@@ -1,0 +1,31 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient has a history of smoking, with a 20-pack-year history, but quit 2 years ago. He denies any significant allergies.
+
+The patient"s surgical history includes a cholecystectomy 10 years ago, and a hernia repair 5 years ago. He has no history of previous anesthesia complications.
+
+The patient"s current medications include lisinopril, atorvastatin, and metformin. He has no known drug allergies.
+
+The patient"s review of systems is positive for recent onset of left knee pain, with associated swelling and limited mobility.
+
+On physical exam, the patient"s blood pressure is 140/80 mmHg, pulse is 70/min, respiratory rate is 16/min, and temperature is 98.6°F (37°C). The patient"s BMI is 32.
+
+The patient"s lab results show a normal complete blood count (CBC), electrolytes, and liver function tests (LFTs). His serum creatinine is 1.2 mg/dL, and his estimated glomerular filtration rate (eGFR) is 88 mL/min/1.73 m2.
+
+The patient"s ECG shows normal sinus rhythm, with no signs of ischemia or infarction.
+
+The patient"s chest x-ray is negative for any pulmonary pathology.
+
+The patient"s knee x-ray shows evidence of severe osteoarthritis.
+
+The patient"s surgical plan includes a total knee arthroplasty (TKA) under general anesthesia.
+
+The patient"s postoperative course is uncomplicated, with no evidence of bleeding, infection, or respiratory complications.
+
+The patient"s pain is well-managed with a patient-controlled analgesia (PCA) pump, and he is able to ambulate and participate in physical therapy as planned.
+
+The patient is discharged home on postoperative day 3, with instructions for continued pain management and wound care.
+
+Follow-up appointment is scheduled for 2 weeks after discharge, and the patient is advised to continue his medications as prescribed.
+
+No complications are noted during the patient"s postoperative period.

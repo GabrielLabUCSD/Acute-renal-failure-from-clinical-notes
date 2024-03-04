@@ -1,0 +1,45 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic lower back pain and left leg radiculopathy. The patient has a history of smoking and drug use. The patient has tried physical therapy and medication for pain management but has not found relief. The patient is planning to undergo a lumbar fusion surgery to alleviate their symptoms.
+
+Medical History:
+
+The patient has a history of hypertension and hyperlipidemia. The patient had a myocardial infarction 10 years ago and has been managed with medication. The patient has a history of non-insulin-dependent diabetes mellitus and is managed with oral medication. The patient has a history of sleep apnea and uses a continuous positive airway pressure machine.
+
+Medications:
+
+The patient is currently taking aspirin, lisinopril, atorvastatin, metformin, and oxycodone.
+
+Allergies:
+
+The patient has a known allergy to penicillin.
+
+Family History:
+
+The patient's father died of a myocardial infarction at the age of 55. The patient's mother has hypertension and hyperlipidemia.
+
+Social History:
+
+The patient is married with two children. The patient works as a construction worker and has been unable to work due to their chronic back pain. The patient smokes a pack of cigarettes a day and drinks alcohol occasionally.
+
+Review of Systems:
+
+The patient reports constant lower back pain and left leg radiculopathy. The patient has difficulty ambulating and performs activities of daily living with difficulty. The patient has tried physical therapy and medication for pain management but has not found relief.
+
+Physical Examination:
+
+On examination, the patient's blood pressure is 150/90 mmHg, pulse is 80/min, and respiratory rate is 16/min. The patient has a BMI of 32. The patient's back examination reveals decreased range of motion and tenderness to palpation. The patient has decreased sensation in their left leg and foot.
+
+Postoperative Course:
+
+The patient underwent a successful lumbar fusion surgery. The patient was discharged home on postoperative day 4. The patient experienced some nausea and vomiting on the first postoperative day but was managed with antiemetics. The patient had some pain but was managed with patient-controlled analgesia. The patient was ambulatory on the second postoperative day and was able to perform activities of daily living with assistance. The patient was seen in the clinic 2 weeks after discharge and reported improved pain and function.
+
+Complications:
+
+The patient did not experience any complications during their hospitalization.
+
+Conclusion:
+
+The patient is a 45-year-old male who presented with chronic lower back pain and left leg radiculopathy. The patient had a history of smoking and drug use. The patient had tried physical therapy and medication for pain management but had not found relief. The patient underwent a successful lumbar fusion surgery and had a uneventful postoperative course. The patient was discharged home on postoperative day 4 and had improved pain and function at follow-up.
+
+[

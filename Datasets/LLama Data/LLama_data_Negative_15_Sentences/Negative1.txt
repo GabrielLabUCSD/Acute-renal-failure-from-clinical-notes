@@ -1,0 +1,33 @@
+Sure, here's a sample patient summary with 15 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: Jane Doe
+Age: 65
+Gender: Female
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obesity (BMI 35)
+* Diabetes mellitus type 2
+* History of breast cancer (treated with lumpectomy and radiation therapy 10 years ago)
+* Osteoarthritis of the knees
+* Chronic back pain
+* Sleep apnea
+* History of asthma
+
+Postoperative Course:
+
+* Patient underwent a laparoscopic cholecystectomy for symptomatic gallstones
+* Surgery went smoothly without any intraoperative complications
+* Patient was discharged from the hospital on postoperative day 3
+* Follow-up appointment was scheduled for 2 weeks after discharge
+
+Complications:
+
+* Patient developed a wound infection on postoperative day 7, which was treated with antibiotics
+* Patient experienced some nausea and vomiting on postoperative day 2, but it resolved with antiemetics
+* Patient had some mild pain and discomfort in the abdomen and shoulder, which was managed with pain medication
+* Patient reported some constipation, which was treated with laxatives and stool softeners
+
+This patient summary outlines a patient's medical history, postoperative course, and complications in a concise and clear manner, without mentioning acute renal failure as a complication.

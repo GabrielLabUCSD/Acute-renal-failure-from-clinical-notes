@@ -1,0 +1,61 @@
+Patient is a 65-year-old male who is planning to undergo surgery for a knee replacement procedure. Patient has a past medical history significant for hypertension and diabetes mellitus type 2, both of which are well-controlled with medications. 
+
+Patient's blood pressure is consistently around 130/80 mmHg and blood glucose levels are stable with an HbA1c of 6.5%. Patient has a BMI of 28, indicating overweight status. 
+
+Patient has a history of smoking, having previously smoked a pack of cigarettes per day for 20 years. However, patient quit smoking 10 years ago. 
+
+Patient has never had any prior surgeries and has no known medication allergies. 
+
+Patient's kidney function is within normal range, as indicated by a recent serum creatinine level of 0.9 mg/dL. 
+
+Patient's liver function is also normal, with an AST and ALT level of 25 U/L and 20 U/L, respectively. 
+
+Patient has a sedentary lifestyle and does not engage in regular exercise. 
+
+Patient's vital signs are stable, with a heart rate of 70 beats per minute and respiratory rate of 16 breaths per minute. 
+
+Patient denies any recent or chronic infections. 
+
+Patient does not have any known family history of surgical complications or adverse reactions to anesthesia. 
+
+Patient is currently on a daily regimen of metformin for diabetes management and lisinopril for blood pressure control. 
+
+Patient also takes baby aspirin daily as a preventive measure against cardiovascular disease. 
+
+Patient reports occasional knee pain and difficulty mobilizing due to osteoarthritis, which has significantly impacted quality of life. 
+
+Patient has undergone conservative treatment options such as physical therapy and pain medications, but with limited success. 
+
+Patient underwent preoperative testing, which included laboratory investigations, electrocardiography, and chest X-ray, all of which were unremarkable. 
+
+Patient's surgical team has assessed that patient is a good candidate for knee replacement surgery and have determined that the benefits outweigh the risks. 
+
+Post-operative pain control will be managed with a combination of opioids and nonsteroidal anti-inflammatory drugs (NSAIDs). 
+
+Patient will be placed on thromboprophylaxis prophylactic therapy to prevent post-surgical deep vein thrombosis (DVT). 
+
+Patient will undergo general anesthesia for the surgery, and an anesthesiologist has been consulted to perform a pre-anesthetic evaluation. 
+
+Patient has been advised to stop taking metformin and lisinopril two days prior to the surgery to reduce the risk of complications. 
+
+During the surgery, continuous monitoring of the patient's vital signs will be conducted to ensure their stability. 
+
+Patient is expected to require a short hospital stay of about 3-5 days following the surgery. 
+
+Post-surgery, patient will be closely monitored for signs of infection, bleeding, and other potential complications. 
+
+Physical therapy will be initiated shortly after surgery to aid in rehabilitation and recovery. 
+
+Patient will need to follow a strict post-operative care regimen, including regular dressing changes, range of motion exercises, and medication compliance. 
+
+Patient will also be encouraged to participate in a structured exercise program to strengthen the knee and surrounding muscles. 
+
+Patient should maintain a balanced diet with adequate protein intake to support healing and recovery. 
+
+Patient should refrain from smoking or using any tobacco products during the recovery period to minimize the risk of complications. 
+
+Patient experienced acute renal failure as a complication following the surgery. The exact cause of the renal failure is yet to be determined. 
+
+Patient presented with symptoms such as decreased urine output, fluid overload, electrolyte imbalance, and increased serum creatinine levels. 
+
+Patient required immediate intervention and was started on continuous renal replacement therapy to support kidney function and restore electrolyte balance.

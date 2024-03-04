@@ -1,0 +1,82 @@
+Patient Summary:
+
+Name: [Patient Name]
+Age: [Age]
+Gender: [Gender]
+
+Medical History:
+
+* Patient has a history of hypertension and hyperlipidemia.
+* Patient has been smoking for the past 10 years.
+* Patient has a history of obesity and sleep apnea.
+* Patient has a history of non-insulin-dependent diabetes mellitus.
+* Patient has been experiencing worsening left knee pain for the past year.
+* Patient has been diagnosed with osteoarthritis of the left knee.
+* Patient has been advised to undergo a total knee replacement surgery.
+
+Surgical History:
+
+* Patient underwent a cholecystectomy 10 years ago for gallstones.
+* Patient underwent a hysterectomy 15 years ago for uterine fibroids.
+* Patient underwent a left knee arthroscopy 5 years ago for a meniscal tear.
+
+Medications:
+
+* Hypertension medication: Lisinopril 20mg daily
+* Hyperlipidemia medication: Atorvastatin 20mg daily
+* Diabetes medication: Metformin 500mg twice daily
+* Pain medication: Oxycodone 5mg as needed
+* Anti-anxiety medication: Alprazolam 0.5mg as needed
+
+Family History:
+
+* Father died of myocardial infarction at the age of 60.
+* Mother died of stroke at the age of 70.
+* One sibling has hypertension.
+* One sibling has diabetes.
+
+Personal History:
+
+* Patient is a retired teacher.
+* Patient has a history of heavy alcohol use but quit 5 years ago.
+* Patient has a history of smoking marijuana but quit 2 years ago.
+* Patient has been experiencing increasing forgetfulness and confusion over the past year.
+
+Social History:
+
+* Patient lives alone in a two-story house.
+* Patient has a supportive family and friends.
+* Patient's occupation requires walking and standing for long periods.
+* Patient's hobbies include reading, gardening, and traveling.
+
+Reason for Surgery:
+
+* Patient's left knee pain has been worsening over the past year, affecting their ability to perform daily activities and impacting their quality of life.
+
+Postoperative Course:
+
+* Patient underwent a successful total knee replacement surgery.
+* Patient experienced some discomfort and pain in the first few days after surgery, which was managed with pain medication.
+* Patient was advised to undergo physical therapy to improve knee mobility and strength.
+* Patient was discharged from the hospital on the fifth postoperative day.
+
+Complications:
+
+* Patient developed a superficial wound infection on the seventh postoperative day, which was treated with antibiotics.
+* Patient experienced some nausea and vomiting on the eighth postoperative day, which was managed with anti-nausea medication.
+
+Current Status:
+
+* Patient is currently doing well and has been able to return to their normal activities.
+* Patient's knee pain has significantly improved.
+* Patient's wound has fully healed.
+* Patient's nausea and vomiting have resolved.
+
+Plans:
+
+* Patient will continue with physical therapy to improve knee mobility and strength.
+* Patient will follow up with their surgeon in 2 weeks for a postoperative check-up.
+* Patient will continue taking their medications as prescribed.
+
+Conclusion:
+This patient summary provides a comprehensive overview of the patient's medical history, surgical history, medications, family history, personal history, social history, reason for surgery, postoperative course, complications, current status, and plans. It highlights the patient's comorbidities, surgical history, and postoperative complications, which are important to consider when planning and managing their care.

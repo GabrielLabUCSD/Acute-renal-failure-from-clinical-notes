@@ -1,0 +1,29 @@
+The patient is a (age) year-old (gender) with a past medical history significant for (list of medical conditions). They are scheduled to undergo (type of surgery) for (reason for surgery). Their preoperative evaluation revealed (findings from physical exam, lab tests, imaging studies). They have been cleared for surgery by (specialty of physician).
+
+The patient's medical history includes (list of surgeries and interventions), which have been effective in managing their conditions. They currently take (list of medications) for (specific indication). They have no known medication allergies.
+
+Their social history reveals a (smoking/alcohol/drug) history of (amount/frequency), but they have quit (time period) prior to the surgery. They have a supportive family and live in a (level of support) environment. They have undergone preoperative counseling and understand the risks and benefits of the procedure.
+
+The patient has a baseline functional status of (ability to perform activities of daily living). Their preoperative physical examination revealed (specific findings). Cardiac evaluation including (cardiac tests) showed (specific findings). Pulmonary evaluation revealed (specific findings). Other consultations, such as from a (relevant specialty), were obtained and showed (specific findings).
+
+The patient's lab results demonstrated (specific values) within normal limits, except for (any abnormal lab values). Chest X-ray revealed (specific findings). ECG demonstrated (specific findings). Their preoperative anesthesia evaluation noted (any relevant concerns).
+
+The patient will receive (type of anesthesia) for the surgery. The surgery will be performed by (name of surgeon) and is expected to take (estimated duration). The patient has been counseled on the potential risks and benefits of the procedure, including bleeding, infection, pain, scarring, and the possibility of complications related to anesthesia.
+
+The postoperative course will include (type of monitoring) in the recovery room. Pain management will be provided through (specific modalities). The patient will be encouraged to ambulate and perform deep breathing exercises to prevent complications such as pneumonia and blood clots.
+
+The patient's vital signs will be closely monitored, with special attention to their blood pressure, heart rate, and oxygen saturation. Any abnormal findings will be promptly addressed. They will have a dedicated surgical team overseeing their care, including nurses, physicians, and ancillary staff.
+
+In the immediate postoperative period, the patient may experience pain, swelling, and limited mobility. Adequate pain control will be provided, and the patient will be monitored for signs of infection, such as fever or wound drainage.
+
+The patient's postoperative recovery will be closely monitored for any complications, such as wound infection, dehiscence (wound reopening), hematoma, or seroma (abnormal collections of blood or fluid). They will be educated on signs and symptoms of complications to report to their healthcare provider.
+
+Potential long-term complications include (relevant complications based on the type of surgery), such as impaired wound healing, chronic pain, or functional limitations. The patient will be provided with appropriate follow-up care and resources for managing any potential complications.
+
+The patient's pain level will be assessed regularly, and adjustments to pain management will be made as necessary. The healthcare team will evaluate the patient's ability to tolerate oral intake and provide appropriate nutrition support if needed.
+
+The patient's postoperative medications will include (specific medications) to prevent infection, manage pain, and promote healing. They will be instructed on medication administration, potential side effects, and precautions. The patient will also receive appropriate prophylaxis for deep vein thrombosis (DVT) based on their individual risk factors.
+
+Regular follow-up appointments will be scheduled to monitor the patient's progress and address any concerns. The patient's primary care physician will be involved in their ongoing care after discharge.
+
+In summary, the patient is a (age) year-old (gender) scheduled to undergo (type of surgery) for (reason for surgery). Their preoperative evaluation showed (specific findings). They have a history of (relevant medical conditions) and take (list of medications). Their preoperative consultations revealed (specific findings). The surgery will be performed by (name of surgeon). The postoperative course will involve (specific monitoring, pain management, and mobility exercises). The patient will be educated on potential complications and provided with appropriate postoperative care and follow-up. [Add a sentence about postoperative complications, if any.]

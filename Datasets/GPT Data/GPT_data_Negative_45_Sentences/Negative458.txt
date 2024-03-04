@@ -1,0 +1,29 @@
+The patient is a [age]-year-old [gender] who is planning to have [type of surgery]. They have a significant medical history that includes [list of medical conditions]. The patient takes multiple medications including [list of medications].
+
+In terms of their surgical history, the patient has previously undergone [list of previous surgeries]. They have had a smooth recovery from these surgeries without any significant complications.
+
+On physical examination, the patient's vital signs are stable. They have [specific findings on examination].
+
+Laboratory investigations revealed [specific findings on bloodwork]. Notably, their renal function is within normal limits, with a creatinine level of [value].
+
+Based on the pre-operative evaluation, the patient is considered to be at an average risk for surgery and anesthesia. The surgical team has discussed the risks, benefits, and alternatives of the procedure with the patient, who has provided informed consent.
+
+The patient will undergo surgery under [general or local] anesthesia. Pre-operative antibiotics will be administered to reduce the risk of post-operative infections.
+
+In the postoperative course, the patient was closely monitored in the recovery area. They tolerated the surgery well without any intraoperative complications. Vital signs remained stable throughout the procedure.
+
+Analgesics were administered as needed to manage post-operative pain. The patient's pain was adequately controlled with [specific pain management regimen].
+
+The patient was started on [specific postoperative medications] to prevent [specific postoperative complications] and to aid in their recovery. They were instructed on wound care and provided with appropriate education on postoperative activities and restrictions.
+
+The patient's postoperative recovery was uneventful. They showed no signs of infection at the surgical site and did not experience any excessive bleeding or hematoma formation. There were no signs of wound dehiscence or other surgical complications.
+
+During their hospital stay, the patient ambulated regularly and followed a balanced diet. Their intake was closely monitored, and they received adequate hydration. The patient did not require any blood transfusions or interventions during their recovery period.
+
+The patient's pain gradually improved over time, and they were able to tolerate oral intake without any issues. Their vital signs remained stable, and they did not exhibit any signs of postoperative complications.
+
+On the [number]-day postoperative visit, the patient's surgical wounds were healing well without any signs of infection or dehiscence. The sutures/staples were removed without any issues.
+
+The patient reported feeling overall satisfaction with their surgical outcome and expressed gratitude towards the surgical team. They were advised on further follow-up visits as well as any necessary lifestyle modifications or medication adjustments.
+
+Overall, the patient had a smooth postoperative course without any complications. They achieved a successful recovery and were able to resume their daily activities without any major limitations.

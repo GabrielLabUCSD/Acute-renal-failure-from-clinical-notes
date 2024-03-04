@@ -1,0 +1,36 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery, as well as a description of the patient experiencing acute renal failure complication after surgery:
+
+1. The patient is a 65-year-old male with a history of hypertension, hyperlipidemia, and diabetes mellitus.
+2. He has been a smoker for the past 40 years and has a history of chronic obstructive pulmonary disease (COPD).
+3. The patient has a history of stable angina and has been advised to undergo coronary artery bypass grafting (CABG).
+4. He has a history of chronic kidney disease (CKD) with a baseline creatinine level of 1.8 mg/dL.
+5. The patient's blood pressure is well-controlled on medication, with a current reading of 120/80 mmHg.
+6. His lipid profile reveals a total cholesterol level of 220 mg/dL, LDL of 150 mg/dL, and HDL of 40 mg/dL.
+7. The patient's HbA1c level is 7.5%, indicating good glycemic control.
+8. He has a history of hypothyroidism and takes levothyroxine 50 mcg daily.
+9. The patient has a history of glaucoma and takes latanoprost 0.005% ophthalmic solution.
+10. He has a history of benign prostatic hyperplasia (BPH) and takes tamsulosin 0.4 mg daily.
+11. The patient has a history of gastroesophageal reflux disease (GERD) and takes omeprazole 20 mg daily.
+12. He has a history of mild degenerative joint disease (DJD) in his knees.
+13. The patient has a history of mild hyperlipidemia and takes atorvastatin 20 mg daily.
+14. He has a history of mild anemia and takes ferrous sulfate 325 mg daily.
+15. The patient has a history of allergies, including a reaction to penicillin.
+16. He has a history of asthma and takes albuterol 2 inhalations as needed.
+17. The patient has a history of chronic obstructive sleep apnea (OSA) and uses a continuous positive airway pressure (CPAP) machine.
+18. He has a history of mild depression and takes fluoxetine 20 mg daily.
+19. The patient has a history of migraines and takes sumatriptan 50 mg as needed.
+20. He has a history of mild chronic back pain and takes acetaminophen 325 mg as needed.
+21. The patient has a history of mild chronic knee pain and takes naproxen 220 mg as needed.
+22. He has a history of mild chronic neck pain and takes celecoxib 200 mg as needed.
+23. The patient has a history of mild chronic shoulder pain and takes ibuprofen 800 mg as needed.
+24. He has a history of mild left leg swelling and takes ambulation with a cane as needed.
+25. The patient has a history of mild right leg swelling and takes elevation of the affected limb as needed.
+26. He has a history of mild shortness of breath and takes bronchodilators as needed.
+27. The patient has a history of mild fatigue and takes regular breaks during the day.
+28. He has a history of mild dyspnea and takes oxygen therapy as needed.
+29. The patient has a history of mild wheezing and takes albuterol 2 inhalations as needed.
+30. He has a history of mild tachycardia and takes beta blockers as needed.
+
+Complication: Acute renal failure (ARF)
+
+After surgery, the patient developed acute renal failure (ARF) with

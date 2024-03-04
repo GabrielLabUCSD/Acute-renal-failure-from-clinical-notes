@@ -1,0 +1,13 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient had a myocardial infarction five years ago and has been compliant with medications and lifestyle modifications since then. He has a history of chronic lower back pain and has tried various treatments, including physical therapy and pain management, without significant relief. He currently takes aspirin, metformin, and atorvastatin. The patient has no known allergies and has never had an adverse reaction to anesthesia. His last visit to the doctor was six months ago, and he had a normal physical examination, including a blood pressure of 120/80 mmHg.
+
+Postoperative Course:
+The patient underwent a successful lumbar spinal fusion surgery. He had a smooth extubation and was transferred to the postanesthesia care unit (PACU) with stable vital signs. The patient"s pain was well-controlled with a patient-controlled analgesia (PCA) pump. He experienced some nausea and vomiting but responded well to ondansetron. The patient was able to ambulate and void appropriately. He was discharged from the hospital on the third postoperative day with instructions to follow up with his surgeon and primary care physician.
+
+Complications:
+The patient developed a postsurgical wound infection that was treated with antibiotics. He also underwent a short course of physical therapy for residual back pain. However, he did not experience any major complications such as respiratory or cardiac events.
+
+References:
+AHA/ACCF Secondary Prevention and Risk Reduction Therapy for Patients With Coronary and Other Atherosclerotic Vascular Disease. (2014). Retrieved from <https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2014/07/29/14/45/aha-accf-secondary-prevention-and-risk-reduction-therapy-for-patients-with-coronary-and-other-atherosclerotic-vascular-disease>
+Limmer, D. (2020). Miller"s Anesthesia. Elsevier.

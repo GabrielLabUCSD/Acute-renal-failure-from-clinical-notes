@@ -1,0 +1,17 @@
+The patient is a [age]-year-old [gender] with a history of [relevant medical conditions]. They are now planning to undergo [type of surgery]. Their medical history includes [list of relevant surgeries, illnesses, and chronic conditions]. They have been taking [list of current medications] for [duration]. 
+
+The patient's preoperative evaluation showed [relevant findings], such as [lab results, imaging findings, or cardiac assessments]. Their cardiovascular system was assessed and found to be [stable/unremarkable]. The patient's pulmonary function tests were [normal/within acceptable range]. 
+
+In terms of their surgical risk, the patient is [low/medium/high] risk due to [investigations or comorbidities]. They were counseled about the potential risks and benefits of the surgery and provided informed consent.
+
+During the procedure, the patient was placed under [type of anesthesia]. The surgery itself went smoothly, lasting approximately [duration]. There were no significant intraoperative complications noted, such as [specific complications].
+
+The patient's postoperative course was monitored closely, paying attention to [relevant factors for their specific surgery, such as pain control or wound healing]. They were started on [specific postoperative medications or interventions], and their vital signs remained stable. The patient was encouraged to ambulate and participate in respiratory exercises to prevent complications such as pneumonia and deep vein thrombosis.
+
+The patient's postoperative pain was managed with [specific pain management interventions]. They did experience [mild/moderate/severe] pain, which was controlled using [specific analgesics]. 
+
+Regarding complications, the patient did not experience any [major/minor] complications, such as wound infection, bleeding, or organ damage. They were monitored for signs of infection and thrombosis but remained [stable/unremarkable]. 
+
+Throughout their hospital stay, the patient's condition continued to improve. They had regular follow-up appointments with their surgeon, and appropriate interventions were provided to aid in their recovery. The patient was discharged home on [date], with instructions to [specific postoperative care instructions, such as wound care or activity limitations]. 
+
+In summary, the patient, undergoing [type of surgery], had a [low/medium/high] surgical risk due to their medical history of [relevant conditions]. Their surgery was completed without any significant intraoperative complications, and their postoperative course was uneventful, with no major complications observed. Their pain was well managed, and they were discharged home in a stable condition.

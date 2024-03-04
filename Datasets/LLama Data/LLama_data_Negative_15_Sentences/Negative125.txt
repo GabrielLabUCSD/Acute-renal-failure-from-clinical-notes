@@ -1,0 +1,21 @@
+Patient Summary:
+
+* Patient is a 45-year-old male.
+* Has history of hypertension and hyperlipidemia.
+* Previous myocardial infarction 5 years ago.
+* History of non-insulin-dependent diabetes mellitus.
+* Has left knee osteoarthritis.
+* Scheduled for total knee replacement surgery.
+* Allergic to penicillin.
+* No history of bleeding disorders.
+* No history of previous anesthesia complications.
+* Routine preoperative lab results within normal limits.
+* Preoperative ECG shows normal sinus rhythm.
+* Chest X-ray shows no acute disease.
+* No history of sleep apnea.
+* Patient currently taking aspirin and metformin.
+* Plan to discontinue aspirin 1 week before surgery.
+* Postoperative course uneventful.
+* Patient discharged home on postoperative day 3.
+* Follow-up appointment scheduled for 2 weeks after discharge.
+* No complications during surgery or postoperative period.

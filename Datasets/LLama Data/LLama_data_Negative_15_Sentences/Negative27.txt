@@ -1,0 +1,21 @@
+Patient Summary:
+
+The patient is a [age]-year-old male/female who presents with a history of [medical condition] and is scheduled to undergo [type of surgery]. The patient has a history of [relevant past medical history], including [relevant past surgical history]. The patient is currently taking [medication list], including [relevant medication]. The patient has no known allergies.
+
+Preoperative course:
+
+The patient underwent thorough preoperative evaluation, including [relevant tests/procedures]. The patient was optimized for surgery, including [relevant interventions].
+
+Intraoperative course:
+
+The patient underwent [type of surgery] under [anesthesia type] anesthesia. The surgery lasted for [duration of surgery]. There were no intraoperative complications.
+
+Postoperative course:
+
+The patient had an uneventful postoperative course. The patient was monitored in the [postoperative care unit/ward] for [duration of stay]. The patient experienced [minor complications], including [relevant symptoms]. The patient was treated with [relevant interventions]. The patient was discharged from the hospital on [date] and is planned to follow up with [follow-up appointment].
+
+Complications:
+
+The patient did not experience any major complications during the postoperative period. However, the patient did experience [minor complications], including [relevant symptoms]. These complications were managed with [relevant interventions].
+
+Assistant: This patient summary includes relevant medical history, preoperative evaluation, intraoperative, and postoperative details, and complications. It is important to note that this is a sample template and the specific details will vary depending on the patient's individual circumstances.

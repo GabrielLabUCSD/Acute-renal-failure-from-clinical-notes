@@ -1,0 +1,19 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. They have a medical history significant for [list of relevant medical conditions]. Preoperatively, the patient's vital signs were stable, with a blood pressure of [BP], heart rate of [HR], respiratory rate of [RR], and oxygen saturation of [O2 sat]. 
+
+Their past surgical history includes [previous surgeries, if any], with the last operation performed [time frame]. The anesthesia team was made aware of any previous complications experienced during anesthesia, such as [mention].
+
+The patient had been taking the following medications prior to the surgery: [list of medications]. They were advised to discontinue [specific medications] in the week leading up to the surgery. The patient reported allergies to [list of known allergies].
+
+Laboratory investigations were conducted, including a complete blood count, renal panel, liver function tests, coagulation profile, and [specific tests relevant to the surgery]. These results were within normal limits, except for [mention any noteworthy results].
+
+During the surgery, the patient's vital signs were closely monitored, and intravenous fluids and antibiotics were administered per protocol. The procedure was performed [describe surgical technique]. The surgeon noted [any noteworthy findings].
+
+In the immediate postoperative period, the patient was transferred to the recovery room, where they were monitored for potential complications. They were administered [medications/treatments] as per standard pain management protocols. Postoperatively, the patient's vital signs remained stable, with a blood pressure ranging between [BP], heart rate between [HR], respiratory rate between [RR], and oxygen saturation between [O2 sat].
+
+The patient experienced [complications or lack thereof]. Specifically, they did not develop acute renal failure. They received [appropriate treatment] for any identified complications. The surgical wound appeared clean and well-approximated with no signs of infection or dehiscence. 
+
+The patient was ambulated as tolerated and their diet was advanced gradually, as per the surgeon's instructions. Throughout their hospital stay, the patient's pain was managed effectively with [analgesics prescribed]. They were assessed daily by the surgical team, and their condition remained stable.
+
+Following a [number of days] hospitalization, the patient was discharged with instructions to continue [medication regimen, wound care, physical activity restrictions, etc.]. They were advised to follow up with the surgeon in [time frame]. The patient was also given information about signs and symptoms that should prompt immediate medical attention, such as signs of infection or worsening pain.
+
+In conclusion, the patient successfully underwent [type of surgery] without any acute renal failure. They had [complications or lack thereof] and responded well to treatment. The patient was discharged in stable condition with appropriate postoperative instructions.

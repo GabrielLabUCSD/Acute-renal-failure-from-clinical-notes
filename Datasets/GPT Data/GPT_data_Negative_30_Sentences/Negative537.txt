@@ -1,0 +1,61 @@
+The patient is a [age]-year-old [gender] who is planning to undergo [type of surgery]. 
+
+They have a past medical history significant for [list of medical conditions, such as hypertension, diabetes, asthma, etc.]. 
+
+Their surgical history includes [previous surgeries, if any].
+
+They have a family history of [family medical history, if relevant].
+
+On examination, the patient was found to have [relevant physical findings, such as elevated blood pressure, abnormal laboratory values, etc.].
+
+Their preoperative laboratory results revealed [relevant findings, such as elevated blood glucose, abnormal electrolyte levels, etc.].
+
+The patient is currently on the following medications: [list of medications, including dosage].
+
+They have drug allergies to [specific medications], resulting in [describe allergic reaction, such as rash, anaphylaxis, etc.].
+
+The patient has been evaluated by [relevant specialists, such as the anesthesiologist, cardiologist, etc.].
+
+During their preoperative assessment, they were found to have [relevant findings, such as anemia, abnormal EKG, etc.], which were addressed prior to surgery.
+
+The patient has been informed of the risks, benefits, and alternatives of the surgery, and has provided informed consent.
+
+Their perioperative plan includes [specific details of the surgical procedure, anesthesia plan, prophylactic antibiotics, etc.].
+
+The patient will be closely monitored during surgery, with particular attention to [specific concerns, such as blood pressure, blood loss, etc.].
+
+Upon completion of surgery, the patient will be transferred to the post-anesthesia care unit (PACU) for recovery.
+
+In the PACU, the patient's vital signs and pain levels will be monitored regularly.
+
+Postoperatively, their analgesic regimen will include [specific medications and dosages].
+
+The patient will be encouraged to ambulate early after surgery to prevent complications such as deep vein thrombosis (DVT).
+
+The surgical incision will be assessed for signs of infection, and appropriate wound care will be provided.
+
+The patient will receive deep venous thrombosis prophylaxis such as intermittent pneumatic compression stockings or pharmacological agents as deemed necessary.
+
+They will also be assessed for signs of postoperative nausea and vomiting and provided antiemetic therapy as needed.
+
+The patient will undergo physical therapy to regain strength and mobility following surgery.
+
+They will receive nutritional support as necessary to aid in their recovery.
+
+Postoperative laboratory monitoring will include [specific lab tests, such as complete blood count, electrolytes, renal function tests, etc.].
+
+The patient's pain will be managed with a multimodal approach, including non-opioid analgesics and patient-controlled analgesia if needed.
+
+They will be closely monitored for signs of postoperative complications such as infection, bleeding, or respiratory distress.
+
+If any complications arise, appropriate interventions will be implemented promptly.
+
+The patient's postoperative course will be thoroughly documented, including their pain scores, vital signs, and overall progress.
+
+They will be discharged home once they have met designated discharge criteria, which include [criteria such as stable vital signs, adequate pain control, ability to tolerate oral intake, etc.].
+
+The patient will be provided with clear postoperative instructions, including wound care, medication management, and follow-up appointments.
+
+At their follow-up visit, the patient's surgical incision will be assessed for proper healing, and any ongoing concerns or complications will be addressed.
+
+Postoperatively, the patient did not experience any notable complications, such as acute renal failure.

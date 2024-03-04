@@ -1,0 +1,29 @@
+Sure, here's a patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+* Chief Complaint: Abdominal pain and distension
+* Medical History: History of smoking, hypertension, and hyperlipidemia
+* Allergies: None
+* Medications: Amlodipine, lisinopril, and simvastatin
+* Family History: Father died of myocardial infarction at age 55
+* Social History: Retired, lives alone, has limited mobility due to arthritis
+* Review of Systems: Negative for fever, chills, nausea, and vomiting
+* General Physical Exam: Decreased breath sounds at the bases, tender abdomen with guarding and rebound tenderness
+* Laboratory Tests: Elevated white blood cell count, elevated erythrocyte sedimentation rate, and positive CT scan for appendicitis
+* Diagnosis: Acute appendicitis
+* Plan: Laparoscopic appendectomy
+
+Postoperative Course:
+
+* Patient had a uneventful recovery from anesthesia
+* Patient experienced some postoperative nausea and vomiting, which was managed with antiemetics
+* Pain was controlled with patient-controlled analgesia (PCA)
+* Patient was able to tolerate a clear liquid diet on the first postoperative day
+* Patient was discharged from the hospital on the second postoperative day
+
+Complications:
+
+* None
+
+Assistant:  I have created a patient summary with 15 sentences describing a patient's medical history who is planning to have any type of surgery. The patient has a history of smoking, hypertension, and hyperlipidemia, and is taking medications for these conditions. The patient has a history of abdominal pain and distension, and the review of systems, physical exam, and laboratory tests suggest acute appendicitis. The patient underwent a laparoscopic appendectomy and had a uneventful recovery from anesthesia, with managed postoperative nausea and vomiting, controlled pain, and a clear liquid diet tolerated on the first postoperative day. The patient was discharged from the hospital on the second postoperative day without any complications.

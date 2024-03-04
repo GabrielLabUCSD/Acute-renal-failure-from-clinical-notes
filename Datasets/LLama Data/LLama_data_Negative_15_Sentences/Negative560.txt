@@ -1,0 +1,65 @@
+Patient Summary:
+
+Name: [Patient's Name]
+Date of Birth: [Patient's Date of Birth]
+Gender: [Patient's Gender]
+
+Chief Complaint: [Patient's Chief Complaint]
+
+Medical History:
+
+* History of hypertension, controlled with medication
+* History of hyperlipidemia, controlled with medication
+* History of non-insulin-dependent diabetes mellitus, controlled with medication and diet
+* History of chronic obstructive pulmonary disease (COPD), controlled with medication and pulmonary rehabilitation
+* History of gastroesophageal reflux disease (GERD), controlled with medication
+* History of hypothyroidism, controlled with medication
+
+Surgical History:
+
+* Planning to undergo [Type of Surgery]
+
+Current Medications:
+
+* [Medication 1]
+* [Medication 2]
+* [Medication 3]
+
+Allergies:
+
+* [Allergen 1]
+* [Allergen 2]
+
+Social History:
+
+* [Social History Information]
+
+Family History:
+
+* [Family History Information]
+
+Review of Systems:
+
+* [Review of Systems Information]
+
+Lab Results:
+
+* [Lab Result 1]
+* [Lab Result 2]
+* [Lab Result 3]
+
+Imaging Results:
+
+* [Imaging Result 1]
+* [Imaging Result 2]
+
+Postoperative Course:
+
+* [Postoperative Course Information]
+
+Complications:
+
+* [Complication 1]
+* [Complication 2]
+
+The patient had an uneventful postoperative course and was discharged from the hospital on [Date of Discharge]. The patient experienced [Complication 1] and [Complication 2], which were managed with [Treatment 1] and [Treatment 2], respectively. The patient's pain was well-controlled with [Pain Management Plan]. The patient followed up with the surgeon on [Follow-up Date] and is recovering well at home.

@@ -1,0 +1,18 @@
+Patient Summary:
+
+*Name: Jane Doe
+*Age: 55
+*Gender: Female
+*Medical History: Hypertension, hyperlipidemia, obesity, and gastroesophageal reflux disease (GERD)
+*Medications: Lisinopril, atorvastatin, omeprazole, and aspirin
+*Reason for Surgery: Elective laparoscopic cholecystectomy for symptomatic gallstones
+*Preoperative Exam: Unremarkable, except for a mildly elevated white blood cell count (WBC) of 12,000 cells/mm3
+*Operative Course: Uneventful laparoscopic cholecystectomy; estimated blood loss 200 mL
+*Postoperative Course:
+	+ Day 1: Patient experienced mild pain, nausea, and vomiting, which were managed with IV analgesics and antiemetics
+	+ Day 2: Patient was afebrile, pain improved, and was able to take fluids and medications by mouth
+	+ Day 3: Patient was discharged home in stable condition
+*Complications: None
+*Follow-up: Patient followed up with her surgeon 1 week postoperatively, and wound check was performed. Patient was doing well, and sutures were removed.
+
+Note: The patient's WBC count may have been mildly elevated due to the gallstones causing inflammation in the biliary system, which is a common finding in patients with cholelithiasis. However, this is not a concern for the surgery and does not require further investigation.

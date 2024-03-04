@@ -1,0 +1,62 @@
+Certainly! Here's a patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery, their postoperative course, and any complications they may have experienced, excluding acute renal failure:
+
+Patient Information:
+
+* Name: John Doe
+* Date of Birth: 02/02/1980
+* Gender: Male
+* Height: 5'10"
+* Weight: 180 lbs
+* BMI: 28
+* ASA Physical Status: III
+* Medical History:
+	+ Hypertension
+	+ Hyperlipidemia
+	+ History of smoking
+	+ History of alcohol abuse
+	+ Recent URI
+	+ History of asthma
+	+ History of allergies (penicillin, pollen, dust)
+	+ History of joint replacement surgery (left knee)
+	+ History of angina
+	+ History of cardiac arrhythmia
+	+ History of sleep apnea
+	+ History of depression
+	+ History of anxiety
+	+ History of chronic back pain
+	+ History of chronic obstructive pulmonary disease (COPD)
+	+ History of gastroesophageal reflux disease (GERD)
+	+ History of peptic ulcer disease
+	+ History of gallstones
+	+ History of thyroid disease
+	+ History of peripheral artery disease
+	+ History of pulmonary embolism
+	+ History of deep vein thrombosis
+	+ History of chronic kidney disease (CKD) Stage III
+
+Surgical Information:
+
+* Surgery: Left knee joint replacement
+* Date of Surgery: 03/15/2023
+* Surgeon: Dr. Jane Smith
+* Anesthesia: General
+* Duration of Surgery: 2 hours
+* Estimated Blood Loss: 500 mL
+* Fluid Management: Crystalloid (Lactated Ringer's solution) and blood transfusion as needed
+* Surgical Site: Left knee
+* Wound Closure: Staples
+* Postoperative Care:
+	+ Patient was taken to the PACU for recovery
+	+ Patient had a stable vital signs and was able to breathe on their own
+	+ Patient was able to drink water and take pain medication as needed
+	+ Patient was able to move their knee and perform exercises as instructed
+	+ Patient was monitored for bleeding, infection, and pulmonary complications
+	+ Patient was discharged home on postoperative day 3
+
+Complications:
+
+* Postoperative day 1: Patient experienced nausea and vomiting, which was managed with antiemetics
+* Postoperative day 2: Patient had a mild fever (100.4°F) and tachycardia, which resolved with antipyretics and fluids
+* Postoperative day 3: Patient had a small (1 cm) surgical site bleed, which was managed with local pressure and did not require any intervention
+
+I hope this summary provides a comprehensive overview of the patient's medical history, surgical information, and postoperative course. Please let me know if there is anything else I can assist you with.

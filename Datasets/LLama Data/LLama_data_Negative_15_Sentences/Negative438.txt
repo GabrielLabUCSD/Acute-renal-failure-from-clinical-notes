@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition] and is planned for [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert any pertinent surgical history]. The patient is currently taking [insert medications] and has no known allergies.
+
+Preoperative examination reveals a [insert physical examination findings]. Laboratory tests show [insert laboratory results]. The patient is at [insert risk level] risk for postoperative complications.
+
+The patient underwent [insert type of surgery] on [insert date] under [insert anesthesia type]. The surgery went smoothly, and the patient tolerated it well.
+
+Postoperatively, the patient had a [insert postoperative course], including [insert any complications or issues]. The patient was discharged on [insert date] and Followed up with the surgeon on [insert date].
+
+Overall, the patient had a successful surgery and uneventful postoperative course.
+
+<</SYS>>
+
+Note: This is a general template and should be customized based on the individual patient's medical history and postoperative course. It is important to include relevant information and avoid including irrelevant or unnecessary details.

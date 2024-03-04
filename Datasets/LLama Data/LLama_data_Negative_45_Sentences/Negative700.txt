@@ -1,0 +1,14 @@
+I'd be happy to help you create a patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery. However, I'll need some information from you to make sure the summary is accurate and relevant. Can you provide me with the following details:
+
+1. Patient's age, gender, and medical record number?
+2. Reason for surgery and type of surgery planned?
+3. Patient's medical history, including any previous surgeries, illnesses, or injuries?
+4. Patient's current medications and dosages?
+5. Any allergies or sensitivities to medications or materials?
+6. Patient's vital signs, including blood pressure, pulse, respiratory rate, and temperature?
+7. Any pre-existing medical conditions, such as diabetes, heart disease, or lung disease?
+8. Patient's smoking and alcohol use history?
+9. Any relevant family medical history?
+10. Patient's social history, including living arrangements, support system, and ability to care for themselves post-surgery?
+
+Once I have this information, I can create a comprehensive patient summary that includes the patient's medical history, postoperative course, and any potential complications that may arise during their surgery and recovery. I'll make sure to exclude acute renal failure as a complication as per your request.

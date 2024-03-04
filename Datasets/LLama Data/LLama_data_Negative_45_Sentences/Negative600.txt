@@ -1,0 +1,78 @@
+Sure, here's a patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient: John Doe
+Age: 65
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Diabetes mellitus
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use
+* Obesity (BMI 35)
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Hip replacement at age 55
+* History of colonoscopy and endoscopy
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Metformin for diabetes mellitus
+* Atorvastatin for hyperlipidemia
+* Aspirin for prevention of cardiovascular disease
+* Omeprazole for gastroesophageal reflux disease
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Social History:
+
+* Married with two adult children
+* Retired from full-time work
+* Enjoys golfing and gardening
+* Lives independently
+
+Reason for Surgery:
+
+* Elective total knee replacement for severe osteoarthritis
+
+Preoperative Examination:
+
+* Unremarkable physical examination
+* Normal electrolytes and renal function
+* No evidence of acute renal failure
+* Normal cardiac function
+* No significant respiratory disease
+* No evidence of active infection
+
+Intraoperative Course:
+
+* successful uneventful surgery
+* No complications during surgery
+
+Postoperative Course:
+
+* Patient had a successful uneventful postoperative course
+* No complications during hospital stay
+* Patient was discharged home on postoperative day 3
+* Follow-up appointment was scheduled for 2 weeks after discharge
+
+Complications:
+
+* None
+
+This patient summary includes relevant medical history, surgical history, current medications, allergies, family history, social history, reason for surgery, preoperative examination, intraoperative course, postoperative course, and complications. However, it does not include acute renal failure as a complication as requested.

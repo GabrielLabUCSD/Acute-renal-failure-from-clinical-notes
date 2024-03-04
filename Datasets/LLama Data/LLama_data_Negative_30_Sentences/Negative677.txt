@@ -1,0 +1,27 @@
+Patient Summary: 
+
+The patient is a 55-year-old male who presents with a history of chronic back pain and left leg radiculopathy.
+He has tried physical therapy, chiropractic care, and pain management without significant relief.
+MRI revealed a large lumbar disc herniation, which is likely causing his symptoms. 
+After a thorough discussion of risks and benefits, the patient elected to undergo a lumbar decompression surgery. 
+Preoperative examination and lab results were within normal limits, except for a slightly elevated BMI. 
+The patient had a uneventful surgery, lasting approximately 2 hours under general anesthesia.
+The patient was extubated in the operating room and transported to the post-anesthesia care unit (PACU) for recovery. 
+He experienced some nausea and vomiting in the PACU, which was managed with antiemetics. 
+The patient was discharged from the hospital the following day on postoperative day 1 (POD1). 
+He was advised to rest and avoid heavy lifting or bending for 6 weeks.
+He was prescribed pain medication, muscle relaxants, and physical therapy for postoperative management. 
+On POD 7, the patient reported increased pain and swelling at the incision site. 
+He was evaluated by his surgeon, who diagnosed him with a superficial surgical site infection (SSI). 
+The patient was started on antibiotics and underwent a course of wound care. 
+He required a brief hospitalization for iv antibiotics and wound care. 
+On POD 14, the patient was noted to have a decreased sensation in his left leg. 
+A neurological consult was done, and EMG/NCS revealed a new left common peroneal nerve palsy. 
+The patient was started on conservative management with physical therapy and brace. 
+On POD 21, the patient reported significant improvement in his pain and function. 
+He was able to ambulate without assistance and resumed his normal activities. 
+On POD 28, the patient reported minimal discomfort at the incision site and full recovery of his left leg function. 
+He was grateful for the surgical intervention and the outcome. 
+The patient had a postoperative follow-up appointment with his surgeon on POD 35, where he was noted to have a full recovery. 
+He was advised to continue with physical therapy and maintain good posture to prevent recurrence of his symptoms. 
+Overall, the patient had a successful surgical outcome and minimal complications related to his surgery.

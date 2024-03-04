@@ -1,0 +1,69 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertension
+* Hyperlipidemia
+* history of smoking
+* history of alcohol use
+* Obesity (BMI 35)
+* Diabetes mellitus type 2
+* history of coronary artery disease
+* history of peripheral artery disease
+* history of stroke
+* Chronic obstructive pulmonary disease (COPD)
+* Sleep apnea
+* history of joint replacement surgery
+
+Surgical History:
+
+* Planning to undergo elective total knee replacement surgery
+* Previous surgical history includes cholecystectomy, hernia repair, and cataract surgery
+
+Medications:
+
+* Aspirin 81 mg daily
+* Lisinopril 40 mg daily
+* Simvastatin 40 mg daily
+* Metformin 1000 mg twice daily
+* Oxycodone 5 mg as needed for pain
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Lab Results:
+
+* WBC: 12,000 cells/mm3
+* Hemoglobin: 14 g/dL
+* Platelets: 200,000 cells/mm3
+* BUN: 20 mg/dL
+* Creatinine: 1.5 mg/dL
+* Glucose: 180 mg/dL
+* Cholesterol: 200 mg/dL
+* Triglycerides: 150 mg/dL
+* INR: 2.5
+
+Imaging Results:
+
+* Knee X-ray shows severe osteoarthritis
+* CT scan of the knee shows no evidence of infection or soft tissue injury
+
+Postoperative Course:
+
+* Patient tolerated the procedure well
+* Had a stable postoperative course
+* Was able to ambulate within 24 hours of surgery
+* Had adequate pain control with oxycodone
+* Was discharged home on postoperative day 3
+
+Complications:
+
+* Developed a superficial wound infection that was treated with oral antibiotics
+* Experienced delayed wound healing due to smoking
+* Had a episode of postoperative nausea and vomiting that was treated with antiemetics
+* Had a mild drop in blood pressure on postoperative day 2 that was treated with a fluid bolus and vasopressors.

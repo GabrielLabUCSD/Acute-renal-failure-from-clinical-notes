@@ -1,0 +1,35 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history of [insert medical conditions, such as hypertension, diabetes, etc.]. They have been experiencing [insert symptoms, such as abdominal pain, shortness of breath, etc.] and have been diagnosed with [insert diagnosis, such as gallstones, hernia, etc.]. The patient is scheduled to undergo [insert type of surgery, such as laparoscopic cholecystectomy, hernia repair, etc.].
+
+Preoperative Medications:
+
+* [Insert medication, dosage, and frequency, such as metformin 500mg PO BID, aspirin 81mg PO daily]
+
+Allergies:
+
+* [Insert allergies, such as penicillin, sulfa drugs]
+
+Lab Results:
+
+* [Insert recent lab results, such as WBC 10,000/mm3, HbA1c 8.5%, etc.]
+
+Postoperative Course:
+
+The patient had an uncomplicated postoperative course. They were able to eat and drink without any issues and did not experience any nausea or vomiting. They had adequate pain control with [insert pain management plan, such as patient-controlled analgesia, etc.].
+
+Complications:
+
+* [Insert any complications that occurred during the postoperative period, such as wound infection, urinary retention, etc.]
+
+Discharge Instructions:
+
+* [Insert discharge instructions, such as follow-up appointments, wound care instructions, medication reconciliation, etc.]
+
+Follow-Up:
+
+The patient followed up with their surgeon on [insert date] and reported minimal discomfort and no complications. They were advised to continue their postoperative pain management plan and to follow up with their primary care physician for further management of their medical conditions.
+
+Conclusion:
+
+In summary, the patient underwent [insert type of surgery] and had an uncomplicated postoperative course. They were discharged home with appropriate instructions and follow-up appointments. The patient is expected to make a full recovery and will require ongoing management of their medical conditions.

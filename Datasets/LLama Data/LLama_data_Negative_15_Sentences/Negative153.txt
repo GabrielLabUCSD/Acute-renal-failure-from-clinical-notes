@@ -1,0 +1,37 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history of [insert pertinent medical history, such as hypertension, diabetes, hyperlipidemia, respiratory disease, etc.]. The patient has been taking [insert medications] and has had [insert any notable medical events, such as myocardial infarction, stroke, etc.].
+
+The patient is scheduled to undergo [insert type of surgery] and the expected postoperative course is [insert expected length of stay, medications, and any specific instructions or precautions].
+
+The patient does not have a history of acute renal failure. However, [insert any other relevant medical history, such as previous surgical complications, allergies, etc.].
+
+The patient"s family history is significant for [insert any significant medical history of family members, such as heart disease, cancer, etc.].
+
+The patient"s social history includes [insert any relevant information, such as smoking, alcohol use, living situation, etc.].
+
+The patient"s review of systems is positive for [insert any symptoms or concerns, such as pain, nausea, vomiting, etc.].
+
+The patient"s physical examination shows [insert any notable findings, such as vital sign abnormalities, abdominal distension, etc.].
+
+The patient"s laboratory test results are pending.
+
+The patient"s surgical team includes [insert names and roles of surgical team members, such as surgeon, anesthesiologist, etc.].
+
+The patient"s planned surgical procedure is [insert type of surgery] and the expected outcome is [insert expected outcome].
+
+The patient has been informed of the risks and benefits of the procedure and has provided informed consent.
+
+The patient"s postoperative care will include [insert any specific instructions or precautions, such as wound care, pain management, etc.].
+
+The patient"s follow-up appointment is scheduled for [insert date and time].
+
+The patient"s emergency contact is [insert name and contact information].
+
+The patient"s home medications are [insert medications and dosages].
+
+The patient"s medical history has been reviewed and updated in the electronic medical record.
+
+The patient"s surgical site has been marked and prepared for surgery.
+
+The patient is ready for surgery and is scheduled to go to the operating room at [insert time].

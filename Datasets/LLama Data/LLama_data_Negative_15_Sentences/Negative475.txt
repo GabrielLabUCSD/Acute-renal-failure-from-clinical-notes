@@ -1,0 +1,33 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* Diabetes mellitus type 2
+* Obstructive sleep apnea
+* History of heart disease with a myocardial infarction 10 years ago
+* History of stroke 5 years ago
+* Chronic obstructive pulmonary disease (COPD)
+* Gastroesophageal reflux disease (GERD)
+* Chronic low back pain
+
+Postoperative Course:
+
+* Patient underwent a successful coronary artery bypass graft (CABG) surgery
+* Patient experienced some postoperative pain, nausea, and vomiting, which were managed with medication
+* Patient was extubated on the first postoperative day and was able to breathe on his own
+* Patient was able to sit up and walk around on the second postoperative day
+* Patient experienced some constipation, which was managed with laxatives and stool softeners
+* Patient was discharged from the hospital on the fifth postoperative day
+
+Complications:
+
+* Patient developed a wound infection at the surgical site, which was treated with antibiotics
+* Patient experienced some postoperative delirium, which resolved with medication and counseling
+* Patient had a temporary drop in blood pressure during the immediate postoperative period, which was managed with fluids and medication.

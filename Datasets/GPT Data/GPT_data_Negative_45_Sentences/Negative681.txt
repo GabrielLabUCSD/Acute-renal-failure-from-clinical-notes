@@ -1,0 +1,35 @@
+The patient is a ____, ____-year-old individual who is planning to have surgery for ________. In terms of medical history, they have a past medical history of ____________.
+They have exhibited symptoms of _______, including ______ and _______.
+Their vital signs show no abnormalities, with a blood pressure of ____, heart rate of ____, respiratory rate of ____, and temperature of ____.
+The patient's physical examination reveals _______ findings, such as ________ and _________.
+Their laboratory results show _________, including _________ levels, ________ function, and __________.
+Previous surgeries include ________, which was performed ___ years ago.
+Current medications include ________, which is taken ____ times a day for ________.
+They have a known allergy to _________, which results in _________ symptoms.
+The patient's family history is notable for ________, ___________, and _________.
+They have a social history of ________, including ________ pack-years of smoking and ________ drinks per week.
+Their lung function tests show a forced expiratory volume in one second (FEV1) of _____% and a forced vital capacity (FVC) of _____%.
+The patient has had previous imaging studies, including ________, which revealed ___________.
+A previous electrocardiogram (ECG) showed ________ findings, including ________. 
+They have undergone cardiac stress testing, which showed no ischemic changes.
+Their echocardiogram revealed __________, with an ejection fraction of ______%.
+Preoperatively, the patient will need _________ to optimize their medical condition, including _________.
+They have been reassured about the procedure and understand the potential risks and benefits.
+The patient has been educated about postoperative management, including pain control, wound care, and activity restrictions.
+Postoperatively, they will receive _______ for pain control and ________ for infection prophylaxis.
+The patient will be monitored closely in the recovery room for any signs of ________ or _______.
+Their postoperative course was uneventful, and they were transferred to the surgical ward without complications.
+They were started on _____________, including ________ and _________.
+The patient has been mobilizing well with the assistance of physical therapy.
+Their vital signs have remained stable, with a blood pressure of ____, heart rate of ____, respiratory rate of ____, and temperature of ____.
+The surgical wound appears clean and demonstrates signs of normal healing, with no signs of infection.
+Laboratory results show _________, including _________ levels, _________ function, and __________.
+The patient's pain has been well controlled with ________.
+They have been adhering to the prescribed activity restrictions and have been participating in deep breathing exercises.
+There have been no complications in the postoperative course, including no signs of wound infection.
+The patient has been receiving regular visits from the surgical team to monitor their progress.
+They are scheduled for a follow-up appointment in ___ weeks to evaluate the surgical site and discuss long-term care.
+The patient has been educated about signs and symptoms to watch for and has been instructed to seek immediate medical attention if they notice any concerning symptoms.
+They have been provided with written and verbal discharge instructions, including medication reconciliation and follow-up care.
+The patient understands the importance of adhering to their postoperative care instructions and has expressed their willingness to comply.
+In summary, this patient is a ____-year-old individual planning to have surgery for ________. They have a medical history of _______, with symptoms of ________. Their preoperative workup shows _______. The patient has undergone previous surgeries, including ________, and takes medications for ________. They have known allergies to ________. Postoperatively, the patient's course has been uneventful, without complications. They will continue to be monitored and receive appropriate care.

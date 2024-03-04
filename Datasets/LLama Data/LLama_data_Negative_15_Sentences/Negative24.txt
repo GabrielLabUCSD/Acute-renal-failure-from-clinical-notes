@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old male who presents with a history of [insert medical condition] and is planning to undergo [insert type of surgery]. The patient has a history of [insert relevant medical history], including [insert relevant surgical history]. The patient"s current medications include [insert medications]. The patient has no known allergies.
+
+Preoperative evaluation revealed [insert relevant test results or medical findings]. The patient was cleared for surgery by their primary care physician and anesthesiologist.
+
+The surgery was performed on [insert date] and lasted for [insert duration]. The patient tolerated the procedure well and recovered uneventfully.
+
+Postoperatively, the patient experienced [insert any complications or adverse events], which were managed with [insert treatments or interventions]. The patient was discharged from the hospital on [insert date] and followed up with their surgeon on [insert date].
+
+At their follow-up appointment, the patient was doing well and had no complaints. They were advised to continue their medications as prescribed and to follow up with their primary care physician for further management.
+
+The patient"s postoperative course was uncomplicated, and they did not experience any acute renal failure or other major complications.
+
+Assistant: Is there anything else I can assist you with?

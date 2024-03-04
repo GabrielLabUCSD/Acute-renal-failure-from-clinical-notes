@@ -1,0 +1,55 @@
+Patient Summary: 
+
+The patient is a [age]-year-old [gender] who presents with a medical history of [medical condition 1], [medical condition 2], and [medical condition 3]. The patient has been experiencing [symptom 1], [symptom 2], and [symptom 3] and has been taking [medication 1], [medication 2], and [medication 3] to manage their symptoms. 
+
+The patient"s surgical history includes [previous surgery 1], [previous surgery 2], and [previous surgery 3]. The patient has also had [procedure 1], [procedure 2], and [procedure 3]. 
+
+The patient is allergic to [allergen 1], [allergen 2], and [allergen 3] and has a history of [adverse reaction 1], [adverse reaction 2], and [adverse reaction 3]. 
+
+The patient"s family medical history is significant for [family medical history 1], [family medical history 2], and [family medical history 3]. 
+
+The patient"s social history includes [social history 1], [social history 2], and [social history 3]. 
+
+The patient"s review of systems is positive for [system 1], [system 2], and [system 3]. 
+
+The patient"s physical examination reveals [physical finding 1], [physical finding 2], and [physical finding 3]. 
+
+The patient"s laboratory results show [lab result 1], [lab result 2], and [lab result 3]. 
+
+The patient"s imaging studies reveal [imaging finding 1], [imaging finding 2], and [imaging finding 3]. 
+
+The patient is planning to undergo [surgical procedure]. 
+
+The patient"s postoperative course is significant for [complication 1], [complication 2], and [complication 3]. 
+
+The patient"s hospital stay was prolonged due to [reason 1], [reason 2], and [reason 3]. 
+
+The patient required [intervention 1], [intervention 2], and [intervention 3] during their hospital stay. 
+
+The patient was discharged home on [date] with a plan for [follow-up 1], [follow-up 2], and [follow-up 3]. 
+
+The patient"s postoperative recovery was uneventful except for [ Exception 1], [exception 2], and [exception 3]   
+
+The patient"s current medications include [medication 1], [medication 2], and [medication 3]. 
+
+The patient is scheduled for follow-up appointment with [provider 1], [provider 2], and [provider 3]. 
+
+The patient was advised to follow up with [specialist 1], [specialist 2], and [specialist 3]. 
+
+The patient received [vaccine 1], [vaccine 2], and [vaccine 3] before discharge. 
+
+The patient"s prognosis is excellent except for [complication 4], [complication 5], and [complication 6]. 
+
+The patient is at risk for [risk factor 1], [risk factor 2], and [risk factor 3]. 
+
+The patient is advised to return to the emergency room if they experience [symptom 1], [symptom 2], and [symptom 3]. 
+
+The patient is advised to follow up with their primary care physician for [follow-up 1], [follow-up 2], and [follow-up 3]. 
+
+The patient is advised to avoid [activity 1], [activity 2], and [activity 3]. 
+
+The patient is advised to take [medication 1], [medication 2], and [medication 3] as directed. 
+
+The patient is advised to monitor their [vital sign 1], [vital sign 2], and [vital sign 3]. 
+
+The patient is advised to return for follow-up in [time frame 1], [time frame 2], and [time frame 3].

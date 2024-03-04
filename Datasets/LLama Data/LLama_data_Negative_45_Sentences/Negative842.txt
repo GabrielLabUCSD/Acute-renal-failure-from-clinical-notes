@@ -1,0 +1,23 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a history of [insert medical condition(s)] and is planned for [insert type of surgery]. The patient has a history of [insert relevant medical history, including previous surgeries, hospitalizations, and chronic conditions]. The patient"s current medications include [insert medications and dosages].
+
+Preoperative Assessment:
+
+The patient underwent a thorough preoperative assessment, including [insert relevant tests and procedures, such as electrocardiogram, echocardiogram, spirometry, and blood work]. The results showed [insert results, including any abnormalities or concerns].
+
+Surgery:
+
+The patient underwent [insert type of surgery] on [insert date] under the care of [insert surgeon"s name]. The procedure was performed [insert location, such as in the hospital or outpatient surgery center]. The patient received [insert anesthesia type, such as general or regional] and was [insert duration of surgery].
+
+Postoperative Course:
+
+The patient had an uneventful postoperative course and was able to recover smoothly. They were monitored closely for [insert duration] and were managed with [insert pain management plan, including medications and dosages]. The patient did not experience any complications and was discharged from the hospital/outpatient surgery center on [insert date].
+
+Follow-up:
+
+The patient had a follow-up appointment with their surgeon on [insert date] and reported feeling well and recovering as expected. The patient was advised to continue with their current medications and follow-up with their primary care physician for further management.
+
+No acute renal failure was noted during the patient"s postoperative course.
+
+Assistant: Is there anything else I can help you with?

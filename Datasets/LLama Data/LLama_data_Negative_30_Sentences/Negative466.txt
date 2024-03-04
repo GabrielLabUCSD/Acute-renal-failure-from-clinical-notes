@@ -1,0 +1,25 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. He previously had a myocardial infarction three years ago and has been compliant with medications and lifestyle modifications since then. He has no history of previous surgeries.
+
+On physical examination, his blood pressure is 130/80 mmHg, heart rate is 70 beats per minute, and oxygen saturation is 98% on room air. His respiratory system reveals no signs of obstruction or distress. His abdominal examination shows a soft, non-tender abdomen with no signs of guarding or rebound tenderness.
+
+The patient's electrolyte panel reveals a sodium level of 138 mEq/L, potassium level of 4.2 mEq/L, and chloride level of 102 mEq/L. His blood urea nitrogen (BUN) is 18 mg/dL, creatinine level is 1.2 mg/dL, and glucose level is 120 mg/dL. His liver function tests show a total bilirubin of 0.7 mg/dL, aspartate transaminase (AST) of 35 U/L, and alanine transaminase (ALT) of 40 U/L.
+
+The patient's complete blood count (CBC) shows a white blood cell count (WBC) of 10,000 cells/mcL, hemoglobin level of 14.2 g/dL, and platelet count of 200,000 cells/mcL. His International Normalized Ratio (INR) is 1.2.
+
+The patient's chest X-ray shows no signs of acute disease. His electrocardiogram (ECG) shows normal sinus rhythm with no signs of ischemia or infarction.
+
+The patient's surgical procedure goes smoothly without any intraoperative complications. He is transferred to the post-anesthesia care unit (PACU) for recovery and is closely monitored for any complications.
+
+Postoperative Course:
+
+The patient's postoperative course is uneventful, and he is transferred to the surgical ward on the first postoperative day. He experiences some mild postoperative pain, which is managed with medication. He is advised to ambulate as soon as possible to prevent deep vein thrombosis.
+
+On the second postoperative day, the patient develops a mild fever of 100.4°F (38°C), which is treated with antipyretics. His wound is clean and dry, and there is no signs of infection.
+
+The patient is discharged from the hospital on the fifth postoperative day, and he is advised to follow up with his surgeon in one week. He is also advised to continue his medications as prescribed and to monitor his wound for any signs of infection.
+
+Complications:
+
+The patient does not experience any complications during his hospital stay. He is closely monitored for signs of surgical site infection, respiratory compromise, and cardiovascular instability, but none of these complications occur.

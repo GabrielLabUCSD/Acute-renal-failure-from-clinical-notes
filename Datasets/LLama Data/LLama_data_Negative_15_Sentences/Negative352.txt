@@ -1,0 +1,35 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and degenerative disc disease. He has tried conservative management, including physical therapy and pain medication, without significant relief. The patient is a candidate for surgical intervention and is scheduled for a lumbar fusion.
+
+The patient has a history of hypertension and hyperlipidemia, and is currently taking medication to manage these conditions. He has no known allergies to medications and has a negative history of bleeding disorders.
+
+The patient's surgical history includes a cholecystectomy and a hernia repair. He has had no previous spinal surgeries.
+
+The patient's current medications include ibuprofen, tramadol, and atorvastatin. He has no known drug allergies.
+
+The patient is a nonsmoker and drinks alcohol occasionally.
+
+The patient's family medical history is significant for heart disease and stroke in his parents.
+
+The patient's review of systems is negative for any acute symptoms, including fever, chest pain, or shortness of breath.
+
+The patient's physical examination is notable for decreased lumbar range of motion and tenderness to palpation over the lumbar spine.
+
+The patient's MRI scan shows degenerative disc disease at an L4-L5 level with a large central disc protrusion.
+
+The patient's laboratory results are within normal limits, including a normal hemoglobin A1C and liver function tests.
+
+The patient's preoperative EKG shows no evidence of ischemia or arrhythmias.
+
+The patient's postoperative course is notable for a prolonged ICU stay due to respiratory failure.
+
+The patient required prolonged mechanical ventilation and developed pneumonia.
+
+The patient also developed a surgical site infection that was treated with antibiotics.
+
+The patient's hospital course was further complicated by a left brachiocephalic vein thrombosis that required anticoagulation therapy.
+
+The patient had a prolonged hospital stay of 14 days and required home health care upon discharge.
+
+The patient had a slow recovery and was not able to return to work for 6 months following surgery.

@@ -1,0 +1,25 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [list of comorbidities]. They are now presenting for [surgery type] and have met all preoperative requirements. The patient's surgical history includes [previous surgeries], and they have been compliant with all previous postoperative care instructions.
+
+In terms of medications, the patient is currently taking [list of medications], with no known drug allergies. They have been advised to hold their aspirin prior to surgery and have been given instructions on when to stop eating and drinking prior to the procedure.
+
+The patient's preoperative labs were within normal limits, and there were no significant findings on their preoperative chest X-ray or EKG. They underwent the necessary preoperative consultations with cardiology, pulmonology, and anesthesiology, which cleared them for surgery.
+
+During the surgery, the patient was placed under general anesthesia without complications. The procedure was performed [describe the surgical procedure] and lasted [duration]. The surgical team reported no unexpected findings and no intraoperative complications.
+
+Following the surgery, the patient was transferred to the post-anesthesia care unit (PACU) for recovery. In the PACU, they were monitored closely for any signs of respiratory distress, pain, or surgical site complications. The patient's vital signs remained stable throughout their stay in the PACU.
+
+For postoperative pain management, the patient was initially placed on intravenous patient-controlled analgesia (PCA) with [pain medication]. Their pain was well-controlled, and they were gradually transitioned to oral pain medications. The patient's pain scores remained within an acceptable range throughout their hospitalization.
+
+In terms of postoperative care, the patient was instructed on how to care for their incision site and any drains or dressings. They were encouraged to ambulate as tolerated and were provided with respiratory exercises to prevent postoperative complications such as pneumonia or deep vein thrombosis.
+
+The patient's postoperative course was uneventful, with no signs of infection or wound complications. They were able to tolerate a regular diet and maintain good oral intake. The patient was closely monitored for any signs of postoperative complications, including fever, increased pain, or changes in vital signs.
+
+On postoperative day [number], the patient's pain was well-controlled, and they were able to achieve self-care and participate in physical therapy sessions. Their incision site appeared to be healing well, with no signs of infection or dehiscence.
+
+No immediate postoperative complications were noted in the patient during their hospital stay. They did not experience any adverse reactions to medications, bleeding episodes, or postoperative organ dysfunction. However, it is important to note that the patient had a history of chronic kidney disease, which was stable preoperatively.
+
+The patient was discharged from the hospital on postoperative day [number] with instructions for follow-up care and any necessary lifestyle modifications. They were given prescriptions for postoperative pain management and advised on when to resume their regular medications.
+
+During the postoperative period, the patient maintained good communication with their surgical team and promptly reported any concerns or new symptoms. They followed all postoperative instructions and attended their scheduled follow-up appointments without any issues.
+
+In summary, this patient underwent [surgery type] without any intraoperative or immediate postoperative complications. Their recovery was uneventful, and they were able to return to their baseline activities of daily living. Regular follow-up and surveillance will be necessary, especially considering their history of chronic kidney disease.

@@ -1,0 +1,57 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left leg radiculopathy. The patient has a history of cigarette smoking and a family history of cardiovascular disease. The patient has tried physical therapy and pain management without significant relief. The patient is scheduled for a lumbar fusion surgery.
+
+Preoperative medications include atorvastatin, metoprolol, and gabapentin. The patient has no known allergies.
+
+The patient's surgical history includes a cholecystectomy and a hernia repair. The patient has no history of previous back surgeries.
+
+The patient's medical history includes hypertension, hyperlipidemia, and chronic kidney disease stage 3.
+
+The patient's physical examination reveals a scar on the abdomen consistent with a previous laparotomy. The patient has decreased sensation in the L4-S1 dermatomes and decreased reflexes in the knee and ankle.
+
+The patient's lab results show a white blood cell count of 10,000, hemoglobin of 12.0, platelets of 200,000, creatinine of 1.8, and a glomerular filtration rate of 80.
+
+The patient's EKG shows normal sinus rhythm with a heart rate of 70.
+
+The patient's chest x-ray shows no acute disease.
+
+The patient's echocardiogram shows a left ventricular ejection fraction of 55%.
+
+The patient's pulmonary function test shows a forced expiratory volume in one second (FEV1) of 80% of predicted and a forced vital capacity (FVC) of 85% of predicted.
+
+The patient's thyroid function test shows a T4 of 70 and a TSH of 3.
+
+The patient's blood culture is negative.
+
+The patient's urinalysis shows a pH of 5.0, protein of 100 mg/dL, blood of 5 RBC/HPF, and WBC of 5/HPF.
+
+The patient's MRI of the lumbar spine shows a grade 1 spondylolisthesis of L4 on L5 and a large central disc protrusion at L4-L5.
+
+The patient's postoperative course is uneventful. The patient is extubated in the operating room and transferred to the post-anesthesia care unit (PACU).
+
+The patient experiences minimal nausea and vomiting in the PACU, which is managed with ondansetron and fluids.
+
+The patient's pain is managed with patient-controlled analgesia (PCA) and is titrated to comfort.
+
+The patient is transferred to the surgical floor on postoperative day (POD) 1 and is mobilized with physical therapy on POD 2.
+
+The patient's wound is clean and dry, and there are no signs of infection.
+
+The patient's urinary output is adequate, and there are no signs of urinary retention or bladder dysfunction.
+
+The patient experiences some constipation, which is managed with laxatives and stool softeners.
+
+The patient's blood glucose levels are monitored and managed with sliding scale insulin.
+
+The patient's respiratory status is monitored with pulse oximetry, and there are no signs of respiratory distress.
+
+The patient's blood pressure is managed with medication and remains stable throughout the postoperative period.
+
+The patient experiences some anxiety, which is managed with benzodiazepines.
+
+The patient is discharged home on POD 7 with a follow-up appointment with the surgeon in 2 weeks.
+
+The patient's postoperative complications include mild nausea and vomiting, constipation, and anxiety.
+
+The patient's postoperative recovery is otherwise uneventful, and there are no signs of surgical site infection, urinary retention, or respiratory compromise.

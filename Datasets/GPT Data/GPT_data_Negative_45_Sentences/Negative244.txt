@@ -1,0 +1,21 @@
+The patient is a [age]-year-old [gender] with a medical history significant for [list of past medical conditions]. They have been experiencing [symptom(s)] for [duration of symptoms]. Previous surgeries include [list of past surgeries]. The patient is scheduled to undergo [type of surgery] due to [reason for surgery]. The surgical procedure is expected to be [length of procedure].
+
+Current medications include [list of medications], with a reported allergic reaction to [specific medication or class of medications]. The patient's vital signs are stable, with blood pressure [BP], heart rate [HR], respiratory rate [RR], and oxygen saturation [SpO2] within normal limits. Laboratory results show [list of relevant lab values].
+
+During the preoperative evaluation, the patient's surgeon confirmed that they have obtained informed consent and discussed the risks, benefits, and alternatives of the procedure. The patient understands and agrees to proceed with the surgery.
+
+Anesthesia will be administered by the anesthesiologist to maintain the patient's comfort and safety throughout the procedure. Preoperative medications will include [list of preoperative medications]. The patient will be placed under general anesthesia with endotracheal intubation and positioned [specific positioning].
+
+Intraoperatively, the surgical team will perform [specific surgical steps or techniques]. The estimated blood loss is anticipated to be [expected blood loss]. The intraoperative course is expected to be uneventful.
+
+Postoperatively, the patient will be transferred to the post-anesthesia care unit (PACU) or intensive care unit (ICU) for close monitoring. Analgesia will be managed with [pain management plan]. The patient will be encouraged to use incentive spirometry and ambulation to prevent complications.
+
+Complications that may arise postoperatively could include [potential complications relevant to the specific surgery and patient's medical history]. However, it is important to note that acute renal failure is not anticipated as a complication based on the patient's history.
+
+The patient's postoperative recovery will involve [specific postoperative care, such as wound care, medication adjustments, physical therapy, etc.]. The surgical team will closely monitor the patient for signs of infection, bleeding, or other complications. Follow-up appointments with the surgeon will be scheduled to assess the patient's progress and address any concerns.
+
+As of [specific postoperative day], the patient's course has been [describe the patient's progress, such as stable, improving, or with the mention of any concerns]. The patient has been experiencing [symptom(s) commonly associated with the surgery]. The surgical incision is [describe the incision's appearance, such as intact, well-approximated, or signs of infection]. Pain management has been effective, with the patient reporting [level of pain on a numeric scale]. The patient is ambulating independently and tolerating a regular diet.
+
+At this time, the patient has not experienced any major complications, such as wound dehiscence, deep vein thrombosis, or pulmonary embolism. Laboratory results have been within normal limits, indicating appropriate recovery. It is important to continue monitoring the patient closely for any evolving complications.
+
+In summary, the patient is a [age]-year-old [gender] with a medical history significant for [conditions]. They are scheduled to undergo [type of surgery] due to [reason for surgery]. The surgery is anticipated to last [length of procedure], during which the surgical team will perform [specific steps]. The patient's postoperative course has been [describe progress], and no major complications, including acute renal failure, have been noted thus far.

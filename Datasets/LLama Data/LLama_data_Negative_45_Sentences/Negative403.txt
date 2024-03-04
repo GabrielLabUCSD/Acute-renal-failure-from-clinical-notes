@@ -1,0 +1,66 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* Hypertension, controlled with medication
+* Hyperlipidemia, controlled with medication
+* History of smoking, quit 10 years ago
+* History of alcohol use, stopped 5 years ago
+* Chronic lower back pain, managed with physical therapy and medication
+* Previous appendectomy 20 years ago
+* Previous cholecystectomy 10 years ago
+* History of non-insulin-dependent diabetes mellitus, controlled with medication and diet
+
+Surgical History:
+
+* Planning to undergo elective lumbar fusion surgery for chronic lower back pain
+* Previous surgical history includes appendectomy and cholecystectomy
+
+Medications:
+
+* Current medications include atorvastatin, lisinopril, metformin, and ibuprofen
+* No known allergies to medications
+
+Lab Results:
+
+* Latest blood work shows normal liver and kidney function
+* Fasting blood glucose level within normal limits
+* Normal complete blood count
+
+ECG Results:
+
+* Normal electrocardiogram (ECG) results
+
+Imaging Studies:
+
+* MRI of the lumbar spine shows multilevel degenerative disc disease and spinal stenosis
+
+Vital Signs:
+
+* Blood pressure: 120/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 12 breaths/min
+* Temperature: 98.6°F (37°C)
+
+Postoperative Course:
+
+* Patient underwent successful lumbar fusion surgery
+* Postoperative recovery was uneventful
+* Patient experienced minimal pain, managed with pain medication
+* Patient was able to ambulate independently within 24 hours
+* Patient was discharged from the hospital on postoperative day 3
+
+Complications:
+
+* None noted during hospital stay or follow-up visits
+
+Follow-up:
+
+* Follow-up appointment scheduled for 1 week after discharge
+* Patient advised to continue physical therapy to improve mobility and strength
+* Patient instructed to follow-up with primary care physician and orthopedic surgeon for ongoing management of medical and surgical conditions.
+
+This summary includes the patient's medical history, surgical history, medications, lab results, ECG results, vital signs, postoperative course, and potential complications. It does not include acute renal failure as a complication, as requested.

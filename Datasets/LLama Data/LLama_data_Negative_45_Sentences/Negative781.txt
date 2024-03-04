@@ -1,0 +1,29 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for surgical intervention. He has a medical history of hypertension, hyperlipidemia, and obesity. The patient has a history of smoking but quit 5 years ago. He denies any substance abuse or allergies.
+
+The patient"s surgical history includes a cholecystectomy 10 years ago and a hernia repair 5 years ago. He has no history of cardiovascular disease or respiratory disease.
+
+The patient"s current medications include atorvastatin, lisinopril, and metformin. He takes no herbal supplements.
+
+The patient"s family medical history reveals that his father died of a myocardial infarction at 60 years old. His mother has hypertension and hyperlipidemia.
+
+The patient"s social history includes working as a construction worker and is currently unemployed. He has a supportive family and denies any current or past substance abuse.
+
+The patient"s review of systems is positive for abdominal pain, nausea, and vomiting. He denies any shortness of breath, chest pain, or palpitations.
+
+On examination, the patient"s blood pressure is 150/90 mmHg, pulse 80/min, respiratory rate 12/min, and temperature 98.6°F. His BMI is 35.
+
+The patient"s lab results reveal a WBC count of 12,000/μL, hemoglobin A1C 8.5%, and an elevated liver function test.
+
+The patient"s imaging studies, including a CT scan of the abdomen and pelvis, reveal a possible gallstone.
+
+The patient"s surgical plan includes a laparoscopic cholecystectomy. The patient is informed of the risks, benefits, and alternatives of the procedure and provides informed consent.
+
+Postoperative course:
+The patient experiences a smooth postoperative course. He is afebrile and has stable vital signs. He is tolerating liquids and has a soft diet. He is ambulating independently and has minimal pain.
+
+Complications:
+The patient does not experience any complications in the immediate postoperative period.
+
+Assistant: Here is a summary of the patient"s medical history and surgical plan. Please review and let me know if there are any corrections before I forward it to the surgeon.

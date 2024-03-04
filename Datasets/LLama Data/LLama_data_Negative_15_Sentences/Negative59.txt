@@ -1,0 +1,43 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery.
+
+He has a history of hypertension, hyperlipidemia, and non-insulin dependent diabetes mellitus.
+
+The patient had a myocardial infarction 5 years ago and has been compliant with medications and lifestyle modifications since then.
+
+He has no history of respiratory or neurological disease.
+
+The patient is a former smoker and quit 2 years ago.
+
+He has a body mass index (BMI) of 34 and is considered obese.
+
+The patient's surgical history includes a cholecystectomy 10 years ago and a hernia repair 5 years ago.
+
+He has no history of bleeding disorders or previous blood transfusions.
+
+The patient is allergic to penicillin and has a history of anaphylaxis.
+
+His current medications include lisinopril, atorvastatin, metformin, and aspirin.
+
+The patient's last laboratory tests showed a creatinine level of 1.2 mg/dL and a hemoglobin A1C of 7.5%.
+
+He has a history of chronic lower back pain and uses hydrocodone as needed.
+
+The patient's family history includes a mother with breast cancer and a father with colon cancer.
+
+He is married and has two children.
+
+The patient's social history includes a history of alcohol use disorder, but he has been sober for 5 years.
+
+He works as an accountant and plans to take 2 weeks off work for recovery after surgery.
+
+The patient's postoperative course was uneventful. He experienced some nausea and vomiting on the first postoperative day, but it was managed with antiemetics.
+
+He did not develop any complications during his hospital stay and was discharged on postoperative day 3.
+
+The patient followed up with his surgeon 2 weeks after discharge and reported minimal pain and no complications.
+
+He was able to return to work 4 weeks after surgery and resumed his normal activities without restrictions.
+
+No further complications were reported during follow-up appointments.

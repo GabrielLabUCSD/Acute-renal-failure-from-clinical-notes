@@ -1,0 +1,102 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: January 1, 1970
+
+Gender: Male
+
+Chief Complaint: The patient presents with a 2-year history of chronic low back pain, radiating to the right leg, and numbness in the right foot.
+
+Medical History:
+
+* History of smoking (20 pack-years)
+* Hypertension
+* Hyperlipidemia
+* Obesity (BMI 35)
+* Sleep apnea
+* History of asthma
+* Allergic rhinitis
+* Osteoarthritis
+* Chronic kidney disease (stage 2)
+* History of peptic ulcer disease
+* History of glaucoma
+* History of COPD
+* History of osteoporosis
+
+Surgical History:
+
+* Appendectomy at age 10
+* Cholecystectomy at age 40
+* Hip replacement surgery at age 60
+
+Medications:
+
+* Lisinopril 40mg daily
+* Atorvastatin 20mg daily
+* Alprazolam 0.5mg daily
+* Naproxen 500mg daily
+* Omeprazole 40mg daily
+* Inhaler (fluticasone and salmeterol) 2 puffs bid
+
+Family History:
+
+* Father died of myocardial infarction at age 65
+* Mother died of breast cancer at age 70
+* One sibling with hypertension
+* One sibling with diabetes
+
+Social History:
+
+* Married with two adult children
+* Retired from full-time work
+* Enjoys playing golf and hiking
+* Denies any recent travel or exposure to illness
+
+Review of Systems:
+
+* No recent fever, chest pain, or shortness of breath
+* No changes in bowel or bladder habits
+* No history of seizures or neurological symptoms
+* No history of thyroid disease or liver disease
+
+Physical Examination:
+
+* Blood pressure: 140/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F
+* Weight: 250 lbs
+* Height: 5'10"
+* BMI: 35
+* Presents with a scar on the right lower extremity from a previous surgery
+* Decreased sensation to light touch and pain in the right foot and ankle
+* Decreased range of motion in the right knee and ankle
+* No obvious deformities or abnormalities of the spine
+
+Laboratory Results:
+
+* WBC: 10,000/mm3
+* Neutrophils: 60%
+* Lymphocytes: 30%
+* Monocytes: 8%
+* Eosinophils: 2%
+* Basophils: 1%
+* Hemoglobin: 12 g/dL
+* Hematocrit: 36%
+* MCV: 90 fl
+* MCH: 32 pg
+* MCHC: 36%
+* Platelet count: 200,000/mm3
+* BUN: 20 mg/dL
+* Creatinine: 1.2 mg/dL
+* Glomerular filtration rate (GFR): 60 mL/min
+* Total protein: 7.0 g/dL
+* Albumin: 3.5 g/dL
+* Lipase: 150 U/L
+* Amylase: 100 U/L
+* Alkaline phosphatase: 120 U/L
+* Prothrombin time (PT): 12 seconds
+* Partial thromboplastin time (PTT): 30 seconds
+* INR: 1.0
+* Urinalysis: No proteinuria,

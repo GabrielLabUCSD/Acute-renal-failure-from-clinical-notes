@@ -1,0 +1,76 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+Age: 65
+Sex: Male
+
+Medical History:
+
+* Hypertension for 10 years
+* Hyperlipidemia for 5 years
+* Smoker for 20 years
+* History of alcohol abuse
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* History of non-insulin-dependent diabetes mellitus (NIDDM) for 5 years
+* History of hypothyroidism
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Right knee arthroscopy at age 50
+* Left knee arthroscopy at age 55
+
+Current Medications:
+
+* Amlodipine 5mg daily for hypertension
+* Simvastatin 20mg daily for hyperlipidemia
+* Oxycodone 5mg q4h for chronic lower back pain
+* Metformin 500mg twice daily for NIDDM
+* Levothyroxine 50mcg daily for hypothyroidism
+
+Allergies:
+
+* Penicillin
+* Codeine
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* Denies any recent travel or exposure to illness
+* Lives in a two-story house with no elevator
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Reason for Surgery:
+
+* Elective total knee arthroplasty for severe osteoarthritis
+
+Expected Postoperative Course:
+
+* Postoperative day 1: Patient will be transferred to the surgical floor and will receive IV analgesics and anti-inflammatory medications for pain management.
+* Postoperative day 2-3: Patient will continue to receive IV analgesics and anti-inflammatory medications. Will be encouraged to ambulate with assistance and perform deep breathing exercises to prevent pulmonary complications.
+* Postoperative day 4-5: Patient will be transitioned to oral analgesics and will continue to ambulate with assistance. Will also start physical therapy to improve strength and mobility.
+* Postoperative day 6-7: Patient will continue to receive oral analgesics and anti-inflammatory medications. Will be encouraged to ambulate independently and perform exercises to improve strength and mobility.
+* Postoperative day 8-10: Patient will be discharged home with home health care services for continued physical therapy and pain management.
+
+Potential Complications:
+
+* Deep vein thrombosis (DVT)
+* Pulmonary embolism (PE)
+* Infection
+* Bleeding
+* Nerve damage
+* Wound complications (e.g. dehiscence, hernia)
+* Urinary retention
+* Respiratory complications (e.g. pneumonia, respiratory failure)
+* Cardiac complications (e.g. MI, arrhythmia)
+
+I hope this sample patient summary is helpful! Please note that this is just an example and should be tailored to the specific patient and surgical procedure.

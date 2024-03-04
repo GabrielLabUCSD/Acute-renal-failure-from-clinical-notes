@@ -1,0 +1,48 @@
+The patient is a 65-year-old male who is planning to have surgery. He has a medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia.
+His hypertension is well-controlled with medication, and his blood pressure is usually around 130/80 mmHg.
+He has been diagnosed with diabetes mellitus type 2 for the past 10 years and manages it with diet, exercise, and medication.
+His blood sugar levels are well-maintained with a HbA1c of 6.5%.
+He also has hyperlipidemia, with his cholesterol levels being slightly elevated.
+He takes a statin to manage his cholesterol levels and his last lipid panel showed a total cholesterol of 220 mg/dL.
+Aside from his chronic conditions, the patient has no known drug allergies.
+He does not smoke and does not consume alcohol regularly.
+He leads a sedentary lifestyle but tries to incorporate light exercises into his routine.
+The patient's surgical procedure is scheduled to address a gallbladder issue, with cholecystectomy being the planned intervention.
+During the pre-operative assessment, his cardiopulmonary function was evaluated and deemed adequate for surgery.
+His electrocardiogram showed a normal sinus rhythm with no signs of ischemia or arrhythmias.
+His chest X-ray revealed no signs of pulmonary infiltrates or congestion.
+His lab workup showed normal complete blood count, renal function, and liver function.
+The patient's renal function, assessed through serum creatinine and blood urea nitrogen levels, falls within the normal range.
+His liver enzymes, including alanine transaminase and aspartate transaminase, are also within normal limits.
+The patient's medical team has assessed him as having a low perioperative risk and given him clearance for surgery.
+The surgical procedure is expected to be performed under general anesthesia.
+The patient has been instructed to fast for at least 8 hours prior to the procedure.
+He has been provided with instructions on pre-operative hygiene, including bathing with antiseptic soap.
+The patient has been informed about the risks and benefits of the surgery, as well as alternatives and expected outcomes.
+He has provided informed consent for the procedure.
+Post-operative pain management options, including the use of opioids, have been discussed with the patient.
+The patient has expressed concerns about the risk of opioid addiction and requested alternatives for pain control.
+His medical team has provided non-opioid pain management options, such as nonsteroidal anti-inflammatory drugs and local anesthetics.
+During the surgery, the patient experiences a complication of acute renal failure.
+His urine output decreases, and his serum creatinine and blood urea nitrogen levels become elevated.
+The patient's medical team immediately intervenes by ensuring adequate fluid resuscitation and discontinuing any nephrotoxic medications.
+They also continue close monitoring of his renal function and overall hemodynamic status.
+The patient is started on renal replacement therapy in the form of continuous renal replacement therapy (CRRT).
+CRRT is initiated to provide adequate renal support and manage the patient's fluid and electrolyte imbalances.
+The medical team closely monitors the patient's urine output and adjusts the CRRT parameters to optimize renal function.
+The patient's urine output gradually improves, and his serum creatinine and blood urea nitrogen levels decrease.
+The patient's acute renal failure is determined to be post-renal in nature, most likely due to obstruction caused by surgical complications.
+After appropriate management and intervention, the patient's renal function stabilizes, and he does not require long-term renal replacement therapy.
+The patient's perioperative acute renal failure is determined to be a temporary and reversible complication.
+The patient is closely monitored throughout his recovery and receives appropriate follow-up care to ensure his renal function continues to improve.
+He is started on medication to prevent future episodes of renal failure, such as angiotensin-converting enzyme inhibitors or angiotensin receptor blockers.
+The patient is discharged home in stable condition with instructions for post-operative care and follow-up appointments.
+He is instructed to continue with his regular medications for hypertension, diabetes mellitus, and hyperlipidemia.
+The patient is advised to manage his diabetes with appropriate diet, exercise, and medication adherence.
+He is cautioned to closely monitor his blood sugar levels and report any significant changes to his healthcare provider.
+The patient is also instructed to maintain a heart-healthy lifestyle, including regular exercise, a balanced diet, and compliance with lipid-lowering medication.
+The patient's surgical incision is healing well, and he is advised to follow the provided wound care instructions.
+He is instructed to attend post-operative follow-up appointments for wound assessment and overall recovery evaluation.
+The patient is counseled on the signs and symptoms of potential complications, such as infection or recurrence of gallbladder issues.
+He is advised to seek prompt medical attention if he experiences any concerning symptoms.
+The patient's surgical experience and subsequent acute renal failure emphasize the importance of comprehensive pre-operative evaluation, risk assessment, and careful management of potential complications in patients undergoing surgery.

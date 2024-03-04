@@ -1,0 +1,53 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* History of hypertension, controlled with medication
+* History of hyperlipidemia, controlled with medication
+* History of diabetes mellitus, controlled with medication and diet
+* History of obesity, BMI 35
+* History of smoking, 20 pack-years
+* History of alcohol use disorder, currently in remission
+
+Surgical History:
+
+* Cholecystectomy 10 years ago
+* Appendectomy 5 years ago
+
+Current Medications:
+
+* Amlodipine 10 mg daily
+* Atorvastatin 20 mg daily
+* Metformin 1000 mg daily
+* Glipizide 10 mg daily
+* Aspirin 81 mg daily
+* Pantoprazole 40 mg daily
+
+Allergies:
+
+* Penicillin
+
+Social History:
+
+* Married with two adult children
+* Works as a sales representative
+* Denies recent travel or exposure to illness
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Expected Postoperative Course:
+
+* 2-3 days hospital stay
+* Pain management with patient-controlled analgesia (PCA) and nonsteroidal anti-inflammatory drugs (NSAIDs)
+* Clear liquids starting on postoperative day 1, advanced diet as tolerated
+* Postoperative evaluations by surgical and anesthesia teams
+
+Complications:
+
+* None anticipated
+
+I hope this helps! Please note that patient information and medical details may vary depending on the individual case, and this summary is just an example.

@@ -1,0 +1,30 @@
+The patient, a 55-year-old male, has a medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia.
+He has been managing these conditions with medications, including metformin, lisinopril, and atorvastatin.
+He is a non-smoker and does not consume alcohol.
+Furthermore, the patient has a family history of cardiovascular diseases, with his father having had a myocardial infarction at a young age.
+During the pre-operative evaluation, it was discovered that the patient had an elevated blood pressure of 160/90 mmHg.
+His blood glucose levels were well-controlled, with a fasting blood sugar of 120 mg/dL.
+Additionally, his lipid profile was within normal limits, with a total cholesterol of 180 mg/dL and LDL cholesterol of 100 mg/dL.
+The patient reported no known drug allergies.
+His physical examination revealed no abnormalities in the cardiovascular or respiratory systems.
+Furthermore, his laboratory results showed normal kidney and liver function tests.
+An ECG was performed, which showed no signs of ischemia or arrhythmias.
+The patient's surgical procedure involves the removal of a benign mass from his left lung.
+He has had a computed tomography (CT) scan of the chest, which confirmed the presence of the mass and its benign nature.
+The procedure will be performed under general anesthesia.
+During the surgery, the patient will have invasive monitoring, with an arterial line for blood pressure monitoring and a central venous line for fluid administration.
+The anesthesia team will also place a urinary catheter for accurate measurement of urine output during and after the surgery.
+Following the surgery, the patient will be closely monitored in the post-anesthesia care unit (PACU) for any signs of complications, such as bleeding, infection, or respiratory distress.
+He will be given appropriate pain medications to manage post-operative pain.
+The patient will also be started on deep breathing and coughing exercises to prevent respiratory complications.
+During the first post-operative day, the patient developed acute renal failure, with elevated creatinine and decreased urine output.
+His blood pressure remained elevated at 170/100 mmHg.
+The nephrology team was consulted and started the patient on intravenous fluids and a diuretic to improve urine output and manage his blood pressure.
+Further investigations, including renal ultrasound and urine analysis, were performed to determine the cause of the acute renal failure.
+The ultrasound showed no signs of obstruction or structural abnormalities in the kidneys.
+The urine analysis revealed no red or white blood cells, ruling out any inflammatory or infectious causes of the renal failure.
+Given the patient's previous medical history of hypertension and diabetes, the nephrologist concluded that the acute renal failure was likely caused by perioperative renal ischemia.
+The patient's acute renal failure was managed conservatively, with strict volume control, blood pressure management, and monitoring of renal function.
+Over the next several days, the patient's renal function gradually improved, with a return to baseline creatinine levels and increased urine output.
+He was able to discontinue dialysis and was discharged from the hospital with instructions for close follow-up with the nephrology team.
+Overall, the patient's surgery had a successful outcome, with the removal of the benign mass. However, his experience of acute renal failure served as a reminder of the importance of careful perioperative management to prevent complications in high-risk patients.

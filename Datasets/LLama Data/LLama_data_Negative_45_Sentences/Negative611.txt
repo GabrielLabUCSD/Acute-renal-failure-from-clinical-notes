@@ -1,0 +1,60 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 55-year-old male
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* Diabetes mellitus type II
+* Obstructive sleep apnea
+* Chronic lower back pain
+* Previous lumbar fusion surgery
+* Previous knee replacement surgery
+* Previous hernia repair surgery
+* Family history of heart disease
+* Family history of stroke
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for diabetes mellitus type II
+* Pregabalin for chronic pain
+* Oxycodone for chronic pain
+* Aspirin for prevention of cardiovascular disease
+
+Allergies:
+
+* Penicillin
+* Sulfa
+
+Preoperative Tests:
+
+* Electrocardiogram (ECG)
+* Echocardiogram
+* Stress test
+* Complete blood count (CBC)
+* Basic metabolic panel (BMP)
+* Urinalysis
+
+Surgical Procedure:
+
+* Elective lumbar decompression surgery
+
+Postoperative Course:
+
+* Postoperative day 1: Patient is doing well, hydrated, and has minimal pain.
+* Postoperative day 2: Patient has some nausea and vomiting, but otherwise stable.
+* Postoperative day 3: Patient has some discomfort and is taking pain medication as needed.
+* Postoperative day 4: Patient is able to ambulate and has minimal pain.
+* Postoperative day 5: Patient is discharged home with instructions to follow up with surgeon in 7-10 days.
+
+Complications:
+
+* None
+
+Assistant:  I hope this sample patient summary helps! Please note that this is just an example and should be tailored to the individual patient's unique medical history, medications, and surgical procedure. It's also important to include any relevant complications or postoperative events that may impact the patient's care plan.

@@ -1,0 +1,29 @@
+15 sentences patient summary for surgery and acute renal failure complication:
+
+1. The patient is a 55-year-old male.
+2. He has a history of hypertension and hyperlipidemia.
+3. He has been a smoker for the past 20 years.
+4. He has a history of Non-alcoholic fatty liver disease.
+5. He was recently diagnosed with type 2 diabetes.
+6. He has a history of obstructive sleep apnea.
+7. He is allergic to penicillin and sulfa drugs.
+8. He is currently taking aspirin, lisinopril, and atorvastatin.
+9. He has a history of gastroesophageal reflux disease.
+10. He has had a cholecystectomy in the past.
+11. He has had a history of chronic lower back pain.
+12. He has been experiencing worsening left knee pain for the past year.
+13. He has been scheduled for a total knee replacement surgery.
+14. He developed acute renal failure post-operatively from the surgery.
+15. He is currently in the intensive care unit being monitored and treated for acute renal failure.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+After the surgery, the patient developed acute renal failure, which is a common complication in patients who have undergone major surgery, especially those with pre-existing renal impairment. The patient's kidneys were unable to recover from the surgical stress, leading to a buildup of waste products in the blood.
+
+The patient's acute renal failure was further complicated by his pre-existing medical conditions, such as hypertension and diabetes, which can also affect kidney function. Additionally, the patient's use of certain medications, such as nonsteroidal anti-inflammatory drugs (NSAIDs), may have contributed to the development of acute renal failure.
+
+The patient's acute renal failure was diagnosed through a combination of physical examination, laboratory tests, and imaging studies. Laboratory tests showed elevated levels of creatinine and blood urea nitrogen (BUN), indicating impaired renal function. Imaging studies, such as ultrasound or CT scans, may have been used to evaluate the kidneys and rule out other potential causes of acute renal failure.
+
+Treatment of acute renal failure in this patient involved prompt identification and management of the underlying cause, as well as supportive care to help the kidneys recover. This included fluid management, medications to control electrolyte levels, and monitoring of blood chemistry. In some cases, dialysis may be necessary to remove waste products from the blood.
+
+The patient's post-operative course was complicated by acute renal failure, which required close monitoring and supportive care in the intensive care unit. The patient's underlying medical conditions, such as hypertension and diabetes, also needed to be managed carefully during this time. With appropriate treatment and supportive care, the patient's renal function gradually improved, and he was eventually able to recover fully. However, this highlights the importance of close monitoring and management of patients with pre-existing medical conditions who are undergoing major surgery.

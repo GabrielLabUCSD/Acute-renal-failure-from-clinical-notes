@@ -1,0 +1,57 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and left lower extremity radiculopathy. The patient has a history of smoking and alcohol use. The patient has tried physical therapy and pain management without relief. The patient is now planning to undergo a lumbar fusion surgery.
+
+Preoperative Medications:
+
+* Oxycodone 10 mg orally daily
+* Gabapentin 300 mg orally three times a day
+* Pantoprazole 40 mg orally daily
+
+Preoperative Lab Results:
+
+* Hemoglobin: 12.8 g/dL
+* White blood cell count: 10.2 x 10^3/uL
+* Platelet count: 200 x 10^3/uL
+* Prothrombin time (PT): 11.5 seconds
+* Partial thromboplastin time (PTT): 28.4 seconds
+* International normalized ratio (INR): 1.0
+
+Preoperative Physical Exam:
+
+* Vital signs: Blood pressure: 120/80 mmHg, Heart rate: 78 bpm, Respiratory rate: 16 breaths/min, Temperature: 98.6 degrees Fahrenheit (37 degrees Celsius)
+* HEENT (head, eyes, ears, nose, throat) exam is normal
+* Cardiovascular exam shows regular rhythm, no murmurs or extra sounds
+* Pulmonary exam shows clear lungs, normal respiratory effort
+* Musculoskeletal exam shows tenderness to palpation over the lumbar spine
+* Neurological exam shows decreased sensation to light touch in the left lower extremity, decreased muscle strength in the left lower extremity
+
+Intraoperative Course:
+
+* The patient was taken to the operating room and placed in the prone position.
+* The surgical site was prepared and draped.
+* Anesthesia was administered, and the patient was intubated.
+* The surgical procedure began, and the patient's lumbar spine was exposed.
+* The patient's dura mater was then opened, and the spinal cord was carefully mobilized.
+* The patient's spinal fusion was completed, and the dura mater was closed.
+* The patient's wound was closed in layers, and a surgical drain was inserted.
+
+Postoperative Course:
+
+* The patient was taken to the recovery room and closely monitored for any complications.
+* The patient's vital signs were stable, and they were able to breathe on their own.
+* The patient was started on intravenous pain medication for postoperative pain management.
+* The patient was able to move their legs and feet, and they had good muscle strength.
+* The patient's urine output was normal, and they were able to pass urine without difficulty.
+* The patient's surgical drain was removed on postoperative day 2.
+* The patient was discharged from the hospital on postoperative day 4.
+
+Complications:
+
+* The patient developed a wound infection on postoperative day 7, which was treated with antibiotics.
+* The patient experienced some nausea and vomiting on postoperative day 2, which was managed with antiemetics.
+* The patient had some postoperative pain, which was managed with intravenous pain medication.
+
+Conclusion:
+
+The patient underwent a successful lumbar fusion surgery and had an uneventful postoperative course. The patient developed a wound infection, which was treated with antibiotics, and experienced some nausea and vomiting, which was managed with antiemetics. The patient's postoperative pain was managed with intravenous pain medication. Overall, the patient had a successful surgery and recovered well.

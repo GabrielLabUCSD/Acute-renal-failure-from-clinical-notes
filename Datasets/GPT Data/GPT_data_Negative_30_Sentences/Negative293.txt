@@ -1,0 +1,17 @@
+The patient is a {age} year old {gender} with a medical history significant for {list of medical conditions}. They are now planning to undergo {type of surgery} due to {reason for surgery}. Prior to the surgery, the patient underwent a comprehensive preoperative evaluation, including {list of tests and evaluations}.
+
+During the surgical procedure, {surgeon's name} performed {details of the surgery}. Anesthesia was provided by {anesthesiologist's name} using {type of anesthesia}. The surgery was {uncomplicated/complicated} and lasted approximately {duration}.
+
+Postoperatively, the patient was monitored in the recovery room for {duration}. They were closely observed for signs of {specific potential complications related to their medical history}. Vital signs were stable, and pain was managed with {type of pain medication}. The patient was given appropriate postoperative instructions regarding wound care, pain management, and activity restrictions.
+
+The patient's postoperative course was generally uneventful. They achieved adequate pain control and were able to tolerate regular oral intake. Bowel function returned {timing} after surgery. Ambulation was initiated {timing} postoperatively, and the patient demonstrated good mobility. Vital signs remained stable throughout the postoperative period.
+
+The patient did not experience any immediate complications such as wound infection, urinary tract infections, or pneumonia. However, {mention any other non-acute complications}, which were promptly managed with {specific interventions}.
+
+In terms of primary recovery goals, the patient achieved {list of milestones} within the expected timeframe. They were discharged on {timing} and provided with appropriate postoperative medications and follow-up appointments.
+
+In the outpatient setting, the patient continued to recover well. They reported gradual improvement in their symptoms and were able to resume their regular activities {timing} after surgery. Follow-up appointments confirmed adequate healing and satisfactory surgical outcomes.
+
+Overall, the patient's postoperative course was unremarkable, with no major complications. They exhibited good compliance with medication and postoperative instructions. The surgery successfully addressed their {reason for surgery}, leading to improved {specific outcomes}.
+
+Note: The absence of acute renal failure was specified as a requested exclusion.

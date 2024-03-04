@@ -1,0 +1,73 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker with 30 pack-year history
+* Obese with BMI of 35
+* History of chronic lower back pain
+* Previous appendectomy and cholecystectomy
+* Positive family history of coronary artery disease
+
+Surgical History:
+
+* Planning to undergo elective laparoscopic sigmoid colectomy for diverticulitis
+* Preoperative colonoscopy showed no evidence of colon cancer
+* No history of previous abdominal surgeries
+
+Medications:
+
+* Aspirin 81 mg daily
+* Metformin 500 mg twice daily
+* Amlodipine 5 mg daily
+* Atorvastatin 20 mg daily
+* Oxycodone 5 mg as needed for pain
+
+Allergies:
+
+* No known allergies
+
+Lab Results:
+
+* WBC count: 12,000 cells/mm3
+* Hemoglobin: 14 g/dL
+* Platelet count: 200,000 cells/mm3
+* BUN: 20 mg/dL
+* Creatinine: 1.2 mg/dL
+* Glucose: 180 mg/dL
+* Cholesterol: 220 mg/dL
+* Triglycerides: 200 mg/dL
+* INR: 1.8
+
+Imaging Studies:
+
+* CT scan of the abdomen and pelvis showed diverticulitis in the sigmoid colon
+* No evidence of abscess or perforation
+
+Postoperative Course:
+
+* Patient tolerated the procedure well
+* No complications during surgery
+* Patient experienced some postoperative pain, nausea, and vomiting
+* Pain was managed with oxycodone and acetaminophen
+* Patient was able to tolerate a clear liquid diet on postoperative day 1
+* Patient was discharged home on postoperative day 3
+
+Potential Complications:
+
+* Wound infection
+* Postoperative ileus
+* Urinary retention
+* Respiratory complications
+* DVT or PE
+* No acute renal failure
+
+Other Relevant Information:
+
+* Patient will need follow-up appointments with primary care physician and surgeon
+* Patient will need to continue medications as prescribed
+* Patient will need to follow a low-fiber diet for a few weeks after surgery
+* Patient will need to avoid heavy lifting, bending, or straining for several weeks after surgery.

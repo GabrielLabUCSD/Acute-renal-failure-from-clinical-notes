@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus (NIDDM). The patient has a history of smoking, with a 20-pack-year history, but quit 5 years ago. He has a history of alcohol consumption, with 2-3 drinks per day, but stopped drinking 2 weeks ago.
+
+The patient"s surgical history includes a cholecystectomy 10 years ago, and a hernia repair 5 years ago. He has no history of cardiovascular disease or pulmonary disease. His family history is positive for coronary artery disease and stroke.
+
+The patient"s current medications include lisinopril, atorvastatin, metformin, and aspirin. He has no known allergies to medications.
+
+The patient"s physical examination reveals a blood pressure of 130/80 mmHg, heart rate of 70 beats per minute, and a respiratory rate of 12 breaths per minute. His temperature is 98.6 degrees Fahrenheit. The patient is afebrile.
+
+The patient"s laboratory results reveal a white blood cell count of 12,000 cells/mm3, hemoglobin A1C of 7.5%, and a serum creatinine level of 1.2 mg/dL. His electrolytes, liver function tests, and coagulation studies are within normal limits.
+
+The patient"s postoperative course is uneventful. He experiences mild postoperative pain, which is managed with opioid analgesics. He is able to ambulate on the first postoperative day and is advanced to a regular diet on the second postoperative day.
+
+The patient is discharged on the third postoperative day with instructions for wound care and pain management. He is advised to avoid heavy lifting and bending for 6 weeks.
+
+Complications:
+
+The patient experiences no complications during his postoperative course.

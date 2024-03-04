@@ -1,0 +1,36 @@
+Patient Summary:
+
+1. The patient is a 65-year-old male.
+2. He has a history of hypertension and diabetes.
+3. He has been diagnosed with chronic kidney disease stage 3.
+4. He has a history of smoking, but quit 10 years ago.
+5. He has a history of alcohol use, but stopped drinking 5 years ago.
+6. He has been experiencing abdominal pain for the past 6 months.
+7. He has had several episodes of UTI in the past year.
+8. He has a history of kidney stones.
+9. He has been experiencing fatigue and weakness.
+10. He has had a history of obstructive sleep apnea.
+11. He is currently taking medication for hypertension and diabetes.
+12. He had a previous heart attack 10 years ago.
+13. He has a history of hyperlipidemia.
+14. He has been experiencing numbness in his left leg.
+15. He has been diagnosed with peripheral artery disease.
+16. He had a previous stroke 5 years ago.
+17. He has a history of osteoarthritis in his knees.
+18. He has been experiencing shortness of breath.
+19. He has a history of anemia.
+20. He had a previous surgery for cataract removal.
+21. He has a history of thyroid nodules.
+22. He has been experiencing joint pain in his wrists and ankles.
+23. He has a history of gastroesophageal reflux disease.
+24. He has had a previous colonoscopy.
+25. He has a history of benign prostatic hyperplasia.
+26. He has been experiencing frequent urination.
+27. He has been diagnosed with prostate cancer.
+28. He has been scheduled for a prostatectomy.
+29. He has been advised to have surgery to remove his gallbladder.
+30. He is concerned about the risks associated with surgery, particularly acute renal failure.
+
+Complication:
+
+After the surgery, the patient experienced acute renal failure, which was caused by a combination of factors, including hypotension, sepsis, and medication-induced nephrotoxicity. The patient's creatinine levels increased significantly, and he required dialysis. He remained in the intensive care unit for several days and received aggressive fluid and electrolyte management. The patient's kidney function eventually improved, and he was able to discontinue dialysis. However, he required close monitoring and follow-up to ensure complete recovery of his kidney function.

@@ -1,0 +1,37 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/05/1985
+
+Gender: Male
+
+Chief Complaint: Right knee pain
+
+History of Present Illness: The patient presents with a 2-year history of right knee pain, which has progressively worsened over time. The pain is located in the medial aspect of the knee and is exacerbated by activities such as walking, running, and climbing stairs. The patient has also noticed swelling and stiffness in the knee, especially in the mornings.
+
+Past Medical History: The patient has a history of hypertension and hyperlipidemia, for which he takes medication regularly. He also has a history of non-insulin-dependent diabetes mellitus and thyroiditis.
+
+Surgical History: The patient has had a cholecystectomy and a hernia repair in the past.
+
+Medications: The patient takes lisinopril for hypertension, simvastatin for hyperlipidemia, metformin for diabetes, and levothyroxine for thyroiditis.
+
+Allergies: The patient is allergic to penicillin and sulfa drugs.
+
+Family History: The patient's father had a history of coronary artery disease, and his mother had a history of breast cancer.
+
+Social History: The patient is a retired construction worker and has a history of smoking, with a pack-year history of 20. He denies alcohol or illicit drug use.
+
+Review of Systems: The patient reports no shortness of breath, chest pain, or palpitations. He has had occasional dizzy spells in the past but denies any recent episodes. The patient also reports no abdominal pain, nausea, or vomiting.
+
+Physical Examination: On examination, the patient's vital signs are normal. The patient has a mild limp and tenderness to palpation over the medial aspect of the right knee. There is no swelling or erythema in the knee. The patient's abdomen is soft and non-tender, with no palpable masses or organomegaly. The patient's thyroid gland is normal in size and shape, and there is no evidence of jugular venous distension.
+
+Imaging Studies: The patient has undergone an MRI of the right knee, which shows a large osteochondral defect in the medial femoral condyle, consistent with a grade III chondral lesion.
+
+Lab Results: The patient's complete blood count, electrolytes, and liver function tests are within normal limits. The patient's blood urea nitrogen and creatinine levels are normal.
+
+Postoperative Course: The patient underwent a successful knee arthroscopy and chondral grafting procedure. He tolerated the procedure well and had minimal postoperative pain, which was managed with pain medication. The patient was able to ambulate independently on the first postoperative day and was discharged home on the second postoperative day.
+
+Complications: The patient did not experience any complications during his postoperative course.
+
+Assistant:  I have created a patient summary with 30 sentences describing a patient's medical history who is planning to have any type of surgery. The summary includes the patient's personal information, chief complaint, history of present illness, past medical history, surgical history, medications, allergies, family history, social history, review of systems, physical examination, imaging studies, lab results, postoperative course, and complications. However, I have not included acute renal failure as a complication.

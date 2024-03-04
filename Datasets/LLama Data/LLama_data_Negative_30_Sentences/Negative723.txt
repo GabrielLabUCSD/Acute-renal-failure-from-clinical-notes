@@ -1,0 +1,37 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and bilateral knee pain. The patient has a history of smoking and alcohol use. The patient has tried physical therapy and medication but has not found relief. The patient is planning to undergo a lumbar fusion surgery.
+
+Preoperative:
+
+* The patient has a history of hypertension and hyperlipidemia.
+* The patient is taking aspirin and oxycodone for pain management.
+* The patient has a history of sleep apnea and uses a continuous positive airway pressure (CPAP) machine.
+* The patient has a history of chronic obstructive pulmonary disease (COPD) and uses an inhaler.
+* The patient has a history of gastroesophageal reflux disease (GERD) and takes a proton pump inhibitor.
+
+Intraoperative:
+
+* The patient's surgery was performed under general anesthesia.
+* The patient had a difficult airway and required a video laryngoscope for intubation.
+* The patient had a prolonged surgery (greater than 4 hours) and received a transfusion of packed red blood cells.
+* The patient developed a Postoperative nausea and vomiting (PONV) and received ondansetron for management.
+
+Postoperative:
+
+* The patient was extubated in the operating room and transferred to the Post Anesthesia Care Unit (PACU).
+* The patient had a stable vital sign and was monitored closely for respiratory and cardiovascular complications.
+* The patient was able to tolerate oral pain medication and was started on a patient-controlled analgesia (PCA) pump.
+* The patient was able to ambulate independently on the first postoperative day (POD1).
+* The patient had a urinary retention and required a foley catheter.
+* The patient developed a wound infection and was started on IV antibiotics.
+* The patient had a prolonged length of stay (LOS) of 7 days.
+
+Complications:
+
+* The patient developed a deep vein thrombosis (DVT) in the left leg and was started on heparin drip.
+* The patient had a pulmonary embolism and was started on warfarin.
+* The patient developed a wound hernia and required a revision surgery.
+* The patient had a postoperative seizure and was started on levetiracetam.
+
+The patient's postoperative course was complicated by a wound infection, DVT, and pulmonary embolism. The patient was successfully treated with antibiotics and blood thinners. The patient had a prolonged LOS but was eventually discharged home. The patient's pain was well managed with a PCA pump and oral pain medication. The patient was advised to continue physical therapy and follow up with his surgeon for removal of sutures and further management of wound hernia.

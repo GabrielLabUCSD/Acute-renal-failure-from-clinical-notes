@@ -1,0 +1,43 @@
+[Patient name] is a [age]-year-old [gender] who is scheduled for [type of surgery]. The patient has a significant medical history, including [list of conditions and their duration]:
+
+1. Hypertension, diagnosed [duration], currently managed with [medications].
+2. Diabetes mellitus type 2, diagnosed [duration], currently managed with [medications] and [lifestyle modifications].
+3. Hyperlipidemia, diagnosed [duration], currently managed with [medications].
+4. Coronary artery disease, diagnosed [duration], treated with [stent placement/CABG] [duration].
+5. Asthma, diagnosed [duration], well-controlled with [medications].
+6. Chronic obstructive pulmonary disease (COPD), diagnosed [duration], currently on [bronchodilators/inhaled corticosteroids].
+7. Gastroesophageal reflux disease (GERD), diagnosed [duration], managed with [lifestyle modifications] and [proton pump inhibitors].
+8. Osteoarthritis, diagnosed [duration], currently managed with [NSAIDs/physical therapy].
+9. History of [previous surgeries, their indications, and outcomes].
+
+The patient's preoperative laboratory investigations reveal [relevant findings]:
+
+1. Hemoglobin level: [value] g/dL.
+2. Platelet count: [value] x 10^9/L.
+3. White blood cell count: [value] x 10^9/L, with [differential count].
+4. Blood glucose: [value] mg/dL.
+5. Serum creatinine: [value] mg/dL.
+6. Liver function tests within normal limits.
+7. Coagulation profile within normal limits.
+
+The patient is currently asymptomatic, with no recent exacerbations of their chronic conditions. They have been compliant with their prescribed medications and demonstrate good functional status. Their surgical team has reviewed the risks and benefits of the procedure, ensuring informed consent.
+
+Regarding the surgical approach, [procedure details]. The procedure is indicated to address [reason for surgery], aiming to [surgery goals]. The patient has been adequately prepared for surgery, including preoperative fasting, discontinuation of anticoagulant medications, and preoperative showering with an appropriate antiseptic solution.
+
+Postoperatively, the patient is planned for [type of anesthesia] and will initially be monitored in the recovery room for [time period] to ensure hemodynamic stability, adequate pain control, and resolution of anesthesia effects. After transferring to the surgical ward, they will be closely monitored for wound healing, pain management, and early mobilization to prevent complications.
+
+Postoperative care will include [specific measures]:
+
+1. Administration of prophylactic antibiotics.
+2. Deep vein thrombosis prophylaxis with [mechanical methods/low molecular weight heparin].
+3. Regular monitoring of vital signs, including temperature, blood pressure, heart rate, and oxygen saturation.
+4. Adequate pain control with [patient-controlled analgesia/analgesics].
+5. Early removal of urinary catheter and resumption of normal urinary function assessment.
+6. Encouragement of ambulation and prompt resumption of oral intake.
+7. Regular assessment of the surgical wound for signs of infection or dehiscence.
+8. Implementation of pulmonary hygiene techniques to prevent postoperative respiratory complications.
+9. Prevention and management of gastrointestinal complications, such as nausea, vomiting, or constipation.
+
+During the postoperative course, the patient has tolerated the procedure well. They achieved early ambulation and returned to a regular diet without any difficulties. Pain control has been adequate, allowing them to participate actively in physical therapy sessions. The surgical wound is healing appropriately, with no signs of infection or dehiscence.
+
+No significant postoperative complications were observed. The patient did not develop any respiratory complications, urinary retention, or gastrointestinal disturbances. Additionally, there were no signs of wound infection or hematomas. Renal function remains stable, with no evidence of acute renal failure. The patient is satisfied with their recovery progress and is expecting to be discharged soon.

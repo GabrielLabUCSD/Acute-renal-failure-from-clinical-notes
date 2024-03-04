@@ -1,0 +1,15 @@
+The patient is a [age]-year-old [gender] presenting with a medical history of [conditions]. They have been scheduled to undergo [type of surgery] for [indication].
+Previous surgeries include [list of surgeries], with notable complications of [complications].
+Their medication list includes [list of current medications], and they have been taking [medication name] for [duration] without any adverse reactions.
+The patient has a history of allergies to [allergies], for which they have not experienced any previous complications.
+Their vital signs on admission were stable, with blood pressure of [number], heart rate of [number], respiratory rate of [number], and temperature of [number].
+Laboratory results showed [lab values], revealing [any relevant findings].
+Their preoperative imaging, including [CT/MRI/X-ray], demonstrated [findings].
+The patient was started on [preoperative preparations such as bowel cleansing or antibiotics]. They were assessed by [relevant specialists] from [specialty] to ensure surgical clearance.
+During the procedure, [specific details of the surgery]. The estimated blood loss was [amount] mL, with [number] units of blood transfused intraoperatively.
+Postoperatively, the patient was monitored closely in the recovery room for [number] hours. They were started on [medication name(s)] for pain management and [medication name(s)] for thromboembolism prophylaxis.
+The patient had an uneventful postoperative course without any immediate complications such as wound infections, bleeding, or respiratory distress.
+They were able to tolerate a regular diet and ambulate independently on the [number] postoperative day, and their pain was well-controlled with oral medications.
+Routine postoperative laboratory tests, including complete blood count and electrolytes, were within normal limits.
+They did not develop acute renal failure during the postoperative period.
+During follow-up visits, the patient reported an improvement in their symptoms and satisfaction with the outcome of the surgery.

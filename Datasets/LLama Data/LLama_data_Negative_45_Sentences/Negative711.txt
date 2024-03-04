@@ -1,0 +1,110 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: 02/02/1980
+
+Gender: Male
+
+Height: 5'10"
+
+Weight: 180 lbs
+
+BMI: 28
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* Smoker (20 pack-years)
+* History of bronchitis
+* History of pneumonia
+* History of upper respiratory infections
+* History of lower back pain
+* History of left knee pain
+* History of right shoulder pain
+* History of sleep apnea
+* History of obstructive sleep apnea
+* History of snoring
+* History of fatigue
+* History of weakness
+* History of dizziness
+* History of tinnitus
+* History of hearing loss
+* History of vision problems
+* History of cataracts
+* History of glaucoma
+* History of macular degeneration
+* History of hernia repair (inguinal)
+* History of appendectomy
+* History of cholecystectomy
+* History of colonoscopy
+* History of endoscopy
+* History of polypectomy
+* History of circumcision
+* History of knee arthroscopy
+* History of shoulder arthroscopy
+* History of carpal tunnel release
+* History of trigger finger release
+* History of thyroid nodules
+* History of thyroid cancer
+* History of breast cancer
+* History of lung cancer
+* History of prostate cancer
+* History of bladder cancer
+* History of colon cancer
+* History of rectal cancer
+* History of ovarian cancer
+* History of uterine cancer
+* History of cervical cancer
+
+Current Medications:
+
+* Lisinopril 20mg daily
+* Simvastatin 40mg daily
+* Alprazolam 0.5mg PRN
+* Ibuprofen 800mg PRN
+* Acetaminophen 500mg PRN
+* Aspirin 325mg daily
+* Omeprazole 20mg daily
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Social History:
+
+* Married with two adult children
+*Currently works as an accountant
+*Does not drink alcohol
+* Does not use illicit drugs
+* Does not have any pets
+* Lives in a two-story house
+*Has a support system of family and friends
+
+Surgical History:
+
+* None
+
+Preoperative Course:
+
+* Patient will undergo a thorough physical examination and laboratory tests, including blood work and urinalysis, to ensure that he is healthy enough for surgery.
+* Patient will be asked to stop smoking at least two weeks before surgery.
+* Patient will be asked to stop taking aspirin and nonsteroidal anti-inflammatory drugs (NSAIDs) at least one week before surgery.
+* Patient will be asked to have nothing to eat or drink after midnight before surgery.
+* Patient will be given instructions on how to care for his wound and manage any postoperative pain.
+
+Postoperative Course:
+
+* Patient will be closely monitored in the recovery room for any complications.
+* Patient will be given pain medication as needed.
+* Patient will be asked to move around and take deep breaths to prevent respiratory complications.
+* Patient will be asked to drink plenty of fluids to prevent dehydration.
+* Patient will be given instructions on how to care for his wound and manage any postoperative pain.
+
+Complications:
+
+* None
+
+Assistant: I hope this sample patient summary is helpful. Please note that this is just an example, and you should customize the summary to the individual patient's specific medical history and current health status. Also, be sure to include any relevant information that may impact the patient's surgical outcome or postoperative course.

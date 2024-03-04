@@ -1,0 +1,16 @@
+The patient is a [age]-year-old [gender] with a history of [medical conditions] who is planning to undergo [type of surgery]. 
+They have [number] of years of medical history, and have been managed by [primary care physician/specialists]. 
+In terms of medications, they are currently taking [list of medications] to control their [condition]. 
+Their surgical history includes [previous surgeries] which were performed by [surgeon]. 
+They have also undergone [diagnostic tests/procedures] in the past, including [list of tests]. 
+The patient's pre-operative labs and vital signs are within normal limits, with no signs of infection or organ dysfunction. 
+Their blood pressure is [range], heart rate is [range], and respiratory rate is [range]. 
+During the surgical intervention, [describe procedure], the patient was managed by the surgical team led by [surgeon]. 
+The patient tolerated the procedure well and had no complications during surgery. 
+Their postoperative course was uneventful, with appropriate pain management and wound care measures implemented. 
+They were closely monitored for signs of infection, bleeding, or any other complications. 
+The patient's vital signs remained stable with no significant changes or concerns. 
+Postoperatively, laboratory values were monitored to ensure normal organ function. 
+The patient was educated on postoperative care and rehabilitation measures to promote a smooth recovery. 
+They were discharged from the hospital with appropriate follow-up instructions and prescriptions for pain management, if needed. 
+To date, they have not experienced any postoperative complications.

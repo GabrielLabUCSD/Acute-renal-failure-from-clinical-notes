@@ -1,0 +1,15 @@
+Patient Summary:
+
+The patient is a 45-year-old female who is planning to undergo surgery. She has a medical history significant for hypertension, dyslipidemia, type 2 diabetes mellitus, and obesity. Her hypertension is well-controlled with lisinopril, and her dyslipidemia is managed with a statin. The patient is on metformin for her diabetes and follows a diabetic diet. Despite these measures, her diabetes remains suboptimally controlled with an HbA1c of 8.5%.
+
+The patient's surgical history includes an appendectomy at the age of 16 and a cholecystectomy at the age of 34. She has no known allergies to medications or latex. Preoperatively, her blood pressure averages around 130/80 mmHg, and her heart rate is within the normal range. Her laboratory results show a hemoglobin level of 12 g/dL, hematocrit of 36%, and a normal coagulation profile. She has a body mass index (BMI) of 35 kg/m^2.
+
+The patient is otherwise healthy and takes a daily multivitamin. She does not smoke or consume alcohol. It is vital for the surgical team to ensure strict glycemic control during perioperative management due to her uncontrolled diabetes.
+
+Following surgery, the patient initially experiences expected postoperative pain, which is managed with a combination of opioids and non-steroidal anti-inflammatory drugs (NSAIDs). Her postoperative course includes routine monitoring of vital signs, wound assessment, and regular administration of prophylactic antibiotics. The patient receives deep vein thrombosis (DVT) prophylaxis with subcutaneous heparin and early mobilization.
+
+In terms of complications, the patient does not develop any acute renal failure postoperatively. However, due to her underlying diabetes, the patient experiences delayed wound healing and is carefully monitored for signs of infection. She receives meticulous wound care, including regular dressing changes and wound irrigation. Her glucose levels are closely monitored to prevent hyperglycemia, as it can impair wound healing.
+
+The patient eventually recovers well from surgery, and her pain is adequately managed throughout her hospital stay. She is discharged home with appropriate instructions for wound care, pain management, and follow-up. The surgical team ensures that her diabetes management is optimized, with close monitoring and adjustment of her medications as needed.
+
+In conclusion, the patient is a 45-year-old female with a history of hypertension, dyslipidemia, type 2 diabetes mellitus, and obesity, who undergoes surgery. Her postoperative course is uneventful, and she does not develop acute renal failure. However, she experiences delayed wound healing due to her underlying diabetes and requires meticulous wound care. Her glycemic control is closely monitored, and she is discharged home with appropriate instructions and follow-up.

@@ -1,0 +1,62 @@
+Sure, here"s a sample patient summary for a patient planning to undergo surgery:
+
+Patient Name: John Doe
+
+Age: 65
+
+Gender: Male
+
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* Obstructive sleep apnea
+* Gastroesophageal reflux disease (GERD)
+* Chronic lower back pain
+* Status post-laminectomy
+* History of non-insulin dependent diabetes mellitus (NIDDM)
+
+Current Medications:
+
+* Amlodipine for hypertension
+* Atorvastatin for hyperlipidemia
+* Omeprazole for GERD
+* Naproxen for chronic lower back pain
+* Metformin for NIDDM
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Surgical History:
+
+* Laminectomy 10 years ago for spinal stenosis
+
+Preoperative Exam:
+
+* Blood pressure: 140/90 mmHg
+* Heart rate: 75 bpm
+* Respiratory rate: 16 breaths/min
+* Temperature: 98.6°F (37°C)
+* Oxygen saturation: 96% on room air
+
+Planned Surgical Procedure:
+
+* elective laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Was able to tolerate oral medications and liquids without any issues
+* Had some postoperative nausea and vomiting, but it was controlled with medication
+* Experienced some mild postoperative pain, but it was controlled with medication
+* Was able to ambulate and sit on the edge of the bed without any issues
+* Was discharged home on postoperative day 3 without any complications
+
+Complications:
+
+* No complications
+
+Assistant:  I hope this summary is helpful for you. Please let me know if you need any further assistance!

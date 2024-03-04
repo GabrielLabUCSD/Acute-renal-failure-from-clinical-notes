@@ -1,0 +1,85 @@
+Sure, here's a sample patient summary with 30 sentences describing a patient's medical history, postoperative course, and complications:
+
+Patient Name: John Doe
+Age: 65
+Gender: Male
+
+Chief Complaint: Chronic back pain and decreased mobility
+
+Medical History:
+
+* Diabetes mellitus type II
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* Obesity (BMI 35)
+* Previous lung cancer (surgically treated 5 years ago)
+* Previous MI (myocardial infarction) 10 years ago
+* Chronic kidney disease stage III
+
+Surgical History:
+
+* Appendectomy at age 25
+* Cholecystectomy at age 40
+* Hip replacement surgery 5 years ago
+
+Current Medications:
+
+* Metformin 1000mg orally twice a day
+* Lisinopril 40mg orally once a day
+* Atorvastatin 20mg orally once a day
+* Oxycodone 10mg orally every 4-6 hours as needed for pain
+* Aspirin 81mg orally once a day
+
+Allergies:
+
+* Penicillin
+
+Social History:
+
+* Married with two adult children
+* Retired from a physically demanding job
+* Lives in a two-story house with no lift available
+* Has a pet dog that requires regular walking
+
+Reason for Surgery:
+
+* L4-L5 and L5-S1 degenerative spondylolisthesis with spinal stenosis
+
+Planned Surgery:
+
+* L4-L5 and L5-S1 fusion with instrumentation
+
+Postoperative Course:
+
+*Postoperative day 1:
+	+ Patient is afebrile and hemodynamically stable
+	+ Patient is tolerating oral pain medication well
+	+ Patient is able to ambulate slowly with assistance
+*Postoperative day 2:
+	+ Patient is still afebrile and hemodynamically stable
+	+ Patient is able to ambulate independently with a walker
+	+ Patient is experiencing some nausea and vomiting
+*Postoperative day 3:
+	+ Patient is afebrile and hemodynamically stable
+	+ Patient is able to ambulate without assistance
+	+ Patient is tolerating a regular diet well
+*Postoperative day 4:
+	+ Patient is discharged home with a walker and instructed to continue oral pain medication as needed
+
+Complications:
+
+* None
+
+Post-Discharge Instructions:
+
+* Follow-up appointment with surgeon in 2 weeks
+* Continue oral pain medication as needed
+* Gradually increase ambulation and activity level
+* Avoid heavy lifting, bending, or twisting for 6 weeks
+* Use walker for assistance as needed
+* Monitor for signs of wound infection (redness, swelling, drainage)
+* Monitor for signs of respiratory distress (shortness of breath, tachypnea)
+
+This patient summary includes relevant medical history, postoperative course, and complications, excluding acute renal failure as requested.

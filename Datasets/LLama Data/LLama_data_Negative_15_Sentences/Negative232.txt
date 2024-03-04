@@ -1,0 +1,35 @@
+Sure, here's a sample patient summary for a patient planning to have surgery:
+
+Patient Name: John Doe
+Age: 55
+Sex: Male
+
+Chief Complaint: The patient presents with chronic lower back pain and left leg radiculopathy.
+
+Medical History: The patient has a history of lumbar spine degenerative disc disease, hypertension, and hyperlipidemia.
+
+Surgical History: The patient has had a previous lumbar fusion surgery.
+
+Medications: The patient is currently taking ibuprofen, gabapentin, and atorvastatin.
+
+Allergies: The patient is allergic to penicillin.
+
+Family History: The patient's father had a history of myocardial infarction at the age of 55.
+
+Social History: The patient is a former smoker and currently drinks alcohol occasionally.
+
+Review of Systems: The patient reportsnumbness and tingling in the left lower extremity, difficulty ambulating, and moderate pain in the lower back.
+
+Physical Exam: On physical examination, the patient has limited mobility in the lumbar spine and left lower extremity weakness.
+
+Diagnostic Tests: The patient has had an MRI of the lumbar spine showing degenerative disc disease and spinal stenosis.
+
+Plan: The patient is planning to undergo a lumbar decompression surgery.
+
+Postoperative Course: The patient had an uneventful postoperative course and was discharged home on postoperative day 3.
+
+Complications: The patient did not experience any complications in the immediate postoperative period.
+
+Follow-Up: The patient will follow up with the surgeon in 2 weeks for suture removal and to assess for any complications.
+
+Additional Notes: The patient will need to follow a proper rehabilitation program to improve mobility and strength in the lower back and left lower extremity. The patient will also need to continue managing comorbidities such as hypertension and hyperlipidemia to reduce the risk of complications in the future.

@@ -1,0 +1,41 @@
+Patient Summary:
+
+This patient, a 45-year-old male, presents with a history of chronic back pain and left leg radiculopathy. He has tried physical therapy and medication without significant relief. Imaging studies show a herniated disc at L4-L5. He decides to undergo a lumbar discectomy.
+
+Preoperative:
+
+* The patient has a history of hypertension and hyperlipidemia.
+* He takes aspirin and metformin.
+* He is allergic to penicillin.
+* He has a history of smoking but quit 5 years ago.
+* He drinks alcohol occasionally.
+
+Intraoperative:
+
+* The patient undergoes general anesthesia.
+* The surgery is performed via a posterior approach.
+* The disc is completely removed.
+* There are no intraoperative complications.
+
+Postoperative:
+
+* The patient is transferred to the PACU for recovery.
+* He experiences some postoperative pain but is managed with IV Tylenol and fentanyl.
+* He has a wound drain that is removed on postoperative day 2.
+* He is ambulatory on postoperative day 1.
+* He is discharged home on postoperative day 3.
+
+Complications:
+
+* He experiences some nausea and vomiting postoperatively but improves with antiemetics.
+* He develops a wound infection that is treated with antibiotics.
+* He has some urinary retention that resolves with catheterization.
+* He has some mild bilateral neuropraxia that resolves within 2 weeks.
+
+Follow-up:
+
+* The patient follows up with his surgeon at 2 weeks and 6 weeks postoperatively.
+* He experiences ongoing improvement in his back pain and radiculopathy.
+* There are no further complications.
+
+Overall, this patient had a successful lumbar discectomy with a brief postoperative course and minimal complications. He experiences ongoing improvement in his symptoms during follow-up.

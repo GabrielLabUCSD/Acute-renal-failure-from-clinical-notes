@@ -1,0 +1,18 @@
+Patient Summary:
+
+* Chief Complaint: Abdominal pain and distension
+* History of Present Illness: 3 days of worsening abdominal pain and distension, associated with nausea and vomiting
+* Past Medical History: Hypertension, Hyperlipidemia, Non-insulin dependent diabetes mellitus, and chronic kidney disease stage III
+* Medications: Lisinopril, Atorvastatin, Metformin, and Aspirin
+* Family History: No history of renal disease
+* Social History: Smoker, 1 pack per day for 10 years, denies alcohol or illicit drug use
+* Review of Systems: No hematuria, dysuria, or urinary frequency
+* Physical Exam: Blood pressure 180/100 mmHg, Heart rate 110 bpm, Respiratory rate 24 breaths/min, Temperature 99.8°F (37.7°C), Abdominal tenderness to palpation, Guarding and rebound tenderness present
+* Laboratory Results: WBC 18,000/mm3, Creatinine 2.5 mg/dL, BUN 40 mg/dL, Glucose 250 mg/dL, AST 50 IU/L, ALT 40 IU/L, Alkaline phosphatase 120 IU/L, Total bilirubin 1.5 mg/dL, Direct bilirubin 0.8 mg/dL
+* Imaging Studies: CT scan of the abdomen and pelvis shows a possible obstructive mass in the small bowel
+* Procedure: Exploratory laparotomy with small bowel resection and primary anastomosis
+* Post-operative Course: Patient developed acute renal failure on post-operative day 2, requiring continuous renal replacement therapy
+* Complications: Acute renal failure, respiratory failure, and sepsis
+* Current Status: Stable, awake, and alert, but with ongoing respiratory and renal support
+
+Note: The patient's history of chronic kidney disease and acute renal failure after surgery suggests that there may be ongoing renal damage or failure, and close monitoring and management of renal function will be important in the post-operative period. Additionally, the patient's smoking history and respiratory failure may increase the risk of respiratory complications.

@@ -1,0 +1,25 @@
+The patient is a 45-year-old male who presents with a history of hypertension and type 2 diabetes mellitus, both well-controlled with medications. He has a long-standing history of smoking but quit three years ago. He has a body mass index (BMI) of 28, indicating he is overweight. 
+
+His preoperative labs demonstrated a normal complete blood count, liver function tests, and electrolyte panel. However, his hemoglobin A1c was mildly elevated at 7.2%, suggesting some degree of glycemic control impairment. His baseline renal function was within normal limits, with a serum creatinine of 0.9 mg/dL.
+
+On physical examination, the patient was found to have no new focal neurologic deficits, and his cardiopulmonary system was stable. However, upon auscultation, a systolic murmur consistent with mild aortic stenosis was heard.
+
+The patient reported a strong family history of cardiac disease, including both his parents who had myocardial infarctions in their early 50s. He is scheduled to undergo a cardiac stress test to evaluate his exercise capacity and identify any underlying coronary artery disease.
+
+Given his elevated hemoglobin A1c, the patient was referred to a diabetes educator for optimization of his glycemic control in the perioperative period. The educator provided education on blood glucose monitoring, diet, exercise, and medication adherence.
+
+Prior to surgery, the patient met with an anesthesiologist who discussed the anesthetic plan and assessed any potential risks related to the patient's medical history. Given his mild aortic stenosis, the anesthesiologist recommended close hemodynamic monitoring during the procedure.
+
+The patient underwent a successful surgery without any intraoperative complications. His postoperative course was uneventful, and he was managed with multimodal analgesia to control his pain. He was started on prophylactic antibiotics to prevent surgical site infections.
+
+Postoperatively, the patient had routine monitoring of his vital signs, including regular blood pressure checks. He was encouraged to ambulate early to prevent complications such as deep vein thrombosis and pneumonia. Physical therapy services were also initiated to optimize his recovery and functional abilities.
+
+The patient's glycemic control remained stable throughout the postoperative period, with his blood glucose maintained within the target range. His medications for hypertension and diabetes were continued, and no adjustments were necessary.
+
+On postoperative day three, the patient developed a low-grade fever, and a wound infection was suspected. The surgical site was inspected, and the incision was found to be mildly erythematous and tender. A wound culture was obtained, and broad-spectrum antibiotics were initiated pending the culture results.
+
+The wound culture confirmed the presence of a methicillin-resistant Staphylococcus aureus (MRSA) infection. The patient was switched to appropriate intravenous antibiotics, and wound care was optimized with daily dressing changes.
+
+Over the next few days, the patient's fever subsided, and the erythema and tenderness around the incision gradually resolved. Repeat cultures confirmed the eradication of the MRSA infection.
+
+Aside from the wound infection, the patient did not experience any other complications during his postoperative course. His renal function remained stable, with no evidence of acute renal failure. He was discharged home on postoperative day seven with appropriate wound care instructions and a plan for close follow-up with his surgeon.

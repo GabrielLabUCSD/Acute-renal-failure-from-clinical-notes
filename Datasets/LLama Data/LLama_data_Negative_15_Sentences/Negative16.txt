@@ -1,0 +1,31 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents for elective surgery. He has a medical history of hypertension, hyperlipidemia, and non-insulin-dependent diabetes mellitus. The patient has a history of smoking, with a 10-pack-year history, but quit 5 years ago. He denies any significant allergies. 
+
+The patient had a left knee meniscal repair 10 years ago and a cholecystectomy 5 years ago, both without complications. He has no history of cardiovascular disease, pulmonary disease, or neurological disorders. 
+
+The patient had a recent stress test that showed no evidence of ischemia. His blood work demonstrates a creatinine level of 1.2, hemoglobin A1C of 7.5%, and a total cholesterol of 220. 
+
+The patient currently takes lisinopril, atorvastatin, and metformin. He denies any medication allergies. 
+
+On the day of surgery, the patient"s blood pressure is 180/90 mmHg, pulse 90 bpm, respiratory rate 16, and oxygen saturation 98% on room air. 
+
+During surgery, the patient has a benign course. He receives general anesthesia without any complications. 
+
+Postoperatively, the patient is transferred to the recovery room and has a stable vital sign. He denies postoperative nausea or vomiting. 
+
+On the first postoperative day, the patient"s blood pressure is 170/80 mmHg, pulse 80 bpm, respiratory rate 18, and oxygen saturation 97% on room air. 
+
+The patient"s postoperative pain is well managed with patient-controlled analgesia. 
+
+The patient ambulates on the first postoperative day without any problems. 
+
+The patient"s wound appears clean and dry without any signs of infection. 
+
+The patient does not experience any postoperative complications such as respiratory failure, cardiac ischemia, or pneumonia. 
+
+The patient is discharged home on the second postoperative day in stable condition. 
+
+The patient will follow up with his surgeon 2 weeks postoperatively for wound check and suture removal.
+
+Assistant: Does this patient summary appropriately describe the patient"s medical history and postoperative course without any complications?

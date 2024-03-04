@@ -1,0 +1,23 @@
+The patient is a [age] [gender] with a medical history significant for [list previous medical conditions, surgeries, and procedures]. They are scheduled to undergo [type of surgery] in order to [reason for surgery]. Additionally, the patient has a history of [chronic medical conditions, such as diabetes, hypertension, or asthma] which are well-controlled with [medication or treatment].
+
+Pre-surgery investigations revealed [any abnormal lab results or imaging findings]. These results were further evaluated and managed by [specialists]. The patient has been prepped for surgery by [pre-operative assessment by anesthesia team, optimization of conditions].
+
+During the procedure, the patient was administered [type of anesthesia] by the anesthesiologist. The surgical team successfully completed the surgery, which consisted of [details of the operation, including any specific techniques or surgical approaches].
+
+Postoperatively, the patient initially stayed in the recovery room, where they were closely monitored for [duration]. Vital signs were stable, and the patient was gradually weaned off the anesthesia. The patient was then transferred to the surgical ward for further postoperative care.
+
+Pain management was implemented, utilizing a combination of [pain medication modalities, such as oral analgesics, patient-controlled analgesia, or regional anesthesia techniques]. The patient was encouraged to ambulate and perform necessary breathing exercises to prevent postoperative complications such as pneumonia or deep vein thrombosis.
+
+Aseptic techniques were employed to prevent surgical site infections, and the patient's incision site was inspected for any signs of infection. Wound care was provided as needed, with appropriate dressings and sterile techniques utilized.
+
+Fluid and electrolyte balance were closely monitored, with intravenous fluids administered as necessary to maintain adequate hydration. The patient's urine output was monitored to ensure proper renal function.
+
+During the postoperative course, the patient experienced [lack of specific complications such as wound dehiscence, hematoma, or surgical site infection]. However, it is worth noting that the patient did develop [complication, if any, unrelated to acute renal failure].
+
+The patient recovered well and was gradually able to tolerate a regular diet. Activities of daily living were resumed progressively under the supervision of the healthcare team. Physical therapy and rehabilitation were initiated to facilitate a full recovery.
+
+Throughout the hospital stay, the patient remained compliant with their prescribed medication regimen. The necessary medications for pain management, prophylaxis against infection, and any other specific postoperative needs were administered as directed.
+
+Follow-up appointments were scheduled with the surgeon to assess the progress of the patient's healing and address any concerns. The patient was encouraged to report any unusual symptoms or complications promptly.
+
+In conclusion, the patient's medical history has been thoroughly evaluated and optimized prior to surgery. The procedure was successfully completed, and the patient's postoperative course was uneventful apart from [non-acute renal failure related complication]. The patient is recovering well and is expected to continue improving with appropriate postoperative care and follow-up.

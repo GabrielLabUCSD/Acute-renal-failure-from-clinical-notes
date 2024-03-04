@@ -1,0 +1,28 @@
+The patient is a [age]-year-old [gender] who is planning to have [type of surgery]. They have a medical history significant for [condition/s]. 
+In terms of cardiovascular history, the patient has a [history of hypertension/angina/arrhythmia] and is currently taking [medication] for it. They have no history of congestive heart failure or myocardial infarction. 
+Regarding respiratory history, the patient has a [history of asthma/chronic obstructive pulmonary disease] for which they take [medication]. They have no history of lung cancer or pneumonia. 
+In the gastrointestinal system, the patient has a [history of gastroesophageal reflux disease/peptic ulcer disease/irritable bowel syndrome] and is currently on [medication/dietary modifications]. They have no history of gastrointestinal bleeding or liver disease. 
+In the genitourinary system, the patient has a [history of urinary tract infections/kidney stones/enlarged prostate] but no history of renal failure. They have no history of sexually transmitted infections. 
+The patient has a non-significant musculoskeletal history with no history of fractures, arthritis, or chronic pain. 
+They have a family history of [condition] and a personal history of [condition]. 
+The patient's preoperative lab results are within normal limits, including complete blood count, renal function, liver function, and coagulation profile. 
+They are currently taking [medication/s] as prescribed, and there are no known allergies to any medication or anesthesia. 
+The patient does not smoke or consume alcohol regularly. 
+During the surgery, [anesthesia type] was used and the patient tolerated it well. 
+The operative procedure went smoothly without any complications, and the surgeon noted [findings]. 
+Postoperatively, the patient was monitored closely for complications. They were started on intravenous fluids and analgesics for pain management and were gradually transitioned to oral medications. 
+They were encouraged to ambulate and perform deep breathing exercises to prevent complications such as atelectasis and deep vein thrombosis. 
+The patient's vital signs remained stable throughout the postoperative period. 
+The surgical incision was inspected regularly for signs of infection, and sterile dressings were applied. 
+The patient experienced [mild/moderate/severe] pain postoperatively, which was managed with [medication]. 
+They were able to tolerate a regular diet and had no nausea or vomiting. 
+The patient's urinary output was adequate and there were no signs of urinary tract infection. 
+They did not experience any respiratory distress or shortness of breath. 
+The patient's mobility improved gradually, and they were able to perform activities of daily living independently. 
+Over the course of [days/weeks] postoperatively, the patient's pain levels decreased and they required less analgesic medication. 
+The surgical incision healed well without any signs of dehiscence or infection. 
+The patient's sutures/staples were removed on [date] without any complications. 
+They were discharged home with instructions to continue their medication regime and follow-up with their primary care physician in [weeks]. 
+During the postoperative follow-up appointment, the patient showed [good/excellent/satisfactory] progress. 
+There were no complications noted during the patient's postoperative course. 
+Overall, the patient had a successful surgery with a smooth postoperative recovery.

@@ -1,0 +1,102 @@
+Ab Absolutely, here is a patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery:
+
+Patient Name: John Doe
+
+Date of Birth: January 1, 1980
+
+Gender: Male
+
+Chief Complaint: The patient presents with chronic back pain and restricted mobility due to a herniated disc.
+
+Medical History:
+
+* History of smoking
+* Hypertension
+* Hyperlipidemia
+* Type 2 diabetes mellitus
+* Obstructive sleep apnea
+* History of chronic lower back pain
+* Previous lumbar fusion surgery
+* Previous right knee arthroscopy
+* Previous left shoulder arthroscopy
+* History of asthma
+* Allergic to penicillin
+* No known drug allergies
+* No history of bleeding disorders
+
+Surgical History:
+
+* Lumbar fusion surgery (2010)
+* Right knee arthroscopy (2012)
+* Left shoulder arthroscopy (2015)
+
+Current Medications:
+
+* Oxycodone for pain management
+* Amlodipine for hypertension
+* Atorvastatin for hyperlipidemia
+* Metformin for type 2 diabetes mellitus
+* Albuterol for asthma
+* Apap-Codeine for pain management
+
+Social History:
+
+* Married with two adult children
+* Currently works as a software engineer
+* Nonsmoker
+* Drinks alcohol occasionally
+* No recent travel or exposure to illness
+
+Family History:
+
+* Father died of myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+* One sibling with a history of asthma
+
+Review of Systems:
+
+* No recent weight loss or gain
+* No fever or chills
+* No recent changes in bowel movements or urination
+* No history of abdominal surgery
+* No history of allergic reactions
+
+Physical Examination:
+
+* Blood pressure: 132/86 mmHg
+* Pulse rate: 78 beats per minute
+* Respiratory rate: 16 breaths per minute
+* Temperature: 98.2 degrees Fahrenheit
+* Height: 5 feet 10 inches
+* Weight: 220 pounds
+* Body mass index (BMI): 33.4
+
+Lab Results:
+
+* White blood cell count: 11,000 cells/mm3
+* Hemoglobin: 14.2 g/dL
+* Hematocrit: 42.8%
+* Platelet count: 248,000/mm3
+* Prothrombin time (PT): 12.2 seconds
+* Partial thromboplastin time (PTT): 34.1 seconds
+* International normalized ratio (INR): 1.1
+* Creatinine: 1.2 mg/dL
+* Glucose: 184 mg/dL
+* Total cholesterol: 218 mg/dL
+* Triglycerides: 187 mg/dL
+* High-density lipoprotein (HDL): 42 mg/dL
+* Low-density lipoprotein (LDL): 142 mg/dL
+
+Imaging Studies:
+
+* Lumbar spine X-ray shows degenerative changes at L4-L5 and L5-S1 levels
+* Magnetic resonance imaging (MRI) of the lumbar spine shows a large disk herniation at L4-L5 level
+
+Plan:
+The patient will undergo a lumbar decompression surgery to relieve pressure on the spinal cord and nerve roots.
+
+Postoperative Course:
+The patient had an uneventful postoperative course. He was discharged home on the third postoperative day with a lumbar brace and prescription pain medication. Follow-up appointment was made for two weeks postoperatively.
+
+Complications:
+None.

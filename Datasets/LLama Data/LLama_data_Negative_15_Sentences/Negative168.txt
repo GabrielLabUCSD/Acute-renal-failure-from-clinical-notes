@@ -1,0 +1,34 @@
+Patient Summary:
+
+1. The patient is a 45-year-old male who presents for elective surgery.
+2. He has a history of hypertension and hyperlipidemia, which are well-controlled with medication.
+3. He had a myocardial infarction 5 years ago and has since undergone revascularization.
+4. He has also been diagnosed with obstructive sleep apnea and uses a continuous positive airway pressure (CPAP) machine at night.
+5. The patient has a history of non-insulin-dependent diabetes mellitus and takes oral medication for glucose control.
+6. He has a history of chronic lower back pain and has undergone multiple lumbar surgeries.
+7. The patient has a history of migraine headaches and takes medication to prevent and treat them.
+8. He has a history of gastroesophageal reflux disease (GERD) and takes medication for symptom control.
+9. The patient has no known allergies to medications or anesthesia.
+10. He is currently taking aspirin, metoprolol, lisinopril, atorvastatin, and omeprazole.
+11. His last colonoscopy was 2 years ago and was normal.
+12. The patient has no history of bleeding disorders or previous surgical complications.
+13. He is a current smoker but has been counseled on the risks and is considering smoking cessation.
+14. The patient is married and has a supportive family.
+15. He is a high school graduate and works as an accountant.
+
+Postoperative Course:
+
+1. The patient underwent successful surgery and was extubated in the operating room.
+2. He was transferred to the intensive care unit for postoperative care.
+3. The patient experienced some postoperative nausea and vomiting, which were managed with medication.
+4. He had a urinary catheter placed and was started on intravenous fluids.
+5. The patient"s pain was managed with patient-controlled analgesia (PCA) and was later transitioned to oral pain medication.
+6. He was encouraged to ambulate and perform deep breathing exercises to prevent respiratory complications.
+7. The patient experienced some constipation, which was managed with laxatives and stool softeners.
+8. He developed a superficial wound infection, which was treated with antibiotics.
+9. The patient"s hyperglycemia was managed with sliding scale insulin.
+10. He was discharged from the hospital on postoperative day 5 without any complications.
+
+Complications:
+
+1. Superficial wound infection.

@@ -1,0 +1,88 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history, postoperative course, and potential complications:
+
+Patient Name: John Smith
+Age: 65
+Gender: Male
+Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* Diabetes mellitus
+* History of smoking
+* History of alcohol use
+* Obesity (BMI 35)
+* Sleep apnea
+* Chronic lower back pain
+* Previous history of colon cancer ( stage II)
+
+Medications:
+
+* Amlodipine 10mg daily
+* Atorvastatin 40mg daily
+* Glipizide 10mg daily
+* Metformin 1000mg daily
+* Oxycodone 30mg every 4-6 hours as needed for pain
+* Aspirin 81mg daily
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother died of breast cancer at age 70
+* One sibling with history of colon cancer
+
+Social History:
+
+* Retired from work 5 years ago
+* Lives alone
+* Has a support system of friends and family
+* Walks for exercise 30 minutes a day
+* Denies recent travel or exposure to illness
+
+Reason for Surgery:
+
+* Elective laparoscopic cholecystectomy for symptomatic gallstones
+
+Preoperative Examination:
+
+* Unremarkable physical examination
+* Normal laboratory tests (including liver function tests, renal function tests, and coagulation studies)
+* Normal electrocardiogram (ECG) and echocardiogram
+* No evidence of acute renal failure
+
+Surgical Procedure:
+
+* Laparoscopic cholecystectomy
+
+Postoperative Course:
+
+* Uneventful postoperative period
+* No significant pain or discomfort
+* Ambulated on first postoperative day
+* Started on clear liquids on second postoperative day
+* Advanced to regular diet on third postoperative day
+* No complications
+
+Discharge Instructions:
+
+* Follow-up appointment with surgeon in 1 week
+* Resume normal activities in 2 weeks
+* Avoid heavy lifting or bending for 4 weeks
+* Take pain medication as directed
+* Monitor for signs of infection (fever, chills, redness, swelling)
+
+Potential Complications:
+
+* Wound infection
+* Bile duct injury
+* Intestinal injury
+* Postoperative bleeding
+* Respiratory complications (pneumonia, atelectasis)
+* Sepsis
+* DVT/PE
+
+It is important to note that this is a sample patient summary and the specific details may vary depending on the individual patient's medical history and planned surgery. Additionally, while acute renal failure is not included as a potential complication in this summary, it is an important potential complication that should be considered in any patient undergoing surgery, especially those with pre-existing renal impairment or other risk factors.

@@ -1,0 +1,31 @@
+Patient Summary:
+
+The patient is a 72-year-old male with a medical history of hypertension, hyperlipidemia, and hypothyroidism. He has a history of smoking and alcohol use but has since quit. He has been experiencing worsening abdominal pain and weight loss over the past year and was recently diagnosed with advanced colon cancer. He is scheduled to undergo surgery for a colectomy.
+
+Pre-operative Assessment:
+
+The patient underwent a thorough pre-operative assessment, which included a physical examination, laboratory tests, and imaging studies. His blood work revealed anemia, thrombocytopenia, and elevated liver enzymes. His renal function was mildly impaired, with a creatinine level of 1.5 mg/dL. A CT scan of the abdomen and pelvis showed a large, invasive colon cancer with involvement of the surrounding lymph nodes.
+
+Perioperative Course:
+
+On the day of surgery, the patient was taken to the operating room and underwent a laparoscopic colectomy. The surgery was uneventful, and the patient was transferred to the recovery room in stable condition.
+
+Postoperative Course:
+
+In the immediate postoperative period, the patient experienced some nausea and vomiting, which were managed with antiemetics. He was monitored closely for any signs of complications, such as bleeding or infection. On the first postoperative day, the patient's renal function began to deteriorate, with a rise in his creatinine level to 2.0 mg/dL. His urine output decreased, and he developed oliguria.
+
+Diagnosis and Management of Acute Renal Failure:
+
+The patient was diagnosed with acute renal failure (ARF) secondary to sepsis and hemodynamic instability. He was started on vasopressors to maintain his blood pressure and was given intravenous fluids to hydrate him. His urine output improved, but his creatinine level continued to rise, peaking at 3.0 mg/dL. The patient was transferred to the intensive care unit (ICU) for close monitoring and management.
+
+Complications and Interventions:
+
+The patient developed several complications during his ICU stay, including sepsis-induced cardiovascular instability, respiratory failure, and hypotension. He required mechanical ventilation and vasopressor support. The patient also developed a hospital-acquired infection, which was managed with antibiotics.
+
+Recovery and Discharge:
+
+The patient's renal function slowly improved over the next few days, and his creatinine level decreased to 1.5 mg/dL. He was weaned off vasopressors and mechanical ventilation and was eventually able to sit up and take small sips of water. The patient was transferred out of the ICU and continued to recover on the surgical ward. He was eventually discharged home with a follow-up appointment with his surgeon and nephrologist.
+
+Conclusion:
+
+In conclusion, this patient's surgical procedure was complicated by acute renal failure, which was managed successfully with fluid resuscitation, vasopressors, and antibiotics. The patient's recovery was prolonged, but he eventually made a full recovery and was discharged home. This case highlights the importance of close monitoring and management of patients with pre-existing renal impairment who are undergoing surgical procedures.

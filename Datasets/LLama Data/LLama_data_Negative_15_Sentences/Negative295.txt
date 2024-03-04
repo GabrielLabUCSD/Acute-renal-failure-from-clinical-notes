@@ -1,0 +1,19 @@
+Patient Summary:
+
+The patient is a [insert age]-year-old [insert gender] who presents with a medical history significant for [insert significant medical conditions]. They have been tolerating these conditions well with lifestyle modifications and medications. The patient is scheduled to undergo [insert type of surgery] to address their [insert reason for surgery].
+
+Preoperatively, the patient's vital signs were stable, with a blood pressure of [insert blood pressure], heart rate of [insert heart rate], and oxygen saturation of [insert oxygen saturation]. Their laboratory results showed [insert any abnormal laboratory results].
+
+The patient had an uneventful intraoperative course, with no complications. They were extubated immediately after surgery and were transferred to the post-anesthesia care unit for recovery.
+
+Postoperatively, the patient's recovery was complicated by [insert any complications, excluding acute renal failure]. They were managed with [insert any interventions or medications used to manage complications].
+
+The patient was discharged from the hospital on [insert date] and was advised to follow up with their surgeon in [insert timeframe]. They were also prescribed [insert any medications prescribed for postoperative care].
+
+The patient had an uneventful postoperative course, with no further complications. They were able to tolerate oral intake and ambulate without any issues.
+
+At their follow-up appointment, the patient was found to have [insert any findings at follow-up appointment]. They were advised to continue their postoperative care and follow up with their surgeon as needed.
+
+The patient's postoperative recovery was complicated by [insert any complications that occurred after discharge, if applicable]. They were managed with [insert any interventions or medications used to manage complications].
+
+Overall, the patient had a successful surgery and postoperative course, with a smooth recovery. They were able to return to their normal activities and were advised to follow up with their surgeon for further management.

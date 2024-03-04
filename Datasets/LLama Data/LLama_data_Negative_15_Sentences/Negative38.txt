@@ -1,0 +1,73 @@
+Patient Summary:
+
+The patient is a 45-year-old male who presents with a history of chronic back pain and degenerative disc disease. He has tried conservative management, including physical therapy and pain medication, without significant relief. The patient is a candidate for lumbar fusion surgery to address his symptoms.
+
+Past Medical History:
+
+* Hypertension
+* Hyperlipidemia
+* History of smoking
+* History of alcohol use disorder
+* No history of previous surgeries
+* No history of cardiovascular disease
+* No history of respiratory disease
+* No history of diabetes mellitus
+
+Current Medications:
+
+* Lisinopril for hypertension
+* Simvastatin for hyperlipidemia
+* No medications for pain management currently
+
+Family History:
+
+* Father passed away from myocardial infarction at age 55
+* Mother has hypertension and hyperlipidemia
+* One sibling with a history of substance abuse
+
+Social History:
+
+* The patient is married with two children
+* Works as an office manager
+* Denies any recent travel or exposure to illness
+
+Review of Systems:
+
+* No recent weight loss or gain
+* No fever or chills
+* No recent changes in sleep or appetite
+* No recent symptoms of anxiety or depression
+
+Physical Exam:
+
+* Blood pressure: 130/80 mmHg
+* Heart rate: 70 bpm
+* Respiratory rate: 12 breaths/min
+* Temperature: 98.6 degrees Fahrenheit
+* No signs of acute distress
+
+Lab Results:
+
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte panel: Within normal limits
+* Lipid profile: Elevated triglycerides and LDL cholesterol
+* Urinalysis: Within normal limits
+
+Imaging Results:
+
+* MRI of the lumbar spine shows degenerative disc disease at L4-L5 and L5-S1
+
+ Plan:
+
+* The patient will undergo lumbar fusion surgery to address his chronic back pain and degenerative disc disease.
+* The patient will be closely monitored for signs of postoperative complications, including infection, bleeding, and respiratory compromise.
+* The patient will be prescribed postoperative pain medication and will be encouraged to ambulate early to prevent venous thromboembolism.
+* The patient will follow up with his surgeon for wound checks and to monitor his progress.
+
+Postoperative Course:
+
+* The patient had a successful lumbar fusion surgery and was discharged home on postoperative day 3.
+* The patient experienced some postoperative pain and discomfort, which was managed with pain medication.
+* The patient had some difficulty ambulating in the early postoperative period, but was able to walk independently by postoperative day 7.
+* The patient had no complications, including no signs of infection, bleeding, or respiratory compromise.
+* The patient had a satisfactory outcome and was able to return to work 6 weeks after surgery.

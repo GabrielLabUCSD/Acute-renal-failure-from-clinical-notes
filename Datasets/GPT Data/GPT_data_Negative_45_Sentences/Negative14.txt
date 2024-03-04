@@ -1,0 +1,19 @@
+The patient is a <age> year old <gender> with a medical history significant for <conditions>. They are planning to have <type of surgery> on <date> at <hospital>. 
+
+The patient's past surgical history includes <previous surgeries>. They have been generally healthy but are currently experiencing <symptoms or complaints>. The patient is taking <current medications>, including <specific medications> for <conditions>. They have had no known drug allergies or adverse reactions in the past.
+
+Physical examination reveals <findings>, including <specific physical exam findings>. Relevant laboratory investigations include <lab results> which indicate <abnormalities or normal findings>. The patient is typically asymptomatic, except for <specific symptoms>.
+
+Given the patient's <underlying conditions>, the surgical team has opted for <specific surgical procedure>. The procedure will be performed under <type of anesthesia>. Preoperative preparations include <specific tests or consultations>.
+
+The patient's intraoperative course was uneventful, with <any significant findings during surgery>. The surgery lasted <duration> and was performed by <surgeon>. The estimated blood loss was <amount>. Residual blood products were <managed by>.
+
+Postoperatively, the patient was <admitted to or discharged from> the hospital on <date>. They were initially managed with <specific postoperative care>, including <pain management, antibiotics, and wound care>. The patient's initial recovery was unremarkable, and they were able to tolerate a regular diet and ambulate. They were monitored closely for signs of <potential complications>.
+
+On day <number> post-surgery, the patient developed <specific complications>. These complications included <details>. The patient was subsequently <managed with>, and the complications were resolved <timeline>. They required <specific interventions> for <management of complications>. 
+
+Throughout the postoperative course, the patient's vital signs remained stable. Serial laboratory investigations showed <changes or normalization> in <specific lab values>. The patient was closely monitored for signs of infection, hemorrhage, or other complications associated with the surgery.
+
+From a renal perspective, the patient did not experience any episodes of acute renal failure during their hospital stay. Their urine output remained within normal limits, and there were no significant abnormalities in their renal function tests.
+
+Overall, the patient's surgical procedure went well, despite the development of <complications>. The patient's postoperative course was managed successfully, with resolution of the complications. They were discharged on <date> in a stable condition, with appropriate follow-up arranged.

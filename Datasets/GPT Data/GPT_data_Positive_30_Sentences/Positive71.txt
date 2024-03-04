@@ -1,0 +1,32 @@
+The patient is a 45-year-old male who is planning to undergo surgery for a hernia repair.
+He has a medical history of hypertension, which is well-controlled with medication.
+The patient does not have any known allergies or adverse reactions to medications.
+He leads a sedentary lifestyle and does not engage in regular exercise.
+He has a history of smoking but quit approximately five years ago.
+The patient consumes alcohol occasionally but does not report excessive alcohol use.
+He has never undergone any type of surgery before.
+He does not have any family history of medical conditions or surgical complications.
+The patient does not take any over-the-counter medications or herbal supplements.
+His blood pressure is consistently within normal limits during routine check-ups.
+The patient has a BMI of 30, indicating that he is overweight.
+He has a history of anxiety but has not been prescribed any specific medications for this condition.
+The patient has disclosed that he has been feeling anxious about the upcoming surgery.
+He does not have any symptoms of depression or other mental health issues.
+The patient has a normal fasting blood glucose level and does not have diabetes.
+He has a history of occasional heartburn but does not have gastroesophageal reflux disease (GERD).
+The patient reports no difficulty swallowing or changes in appetite.
+He has no known history of bleeding disorders or excessive bleeding during dental procedures.
+The patient's renal function is normal, as indicated by previous blood tests.
+He does not have a history of heart disease or any significant cardiac abnormalities.
+The patient has no known respiratory conditions, such as asthma or chronic obstructive pulmonary disease (COPD).
+He has never been admitted to the hospital for any medical conditions.
+The patient is not currently taking any prescription medications other than his antihypertensive medication.
+He does not have any history of drug abuse or dependence.
+The patient has a normal lipid profile and does not have hyperlipidemia.
+He does not have any history of allergic reactions to anesthesia or post-operative pain medications.
+The patient is in generally good health and has not experienced any major illnesses or traumatic injuries in the past.
+After the surgery, the patient developed acute renal failure, characterized by decreased urine output and increased serum creatinine levels.
+He required a temporary hemodialysis to manage his renal failure.
+The patient's renal function eventually improved and he was able to discontinue dialysis after one week.
+Further investigations revealed that the renal failure was likely due to intraoperative hypotension and decreased renal perfusion during surgery.
+The patient experienced no other complications during his post-operative recovery.

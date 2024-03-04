@@ -1,0 +1,44 @@
+Patient Summary:
+
+Name: [[insert name here]]
+Age: [[insert age here]]
+Gender: [[insert gender here]]
+
+Medical History:
+
+* History of hypertension
+* History of hyperlipidemia
+* History of smoking
+* History of obesity
+* Previous myocardial infarction
+* Previous coronary artery bypass grafting
+* Previous left knee arthroplasty
+* Previous right knee arthroplasty
+* Previous choledocholithiasis
+* Previous cholecystectomy
+
+Surgical History:
+
+* Planning to undergo elective Laparoscopic Cholecystectomy
+
+Postoperative Course:
+
+* Patient had an uneventful postoperative course
+* Patient did not experience any complications
+* Patient was discharged from the hospital on [insert date here]
+
+Additional Information:
+
+* Patient has a history of non-compliance with medications
+* Patient has a history of substance abuse
+* Patient has a history of anxiety and depression
+* Patient's current medications include [insert medications here]
+* Patient's allergies include [insert allergies here]
+* Patient's lab results are as follows:
+	+ White Blood Cell Count: [insert WBC count here]
+	+ Hemoglobin: [insert hemoglobin level here]
+	+ Platelet Count: [insert platelet count here]
+	+ Blood Urea Nitrogen: [insert BUN level here]
+	+ Creatinine: [insert creatinine level here]
+
+The patient's surgical and medical history is significant for a history of cardiovascular disease, obesity, and substance abuse. The patient is planning to undergo an elective laparoscopic cholecystectomy. The patient had an uneventful postoperative course and did not experience any complications. The patient has a history of non-compliance with medications and has anxiety and depression. The patient's current medications and allergies should be taken into consideration when planning their care. The patient's lab results are within normal limits.

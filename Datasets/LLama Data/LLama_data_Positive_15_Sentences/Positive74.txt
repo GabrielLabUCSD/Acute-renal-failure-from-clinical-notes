@@ -1,0 +1,21 @@
+Patient Summary:
+
+* Name: John Doe
+* Age: 65
+* Gender: Male
+* Medical History: Hypertension, Diabetes Mellitus, Hyperlipidemia, and history of smoking
+* Current Medications: Lisinopril, Metformin, Atorvastatin, and Aspirin
+* Allergies: Penicillin and Sulfa drugs
+* Surgeries: none
+* Current Symptoms: Abdominal pain, nausea, and vomiting
+* Family History: Father died of Myocardial Infarction (MI) at the age of 60
+* Social History: Retired, lives alone, has a history of alcoholism, and smokes a pack of cigarettes per day
+* Lab Results:
+	+ Blood tests reveal elevated liver enzymes, kidney dysfunction, and electrolyte imbalance
+	+ Urinalysis shows proteinuria, hematuria, and pyuria
+* Diagnostic Tests: Abdominal CT scan shows inflammation in the gallbladder and common bile duct
+* Procedure: Laparoscopic cholecystectomy (gallbladder removal)
+* Post-Operative Care: Patient developed acute renal failure (ARF) due to sepsis and hypotension, requiring intensive care unit (ICU) admission and hemodialysis.
+* Current Status: Stable, but still requires close monitoring and further treatment for ARF.
+
+Note: This patient summary is a fictional representation and is not based on any real patient data. It is intended for training purposes only.

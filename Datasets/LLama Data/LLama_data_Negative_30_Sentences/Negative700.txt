@@ -1,0 +1,94 @@
+Sure, here's a sample patient summary for a patient who is planning to have surgery:
+
+Patient: John Doe
+
+Age: 55
+
+Gender: Male
+
+Chief Complaint: Chronic lower back pain
+
+Medical History:
+
+* History of smoking
+* Hypertension
+* Hyperlipidemia
+* Diabetes mellitus
+* Obesity (BMI 35)
+* Previous history of lower back surgery (lumbar fusion) 10 years ago
+* Previous history of upper respiratory tract surgery (tonsillectomy) 20 years ago
+* No history of cardiovascular disease or neurological disorders
+
+Medications:
+
+* Atorvastatin 20 mg daily
+* Metformin 1000 mg daily
+* Lisinopril 20 mg daily
+* Aspirin 81 mg daily
+* Celecoxib 200 mg daily
+
+Allergies:
+
+* Penicillin
+* Sulfa drugs
+
+Family History:
+
+* Father died of myocardial infarction at age 60
+* Mother has hypertension and hyperlipidemia
+
+Social History:
+
+* Married with two adult children
+* Works as an accountant
+* No recent travel or exposure to illness
+
+Review of Systems:
+
+* No recent weight loss or fever
+* No night sweats or recent change in bowel habits
+* No history of abdominal pain or vomiting
+* No history of shortness of breath or chest pain
+* No history of neurological symptoms such as weakness or numbness
+
+Physical Exam:
+
+* Blood pressure 140/90 mmHg
+* Heart rate 80 beats per minute
+* Respiratory rate 16 breaths per minute
+* Temperature 98.6 degrees Fahrenheit
+* Height 5 feet 10 inches, weight 250 pounds
+* BMI 35
+* Decreased sensation to light touch in the lower extremities
+
+Lab Results:
+
+* Complete Blood Count (CBC) within normal limits
+* Electrolyte panel within normal limits
+* Lipid profile within normal limits
+* Glucose 120 mg/dL (fasting)
+* Hemoglobin A1c 7.5%
+* Urine drug screen negative
+
+Imaging Results:
+
+* MRI of the lower back shows degenerative disk disease at L4-L5 and L5-S1
+* No evidence of spinal stenosis or herniated disk
+
+Plan:
+
+* The patient will undergo a lumbar fusion surgery (L4-L5 and L5-S1)
+* Preoperative workup includes clearance from cardiology and pulmonology
+* Patient will be admitted on the day of surgery and will stay in the hospital for 3-4 days postoperatively
+* Postoperative pain management will include patient-controlled analgesia (PCA) and/or epidural anesthesia
+* Patient will be encouraged to mobilize and perform deep breathing exercises postoperatively to prevent respiratory complications
+* Patient will follow up with the surgeon in 2 weeks for suture removal and to assess progress
+
+Complications:
+
+* Postoperative wound infection
+* Urinary tract infection
+* Respiratory failure
+* Cardiovascular complications (myocardial infarction, cardiac arrhythmia)
+
+Note: This is just a sample patient summary and the specific details may vary depending on the patient's individual circumstances.

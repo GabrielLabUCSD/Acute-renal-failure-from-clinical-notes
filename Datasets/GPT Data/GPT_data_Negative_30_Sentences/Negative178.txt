@@ -1,0 +1,29 @@
+The patient is a [age]-year-old male/female with a past medical history significant for [list of relevant conditions]. They are planning to undergo [type of surgery] for [specific indication]. 
+
+In terms of their relevant medical history, the patient has a history of [list any chronic conditions, such as hypertension, diabetes, asthma, etc.], which are well-controlled on [medications]. They have also previously undergone [list any past surgeries or major medical interventions].
+
+Their preoperative labs are within normal limits, including a complete blood count, electrolytes, renal function tests, liver function tests, and coagulation profile. The patient has no known drug allergies or sensitivities.
+
+During the preoperative evaluation, the patient was cleared by their primary care physician, cardiologist, and anesthesiologist. Their chest X-ray and electrocardiogram were unremarkable. They were advised to temporarily stop certain medications (e.g., anticoagulants) and were provided instructions for fasting and preoperative bowel preparation.
+
+The surgical procedure is expected to be performed under general anesthesia. The patient will be positioned [describe patient position, such as supine, prone, etc.]. They will receive prophylactic antibiotics according to the surgical protocol to minimize the risk of surgical site infection.
+
+The patient will be monitored closely during and after the surgery, including vital signs, oxygen saturation, and ECG. Postoperative pain management will include both intravenous and oral analgesics as needed. Early ambulation and respiratory exercises will be encouraged to minimize the risk of postoperative complications, especially pneumonia and deep vein thrombosis.
+
+The anticipated length of the surgery is [duration], and the surgeon will perform [specific surgical technique]. Intraoperative blood loss is expected to be minimal, and blood products will be available if needed.
+
+Following surgery, the patient will be transferred to the post-anesthesia care unit for close monitoring and recovery from anesthesia. They will be assessed for pain control, nausea, and potential complications, such as postoperative bleeding or infection.
+
+Throughout the hospital stay, appropriate deep vein thrombosis prophylaxis will be provided, including sequential compression devices and/or pharmacological measures. The patient's vital signs, wound healing, and overall progress will be closely monitored by the nursing staff.
+
+The patient will be started on a clear liquid diet once they have regained bowel function, and gradually advanced to a regular diet as tolerated. Physical therapy may be consulted to assist with mobilization and rehabilitation if necessary.
+
+In terms of postoperative complications, it is important to note that every surgery carries a certain level of risk. However, complications are relatively uncommon and can vary depending on the specific procedure. Nonetheless, the surgical team will take all necessary precautions to minimize the risk of adverse events.
+
+The patient's surgical wound will be closely monitored for signs of infection, dehiscence, or seroma formation. Should any postoperative complications occur, appropriate interventions will be initiated promptly, involving the relevant specialists as needed.
+
+In general, the postoperative course for the patient is expected to be smooth with an uncomplicated recovery. With proper postoperative care and adherence to post-surgical guidelines, they should regain their normal functioning within the expected timeframe.
+
+In the absence of acute renal failure, the patient's renal function will be monitored but is not expected to be a point of concern. The surgical team will ensure adequate intravenous fluid management and take measures to prevent acute kidney injury.
+
+In conclusion, the patient is a [age]-year-old male/female who is planning to undergo [type of surgery]. Their preoperative evaluation and clearance have been obtained, and suitable preparations, including medication adjustments, have been made. The anticipated surgical procedure is [specific procedure], and the patient's postoperative course is expected to be uneventful. Overall, the surgical team will provide comprehensive postoperative care to optimize the patient's recovery and minimize the risk of complications.

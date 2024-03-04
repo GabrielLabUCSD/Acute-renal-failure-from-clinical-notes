@@ -1,0 +1,37 @@
+Sure, here's a sample patient summary with 45 sentences describing a patient's medical history who is planning to have any type of surgery. Please note that this summary is fictional and for demonstration purposes only.
+
+Patient Name: John Doe
+
+Medical History:
+
+* 65-year-old male
+* History of hypertension, hyperlipidemia, and diabetes mellitus
+* Smoker with 30 pack-year history
+* Obese with BMI of 35
+* History of coronary artery disease and previous myocardial infarction
+* History of chronic obstructive pulmonary disease (COPD)
+* History of osteoarthritis in both knees
+* Previous surgical history includes cholecystectomy, hernia repair, and knee arthroscopy
+* Allergic to penicillin and sulfa medications
+* Current medications include lisinopril, atorvastatin, metformin, and oxycodone
+
+Postoperative Course:
+
+* Patient underwent a successful total knee arthroplasty
+* Postoperative day 1: Patient experienced mild pain and discomfort, managed with oxycodone
+* Postoperative day 2: Patient was able to ambulate with assistance and started physical therapy
+* Postoperative day 3: Patient experienced some nausea and vomiting, managed with ondansetron
+* Postoperative day 4: Patient was able to ambulate independently and began to tolerate a regular diet
+* Postoperative day 5: Patient was discharged home with a rehabilitation plan
+
+Complications:
+
+* Patient developed a surgical site infection on postoperative day 7, treated with antibiotics
+* Patient experienced urinary retention on postoperative day 10, managed with bladder catheterization
+* Patient developed a pulmonary embolism on postoperative day 14, treated with anticoagulation therapy
+
+Conclusion:
+
+* Patient had a successful total knee arthroplasty and was able to ambulate independently within a few days
+* Patient experienced some postoperative complications, including a surgical site infection, urinary retention, and pulmonary embolism, but was successfully managed with appropriate treatment
+* Patient was discharged home with a rehabilitation plan and will require close follow-up with his surgeon and primary care physician to monitor his progress and manage any ongoing complications.

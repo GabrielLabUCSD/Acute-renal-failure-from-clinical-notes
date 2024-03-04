@@ -1,0 +1,17 @@
+Patient is a 57-year-old male who is planning to undergo surgery. He has a past medical history significant for hypertension, controlled with metoprolol, and type 2 diabetes mellitus, managed with metformin. The patient also has a history of hyperlipidemia, for which he takes atorvastatin. He has a family history of heart disease, with his father having a myocardial infarction at the age of 65.
+
+The patient is a former smoker, having quit 10 years ago, and does not currently consume alcohol. He reports a sedentary lifestyle, lacking regular exercise. His body mass index (BMI) is 29, indicating overweight. The patient denies any known drug allergies.
+
+On further evaluation, his blood pressure is consistently in the range of 130/80 mmHg, and his fasting blood glucose level averages around 120 mg/dL. His glycosylated hemoglobin (HbA1c) level is 6.8%. His lipid profile shows total cholesterol of 200 mg/dL, low-density lipoprotein (LDL) cholesterol of 130 mg/dL, high-density lipoprotein (HDL) cholesterol of 45 mg/dL, and triglycerides of 150 mg/dL.
+
+The patient's preoperative labs also reveal a slightly elevated liver function test (LFT) profile, with alanine aminotransferase (ALT) at 55 U/L and aspartate aminotransferase (AST) at 48 U/L. His renal function tests are within normal limits, with a serum creatinine level of 1.0 mg/dL and an estimated glomerular filtration rate (eGFR) of 70 mL/min/1.73m².
+
+His electrocardiogram (ECG) shows normal sinus rhythm, with no evidence of ischemic changes or arrhythmias. Transthoracic echocardiogram reveals a left ventricular ejection fraction (LVEF) of 60%, without any structural abnormalities. His stress test is negative for myocardial ischemia.
+
+During the preoperative evaluation, the patient is deemed to be at moderate risk for surgical complications due to his underlying medical conditions. He is counseled on the importance of optimizing his glycemic control and smoking cessation preoperatively.
+
+Postoperatively, the patient's recovery is uneventful. He is closely monitored for pain control and wound healing. He is started on prophylactic low molecular weight heparin to prevent deep vein thrombosis (DVT). His blood pressure is well-controlled, with no significant fluctuations noted. His blood glucose levels are also within target range.
+
+The patient's incision site shows appropriate healing with no signs of infection or dehiscence. His liver function tests normalize, with ALT and AST returning to baseline. There are no changes in his renal function tests postoperatively. His trachea is extubated without any issues, and he maintains good oxygen saturation levels. He is encouraged to ambulate early, and there are no signs of postoperative complications such as pulmonary embolism or wound infections.
+
+In summary, the patient is a 57-year-old male with a medical history significant for hypertension, type 2 diabetes mellitus, hyperlipidemia, and a family history of heart disease. He is a former smoker and is overweight. His preoperative evaluation reveals well-controlled blood pressure, diabetes, and lipid levels. LFTs show mild elevation, while renal function is normal. His cardiac evaluation is also satisfactory. Postoperatively, the patient has an uncomplicated recovery with no significant complications noted.

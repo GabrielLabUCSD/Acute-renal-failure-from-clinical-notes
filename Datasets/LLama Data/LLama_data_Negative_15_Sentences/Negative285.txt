@@ -1,0 +1,47 @@
+Patient Summary:
+
+Name: [Patient's Name]
+Age: [Patient's Age]
+Gender: [Patient's Gender]
+
+Medical History:
+
+* [Patient's Medical History, including all relevant medical conditions, allergies, and past surgeries]
+
+Current Medications:
+
+* [Patient's Current Medications, including dosages and frequency]
+
+Reason for Surgery:
+
+* [Reason for Surgery, including diagnosis and symptoms]
+
+Preoperative Course:
+
+* [Preoperative Course, including any relevant test results, medical consultations, and preparations]
+
+Surgery Details:
+
+* [Surgery Details, including procedure name, date, time, and surgeon's name]
+
+Postoperative Course:
+
+* [Postoperative Course, including any complications or adverse events, and their management]
+
+Complications:
+
+* [List of Complications, excluding acute renal failure]
+
+Discharge Information:
+
+* [Discharge Information, including date, time, and instructions for post-discharge care]
+
+Follow-up:
+
+* [Follow-up Information, including date, time, and instructions for follow-up care]
+
+Note:
+
+* [Any additional relevant information, such as patient's wishes or concerns]
+
+This patient summary provides a comprehensive overview of the patient's medical history, current medications, reason for surgery, preoperative course, surgery details, postoperative course, complications, discharge information, follow-up information, and any additional relevant information. It is important to note that acute renal failure is not included as a complication in this summary.

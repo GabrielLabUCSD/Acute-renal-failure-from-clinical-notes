@@ -1,0 +1,23 @@
+The patient is a 47-year-old male who is planning to undergo surgery for a hernia repair. He has a past medical history significant for hypertension, dyslipidemia, and obesity. He has been on antihypertensive medications for the last five years, which has been well-controlled. The patient has a history of smoking, with a 20 pack-year history, but quit smoking five years ago. He denies any history of significant cardiac disease, diabetes, or any other major medical illnesses.
+
+The patient's surgical history includes a cholecystectomy performed 10 years ago for symptomatic gallstones and an appendectomy performed in his teenage years. He had an uneventful recovery from both of these surgeries and did not experience any complications.
+
+His current medications include lisinopril for blood pressure control, atorvastatin for dyslipidemia management, and occasional over-the-counter ibuprofen for mild arthritis pain. The patient denies any allergies to medications.
+
+On physical examination, the patient appears generally well, with a body mass index (BMI) of 32. His blood pressure is within normal limits, and his heart and lung sounds are normal. Examination of the abdominal wall reveals a reducible umbilical hernia, which is the reason for his planned surgical procedure.
+
+Preoperatively, the patient's blood work reveals normal complete blood count (CBC) with a hemoglobin level of 14 g/dL and platelets of 200,000/uL. His coagulation profile is also within normal limits. Additionally, his liver function tests and renal function tests including serum creatinine, blood urea nitrogen (BUN), and estimated glomerular filtration rate (eGFR) are all normal.
+
+The patient is scheduled for surgery under general anesthesia. During the surgical procedure, the surgeon successfully repairs the hernia and uses mesh to reinforce the abdominal wall. The surgery lasts for approximately two hours without any intraoperative complications.
+
+Postoperatively, the patient is taken to the recovery room, where he is closely monitored for any signs of immediate complications. He is stable, with well-controlled pain, and his vital signs remain within normal limits. He is encouraged to ambulate and gradually resume a normal diet.
+
+On the second day after surgery, however, the patient starts to develop oliguria and progressive worsening of his renal function. His serum creatinine and BUN levels begin to rise significantly, and his eGFR drops below normal. The patient is diagnosed with acute renal failure, likely as a result of acute tubular necrosis due to possible intraoperative hypotension and decreased blood flow to the kidneys.
+
+The patient is managed conservatively with fluid management, diuretics, and close monitoring of his renal function. He is closely observed for any signs of volume overload or electrolyte disturbances. Additionally, the patient's pain medications are adjusted to avoid any further renal insult.
+
+Over the next few days, the patient's renal function slowly improves with supportive care. His oliguria resolves, and his creatinine levels start to trend downwards. The patient is discharged home on postoperative day five with close outpatient follow-up arranged with his primary care physician.
+
+He is advised to continue taking his antihypertensive medication as prescribed and to maintain a healthy lifestyle with regular exercise and a balanced diet. The patient is also counseled on smoking cessation and is referred to smoking cessation services.
+
+In conclusion, the patient is a middle-aged, male, planning to undergo hernia repair surgery. He has a significant past medical history including hypertension, dyslipidemia, and obesity. His surgical history includes cholecystectomy and appendectomy without any complications. Postoperatively, he develops acute renal failure likely due to acute tubular necrosis, which is managed conservatively with supportive care. His renal function eventually improves, and he is discharged home with appropriate outpatient follow-up and further lifestyle modifications.
